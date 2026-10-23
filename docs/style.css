@@ -37,6 +37,8 @@
 
 * { box-sizing: border-box; }
 html, body { margin: 0; }
+html { background-color: var(--paper); }
+@keyframes fade-in { from { opacity: 0; } }
 body {
   background-color: var(--paper);
   background-image:
@@ -233,12 +235,15 @@ main { padding: 28px clamp(16px, 4vw, 56px) 80px; outline: none; max-width: 1040
   .sidebar {
     position: fixed; left: 0; top: 0; bottom: 0; height: 100dvh; z-index: 40; width: min(330px, 86vw);
     background: var(--paper); padding: 16px 14px calc(30px + env(safe-area-inset-bottom)) 18px;
-    transform: translateX(-102%); transition: transform .25s ease; box-shadow: 8px 0 30px -10px rgba(0,0,0,.35);
+    transform: translateX(-102%); box-shadow: 8px 0 30px -10px rgba(0,0,0,.35);
     border-right: 1.5px solid var(--rule); overscroll-behavior: contain;
+    /* hidden (not just off-screen) when closed: iOS 26 Safari tints its translucent
+       toolbar from fixed elements touching the screen edge, even invisible ones */
+    visibility: hidden; transition: transform .25s ease, visibility 0s linear .25s;
   }
-  body.nav-open .sidebar { transform: none; }
-  .scrim { display: block; position: fixed; inset: 0; z-index: 35; background: rgba(15, 20, 30, .42); opacity: 0; pointer-events: none; transition: opacity .25s ease; }
-  body.nav-open .scrim { opacity: 1; pointer-events: auto; }
+  body.nav-open .sidebar { transform: none; visibility: visible; transition: transform .25s ease; }
+  .scrim { display: none; }
+  body.nav-open .scrim { display: block; position: fixed; inset: 0; z-index: 35; background: rgba(15, 20, 30, .42); animation: fade-in .25s ease; }
   body.nav-open { overflow: hidden; }
   .side-area li a { padding: 7px 8px; font-size: 16px; }
   .side-progress { display: block; font-family: var(--mono); font-size: 12.5px; color: var(--ink-soft); margin: 0 0 14px 8px; }
