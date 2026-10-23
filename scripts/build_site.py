@@ -1,5 +1,5 @@
 """Build docs/data.json (what the GitHub Pages site loads) from problems + classification."""
-import json, os, re
+import json, os, re, shutil
 
 ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..')
 P = lambda *a: os.path.join(ROOT, *a)
@@ -18,6 +18,14 @@ def clean_html(h):
 def main():
     tax = json.load(open(P('data/taxonomy.json')))
     problems = json.load(open(P('data/problems.json')))
+    # Only latex.artofproblemsolving.com (asy/LaTeX renders) allows hotlinking; anything else must be local.
+    for p in problems:
+        for src in re.findall(r'<img [^>]*src="([^"]+)"', p['html']):
+            if not (src.startswith('img/') or src.startswith('https://latex.artofproblemsolving.com/')):
+                raise SystemExit(f"{p['id']}: image {src} can't be hotlinked; save it to data/raw/images/{p['id']}.<ext>")
+    os.makedirs(P('docs/img'), exist_ok=True)
+    for f in os.listdir(P('data/raw/images')):
+        shutil.copyfile(P('data/raw/images', f), P('docs/img', f))
     cls = json.load(open(P('data/classification.json')))
     out = []
     for p in problems:

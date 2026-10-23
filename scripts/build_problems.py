@@ -14,6 +14,27 @@ ANSWER_FIX = {
     '2002_AMC_10P': 'CBDCCDBEBCACBADDCCAABBBDD',
 }
 
+# Diagrams the bulk parser dropped because they shared a paragraph with the "Solution" link
+# (fixed in scripts/fetch_in_browser.js for future fetches).
+MISSING_DIAGRAMS = {
+    '2014A-19': 'https://latex.artofproblemsolving.com/e/4/1/e41120e351bda42fada2fe2803e19a131bc30b96.png',
+    '2013B-22': 'https://latex.artofproblemsolving.com/d/3/0/d305e9074b588800bd9056981b0e283a8488bc59.png',
+}
+# Images uploaded to the AoPS wiki can't be hotlinked (Cloudflare), so we serve copies
+# from docs/img/; data/raw/images/<id>.<ext> holds the originals.
+LOCAL_IMAGES = {f.split('.')[0]: f for f in os.listdir(os.path.join(ROOT, 'data/raw/images'))}
+
+
+def fix_images(pid, html):
+    if pid in LOCAL_IMAGES:
+        html = re.sub(r'src="https://artofproblemsolving\.com/wiki/images/[^"]+"', f'src="img/{LOCAL_IMAGES[pid]}"', html)
+    if pid in MISSING_DIAGRAMS:
+        img = f'<img src="{MISSING_DIAGRAMS[pid]}" class="diagram" loading="lazy" alt="diagram">'
+        html = html.replace('<p>$\\textbf{(A)}', f'<p>{img}\n</p><p>$\\textbf{{(A)}}', 1)
+        assert img in html, pid
+    return html
+
+
 def test_meta(t):
     m = re.match(r'(\d{4})_(Fall_)?AMC_10([ABP]?)$', t)
     year, fall, ab = int(m.group(1)), bool(m.group(2)), m.group(3)
@@ -32,12 +53,15 @@ def main():
         for p in v['problems']:
             n = p['num']
             ans = fix[n - 1] if fix else p['answer']
+            pid = f"{short}-{n:02d}"
+            html = fix_images(pid, p['html'])
             problems.append({
-                'id': f"{short}-{n:02d}",
+                'id': pid,
                 'test': t, 'label': label, 'year': year, 'order': order, 'num': n,
                 'answer': ans,
                 'url': WIKI + f"{t}_Problems/Problem_{n}",
-                'text': p['text'], 'html': p['html'], 'diagrams': p['diagrams'],
+                'text': p['text'] + (' [DIAGRAM]' if pid in MISSING_DIAGRAMS else ''),
+                'html': html, 'diagrams': html.count('<img '),
             })
     problems.sort(key=lambda p: (-p['order'], p['num']))
     missing = [p['id'] for p in problems if not p['answer']]
