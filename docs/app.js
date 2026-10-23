@@ -74,7 +74,7 @@
 
   function markActive(cat) {
     document.querySelectorAll('.sidebar a').forEach(a => a.classList.toggle('active', a.dataset.cat === cat));
-    document.body.classList.remove('nav-open');
+    closeNav();
   }
 
   function updateProgress() {
@@ -288,9 +288,28 @@
   }
 
   // ---------- chrome ----------
-  $('#menuBtn').addEventListener('click', () => document.body.classList.toggle('nav-open'));
-  $('#scrim').addEventListener('click', () => document.body.classList.remove('nav-open'));
-  document.addEventListener('keydown', e => { if (e.key === 'Escape') document.body.classList.remove('nav-open', 'search-open'); });
+  // Topics drawer (phones). It is only rendered while open: iOS 26 Safari tints its bottom
+  // toolbar from fixed elements at the screen edge and keeps the color if they just hide.
+  const body = document.body;
+  let navTimer;
+  function openNav() {
+    clearTimeout(navTimer);
+    body.classList.add('nav-mounted');
+    void $('#sidebar').offsetWidth; // let the closed position render so the slide animates
+    body.classList.add('nav-open');
+  }
+  function closeNav() {
+    if (!body.classList.contains('nav-open')) return;
+    body.classList.remove('nav-open');
+    navTimer = setTimeout(() => {
+      body.classList.remove('nav-mounted');
+      // a 1px scroll makes Safari re-sample the page for its toolbar color
+      requestAnimationFrame(() => { window.scrollBy(0, 1); requestAnimationFrame(() => window.scrollBy(0, -1)); });
+    }, 260);
+  }
+  $('#menuBtn').addEventListener('click', () => body.classList.contains('nav-open') ? closeNav() : openNav());
+  $('#scrim').addEventListener('click', closeNav);
+  document.addEventListener('keydown', e => { if (e.key === 'Escape') { closeNav(); body.classList.remove('search-open'); } });
   $('#searchBtn').addEventListener('click', () => {
     const open = document.body.classList.toggle('search-open');
     if (open) $('#search').focus();
