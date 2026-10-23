@@ -5,6 +5,18 @@ ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..')
 P = lambda *a: os.path.join(ROOT, *a)
 
 
+# A comma-grouped number such as 9,901 or 16{,}384. Not when it follows [ ( \{ a comma, a digit
+# or a capital letter, or is followed by another comma: that's an interval, a set/list, or a
+# digit puzzle like 121,6T5,100 rather than one number.
+GROUPED_NUMBER = re.compile(r'(?<![\d.,\[(A-Z])(?<!\\\{)\d{1,3}(?:(?:\{,\}|,)\d{3})+(?![\d,A-Z])')
+MATH = re.compile(r'\$\$.*?\$\$|\$.*?\$|\\\[.*?\\\]|\\\(.*?\\\)|\\begin\{(\w+\*?)\}.*?\\end\{\1\}', re.S)
+
+
+def ungroup_numbers(h):
+    """Write numbers in math as 9901 rather than 9,901, so expressions read like equations."""
+    return MATH.sub(lambda m: GROUPED_NUMBER.sub(lambda n: re.sub(r'\{,\}|,', '', n.group(0)), m.group(0)), h)
+
+
 def clean_html(h):
     h = re.sub(r'<(script|iframe|style)\b.*?</\1>', '', h, flags=re.S | re.I)
     h = re.sub(r'\son\w+="[^"]*"', '', h)
@@ -12,7 +24,7 @@ def clean_html(h):
     # MathJax has no tabular; the AMC tables only hold numbers, so array renders them the same.
     h = re.sub(r'\\begin\{tabular\}(\[\w\])?', r'\\begin{array}', h)
     h = h.replace('\\end{tabular}', '\\end{array}').replace('\\multicolumn{4}{c}{}\\\\', '')
-    return h
+    return ungroup_numbers(h)
 
 
 def main():
