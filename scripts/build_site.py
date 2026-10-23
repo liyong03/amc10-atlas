@@ -17,6 +17,25 @@ def ungroup_numbers(h):
     return MATH.sub(lambda m: GROUPED_NUMBER.sub(lambda n: re.sub(r'\{,\}|,', '', n.group(0)), m.group(0)), h)
 
 
+def text_dollar_problems():
+    """(test, num) of problems whose wiki source has a plain-text "$" (e.g. "worth &#36;300")
+    outside math tags. In the HTML those look like math delimiters, so they must be escaped."""
+    raw = json.load(open(P('data/raw/amc10_data.json')))
+    found = set()
+    for t, v in raw['tests'].items():
+        secs = re.split(r'^==\s*Problem\s*(\d+)\s*==', v['wikitext'], flags=re.M)
+        for i in range(1, len(secs), 2):
+            body = re.sub(r'<(i?math)>.*?</\1>|<asy>.*?</asy>', '', secs[i + 1], flags=re.S)
+            if re.search(r'(?<!\\)\$|&#36;', body):
+                found.add((t, int(secs[i])))
+    return found
+
+
+def escape_text_dollars(h):
+    """'$300 and' -> '\\$300 and' (only used on problems from text_dollar_problems)."""
+    return re.sub(r'(?<![\\$])\$(\d[\d,.]*)(?![\d$])', r'\\$\1', h)
+
+
 def clean_html(h):
     h = re.sub(r'<(script|iframe|style)\b.*?</\1>', '', h, flags=re.S | re.I)
     h = re.sub(r'\son\w+="[^"]*"', '', h)
@@ -24,6 +43,15 @@ def clean_html(h):
     # MathJax has no tabular; the AMC tables only hold numbers, so array renders them the same.
     h = re.sub(r'\\begin\{tabular\}(\[\w\])?', r'\\begin{array}', h)
     h = h.replace('\\end{tabular}', '\\end{array}').replace('\\multicolumn{4}{c}{}\\\\', '')
+    # Some old AoPS pages split "\$7" across two math tags, leaving "\$$7" / "\$ $14"
+    # (2003 10B #2, #4, #12); join them back into one "\$7".
+    h = re.sub(r'\\\$\s*\$', r'\\$', h)
+    # No problem uses $$...$$ display math, so any "$$" is one of two accidents MathJax would
+    # read as display math:
+    #  - two touching formulas "$\triangle$$EBD$" -> join them: "$\triangle EBD$"
+    h = re.sub(r'(?<=[^\s\\$])\$\$(?=[^\s$])', ' ', h)
+    #  - a plain-text "$" before a formula, "five for $$2$" -> "five for $\$2$"
+    h = re.sub(r'(?<=\s)\$\$([^$]+?)\$(?!\$)', r'$\\$\1$', h)
     return ungroup_numbers(h)
 
 
@@ -39,8 +67,11 @@ def main():
     for f in os.listdir(P('data/raw/images')):
         shutil.copyfile(P('data/raw/images', f), P('docs/img', f))
     cls = json.load(open(P('data/classification.json')))
+    text_dollars = text_dollar_problems()
     out = []
     for p in problems:
+        if (p['test'], p['num']) in text_dollars:
+            p['html'] = escape_text_dollars(p['html'])
         c = cls.get(p['id'])
         if not c or not c['primary']:
             raise SystemExit(f"unclassified problem {p['id']} - run merge_labels.py / adjudication first")
