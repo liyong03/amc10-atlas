@@ -1,0 +1,310 @@
+### 2025B-12
+PassA: geo-circle-area | PassB: geo-polygons | keywords: geo-polygons, alg-percent-ratio, geo-triangle-area | confidence A/B: medium/medium
+PassB key idea: Compare disk area to polygon area using inradius relations in each shape.
+The figure below shows an equilateral triangle, a rhombus with a $60^\circ$ angle, and a regular hexagon, each of them containing some mutually tangent congruent disks. Let $T, R,$ and $H,$ respectively, denote the ratio in each case of the total area of the disks to the area of the enclosing polygon. Which of the following is true? $\textbf{(A)}\ T=H=R \qquad \textbf{(B)}\ H<R=T \qquad \textbf{(C)}\ H=R<T\qquad \textbf{(D)}\ H<R<T \qquad \textbf{(E)}\ H<T<R \qquad$ [DIAGRAM]
+
+### 2025A-15
+PassA: geo-triangle-area | PassB: geo-similar | keywords: geo-triangle-area, geo-quadrilaterals, alg-systems | confidence A/B: medium/medium
+PassB key idea: Use similar right triangles in the rectangle to find needed lengths.
+In the figure below, $ABEF$ is a rectangle, $\overline{AD}\perp\overline{DE}$, $AF=7$, $AB=1$, and $AD=5$. What is the area of $\triangle ABC$? $\textbf{(A) } \frac{3}{8} \qquad\textbf{(B) } \frac{4}{9} \qquad\textbf{(C) } \frac{1}{8}\sqrt{13} \qquad\textbf{(D) } \frac{7}{15} \qquad\textbf{(E) } \frac{1}{8}\sqrt{15}$ [DIAGRAM]
+
+### 2024B-05
+PassA: alg-arith-seq | PassB: alg-inequalities-optimization | keywords:  | confidence A/B: medium/high
+PassB key idea: Flipping x lowers sum by 2x; flip the largest terms first.
+In the following expression, Melanie changed some of the plus signs to minus signs: \[1+3+5+7+\cdots+97+99\] When the new expression was evaluated, it was negative. What is the least number of plus signs that Melanie could have changed to minus signs? $\textbf{(A) } 14 \qquad\textbf{(B) } 15 \qquad\textbf{(C) } 16 \qquad\textbf{(D) } 17 \qquad\textbf{(E) } 18$
+
+### 2024B-25
+PassA: geo-3d-volume | PassB: alg-systems | keywords: nt-primes-factorization, geo-3d-volume, cp-permutations | confidence A/B: medium/medium
+PassB key idea: Match block dimensions 3a,3b,3c and 2·,2·,7· differing by 1; solve.
+Each of $27$ bricks (right rectangular prisms) has dimensions $a \times b \times c$, where $a$, $b$, and $c$ are pairwise relatively prime positive integers. These bricks are arranged to form a $3 \times 3 \times 3$ block, as shown on the left below. A $28$th brick with the same dimensions is introduced, and these bricks are reconfigured into a $2 \times 2 \times 7$ block, shown on the right. The new block is $1$ unit taller, $1$ unit wider, and $1$ unit deeper than the old one. What is $a + b + c$? $\textbf{(A) } 88 \qquad\textbf{(B) } 89 \qquad\textbf{(C) } 90 \qquad\textbf{(D) } 91 \qquad\textbf{(E) } 92$ [DIAGRAM]
+
+### 2024A-19
+PassA: alg-geom-seq | PassB: nt-divisors | keywords: alg-geom-seq, nt-digits, alg-inequalities-optimization | confidence A/B: high/high
+PassB key idea: ab = 720²; find the smallest divisor of 720² exceeding 720.
+The first three terms of a geometric sequence are the integers $a, 720$ and $b$, where $a < 720 < b$. What is the sum of the digits of the least possible value of $b$? $\textbf{(A) } 9\qquad\textbf{(B) } 12\qquad\textbf{(C) } 16\qquad\textbf{(D) } 18\qquad\textbf{(E) } 21$
+
+### 2023B-01
+PassA: alg-arith-compute | PassB: alg-linear-word | keywords: alg-rates | confidence A/B: medium/high
+PassB key idea: Find equal share of total juice; split the shortfall among three glasses.
+Mrs. Jones is pouring orange juice into four identical glasses for her four sons. She fills the first three glasses completely but runs out of juice when the fourth glass is only $\frac{1}{3}$ full. What fraction of a glass must Mrs. Jones pour from each of the first three glasses into the fourth glass so that all four glasses will have the same amount of juice? $\textbf{(A) }\frac{1}{12}\qquad\textbf{(B) }\frac{1}{4}\qquad\textbf{(C) }\frac{1}{6}\qquad\textbf{(D) }\frac{1}{8}\qquad\textbf{(E) }\frac{2}{9}$
+
+### 2023B-17
+PassA: geo-3d-volume | PassB: alg-factoring-identities | keywords: geo-3d-volume, geo-3d-cubes, geo-perimeter-length | confidence A/B: medium/high
+PassB key idea: Diagonal² = a²+b²+c² = (a+b+c)² − 2(ab+bc+ca).
+A rectangular box $P$ has distinct edge lengths $a$, $b$, and $c$. The sum of the lengths of all $12$ edges of $P$ is $13$, the sum of the areas of all $6$ faces of $P$ is $\dfrac{11}{2}$, and the volume of $P$ is $\dfrac{1}{2}$. What is the length of the longest interior diagonal connecting two vertices of $P$? $\textbf{(A)}~2\qquad\textbf{(B)}~\frac{3}{8}\qquad\textbf{(C)}~\frac{9}{8}\qquad\textbf{(D)}~\frac{9}{4}\qquad\textbf{(E)}~\frac{3}{2}$
+
+### 2023A-09
+PassA: misc-calendar-clock | PassB: cp-basic-counting | keywords: nt-digits, nt-parity, cp-basic-counting | confidence A/B: medium/high
+PassB key idea: Year 2023 fixes odd counts of 3 and 0; casework on month/day digits.
+A digital display shows the current date as an $8$-digit integer consisting of a $4$-digit year, followed by a $2$-digit month, followed by a $2$-digit date within the month. For example, Arbor Day this year is displayed as $20230428.$ For how many dates in $2023$ does each digit appear an even number of times in the $8$-digital display for that date? $\textbf{(A)}~5\qquad\textbf{(B)}~6\qquad\textbf{(C)}~7\qquad\textbf{(D)}~8\qquad\textbf{(E)}~9$
+
+### 2023A-23
+PassA: nt-divisors | PassB: nt-diophantine | keywords: nt-digits, nt-divisors | confidence A/B: high/high
+PassB key idea: Complete the square on a(a+20)=b(b+23) and factor difference of squares.
+If the positive integer $c$ has positive integer divisors $a$ and $b$ with $c = ab$, then $a$ and $b$ are said to be $\textit{complementary}$ divisors of $c$. Suppose that $N$ is a positive integer that has one complementary pair of divisors that differ by $20$ and another pair of complementary divisors that differ by $23$. What is the sum of the digits of $N$? $\textbf{(A) } 9 \qquad \textbf{(B) } 13\qquad \textbf{(C) } 15 \qquad \textbf{(D) } 17 \qquad \textbf{(E) } 19$
+
+### 2022B-17
+PassA: nt-divisibility | PassB: nt-modular | keywords: nt-divisibility, nt-primes-factorization | confidence A/B: high/high
+PassB key idea: Check each option mod 3, 5, 7 using cycles of powers.
+One of the following numbers is not divisible by any prime number less than $10.$ Which is it? $\textbf{(A) } 2^{606}-1 \qquad\textbf{(B) } 2^{606}+1 \qquad\textbf{(C) } 2^{607}-1 \qquad\textbf{(D) } 2^{607}+1\qquad\textbf{(E) } 2^{607}+3^{607}$
+
+### 2022A-24
+PassA: cp-basic-counting | PassB: cp-basic-counting | keywords: nt-digits, cp-basic-counting | confidence A/B: medium/medium | suggested new category: Bijections & clever counting
+PassB key idea: These are parking functions; use the circular counting trick.
+How many strings of length $5$ formed from the digits $0$, $1$, $2$, $3$, $4$ are there such that for each $j \in \{1,2,3,4\}$, at least $j$ of the digits are less than $j$? (For example, $02214$ satisfies this condition because it contains at least $1$ digit less than $1$, at least $2$ digits less than $2$, at least $3$ digits less than $3$, and at least $4$ digits less than $4$. The string $23404$ does not satisfy the condition because it does not contain at least $2$ digits less than $2$.) $\textbf{(A) }500\qquad\textbf{(B) }625\qquad\textbf{(C) }1089\qquad\textbf{(D) }1199\qquad\textbf{(E) }1296$
+
+### 2021FB-21
+PassA: geo-polygons | PassB: cp-basic-counting | keywords: geo-polygons, geo-circle-area, geo-circle-theorems | confidence A/B: high/high
+PassB key idea: Each pair of polygons intersects twice per side of the smaller polygon.
+Regular polygons with $5,6,7,$ and $8$ sides are inscribed in the same circle. No two of the polygons share a vertex, and no three of their sides intersect at a common point. At how many points inside the circle do two of their sides intersect? $(\textbf{A})\: 52\qquad(\textbf{B}) \: 56\qquad(\textbf{C}) \: 60\qquad(\textbf{D}) \: 64\qquad(\textbf{E}) \: 68$
+
+### 2021FA-05
+PassA: nt-primes-factorization | PassB: nt-divisibility | keywords: nt-primes-factorization, nt-digits | confidence A/B: high/high
+PassB key idea: Eliminate candidates using divisibility rules for 3, 5, 11, etc.
+The six-digit number $\underline{2}\,\underline{0}\,\underline{2}\,\underline{1}\,\underline{0}\,\underline{A}$ is prime for only one digit $A.$ What is $A?$ $\textbf{(A)}\ 1 \qquad\textbf{(B)}\ 3 \qquad\textbf{(C)}\ 5 \qquad\textbf{(D)}\ 7 \qquad\textbf{(E)}\ 9$
+
+### 2021FA-22
+PassA: geo-3d-volume | PassB: geo-3d-cubes | keywords: nt-bases, geo-circle-theorems, geo-3d-volume | confidence A/B: medium/medium
+PassB key idea: Take the cross-section through the axis and one sphere center; use tangent distances.
+Inside a right circular cone with base radius $5$ and height $12$ are three congruent spheres with radius $r$. Each sphere is tangent to the other two spheres and also tangent to the base and side of the cone. What is $r$? $\textbf{(A)}\ \frac{3}{2} \qquad\textbf{(B)}\ \frac{90-40\sqrt{3}}{11} \qquad\textbf{(C)}\ 2 \qquad\textbf{(D)}\ \frac{144-25\sqrt{3}}{44} \qquad\textbf{(E)}\ \frac{5}{2}$
+
+### 2021B-21
+PassA: geo-transformations | PassB: geo-similar | keywords: geo-transformations, geo-perimeter-length, cp-permutations | confidence A/B: high/high
+PassB key idea: Use folding to find lengths by Pythagoras, then similar right triangles.
+A square piece of paper has side length $1$ and vertices $A,B,C,$ and $D$ in that order. As shown in the figure, the paper is folded so that vertex $C$ meets edge $\overline{AD}$ at point $C'$, and edge $\overline{BC}$ intersects edge $\overline{AB}$ at point $E$. Suppose that $C'D = \frac{1}{3}$. What is the perimeter of triangle $\bigtriangleup AEC' ?$ $\textbf{(A)} ~2 \qquad\textbf{(B)} ~1+\frac{2}{3}\sqrt{3} \qquad\textbf{(C)} ~\frac{13}{6} \qquad\textbf{(D)} ~1 + \frac{3}{4}\sqrt{3} \qquad\textbf{(E)} ~\frac{7}{3}$ [DIAGRAM]
+
+### 2021A-15
+PassA: cp-basic-counting | PassB: cp-combinations | keywords: cp-basic-counting, cp-combinations, cp-permutations | confidence A/B: medium/medium
+PassB key idea: Curves meet iff the larger A pairs with the smaller constant; count choices.
+Values for $A,B,C,$ and $D$ are to be selected from $\{1, 2, 3, 4, 5, 6\}$ without replacement (i.e. no two letters have the same value). How many ways are there to make such choices so that the two curves $y=Ax^2+B$ and $y=Cx^2+D$ intersect? (The order in which the curves are listed does not matter; for example, the choices $A=3, B=2, C=4, D=1$ is considered the same as the choices $A=4, B=1, C=3, D=2.$) $\textbf{(A) }30 \qquad \textbf{(B) }60 \qquad \textbf{(C) }90 \qquad \textbf{(D) }180 \qquad \textbf{(E) }360$
+
+### 2020A-04
+PassA: alg-rates | PassB: misc-money-everyday | keywords: alg-rates, misc-money-everyday, geo-3d-cubes | confidence A/B: medium/high
+PassB key idea: Compute pay per hour minus gas cost per hour.
+A driver travels for $2$ hours at $60$ miles per hour, during which her car gets $30$ miles per gallon of gasoline. She is paid $\$0.50$ per mile, and her only expense is gasoline at $\$2.00$ per gallon. What is her net rate of pay, in dollars per hour, after this expense? $\textbf{(A) }20 \qquad\textbf{(B) }22 \qquad\textbf{(C) }24 \qquad\textbf{(D) } 25\qquad\textbf{(E) } 26$
+
+### 2020A-21
+PassA: alg-geom-seq | PassB: alg-factoring-identities | keywords: alg-recursion-patterns, alg-exponents-radicals, alg-inequalities-optimization | confidence A/B: medium/medium
+PassB key idea: Expand as alternating sum of powers of 2^17; convert differences to binary.
+There exists a unique strictly increasing sequence of nonnegative integers $a_1 < a_2 < … < a_k$ such that\[\frac{2^{289}+1}{2^{17}+1} = 2^{a_1} + 2^{a_2} + … + 2^{a_k}.\]What is $k?$ $\textbf{(A) } 117 \qquad \textbf{(B) } 136 \qquad \textbf{(C) } 137 \qquad \textbf{(D) } 273 \qquad \textbf{(E) } 306$
+
+### 2019A-09
+PassA: nt-divisibility | PassB: nt-primes-factorization | keywords: nt-divisors, nt-digits | confidence A/B: high/high
+PassB key idea: n(n+1)/2 divides n! unless n+1 is an odd prime.
+What is the greatest three-digit positive integer $n$ for which the sum of the first $n$ positive integers is $\underline{\text{not}}$ a divisor of the product of the first $n$ positive integers? $\textbf{(A) } 995 \qquad\textbf{(B) } 996 \qquad\textbf{(C) } 997 \qquad\textbf{(D) } 998 \qquad\textbf{(E) } 999$
+
+### 2018B-05
+PassA: cp-combinations | PassB: cp-basic-counting | keywords: nt-primes-factorization, cp-combinations, cp-inclusion-exclusion | confidence A/B: high/high
+PassB key idea: Complementary counting: subtract subsets with no primes.
+How many subsets of $\{2,3,4,5,6,7,8,9\}$ contain at least one prime number? $\textbf{(A) }128 \qquad \textbf{(B) }192 \qquad \textbf{(C) }224 \qquad \textbf{(D) }240 \qquad \textbf{(E) }256 \qquad$
+
+### 2018B-17
+PassA: geo-polygons | PassB: geo-pythagorean | keywords: nt-divisibility, nt-primes-factorization, geo-polygons | confidence A/B: medium/high
+PassB key idea: Express corner right-triangle legs in terms of side; Pythagoras on slanted side.
+In rectangle $PQRS$, $PQ=8$ and $QR=6$. Points $A$ and $B$ lie on $\overline{PQ}$, points $C$ and $D$ lie on $\overline{QR}$, points $E$ and $F$ lie on $\overline{RS}$, and points $G$ and $H$ lie on $\overline{SP}$ so that $AP=BQ<4$ and the convex octagon $ABCDEFGH$ is equilateral. The length of a side of this octagon can be expressed in the form $k+m\sqrt{n}$, where $k$, $m$, and $n$ are integers and $n$ is not divisible by the square of any prime. What is $k+m+n$? $\textbf{(A) }1 \qquad \textbf{(B) }7 \qquad \textbf{(C) }21 \qquad \textbf{(D) }92 \qquad \textbf{(E) }106 \qquad$
+
+### 2018A-11
+PassA: cp-probability-dice-coins | PassB: cp-distributions | keywords: cp-probability-dice-coins, cp-probability-basic, geo-3d-cubes | confidence A/B: high/high
+PassB key idea: Subtract 1 from each die; stars and bars.
+When $7$ fair standard $6$-sided dice are thrown, the probability that the sum of the numbers on the top faces is $10$ can be written as \[\frac{n}{6^{7}},\] where $n$ is a positive integer. What is $n$? $\textbf{(A) }42\qquad \textbf{(B) }49\qquad \textbf{(C) }56\qquad \textbf{(D) }63\qquad \textbf{(E) }84\qquad$
+
+### 2018A-21
+PassA: geo-graph-regions | PassB: alg-quadratics | keywords: geo-coordinate, alg-quadratics, alg-systems | confidence A/B: high/high
+PassB key idea: Substitute x² = y + a to get a quadratic in y.
+Which of the following describes the set of values of $a$ for which the curves $x^2+y^2=a^2$ and $y=x^2-a$ in the real $xy$-plane intersect at exactly $3$ points? $\textbf{(A) }a=\frac14 \qquad \textbf{(B) }\frac14 < a < \frac12 \qquad \textbf{(C) }a>\frac14 \qquad \textbf{(D) }a=\frac12 \qquad \textbf{(E) }a>\frac12 \qquad$
+
+### 2017B-18
+PassA: cp-basic-counting | PassB: cp-basic-counting | keywords: geo-transformations, geo-3d-cubes, cp-basic-counting | confidence A/B: medium/medium | suggested new category: Counting up to symmetry
+PassB key idea: Place the green disk by symmetry type, then count red placements up to symmetry.
+In the figure below, $3$ of the $6$ disks are to be painted blue, $2$ are to be painted red, and $1$ is to be painted green. Two paintings that can be obtained from one another by a rotation or a reflection of the entire figure are considered the same. How many different paintings are possible? $\textbf{(A)}\ 6\qquad\textbf{(B)}\ 8\qquad\textbf{(C)}\ 9\qquad\textbf{(D)}\ 12\qquad\textbf{(E)}\ 15$ [DIAGRAM]
+
+### 2016B-07
+PassA: geo-angles | PassB: alg-linear-word | keywords: alg-percent-ratio, geo-angles | confidence A/B: high/medium
+PassB key idea: Let angles be 5x and 4x; set one complement twice the other.
+The ratio of the measures of two acute angles is $5:4$, and the complement of one of these two angles is twice as large as the complement of the other. What is the sum of the degree measures of the two angles? $\textbf{(A)}\ 75\qquad\textbf{(B)}\ 90\qquad\textbf{(C)}\ 135\qquad\textbf{(D)}\ 150\qquad\textbf{(E)}\ 270$
+
+### 2016A-11
+PassA: geo-shaded-regions | PassB: geo-shaded-regions | keywords: geo-shaded-regions, geo-triangle-area | confidence A/B: low/low
+PassB key idea: Find the shaded area by subtracting known triangles/rectangles from the figure.
+Find the area of the shaded region. $\textbf{(A)}\ 4\dfrac{3}{5} \qquad \textbf{(B)}\ 5\qquad \textbf{(C)}\ 5\dfrac{1}{4} \qquad \textbf{(D)}\ 6\dfrac{1}{2} \qquad \textbf{(E)}\ 8$ [DIAGRAM]
+
+### 2015A-02
+PassA: alg-systems | PassB: alg-linear-word | keywords: geo-quadrilaterals, cp-recursion-counting, geo-3d-cubes | confidence A/B: high/high
+PassB key idea: Assume all triangles; each square adds one extra edge.
+A box contains a collection of triangular and square tiles. There are $25$ tiles in the box, containing $84$ edges total. How many square tiles are there in the box? $\textbf{(A)}\ 3\qquad\textbf{(B)}\ 5\qquad\textbf{(C)}\ 7\qquad\textbf{(D)}\ 9\qquad\textbf{(E)}\ 11$
+
+### 2014B-05
+PassA: geo-perimeter-length | PassB: geo-quadrilaterals | keywords: alg-percent-ratio, geo-quadrilaterals, geo-perimeter-length | confidence A/B: medium/medium
+PassB key idea: Express width and height via pane dimensions plus borders; set equal.
+Camden constructs a square window using $8$ equal-size panes of glass, as shown. The ratio of the height to width for each pane is $5 : 2$, and the borders around and between the panes are $2$ inches wide. In inches, what is the side length of the square window? $\textbf{(A)}\ 26\qquad\textbf{(B)}\ 28\qquad\textbf{(C)}\ 30\qquad\textbf{(D)}\ 32\qquad\textbf{(E)}\ 34$ [DIAGRAM]
+
+### 2014B-24
+PassA: cp-permutations | PassB: cp-basic-counting | keywords: geo-transformations, cp-combinations, cp-permutations | confidence A/B: medium/medium
+PassB key idea: List circular arrangements up to symmetry; check which sums can't be made.
+The numbers 1, 2, 3, 4, 5 are to be arranged in a circle. An arrangement is bad if it is not true that for every $n$ from $1$ to $15$ one can find a subset of the numbers that appear consecutively on the circle that sum to $n$. Arrangements that differ only by a rotation or a reflection are considered the same. How many different bad arrangements are there? $\textbf {(A) } 1 \qquad \textbf {(B) } 2 \qquad \textbf {(C) } 3 \qquad \textbf {(D) } 4 \qquad \textbf {(E) } 5$
+
+### 2014A-18
+PassA: geo-coordinate | PassB: geo-quadrilaterals | keywords: geo-quadrilaterals, geo-coordinate, geo-triangle-area | confidence A/B: high/high
+PassB key idea: Tilted square: corner triangles have legs 1 and 4.
+A square in the coordinate plane has vertices whose $y$-coordinates are $0$, $1$, $4$, and $5$. What is the area of the square? $\textbf{(A)}\ 16\qquad\textbf{(B)}\ 17\qquad\textbf{(C)}\ 25\qquad\textbf{(D)}\ 26\qquad\textbf{(E)}\ 27$
+
+### 2013B-08
+PassA: alg-percent-ratio | PassB: alg-rates | keywords: alg-rates | confidence A/B: medium/medium
+PassB key idea: Combined mpg = total miles / total gallons (harmonic mean).
+Ray's car averages 40 miles per gallon of gasoline, and Tom's car averages 10 miles per gallon of gasoline. Ray and Tom each drive the same number of miles. What is the cars' combined rate of miles per gallon of gasoline? $\textbf{(A) }10\qquad\textbf{(B) }16\qquad\textbf{(C) }25\qquad\textbf{(D) }30\qquad\textbf{(E) }40$
+
+### 2013B-20
+PassA: nt-factorials | PassB: nt-primes-factorization | keywords: alg-absolute-value, nt-factorials, alg-inequalities-optimization | confidence A/B: high/high
+PassB key idea: Largest prime factor 61 forces a1 ≥ 61; minimize b1 accordingly.
+The number $2013$ is expressed in the form \[2013=\frac{a_1!a_2!\cdots a_m!}{b_1!b_2!\cdots b_n!},\] where $a_1\ge a_2\ge\cdots\ge a_m$ and $b_1\ge b_2\ge\cdots\ge b_n$ are positive integers and $a_1+b_1$ is as small as possible. What is $|a_1-b_1|$? $\textbf{(A)}\ 1\qquad\textbf{(B)}\ 2\qquad\textbf{(C)}\ 3\qquad\textbf{(D)}\ 4\qquad\textbf{(E)}\ 5$
+
+### 2013A-22
+PassA: geo-circle-theorems | PassB: geo-pythagorean | keywords: geo-polygons, geo-circle-theorems, geo-3d-volume | confidence A/B: medium/medium
+PassB key idea: Put the eighth center on the axis and use Pythagoras with tangency distances.
+Six spheres of radius $1$ are positioned so that their centers are at the vertices of a regular hexagon of side length $2$. The six spheres are internally tangent to a larger sphere whose center is the center of the hexagon. An eighth sphere is externally tangent to the six smaller spheres and internally tangent to the larger sphere. What is the radius of this eighth sphere? $\textbf{(A)}\ \sqrt2\qquad\textbf{(B)}\ \frac{3}{2}\qquad\textbf{(C)}\ \frac{5}{3}\qquad\textbf{(D)}\ \sqrt3\qquad\textbf{(E)}\ 2$
+
+### 2012B-21
+PassA: geo-pythagorean | PassB: geo-pythagorean | keywords: alg-percent-ratio, cp-permutations, geo-coordinate | confidence A/B: low/medium
+PassB key idea: Find the configuration forcing a 30-60-90 triangle with hypotenuse 2a.
+Four distinct points are arranged on a plane so that the segments connecting them have lengths $a$, $a$, $a$, $a$, $2a$, and $b$. What is the ratio of $b$ to $a$? $\textbf{(A)}\ \sqrt{3}\qquad\textbf{(B)}\ 2\qquad\textbf{(C)}\ \sqrt{5}\qquad\textbf{(D)}\ 3\qquad\textbf{(E)}\ \pi$
+
+### 2012A-23
+PassA: cp-basic-counting | PassB: cp-basic-counting | keywords: cp-basic-counting | confidence A/B: medium/medium | suggested new category: Graph Counting
+PassB key idea: Casework on friend count; count regular friendship graphs and complements.
+Adam, Benin, Chiang, DeShawn, Esther, and Fiona have internet accounts. Some, but not all, of them are internet friends with each other, and none of them has an internet friend outside this group. Each of them has the same number of internet friends. In how many different ways can this happen? $\textbf{(A)}\ 60\qquad\textbf{(B)}\ 170\qquad\textbf{(C)}\ 290\qquad\textbf{(D)}\ 320\qquad\textbf{(E)}\ 660$
+
+### 2011B-14
+PassA: geo-pythagorean | PassB: alg-factoring-identities | keywords: geo-perimeter-length, geo-quadrilaterals, geo-triangle-area | confidence A/B: high/high
+PassB key idea: (x+y)^2 equals x^2+y^2 plus 2xy.
+A rectangular parking lot has a diagonal of $25$ meters and an area of $168$ square meters. In meters, what is the perimeter of the parking lot? $\textbf{(A)}\ 52 \qquad\textbf{(B)}\ 58 \qquad\textbf{(C)}\ 62 \qquad\textbf{(D)}\ 68 \qquad\textbf{(E)}\ 70$
+
+### 2011B-24
+PassA: alg-graphs-lines | PassB: nt-fractions-decimals | keywords: geo-coordinate, alg-inequalities-optimization, geo-graph-regions | confidence A/B: medium/medium
+PassB key idea: Find the smallest fraction above 1/2 with denominator at most 100.
+A lattice point in an $xy$-coordinate system is any point $(x, y)$ where both $x$ and $y$ are integers. The graph of $y = mx +2$ passes through no lattice point with $0 < x \le 100$ for all $m$ such that $1/2 < m < a$. What is the maximum possible value of $a$? $\textbf{(A)}\ \frac{51}{101} \qquad\textbf{(B)}\ \frac{50}{99} \qquad\textbf{(C)}\ \frac{51}{100} \qquad\textbf{(D)}\ \frac{52}{101} \qquad\textbf{(E)}\ \frac{13}{25}$
+
+### 2011A-25
+PassA: geo-triangle-area | PassB: nt-gcd-lcm | keywords: geo-quadrilaterals, geo-triangle-area, geo-shaded-regions | confidence A/B: medium/medium
+PassB key idea: Partitional points form grids; overlap uses the gcd of grid sizes.
+Let $R$ be a square region and $n\ge4$ an integer. A point $X$ in the interior of $R$ is called $n\text{-}ray$ partitional if there are $n$ rays emanating from $X$ that divide $R$ into $n$ triangles of equal area. How many points are 100-ray partitional but not 60-ray partitional? $\textbf{(A)}\,1500 \qquad\textbf{(B)}\,1560 \qquad\textbf{(C)}\,2320 \qquad\textbf{(D)}\,2480 \qquad\textbf{(E)}\,2500$
+
+### 2010B-18
+PassA: cp-probability-basic | PassB: nt-modular | keywords: cp-probability-basic, nt-divisibility, cp-combinations | confidence A/B: high/medium
+PassB key idea: Factor out a, then analyze bc+b+1 modulo 3.
+Positive integers $a$, $b$, and $c$ are randomly and independently selected with replacement from the set $\{1, 2, 3,\dots, 2010\}$. What is the probability that $abc + ab + a$ is divisible by $3$? $\textbf{(A)}\ \dfrac{1}{3} \qquad \textbf{(B)}\ \dfrac{29}{81} \qquad \textbf{(C)}\ \dfrac{31}{81} \qquad \textbf{(D)}\ \dfrac{11}{27} \qquad \textbf{(E)}\ \dfrac{13}{27}$
+
+### 2010A-12
+PassA: alg-percent-ratio | PassB: geo-3d-volume | keywords: geo-3d-volume | confidence A/B: high/medium
+PassB key idea: Length scales as cube root of volume ratio.
+Logan is constructing a scaled model of his town. The city's water tower stands 40 meters high, and the top portion is a sphere that holds 100,000 liters of water. Logan's miniature water tower holds 0.1 liters. How tall, in meters, should Logan make his tower? $\textbf{(A)}\ 0.04 \qquad \textbf{(B)}\ \frac{0.4}{\pi} \qquad \textbf{(C)}\ 0.4 \qquad \textbf{(D)}\ \frac{4}{\pi} \qquad \textbf{(E)}\ 4$
+
+### 2009B-19
+PassA: misc-calendar-clock | PassB: cp-basic-counting | keywords: misc-calendar-clock, alg-rates | confidence A/B: high/high
+PassB key idea: Multiply fractions of hours and minutes containing no digit 1.
+A particular $12$-hour digital clock displays the hour and minute of a day. Unfortunately, whenever it is supposed to display a $1$, it mistakenly displays a $9$. For example, when it is 1:16 PM the clock incorrectly shows 9:96 PM. What fraction of the day will the clock show the correct time? $\text{(A) } \frac 12 \qquad \text{(B) } \frac 58 \qquad \text{(C) } \frac 34 \qquad \text{(D) } \frac 56 \qquad \text{(E) } \frac 9{10}$
+
+### 2009A-23
+PassA: geo-triangle-area | PassB: geo-similar | keywords: geo-quadrilaterals, geo-triangle-area, alg-systems | confidence A/B: high/high
+PassB key idea: Equal areas imply AB parallel to CD, giving similar triangles.
+Convex quadrilateral $ABCD$ has $AB=9$ and $CD=12$. Diagonals $AC$ and $BD$ intersect at $E$, $AC=14$, and $\triangle AED$ and $\triangle BEC$ have equal areas. What is $AE$? $\mathrm{(A)}\ \frac{9}{2} \qquad \mathrm{(B)}\ \frac{50}{11} \qquad \mathrm{(C)}\ \frac{21}{4} \qquad \mathrm{(D)}\ \frac{17}{3} \qquad \mathrm{(E)}\ 6$
+
+### 2008B-10
+PassA: geo-circle-theorems | PassB: geo-pythagorean | keywords: alg-exponents-radicals, geo-circle-area, geo-perimeter-length | confidence A/B: high/high
+PassB key idea: Drop the perpendicular from the center to chord AB and use Pythagoras twice.
+Points $A$ and $B$ are on a circle of radius $5$ and $AB=6$. Point $C$ is the midpoint of the minor arc $AB$. What is the length of the line segment $AC$? $\mathrm{(A)}\ \sqrt{10}\qquad\mathrm{(B)}\ \frac{7}{2}\qquad\mathrm{(C)}\ \sqrt{14}\qquad\mathrm{(D)}\ \sqrt{15}\qquad\mathrm{(E)}\ 4$
+
+### 2008A-02
+PassA: geo-quadrilaterals | PassB: alg-percent-ratio | keywords: alg-percent-ratio, geo-quadrilaterals, misc-money-everyday | confidence A/B: high/high
+PassB key idea: Assign square side 1, find rectangle dimensions, compare areas.
+A square is drawn inside a rectangle. The ratio of the width of the rectangle to a side of the square is $2:1$. The ratio of the rectangle's length to its width is $2:1$. What percent of the rectangle's area is in the square? $\mathrm{(A)}\ 12.5\qquad\mathrm{(B)}\ 25\qquad\mathrm{(C)}\ 50\qquad\mathrm{(D)}\ 75\qquad\mathrm{(E)}\ 87.5$
+
+### 2008A-18
+PassA: geo-pythagorean | PassB: alg-factoring-identities | keywords: geo-pythagorean, geo-perimeter-length, geo-triangle-area | confidence A/B: high/high
+PassB key idea: Square a+b = 32-c and use a^2+b^2=c^2 and ab=40.
+A right triangle has perimeter 32 and area 20. What is the length of its hypotenuse? $\mathrm{(A)}\ \frac{57}{4}\qquad\mathrm{(B)}\ \frac{59}{4}\qquad\mathrm{(C)}\ \frac{61}{4}\qquad\mathrm{(D)}\ \frac{63}{4}\qquad\mathrm{(E)}\ \frac{65}{4}$
+
+### 2007B-09
+PassA: misc-process-simulation | PassB: nt-modular | keywords: nt-factorials | confidence A/B: medium/high
+PassB key idea: Shift is a triangular number; reduce it mod 26.
+A cryptographic code is designed as follows. The first time a letter appears in a given message it is replaced by the letter that is $1$ place to its right in the alphabet (assuming that the letter $A$ is one place to the right of the letter $Z$). The second time this same letter appears in the given message, it is replaced by the letter that is $1+2$ places to the right, the third time it is replaced by the letter that is $1+2+3$ places to the right, and so on. For example, with this code the word "banana" becomes "cbodqg". What letter will replace the last letter $s$ in the message \[\text{``Lee's sis is a Mississippi miss, Chriss!''?}\] $\textbf{(A) } g \qquad\textbf{(B) } h \qquad\textbf{(C) } o \qquad\textbf{(D) } s \qquad\textbf{(E) } t$
+
+### 2007B-25
+PassA: nt-diophantine | PassB: nt-divisibility | keywords: nt-divisors, cp-basic-counting | confidence A/B: medium/medium
+PassB key idea: Combine fractions; coprimality forces a and b to divide small numbers.
+How many pairs of positive integers $(a,b)$ are there such that $a$ and $b$ have no common factors greater than $1$ and \[\frac{a}{b} + \frac{14b}{9a}\] is an integer? $\textbf{(A) } 4 \qquad\textbf{(B) } 6 \qquad\textbf{(C) } 9 \qquad\textbf{(D) } 12 \qquad\textbf{(E) } \text{infinitely many}$
+
+### 2007A-15
+PassA: geo-circle-theorems | PassB: geo-pythagorean | keywords: geo-circle-theorems, geo-quadrilaterals, alg-exponents-radicals | confidence A/B: medium/medium
+PassB key idea: Centers line up along the diagonal; use 45-45-90 distances.
+Four circles of radius $1$ are each tangent to two sides of a square and externally tangent to a circle of radius $2$, as shown. What is the area of the square? $\text{(A)}\ 32 \qquad \text{(B)}\ 22 + 12\sqrt {2}\qquad \text{(C)}\ 16 + 16\sqrt {3}\qquad \text{(D)}\ 48 \qquad \text{(E)}\ 36 + 16\sqrt {2}$ [DIAGRAM]
+
+### 2007A-22
+PassA: nt-digits | PassB: nt-divisibility | keywords: nt-units-digit, nt-primes-factorization, alg-recursion-patterns | confidence A/B: high/high
+PassB key idea: Each digit appears in every place, so S is 111 times digit sum.
+A finite sequence of three-digit integers has the property that the tens and units digits of each term are, respectively, the hundreds and tens digits of the next term, and the tens and units digits of the last term are, respectively, the hundreds and tens digits of the first term. For example, such a sequence might begin with the terms $247, 475,$ and $756$ and end with the term $824.$ Let $S$ be the sum of all the terms in the sequence. What is the largest prime factor that always divides $S$? $\mathrm{(A)}\ 3\qquad \mathrm{(B)}\ 7\qquad \mathrm{(C)}\ 13\qquad \mathrm{(D)}\ 37\qquad \mathrm{(E)}\ 43$
+
+### 2006A-10
+PassA: alg-exponents-radicals | PassB: nt-squares-cubes | keywords: alg-exponents-radicals, cp-basic-counting | confidence A/B: high/high
+PassB key idea: 120 minus sqrt(x) must be a perfect square between 0 and 120.
+For how many real values of $x$ is $\sqrt{120-\sqrt{x}}$ an integer? $\mathrm{(A)}\ 3\qquad\mathrm{(B)}\ 6\qquad\mathrm{(C)}\ 9\qquad\mathrm{(D)}\ 10\qquad\mathrm{(E)}\ 11\qquad$
+
+### 2005B-03
+PassA: alg-arith-compute | PassB: alg-percent-ratio | keywords:  | confidence A/B: medium/high
+PassB key idea: Each day leaves two thirds of what remained.
+A gallon of paint is used to paint a room. One third of the paint is used on the first day. On the second day, one third of the remaining paint is used. What fraction of the original amount of paint is available to use on the third day? $\mathrm{(A)} \frac{1}{10} \qquad \mathrm{(B)} \frac{1}{9} \qquad \mathrm{(C)} \frac{1}{3} \qquad \mathrm{(D)} \frac{4}{9} \qquad \mathrm{(E)} \frac{5}{9}$
+
+### 2005A-01
+PassA: misc-money-everyday | PassB: alg-percent-ratio | keywords: alg-percent-ratio, misc-money-everyday | confidence A/B: high/high
+PassB key idea: Find each bill from tip equals percent of bill.
+While eating out, Mike and Joe each tipped their server $\$2$. Mike tipped $10\%$ of his bill and Joe tipped $20\%$ of his bill. What was the difference, in dollars, between their bills? $\textbf{(A) } 2\qquad \textbf{(B) } 4\qquad \textbf{(C) } 5\qquad \textbf{(D) } 10\qquad \textbf{(E) } 20$
+
+### 2005A-14
+PassA: nt-digits | PassB: cp-basic-counting | keywords: nt-units-digit, alg-mean-median, nt-digits | confidence A/B: high/high
+PassB key idea: First and last digits must share parity; count pairs.
+How many three-digit numbers satisfy the property that the middle digit is the average of the first and the last digits? $\textbf{(A) } 41\qquad \textbf{(B) } 42\qquad \textbf{(C) } 43\qquad \textbf{(D) } 44\qquad \textbf{(E) } 45$
+
+### 2004B-20
+PassA: geo-similar | PassB: geo-triangle-area | keywords: misc-logic, geo-triangle-area, alg-systems | confidence A/B: medium/medium | suggested new category: Mass Points & Cevian Ratios
+PassB key idea: Use mass points or area ratios along cevians.
+In $\triangle ABC$ points $D$ and $E$ lie on $BC$ and $AC$, respectively. If $AD$ and $BE$ intersect at $T$ so that $\frac{AT}{DT}=3$ and $\frac{BT}{ET}=4$, what is $\frac{CD}{BD}$? $\mathrm{(A) \ } \frac{1}{8} \qquad \mathrm{(B) \ } \frac{2}{9} \qquad \mathrm{(C) \ } \frac{3}{10} \qquad \mathrm{(D) \ } \frac{4}{11} \qquad \mathrm{(E) \ } \frac{5}{12}$ [DIAGRAM]
+
+### 2003B-12
+PassA: alg-linear-word | PassB: alg-systems | keywords: misc-money-everyday, cp-inclusion-exclusion | confidence A/B: high/high
+PassB key idea: Combine the total and final-value equations to isolate Al's share.
+Al, Betty, and Clare split $\$$1000$ among them to be invested in different ways. Each begins with a different amount. At the end of one year, they have a total of $\$$1500$. Betty and Clare have both doubled their money, whereas Al has managed to lose $\$$100$. What was Al's original portion? $\textbf{(A) }\$$250 \qquad\textbf{(B) }\$ $350 \qquad\textbf{(C) }\$$400\qquad\textbf{(D) }\$ $450\qquad\textbf{(E) }\$$500$
+
+### 2003A-11
+PassA: misc-magic-squares | PassB: nt-digits | keywords: nt-digits | confidence A/B: high/high
+PassB key idea: Use place value: the sum is twice AMC times 100 plus 22.
+The sum of the two 5-digit numbers $AMC10$ and $AMC12$ is $123422$. What is $A+M+C$? $\mathrm{(A) \ } 10\qquad \mathrm{(B) \ } 11\qquad \mathrm{(C) \ } 12\qquad \mathrm{(D) \ } 13\qquad \mathrm{(E) \ } 14$
+
+### 2002B-03
+PassA: alg-mean-median | PassB: nt-digits | keywords: alg-mean-median, nt-digits | confidence A/B: medium/high
+PassB key idea: Write each term as 10^k - 1 and sum to see the digit pattern.
+The arithmetic mean of the nine numbers in the set $\{9,99,999,9999,\ldots,999999999\}$ is a $9$-digit number $M$, all of whose digits are distinct. The number $M$ does not contain the digit $\mathrm{(A) \ } 0\qquad \mathrm{(B) \ } 2\qquad \mathrm{(C) \ } 4\qquad \mathrm{(D) \ } 6\qquad \mathrm{(E) \ } 8$
+
+### 2002B-15
+PassA: nt-primes-factorization | PassB: nt-parity | keywords: nt-divisibility, nt-primes-factorization, nt-parity | confidence A/B: high/high
+PassB key idea: Parity forces 2 among them; then three primes differ by 2.
+The positive integers $A$, $B$, $A-B$, and $A+B$ are all prime numbers. The sum of these four primes is $\mathrm{(A) \ } \text{even}\qquad \mathrm{(B) \ } \text{divisible by }3\qquad \mathrm{(C) \ } \text{divisible by }5\qquad \mathrm{(D) \ } \text{divisible by }7\qquad \mathrm{(E) \ } \text{prime}$
+
+### 2002A-10
+PassA: alg-quadratics | PassB: alg-factoring-identities | keywords: alg-quadratics | confidence A/B: high/high
+PassB key idea: Factor out (2x+3) and find each root.
+Compute the sum of all the roots of $(2x + 3)(x - 4) + (2x + 3)(x - 6) = 0$. $\text{(A)}\ 7/2 \qquad \text{(B)}\ 4 \qquad \text{(C)}\ 5 \qquad \text{(D)}\ 7 \qquad \text{(E)}\ 13$
+
+### 2002P-08
+PassA: alg-exponents-radicals | PassB: nt-divisors | keywords: alg-complex, cp-permutations, cp-basic-counting | confidence A/B: medium/high
+PassB key idea: x^(yz)=2^6; casework on x and count factor pairs of exponent.
+How many ordered triples of positive integers $(x,y,z)$ satisfy $(x^y)^z=64?$ $\text{(A) }5 \qquad \text{(B) }6 \qquad \text{(C) }7 \qquad \text{(D) }8 \qquad \text{(E) }9$
+
+### 2001-13
+PassA: nt-digits | PassB: misc-logic | keywords: nt-digits, nt-parity, cp-permutations | confidence A/B: high/medium
+PassB key idea: Casework on which even and odd digit blocks are used; leftover digits fix ABC.
+A telephone number has the form $ABC - DEF - GHIJ$, where each letter represents a different digit. The digits in each part of the numbers are in decreasing order; that is, $A > B > C$, $D > E > F$, and $G > H > I > J$. Furthermore, $D$, $E$, and $F$ are consecutive even digits; $G$, $H$, $I$, and $J$ are consecutive odd digits; and $A + B + C = 9$. Find $A$. $\textbf{(A)} \ 4 \qquad \textbf{(B)} \ 5 \qquad \textbf{(C)} \ 6 \qquad \textbf{(D)} \ 7 \qquad \textbf{(E)} \ 8$
+
+### 2000-13
+PassA: cp-basic-counting | PassB: misc-logic | keywords: cp-basic-counting | confidence A/B: medium/medium
+PassB key idea: Place yellow pegs first; each color's placement is forced.
+There are 5 yellow pegs, 4 red pegs, 3 green pegs, 2 blue pegs, and 1 orange peg to be placed on a triangular peg board. In how many ways can the pegs be placed so that no (horizontal) row or (vertical) column contains two pegs of the same color? $\textbf{(A)}\ 0 \qquad\textbf{(B)}\ 1 \qquad\textbf{(C)}\ 5!\cdot 4!\cdot 3!\cdot 2!\cdot 1! \qquad\textbf{(D)}\ \frac{15!}{5!\cdot 4!\cdot 3!\cdot 2!\cdot 1!} \qquad\textbf{(E)}\ 15!$ [DIAGRAM]
+

@@ -1,0 +1,310 @@
+### 2025B-13
+PassA: geo-pythagorean | PassB: geo-similar | keywords: geo-pythagorean, alg-mean-median, geo-triangle-centers | confidence A/B: medium/medium
+PassB key idea: Place triangle in coordinates or use similar triangles to locate intersection on altitude.
+The altitude to the hypotenuse of a $30{-}60{-}90^\circ$ right triangle is divided into two segments of lengths $x < y$ by the median to the shortest side of the triangle. What is the ratio $\tfrac{x}{x+y}$? $\textbf{(A)}~\frac 37 \qquad \textbf{(B)}~\frac{\sqrt3}{4} \qquad \textbf{(C)}~\frac 49 \qquad \textbf{(D)}~\frac{5}{11} \qquad \textbf{(E)}~\frac{4\sqrt3}{15}$
+
+### 2025A-17
+PassA: nt-modular | PassB: nt-gcd-lcm | keywords: nt-units-digit, nt-modular, nt-digits | confidence A/B: high/high
+PassB key idea: Subtract remainders; N is a common divisor of the two differences exceeding 16.
+Let $N$ be the unique positive integer such that dividing $273436$ by $N$ leaves a remainder of $16$ and dividing $272760$ by $N$ leaves a remainder of $15$. What is the tens digit of $N$? $\textbf{(A) } 0 \qquad\textbf{(B) } 1 \qquad\textbf{(C) } 2 \qquad\textbf{(D) } 3 \qquad\textbf{(E) } 4$
+
+### 2024B-08
+PassA: nt-divisors | PassB: nt-units-digit | keywords: nt-units-digit, nt-divisors, nt-digits | confidence A/B: high/high
+PassB key idea: Pair divisors: product equals 42 to the power (number of divisors)/2.
+Let $N$ be the product of all the positive integer divisors of $42$. What is the units digit of $N$? $\textbf{(A) } 0\qquad\textbf{(B) } 2\qquad\textbf{(C) } 4\qquad\textbf{(D) } 6\qquad\textbf{(E) } 8$
+
+### 2024A-15
+PassA: nt-squares-cubes | PassB: nt-diophantine | keywords: nt-units-digit, nt-squares-cubes, alg-floor-ceiling | confidence A/B: high/high
+PassB key idea: Difference of the squares is 2560; factor b²−a² to maximize M.
+Let $M$ be the greatest integer such that both $M+1213$ and $M+3773$ are perfect squares. What is the units digit of $M$? $\textbf{(A) }1\qquad\textbf{(B) }2\qquad\textbf{(C) }3\qquad\textbf{(D) }6\qquad\textbf{(E) }8$
+
+### 2024A-21
+PassA: alg-arith-seq | PassB: alg-systems | keywords: alg-arith-seq, geo-coordinate, cp-permutations | confidence A/B: high/high
+PassB key idea: Entries have form a+bi+cj+dij; use the four given values.
+The numbers, in order, of each row and the numbers, in order, of each column of a $5 \times 5$ array of integers form an arithmetic progression of length $5$. The numbers in positions $(5, 5)$, $(2, 4)$, $(4, 3)$ and $(3, 1)$ are $0$, $48$, $16$, and $12$, respectively. What number is in position $(1, 2)$? \[\begin{bmatrix} . & ? &.&.&. \\ .&.&.&48&.\\ 12&.&.&.&.\\ .&.&16&.&.\\ .&.&.&.&0\end{bmatrix}\] $\textbf{(A)}~19\qquad\textbf{(B)}~24\qquad\textbf{(C)}~29\qquad\textbf{(D)}~34\qquad\textbf{(E)}~39$
+
+### 2023B-03
+PassA: geo-circle-area | PassB: geo-circle-theorems | keywords: alg-percent-ratio, geo-triangle-area, geo-pythagorean | confidence A/B: high/high
+PassB key idea: Hypotenuse of inscribed right triangle is a diameter.
+A $3-4-5$ right triangle is inscribed in circle $A$, and a $5-12-13$ right triangle is inscribed in circle $B$. What is the ratio of the area of circle $A$ to the area of circle $B$? $\textbf{(A) }\frac{9}{25}\qquad\textbf{(B) }\frac{1}{9}\qquad\textbf{(C) }\frac{1 }{5}\qquad\textbf{(D) }\frac{25}{169}\qquad\textbf{(E) }\frac{4}{25}$
+
+### 2023B-20
+PassA: geo-3d-cubes | PassB: geo-3d-cubes | keywords: geo-circle-area, geo-3d-volume, nt-divisibility | confidence A/B: low/medium | suggested new category: 3D: Spheres & curved surfaces
+PassB key idea: Semicircle endpoints on a great circle; find each semicircle's radius.
+Four congruent semicircles are drawn on the surface of a sphere with radius $2$, as shown, creating a close curve that divides the surface into two congruent regions. The length of the curve is $\pi\sqrt{n}$. What is $n$? $\textbf{(A) } 32 \qquad \textbf{(B) } 12 \qquad \textbf{(C) } 48 \qquad \textbf{(D) } 36 \qquad \textbf{(E) } 27$ [DIAGRAM]
+
+### 2023A-14
+PassA: cp-probability-basic | PassB: nt-divisors | keywords: cp-probability-basic, nt-divisibility, nt-divisors | confidence A/B: high/high
+PassB key idea: For multiples of 11 below 121, half the divisors contain 11.
+A number is chosen at random from among the first $100$ positive integers, and a positive integer divisor of that number is then chosen at random. What is the probability that the chosen divisor is divisible by $11$? $\textbf{(A)}~\frac{4}{100}\qquad\textbf{(B)}~\frac{9}{200} \qquad \textbf{(C)}~\frac{1}{20} \qquad\textbf{(D)}~\frac{11}{200}\qquad\textbf{(E)}~\frac{3}{50}$
+
+### 2022B-05
+PassA: alg-arith-compute | PassB: alg-factoring-identities | keywords: alg-exponents-radicals, alg-inequalities-optimization, alg-arith-compute | confidence A/B: high/high
+PassB key idea: Factor 1−1/n² = (1−1/n)(1+1/n) and cancel.
+What is the value of \[\frac{\left(1+\frac13\right)\left(1+\frac15\right)\left(1+\frac17\right)}{\sqrt{\left(1-\frac{1}{3^2}\right)\left(1-\frac{1}{5^2}\right)\left(1-\frac{1}{7^2}\right)}}?\] $\textbf{(A)}\ \sqrt3 \qquad\textbf{(B)}\ 2 \qquad\textbf{(C)}\ \sqrt{15} \qquad\textbf{(D)}\ 4 \qquad\textbf{(E)}\ \sqrt{105}$
+
+### 2022B-19
+PassA: misc-process-simulation | PassB: cp-basic-counting | keywords: geo-transformations, geo-quadrilaterals, misc-money-everyday | confidence A/B: medium/high
+PassB key idea: Center needs 2–3 filled neighbors; avoid creating other filled squares.
+Each square in a $5 \times 5$ grid is either filled or empty, and has up to eight adjacent neighboring squares, where neighboring squares share either a side or a corner. The grid is transformed by the following rules: Any filled square with two or three filled neighbors remains filled. Any empty square with exactly three filled neighbors becomes a filled square. All other squares remain empty or become empty. A sample transformation is shown in the figure below. Suppose the $5 \times 5$ grid has a border of empty squares surrounding a $3 \times 3$ subgrid. How many initial configurations will lead to a transformed grid consisting of a single filled square in the center after a single transformation? (Rotations and reflections of the same configuration are considered different.) $\textbf{(A)}\ 14 \qquad\textbf{(B)}\ 18 \qquad\textbf{(C)}\ 22 \qquad\textbf{(D)}\ 26 \qquad\textbf{(E)}\ 30$ [DIAGRAM]
+
+### 2022A-25
+PassA: geo-coordinate | PassB: nt-diophantine | keywords: geo-coordinate, alg-inequalities-optimization, geo-quadrilaterals | confidence A/B: medium/low
+PassB key idea: Lattice counts (side+1)²; ratios force side relations; minimize integers.
+Let $R$, $S$, and $T$ be squares that have vertices at lattice points (i.e., points whose coordinates are both integers) in the coordinate plane, together with their interiors. The bottom edge of each square is on the $x$-axis. The left edge of $R$ and the right edge of $S$ are on the $y$-axis, and $R$ contains $\frac{9}{4}$ as many lattice points as does $S$. The top two vertices of $T$ are in $R \cup S$, and $T$ contains $\frac{1}{4}$ of the lattice points contained in $R \cup S.$ See the figure (not drawn to scale). The fraction of lattice points in $S$ that are in $S \cap T$ is $27$ times the fraction of lattice points in $R$ that are in $R \cap T$. What is the minimum possible value of the edge length of $R$ plus the edge length of $S$ plus the edge length of $T$? $\textbf{(A) }336\qquad\textbf{(B) }337\qquad\textbf{(C) }338\qquad\textbf{(D) }339\qquad\textbf{(E) }340$ [DIAGRAM]
+
+### 2021FB-23
+PassA: cp-probability-basic | PassB: cp-basic-counting | keywords: cp-probability-basic, geo-polygons, geo-triangle-area | confidence A/B: medium/high
+PassB key idea: Complement: no monochromatic triangle forces each color to be a 5-cycle.
+Each of the $5{ }$ sides and the $5{ }$ diagonals of a regular pentagon are randomly and independently colored red or blue with equal probability. What is the probability that there will be a triangle whose vertices are among the vertices of the pentagon such that all of its sides have the same color? $(\textbf{A})\: \frac23\qquad(\textbf{B}) \: \frac{105}{128}\qquad(\textbf{C}) \: \frac{125}{128}\qquad(\textbf{D}) \: \frac{253}{256}\qquad(\textbf{E}) \: 1$
+
+### 2021FA-12
+PassA: nt-bases | PassB: nt-modular | keywords: nt-modular, nt-bases | confidence A/B: high/high
+PassB key idea: Since 9 ≡ -1 mod 5, take alternating sum of base-9 digits.
+The base-nine representation of the number $N$ is $27{,}006{,}000{,}052_{\text{9}}.$ What is the remainder when $N$ is divided by $5?$ $\textbf{(A) } 0\qquad\textbf{(B) } 1\qquad\textbf{(C) } 2\qquad\textbf{(D) } 3\qquad\textbf{(E) }4$
+
+### 2021B-07
+PassA: geo-shaded-regions | PassB: geo-circle-area | keywords: geo-circle-theorems, misc-logic, geo-coordinate | confidence A/B: medium/high
+PassB key idea: Place circles to maximize exclusive area; nested circles cancel overlap on each side.
+In a plane, four circles with radii $1,3,5,$ and $7$ are tangent to line $\ell$ at the same point $A,$ but they may be on either side of $\ell$. Region $S$ consists of all the points that lie inside exactly one of the four circles. What is the maximum possible area of region $S$? $\textbf{(A) }24\pi \qquad \textbf{(B) }32\pi \qquad \textbf{(C) }64\pi \qquad \textbf{(D) }65\pi \qquad \textbf{(E) }84\pi$
+
+### 2021B-22
+PassA: cp-probability-basic | PassB: cp-inclusion-exclusion | keywords: cp-probability-basic, nt-primes-factorization, nt-fractions-decimals | confidence A/B: high/high
+PassB key idea: Use inclusion-exclusion over boxes receiving three same-colored blocks.
+Ang, Ben, and Jasmin each have $5$ blocks, colored red, blue, yellow, white, and green; and there are $5$ empty boxes. Each of the people randomly and independently of the other two people places one of their blocks into each box. The probability that at least one box receives $3$ blocks all of the same color is $\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. What is $m + n ?$ $\textbf{(A)} ~47 \qquad\textbf{(B)} ~94 \qquad\textbf{(C)} ~227 \qquad\textbf{(D)} ~471 \qquad\textbf{(E)} ~542$
+
+### 2021A-17
+PassA: geo-quadrilaterals | PassB: geo-similar | keywords: nt-divisibility, nt-primes-factorization, geo-similar | confidence A/B: high/high
+PassB key idea: CP ⊥ BD and parallel to AD; similar triangles AOB, COD give lengths.
+Trapezoid $ABCD$ has $\overline{AB} \parallel \overline{CD}$, $BC = CD = 43$, and $\overline{AD} \perp \overline{BD}$. Let $O$ be the intersection of the diagonals $\overline{AC}$ and $\overline{BD}$, and let $P$ be the midpoint of $\overline{BD}$. Given that $OP = 11$, the length $AD$ can be written in the form $m\sqrt{n}$, where $m$ and $n$ are positive integers and $n$ is not divisible by the square of any prime. What is $m + n$? $\textbf{(A)} ~65\qquad\textbf{(B)} ~132\qquad\textbf{(C)} ~157\qquad\textbf{(D)} ~194\qquad\textbf{(E)} ~215$
+
+### 2020A-09
+PassA: nt-gcd-lcm | PassB: nt-divisibility | keywords: cp-permutations, alg-arith-compute | confidence A/B: high/medium
+PassB key idea: Each adult uses 1/7 bench, child 1/11; need integer count of pairs.
+A single bench section at a school event can hold either $7$ adults or $11$ children. When $N$ bench sections are connected end to end, an equal number of adults and children seated together will occupy all the bench space. What is the least possible positive integer value of $N?$ $\textbf{(A) } 9 \qquad \textbf{(B) } 18 \qquad \textbf{(C) } 27 \qquad \textbf{(D) } 36 \qquad \textbf{(E) } 77$
+
+### 2019B-18
+PassA: alg-recursion-patterns | PassB: alg-systems | keywords: alg-absolute-value, alg-rates | confidence A/B: medium/high
+PassB key idea: Limit points satisfy two linear equations from the 3/4 moves.
+Henry decides one morning to do a workout, and he walks $\tfrac{3}{4}$ of the way from his home to his gym. The gym is $2$ kilometers away from Henry's home. At that point, he changes his mind and walks $\tfrac{3}{4}$ of the way from where he is back toward home. When he reaches that point, he changes his mind again and walks $\tfrac{3}{4}$ of the distance from there back toward the gym. If Henry keeps changing his mind when he has walked $\tfrac{3}{4}$ of the distance toward either the gym or home from the point where he last changed his mind, he will get very close to walking back and forth between a point $A$ kilometers from home and a point $B$ kilometers from home. What is $|A-B|$? $\textbf{(A) } \frac{2}{3} \qquad \textbf{(B) } 1 \qquad \textbf{(C) } 1\frac{1}{5} \qquad \textbf{(D) } 1\frac{1}{4} \qquad \textbf{(E) } 1\frac{1}{2}$
+
+### 2019A-19
+PassA: alg-inequalities-optimization | PassB: alg-factoring-identities | keywords: alg-inequalities-optimization, alg-arith-compute | confidence A/B: high/high
+PassB key idea: Pair (x+1)(x+4) and (x+2)(x+3); substitute and complete the square.
+What is the least possible value of \[(x+1)(x+2)(x+3)(x+4)+2019\]where $x$ is a real number? $\textbf{(A) } 2017 \qquad\textbf{(B) } 2018 \qquad\textbf{(C) } 2019 \qquad\textbf{(D) } 2020 \qquad\textbf{(E) } 2021$
+
+### 2018B-11
+PassA: nt-primes-factorization | PassB: nt-modular | keywords: nt-primes-factorization | confidence A/B: high/high
+PassB key idea: Check mod 3: primes other than 3 have p² ≡ 1.
+Which of the following expressions is never a prime number when $p$ is a prime number? $\textbf{(A) }p^2+16 \qquad \textbf{(B) }p^2+24 \qquad \textbf{(C) }p^2+26 \qquad \textbf{(D) }p^2+46 \qquad \textbf{(E) }p^2+96 \qquad$
+
+### 2018A-04
+PassA: cp-permutations | PassB: cp-combinations | keywords: cp-basic-counting | confidence A/B: high/high
+PassB key idea: Choose non-consecutive periods, then order the three courses.
+How many ways can a student schedule $3$ mathematics courses -- algebra, geometry, and number theory -- in a $6$-period day if no two mathematics courses can be taken in consecutive periods? (What courses the student takes during the other $3$ periods is of no concern here.) $\textbf{(A) }3\qquad\textbf{(B) }6\qquad\textbf{(C) }12\qquad\textbf{(D) }18\qquad\textbf{(E) }24$
+
+### 2018A-13
+PassA: geo-transformations | PassB: geo-similar | keywords: geo-transformations, geo-triangle-area | confidence A/B: high/high
+PassB key idea: Crease is the perpendicular bisector of AB; similar right triangles.
+A paper triangle with sides of lengths $3,4,$ and $5$ inches, as shown, is folded so that point $A$ falls on point $B$. What is the length in inches of the crease? $\textbf{(A) } 1+\frac12 \sqrt2 \qquad \textbf{(B) } \sqrt3 \qquad \textbf{(C) } \frac74 \qquad \textbf{(D) } \frac{15}{8} \qquad \textbf{(E) } 2$ [DIAGRAM]
+
+### 2018A-23
+PassA: geo-triangle-area | PassB: geo-coordinate | keywords: geo-pythagorean, geo-angles, geo-quadrilaterals | confidence A/B: medium/medium
+PassB key idea: Distance from the square's corner to hypotenuse via point-line distance.
+Farmer Pythagoras has a field in the shape of a right triangle. The right triangle's legs have lengths $3$ and $4$ units. In the corner where those sides meet at a right angle, he leaves a small unplanted square $S$ so that from the air it looks like the right angle symbol. The rest of the field is planted. The shortest distance from $S$ to the hypotenuse is $2$ units. What fraction of the field is planted? $\textbf{(A) } \frac{25}{27} \qquad \textbf{(B) } \frac{26}{27} \qquad \textbf{(C) } \frac{73}{75} \qquad \textbf{(D) } \frac{145}{147} \qquad \textbf{(E) } \frac{74}{75}$ [DIAGRAM]
+
+### 2017B-25
+PassA: alg-mean-median | PassB: nt-modular | keywords: alg-mean-median | confidence A/B: medium/medium
+PassB key idea: Each partial sum is divisible by its count; work backward from total mod 7, 6.
+Last year Isabella took $7$ math tests and received $7$ different scores, each an integer between $91$ and $100$, inclusive. After each test she noticed that the average of her test scores was an integer. Her score on the seventh test was $95$. What was her score on the sixth test? $\textbf{(A)}\ 92\qquad\textbf{(B)}\ 94\qquad\textbf{(C)}\ 96\qquad\textbf{(D)}\ 98\qquad\textbf{(E)}\ 100$
+
+### 2016B-10
+PassA: geo-similar | PassB: alg-percent-ratio | keywords: geo-triangle-area, alg-linear-word, geo-perimeter-length | confidence A/B: medium/medium
+PassB key idea: Weight is proportional to area, which scales with the square of side.
+A thin piece of wood of uniform density in the shape of an equilateral triangle with side length $3$ inches weighs $12$ ounces. A second piece of the same type of wood, with the same thickness, also in the shape of an equilateral triangle, has side length of $5$ inches. Which of the following is closest to the weight, in ounces, of the second piece? $\textbf{(A)}\ 14.0\qquad\textbf{(B)}\ 16.0\qquad\textbf{(C)}\ 20.0\qquad\textbf{(D)}\ 33.3\qquad\textbf{(E)}\ 55.6$
+
+### 2016A-18
+PassA: misc-magic-squares | PassB: misc-magic-squares | keywords: geo-3d-cubes, geo-transformations, cp-permutations | confidence A/B: medium/medium | suggested new category: Counting up to symmetry
+PassB key idea: Face sum is 18; analyze where 8's edge-neighbors go, counting up to rotation.
+Each vertex of a cube is to be labeled with an integer $1$ through $8$, with each integer being used once, in such a way that the sum of the four numbers on the vertices of a face is the same for each face. Arrangements that can be obtained from each other through rotations of the cube are considered to be the same. How many different arrangements are possible? $\textbf{(A) } 1\qquad\textbf{(B) } 3\qquad\textbf{(C) }6 \qquad\textbf{(D) }12 \qquad\textbf{(E) }24$
+
+### 2015A-11
+PassA: geo-quadrilaterals | PassB: geo-pythagorean | keywords: alg-percent-ratio, geo-quadrilaterals, geo-triangle-area | confidence A/B: high/high
+PassB key idea: A 4:3 rectangle has diagonal in a 3-4-5 ratio.
+The ratio of the length to the width of a rectangle is $4$ : $3$. If the rectangle has diagonal of length $d$, then the area may be expressed as $kd^2$ for some constant $k$. What is $k$? $\textbf{(A)}\ \frac{2}{7}\qquad\textbf{(B)}\ \frac{3}{7}\qquad\textbf{(C)}\ \frac{12}{25}\qquad\textbf{(D)}\ \frac{16}{25}\qquad\textbf{(E)}\ \frac{3}{4}$
+
+### 2014B-06
+PassA: misc-money-everyday | PassB: alg-percent-ratio | keywords: alg-percent-ratio, misc-money-everyday | confidence A/B: high/high
+PassB key idea: Each pair costs 5/3 of a regular price; divide the budget.
+Orvin went to the store with just enough money to buy $30$ balloons. When he arrived, he discovered that the store had a special sale on balloons: buy $1$ balloon at the regular price and get a second at $\frac{1}{3}$ off the regular price. What is the greatest number of balloons Orvin could buy? $\textbf {(A) } 33 \qquad \textbf {(B) } 34 \qquad \textbf {(C) } 36 \qquad \textbf {(D) } 38 \qquad \textbf {(E) } 39$
+
+### 2014A-09
+PassA: geo-pythagorean | PassB: geo-triangle-area | keywords: geo-pythagorean, alg-exponents-radicals, geo-triangle-area | confidence A/B: high/high
+PassB key idea: Compute area two ways: legs product and hypotenuse times altitude.
+The two legs of a right triangle, which are altitudes, have lengths $2\sqrt3$ and $6$. How long is the third altitude of the triangle? $\textbf{(A)}\ 1\qquad\textbf{(B)}\ 2\qquad\textbf{(C)}\ 3\qquad\textbf{(D)}\ 4\qquad\textbf{(E)}\ 5$
+
+### 2014A-19
+PassA: geo-3d-cubes | PassB: geo-similar | keywords: geo-3d-cubes, geo-perimeter-length | confidence A/B: high/medium
+PassB key idea: Find XY by 3D Pythagoras; the portion is proportional to height in cube 3.
+Four cubes with edge lengths $1$, $2$, $3$, and $4$ are stacked as shown. What is the length of the portion of $\overline{XY}$ contained in the cube with edge length $3$? $\textbf{(A)}\ \dfrac{3\sqrt{33}}5\qquad\textbf{(B)}\ 2\sqrt3\qquad\textbf{(C)}\ \dfrac{2\sqrt{33}}3\qquad\textbf{(D)}\ 4\qquad\textbf{(E)}\ 3\sqrt2$
+
+### 2013B-13
+PassA: alg-recursion-patterns | PassB: alg-arith-seq | keywords: misc-games | confidence A/B: high/high
+PassB key idea: Turns contribute 1, 2, 3, ... numbers; use triangular numbers to locate 53rd.
+Jo and Blair take turns counting from $1$ to one more than the last number said by the other person. Jo starts by saying "$1$", so Blair follows by saying "$1, 2$" . Jo then says "$1, 2, 3$" , and so on. What is the 53rd number said? $\textbf{(A)}\ 2\qquad\textbf{(B)}\ 3\qquad\textbf{(C)}\ 5\qquad\textbf{(D)}\ 6\qquad\textbf{(E)}\ 8$
+
+### 2013A-04
+PassA: alg-linear-word | PassB: nt-parity | keywords: misc-process-simulation, alg-rates, cp-basic-counting | confidence A/B: medium/medium
+PassB key idea: Doubling the opponent's score requires an even score, so losses are odd scores.
+A softball team played ten games, scoring 1, 2, 3, 4, 5, 6, 7, 8, 9, and 10 runs. They lost by one run in exactly five games. In each of their other games, they scored twice as many runs as their opponent. How many total runs did their opponents score? $\textbf{(A)}\ 35 \qquad\textbf{(B)}\ 40 \qquad\textbf{(C)}\ 45 \qquad\textbf{(D)}\ 50 \qquad\textbf{(E)}\ 55$
+
+### 2013A-24
+PassA: cp-permutations | PassB: cp-basic-counting | keywords: cp-basic-counting, misc-games, misc-money-everyday | confidence A/B: medium/medium
+PassB key idea: Choose round pairings as Latin-square patterns, then order the rounds.
+Central High School is competing against Northern High School in a backgammon match. Each school has three players, and the contest rules require that each player play two games against each of the other school's players. The match takes place in six rounds, with three games played simultaneously in each round. In how many different ways can the match be scheduled? $\textbf{(A)}\ 540\qquad\textbf{(B)}\ 600\qquad\textbf{(C)}\ 720\qquad\textbf{(D)}\ 810\qquad\textbf{(E)}\ 900$
+
+### 2012B-22
+PassA: cp-permutations | PassB: cp-basic-counting | keywords: cp-inclusion-exclusion, cp-basic-counting, alg-inequalities-optimization | confidence A/B: high/medium
+PassB key idea: Listed numbers always form a block; each new one extends left or right.
+Let $(a_1,a_2, \dots ,a_{10})$ be a list of the first 10 positive integers such that for each $2 \le i \le 10$ either $a_i+1$ or $a_i-1$ or both appear somewhere before $a_i$ in the list. How many such lists are there? $\textbf{(A)}\ 120\qquad\textbf{(B)}\ 512\qquad\textbf{(C)}\ 1024\qquad\textbf{(D)}\ 181,440\qquad\textbf{(E)}\ 362,880$
+
+### 2011B-03
+PassA: geo-quadrilaterals | PassB: alg-inequalities-optimization | keywords: geo-quadrilaterals, cp-recursion-counting, geo-triangle-area | confidence A/B: medium/medium
+PassB key idea: Minimum area uses the smallest possible length and width.
+At a store, when a length is reported as $x$ inches that means the length is at least $x - 0.5$ inches and at most $x + 0.5$ inches. Suppose the dimensions of a rectangular tile are reported as $2$ inches by $3$ inches. In square inches, what is the minimum area for the rectangle? $\textbf{(A)}\ 3.75 \qquad\textbf{(B)}\ 4.5 \qquad\textbf{(C)}\ 5 \qquad\textbf{(D)}\ 6 \qquad\textbf{(E)}\ 8.75$
+
+### 2011B-16
+PassA: cp-geometric-probability | PassB: geo-polygons | keywords: geo-polygons, cp-probability-basic, geo-quadrilaterals | confidence A/B: high/high
+PassB key idea: Split the octagon into square, rectangles, and corner triangles.
+A dart board is a regular octagon divided into regions as shown. Suppose that a dart thrown at the board is equally likely to land anywhere on the board. What is the probability that the dart lands within the center square? $\textbf{(A)}\ \frac{\sqrt{2} - 1}{2} \qquad\textbf{(B)}\ \frac{1}{4} \qquad\textbf{(C)}\ \frac{2 - \sqrt{2}}{2} \qquad\textbf{(D)}\ \frac{\sqrt{2}}{4} \qquad\textbf{(E)}\ 2 - \sqrt{2}$ [DIAGRAM]
+
+### 2011A-11
+PassA: geo-quadrilaterals | PassB: geo-pythagorean | keywords: alg-percent-ratio, geo-quadrilaterals, geo-triangle-area | confidence A/B: high/high
+PassB key idea: Inner square side is the hypotenuse of corner right triangles.
+Square $EFGH$ has one vertex on each side of square $ABCD$. Point $E$ is on $\overline{AB}$ with $AE=7\cdot EB$. What is the ratio of the area of $EFGH$ to the area of $ABCD$? $\textbf{(A)}\,\frac{49}{64} \qquad\textbf{(B)}\,\frac{25}{32} \qquad\textbf{(C)}\,\frac78 \qquad\textbf{(D)}\,\frac{5\sqrt{2}}{8} \qquad\textbf{(E)}\,\frac{\sqrt{14}}{4}$
+
+### 2010B-09
+PassA: alg-arith-compute | PassB: alg-factoring-identities | keywords:  | confidence A/B: high/medium
+PassB key idea: Expand the parentheses and set equal to the left-to-right result.
+Lucky Larry's teacher asked him to substitute numbers for $a$, $b$, $c$, $d$, and $e$ in the expression $a-(b-(c-(d+e)))$ and evaluate the result. Larry ignored the parentheses but added and subtracted correctly and obtained the correct result by coincidence. The numbers Larry substituted for $a$, $b$, $c$, and $d$ were $1$, $2$, $3$, and $4$, respectively. What number did Larry substitute for $e$? $\textbf{(A)}\ -5 \qquad \textbf{(B)}\ -3 \qquad \textbf{(C)}\ 0 \qquad \textbf{(D)}\ 3 \qquad \textbf{(E)}\ 5$
+
+### 2010B-19
+PassA: geo-circle-theorems | PassB: geo-pythagorean | keywords: geo-circle-area, geo-triangle-area, geo-circle-theorems | confidence A/B: high/high
+PassB key idea: Line OA is perpendicular to BC; apply Pythagoras with radius.
+A circle with center $O$ has area $156\pi$. Triangle $ABC$ is equilateral, $\overline{BC}$ is a chord on the circle, $OA = 4\sqrt{3}$, and point $O$ is outside $\triangle ABC$. What is the side length of $\triangle ABC$? $\textbf{(A)}\ 2\sqrt{3} \qquad \textbf{(B)}\ 6 \qquad \textbf{(C)}\ 4\sqrt{3} \qquad \textbf{(D)}\ 12 \qquad \textbf{(E)}\ 18$
+
+### 2010A-25
+PassA: nt-squares-cubes | PassB: misc-process-simulation | keywords: nt-units-digit, nt-digits, geo-quadrilaterals | confidence A/B: medium/medium
+PassB key idea: Work backward finding the smallest start for each extra step.
+Jim starts with a positive integer $n$ and creates a sequence of numbers. Each successive number is obtained by subtracting the largest possible integer square less than or equal to the current number until zero is reached. For example, if Jim starts with $n = 55$, then his sequence contains $5$ numbers: \[\begin{array}{ccccc} {}&{}&{}&{}&55\\ 55&-&7^2&=&6\\ 6&-&2^2&=&2\\ 2&-&1^2&=&1\\ 1&-&1^2&=&0\\ \end{array}\] Let $N$ be the smallest number for which Jim’s sequence has $8$ numbers. What is the units digit of $N$? $\mathrm{(A)}\ 1 \qquad \mathrm{(B)}\ 3 \qquad \mathrm{(C)}\ 5 \qquad \mathrm{(D)}\ 7 \qquad \mathrm{(E)}\ 9$
+
+### 2009A-08
+PassA: alg-percent-ratio | PassB: misc-money-everyday | keywords: alg-percent-ratio, misc-money-everyday, cp-basic-counting | confidence A/B: high/high
+PassB key idea: Find full price from the senior discount, then sum tickets.
+Three generations of the Wen family are going to the movies, two from each generation. The two members of the youngest generation receive a $50$% discount as children. The two members of the oldest generation receive a $25\%$ discount as senior citizens. The two members of the middle generation receive no discount. Grandfather Wen, whose senior ticket costs $\textdollar 6.00$, is paying for everyone. How many dollars must he pay? $\mathrm{(A)}\ 34 \qquad \mathrm{(B)}\ 36 \qquad \mathrm{(C)}\ 42 \qquad \mathrm{(D)}\ 46 \qquad \mathrm{(E)}\ 48$
+
+### 2009A-24
+PassA: cp-probability-basic | PassB: cp-combinations | keywords: cp-probability-basic, geo-3d-cubes, cp-combinations | confidence A/B: high/high
+PassB key idea: Complement: count triples lying on a single face.
+Three distinct vertices of a cube are chosen at random. What is the probability that the plane determined by these three vertices contains points inside the cube? $\mathrm{(A)}\ \frac{1}{4} \qquad \mathrm{(B)}\ \frac{3}{8} \qquad \mathrm{(C)}\ \frac{4}{7} \qquad \mathrm{(D)}\ \frac{5}{7} \qquad \mathrm{(E)}\ \frac{3}{4}$
+
+### 2008B-12
+PassA: alg-arith-compute | PassB: misc-money-everyday | keywords: cp-probability-dice-coins | confidence A/B: medium/medium
+PassB key idea: Total steps = flips times 100000 plus final reading; divide and estimate.
+Postman Pete has a pedometer to count his steps. The pedometer records up to 99999 steps, then flips over to 00000 on the next step. Pete plans to determine his mileage for a year. On January 1 Pete sets the pedometer to 00000. During the year, the pedometer flips from 99999 to 00000 forty-four times. On December 31 the pedometer reads 50000. Pete takes 1800 steps per mile. Which of the following is closest to the number of miles Pete walked during the year? $\mathrm{(A)}\ 2500\qquad\mathrm{(B)}\ 3000\qquad\mathrm{(C)}\ 3500\qquad\mathrm{(D)}\ 4000\qquad\mathrm{(E)}\ 4500$
+
+### 2008A-05
+PassA: alg-arith-compute | PassB: alg-recursion-patterns | keywords:  | confidence A/B: high/medium
+PassB key idea: Telescoping product: each numerator cancels the next denominator.
+Which of the following is equal to the product \[\frac{8}{4}\cdot\frac{12}{8}\cdot\frac{16}{12}\cdot\cdots\cdot\frac{4n+4}{4n}\cdot\cdots\cdot\frac{2008}{2004}?\] $\mathrm{(A)}\ 251\qquad\mathrm{(B)}\ 502\qquad\mathrm{(C)}\ 1004\qquad\mathrm{(D)}\ 2008\qquad\mathrm{(E)}\ 4016$
+
+### 2008A-20
+PassA: geo-triangle-area | PassB: geo-similar | keywords: geo-triangle-area, geo-quadrilaterals | confidence A/B: medium/high
+PassB key idea: Diagonal triangles are similar with ratio 9:12; use area ratios.
+Trapezoid $ABCD$ has bases $\overline{AB}$ and $\overline{CD}$ and diagonals intersecting at $K$. Suppose that $AB = 9$, $DC = 12$, and the area of $\triangle AKD$ is $24$. What is the area of trapezoid $ABCD$? $\mathrm{(A)}\ 92\qquad\mathrm{(B)}\ 94\qquad\mathrm{(C)}\ 96\qquad\mathrm{(D)}\ 98 \qquad\mathrm{(E)}\ 100$
+
+### 2007B-18
+PassA: geo-circle-theorems | PassB: geo-pythagorean | keywords: geo-circle-area | confidence A/B: high/medium
+PassB key idea: Outer centers form a square; diagonal passes through the small circle.
+A circle of radius $1$ is surrounded by $4$ circles of radius $r$ as shown. What is $r$? $\textbf{(A) } \sqrt{2} \qquad\textbf{(B) } 1+\sqrt{2} \qquad\textbf{(C) } \sqrt{6} \qquad\textbf{(D) } 3 \qquad\textbf{(E) } 2+\sqrt{2}$ [DIAGRAM]
+
+### 2007A-01
+PassA: misc-money-everyday | PassB: alg-percent-ratio | keywords: alg-percent-ratio, misc-money-everyday, cp-basic-counting | confidence A/B: high/high
+PassB key idea: Apply each discount to the total ticket cost and compare.
+One ticket to a show costs $\$20$ at full price. Susan buys 4 tickets using a coupon that gives her a $25\%$ discount. Pam buys 5 tickets using a coupon that gives her a $30\%$ discount. How many more dollars does Pam pay than Susan? $\mathrm{(A)}\ 2\qquad \mathrm{(B)}\ 5\qquad \mathrm{(C)}\ 10\qquad \mathrm{(D)}\ 15\qquad \mathrm{(E)}\ 20$
+
+### 2007A-16
+PassA: cp-probability-basic | PassB: nt-parity | keywords: cp-probability-basic, cp-combinations, nt-parity | confidence A/B: high/medium
+PassB key idea: ad-bc is even when ad and bc have the same parity.
+Integers $a, b, c,$ and $d$, not necessarily distinct, are chosen independently and at random from 0 to 2007, inclusive. What is the probability that $ad-bc$ is even? $\mathrm{(A)}\ \frac 38\qquad \mathrm{(B)}\ \frac 7{16}\qquad \mathrm{(C)}\ \frac 12\qquad \mathrm{(D)}\ \frac 9{16}\qquad \mathrm{(E)}\ \frac 58$
+
+### 2006B-08
+PassA: geo-circle-area | PassB: geo-pythagorean | keywords: geo-circle-area, geo-quadrilaterals, geo-circle-theorems | confidence A/B: high/high
+PassB key idea: Radius to a top corner: legs are side and half side.
+A square of area 40 is inscribed in a semicircle as shown. What is the area of the semicircle? $\mathrm{(A) \ } 20\pi\qquad \mathrm{(B) \ } 25\pi\qquad \mathrm{(C) \ } 30\pi\qquad \mathrm{(D) \ } 40\pi\qquad \mathrm{(E) \ } 50\pi$ [DIAGRAM]
+
+### 2006A-13
+PassA: cp-probability-dice-coins | PassB: cp-expected-value | keywords: cp-probability-dice-coins, misc-money-everyday, cp-probability-basic | confidence A/B: high/high
+PassB key idea: Find win probability, then set prize times probability equal to cost.
+A player pays $\textdollar 5$ to play a game. A die is rolled. If the number on the die is odd, the game is lost. If the number on the die is even, the die is rolled again. In this case the player wins if the second number matches the first and loses otherwise. How much should the player win if the game is fair? (In a fair game the probability of winning times the amount won is what the player should pay.) $\mathrm{(A)}\ 12\qquad\mathrm{(B)}\ 30\qquad\mathrm{(C)}\ 50\qquad\mathrm{(D)}\ 60\qquad\mathrm{(E)}\ 100$
+
+### 2005B-17
+PassA: alg-logs | PassB: alg-exponents-radicals | keywords: alg-systems | confidence A/B: high/medium
+PassB key idea: Substitute successively to get 4 raised to abcd equals 8.
+Suppose that $4^a = 5$, $5^b = 6$, $6^c = 7$, and $7^d = 8$. What is $a \cdot b \cdot c \cdot d$? $\mathrm{(A)} 1 \qquad \mathrm{(B)} \frac{3}{2} \qquad \mathrm{(C)} 2 \qquad \mathrm{(D)} \frac{5}{2} \qquad \mathrm{(E)} 3$
+
+### 2005A-04
+PassA: geo-quadrilaterals | PassB: geo-pythagorean | keywords: geo-quadrilaterals, geo-triangle-area | confidence A/B: high/high
+PassB key idea: Width w and length 2w give diagonal squared 5w^2.
+A rectangle with a diagonal of length $x$ is twice as long as it is wide. What is the area of the rectangle? $\textbf{(A) } \frac{1}{4}x^2\qquad \textbf{(B) } \frac{2}{5}x^2\qquad \textbf{(C) } \frac{1}{2}x^2\qquad \textbf{(D) } x^2\qquad \textbf{(E) } \frac{3}{2}x^2$
+
+### 2004B-07
+PassA: alg-percent-ratio | PassB: alg-linear-word | keywords: nt-digits, misc-money-everyday | confidence A/B: high/high
+PassB key idea: Convert at 10/7, subtract 60, set equal to d.
+On a trip from the United States to Canada, Isabella took $d$ U.S. dollars. At the border she exchanged them all, receiving $10$ Canadian dollars for every $7$ U.S. dollars. After spending $60$ Canadian dollars, she had $d$ Canadian dollars left. What is the sum of the digits of $d$? $\mathrm{(A) \ } 5 \qquad \mathrm{(B) \ } 6\qquad \mathrm{(C) \ } 7\qquad \mathrm{(D) \ } 8\qquad \mathrm{(E) \ } 9$
+
+### 2004B-21
+PassA: alg-arith-seq | PassB: cp-inclusion-exclusion | keywords: alg-arith-seq, cp-basic-counting, alg-recursion-patterns | confidence A/B: high/high
+PassB key idea: Common terms form an AP with difference 21; subtract overlap.
+Let $1$; $4$; $\ldots$ and $9$; $16$; $\ldots$ be two arithmetic progressions. The set $S$ is the union of the first $2004$ terms of each sequence. How many distinct numbers are in $S$? $\mathrm{(A) \ } 3722 \qquad \mathrm{(B) \ } 3732 \qquad \mathrm{(C) \ } 3914 \qquad \mathrm{(D) \ } 3924 \qquad \mathrm{(E) \ } 4007$
+
+### 2003B-14
+PassA: nt-squares-cubes | PassB: nt-primes-factorization | keywords: cp-conditional-probability, alg-inequalities-optimization, cp-inclusion-exclusion | confidence A/B: medium/high
+PassB key idea: b must divide gcd of exponents; try the largest b to shrink a.
+Given that $3^8\cdot5^2=a^b,$ where both $a$ and $b$ are positive integers, find the smallest possible value for $a+b$. $\textbf{(A) } 25 \qquad\textbf{(B) } 34 \qquad\textbf{(C) } 351 \qquad\textbf{(D) } 407 \qquad\textbf{(E) } 900$
+
+### 2003A-15
+PassA: cp-probability-basic | PassB: nt-divisibility | keywords: nt-divisibility, cp-probability-basic | confidence A/B: high/high
+PassB key idea: Multiples of 2 minus multiples of 6 up to 100.
+What is the probability that an integer in the set $\{1,2,3,...,100\}$ is divisible by $2$ and not divisible by $3$? $\mathrm{(A) \ } \frac{1}{6}\qquad \mathrm{(B) \ } \frac{33}{100}\qquad \mathrm{(C) \ } \frac{17}{50}\qquad \mathrm{(D) \ } \frac{1}{2}\qquad \mathrm{(E) \ } \frac{18}{25}$
+
+### 2002B-04
+PassA: alg-arith-compute | PassB: alg-factoring-identities | keywords: alg-arith-compute | confidence A/B: high/high
+PassB key idea: Factor out (3x-2) to simplify before substituting.
+What is the value of $(3x-2)(4x+1)-(3x-2)4x+1$ when $x=4$? $\mathrm{(A) \ } 0\qquad \mathrm{(B) \ } 1\qquad \mathrm{(C) \ } 10\qquad \mathrm{(D) \ } 11\qquad \mathrm{(E) \ } 12$
+
+### 2002B-16
+PassA: nt-squares-cubes | PassB: nt-divisibility | keywords: cp-basic-counting, geo-quadrilaterals | confidence A/B: high/medium
+PassB key idea: Solve for n: k^2+1 must divide 20.
+For how many integers $n$ is $\frac{n}{20-n}$ the square of an integer? $\textbf{(A) } 1\qquad \textbf{(B) } 2\qquad \textbf{(C) } 3\qquad \textbf{(D) } 4\qquad \textbf{(E) } 10$
+
+### 2002A-11
+PassA: alg-inequalities-optimization | PassB: alg-inequalities-optimization | keywords:  | confidence A/B: medium/medium | suggested new category: Packing & greedy optimization
+PassB key idea: Pair large files with small ones to fill disks efficiently.
+Jamal wants to store $30$ computer files on floppy disks, each of which has a capacity of $1.44$ megabytes (MB). Three of his files require $0.8$ MB of memory each, $12$ more require $0.7$ MB each, and the remaining $15$ require $0.4$ MB each. No file can be split between floppy disks. What is the minimal number of floppy disks that will hold all the files? $\text{(A)}\ 12 \qquad \text{(B)}\ 13 \qquad \text{(C)}\ 14 \qquad \text{(D)}\ 15 \qquad \text{(E)} 16$
+
+### 2002P-10
+PassA: alg-factoring-identities | PassB: alg-quadratics | keywords:  | confidence A/B: medium/high
+PassB key idea: Divide by b to get an equation in x=a/b; reject x=1.
+Let $a$ and $b$ be distinct real numbers for which \[\frac{a}{b} + \frac{a+10b}{b+10a} = 2.\] Find $\frac{a}{b}$ $\text{(A) }0.6 \qquad \text{(B) }0.7 \qquad \text{(C) }0.8 \qquad \text{(D) }0.9 \qquad \text{(E) }1$
+
+### 2001-17
+PassA: geo-3d-volume | PassB: geo-circle-area | keywords: geo-3d-volume, geo-angles, geo-circle-area | confidence A/B: high/high
+PassB key idea: Sector's arc length becomes base circumference; radius becomes slant height.
+Which of the cones listed below can be formed from a $252^\circ$ sector of a circle of radius $10$ by aligning the two straight sides? $\textbf{(A) } \text{A cone with slant height of 10 and radius 6}$ $\textbf{(B) } \text{A cone with height of 10 and radius 6}$ $\textbf{(C) } \text{A cone with slant height of 10 and radius 7}$ $\textbf{(D) } \text{A cone with height of 10 and radius 7}$ $\textbf{(E) } \text{A cone with slant height of 10 and radius 8}$ [DIAGRAM]
+
+### 2000-17
+PassA: nt-modular | PassB: misc-process-simulation | keywords: misc-process-simulation, alg-linear-word | confidence A/B: high/high
+PassB key idea: Find the invariant: each use changes total value by a fixed amount.
+Boris has an incredible coin changing machine. When he puts in a quarter, it returns five nickels; when he puts in a nickel, it returns five pennies; and when he puts in a penny, it returns five quarters. Boris starts with just one penny. Which of the following amounts could Boris have after using the machine repeatedly? $\textbf{(A) } \$3.63 \qquad \textbf{(B) } \$5.13 \qquad \textbf{(C) } \$6.30 \qquad \textbf{(D) } \$7.45 \qquad \textbf{(E) } \$9.07$
+

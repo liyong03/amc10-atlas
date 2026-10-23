@@ -1,0 +1,87 @@
+[
+ {
+  "id": "2025B-21",
+  "primary": "cp-symmetry-counting",
+  "secondary": [
+   "cp-paths-grids"
+  ],
+  "reason": "audit: Grid colorings counted up to rotations and reflections"
+ },
+ {
+  "id": "2023A-25",
+  "primary": "cp-probability-basic",
+  "secondary": [
+   "geo-3d-cubes",
+   "cp-graph-networks"
+  ],
+  "reason": "audit: Probability via distance counts on icosahedron graph"
+ },
+ {
+  "id": "2020B-17",
+  "primary": "cp-graph-networks",
+  "secondary": [
+   "cp-basic-counting"
+  ],
+  "reason": "audit: Perfect matchings in acquaintance graph"
+ },
+ {
+  "id": "2019A-21",
+  "primary": "geo-3d-spheres",
+  "secondary": [
+   "geo-triangle-centers",
+   "geo-pythagorean"
+  ],
+  "reason": "audit: Sphere tangent to triangle sides; distance in space"
+ },
+ {
+  "id": "2018A-20",
+  "primary": "cp-symmetry-counting",
+  "secondary": [
+   "cp-paths-grids",
+   "geo-transformations"
+  ],
+  "reason": "audit: Count symmetric colorings via cell orbits"
+ },
+ {
+  "id": "2017A-08",
+  "primary": "cp-combinations",
+  "secondary": [
+   "cp-graph-networks"
+  ],
+  "reason": "audit: Handshake count via combinations"
+ },
+ {
+  "id": "2014B-23",
+  "primary": "geo-3d-volume",
+  "secondary": [
+   "geo-3d-spheres",
+   "geo-circle-theorems"
+  ],
+  "reason": "audit: Frustum and sphere volume ratio"
+ },
+ {
+  "id": "2004A-25",
+  "primary": "geo-3d-spheres",
+  "secondary": [
+   "geo-pythagorean",
+   "geo-triangle-centers"
+  ],
+  "reason": "audit: Stacked mutually tangent spheres"
+ },
+ {
+  "id": "2002P-16",
+  "primary": "geo-3d-spheres",
+  "secondary": [
+   "geo-pythagorean"
+  ],
+  "reason": "audit: 3D distance from corner via coordinates"
+ },
+ {
+  "id": "2004A-13",
+  "primary": "cp-graph-networks",
+  "secondary": [
+   "cp-basic-counting"
+  ],
+  "reason": "audit: Double-count edges of bipartite dance graph"
+ }
+]

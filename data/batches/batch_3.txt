@@ -1,0 +1,675 @@
+### 2017B-01
+Mary thought of a positive two-digit number. She multiplied it by $3$ and added $11$. Then she switched the digits of the result, obtaining a number between $71$ and $75$, inclusive. What was Mary's number? $\textbf{(A)}\ 11\qquad\textbf{(B)}\ 12\qquad\textbf{(C)}\ 13\qquad\textbf{(D)}\ 14\qquad\textbf{(E)}\ 15$
+
+### 2017B-02
+Sofia ran $5$ laps around the $400$-meter track at her school. For each lap, she ran the first $100$ meters at an average speed of $4$ meters per second and the remaining $300$ meters at an average speed of $5$ meters per second. How much time did Sofia take running the $5$ laps? $\textbf{(A)}\ \text{5 minutes and 35 seconds}\qquad\textbf{(B)}\ \text{6 minutes and 40 seconds}\qquad\textbf{(C)}\ \text{7 minutes and 5 seconds}\qquad$ $\textbf{(D)}\ \text{7 minutes and 25 seconds}\ \qquad\textbf{(E)}\ \text{8 minutes and 10 seconds}$
+
+### 2017B-03
+Real numbers $x$, $y$, and $z$ satisfy the inequalities $0<x<1$, $-1<y<0$, and $1<z<2$. Which of the following numbers is necessarily positive? $\textbf{(A)}\ y+x^2\qquad\textbf{(B)}\ y+xz\qquad\textbf{(C)}\ y+y^2\qquad\textbf{(D)}\ y+2y^2\qquad\textbf{(E)}\ y+z$
+
+### 2017B-04
+Suppose that $x$ and $y$ are nonzero real numbers such that $\frac{3x+y}{x-3y}=-2$. What is the value of $\frac{x+3y}{3x-y}$? $\textbf{(A)}\ -3\qquad\textbf{(B)}\ -1\qquad\textbf{(C)}\ 1\qquad\textbf{(D)}\ 2\qquad\textbf{(E)}\ 3$
+
+### 2017B-05
+Camilla had twice as many blueberry jelly beans as cherry jelly beans. After eating $10$ pieces of each kind, she now has three times as many blueberry jelly beans as cherry jelly beans. How many blueberry jelly beans did she originally have? $\textbf{(A)}\ 10\qquad\textbf{(B)}\ 20\qquad\textbf{(C)}\ 30\qquad\textbf{(D)}\ 40\qquad\textbf{(E)}\ 50$
+
+### 2017B-06
+What is the largest number of solid $2\text{ in.}$ by $2\text{ in.}$ by $1\text{ in.}$ blocks that can fit in a $3\text{ in.}$ by $2\text{ in.}$ by $3\text{ in.}$ box? $\textbf{(A)}\ 3\qquad\textbf{(B)}\ 4\qquad\textbf{(C)}\ 5\qquad\textbf{(D)}\ 6\qquad\textbf{(E)}\ 7$
+
+### 2017B-07
+Samia set off on her bicycle to visit her friend, traveling at an average speed of $17$ kilometers per hour. When she had gone half the distance to her friend's house, a tire went flat, and she walked the rest of the way at $5$ kilometers per hour. In all it took her $44$ minutes to reach her friend's house. In kilometers rounded to the nearest tenth, how far did Samia walk? $\textbf{(A)}\ 2.0\qquad\textbf{(B)}\ 2.2\qquad\textbf{(C)}\ 2.8\qquad\textbf{(D)}\ 3.4\qquad\textbf{(E)}\ 4.4$
+
+### 2017B-08
+Points $A(11, 9)$ and $B(2, -3)$ are vertices of $\triangle ABC$ with $AB=AC$. The altitude from $A$ meets the opposite side at $D(-1, 3)$. What are the coordinates of point $C$? $\textbf{(A)}\ (-8, 9)\qquad\textbf{(B)}\ (-4, 8)\qquad\textbf{(C)}\ (-4, 9)\qquad\textbf{(D)}\ (-2, 3)\qquad\textbf{(E)}\ (-1, 0)$
+
+### 2017B-09
+A radio program has a quiz consisting of $3$ multiple-choice questions, each with $3$ choices. A contestant wins if he or she gets $2$ or more of the questions right. The contestant answers randomly to each question. What is the probability of winning? $\textbf{(A)}\ \frac{1}{27}\qquad\textbf{(B)}\ \frac{1}{9}\qquad\textbf{(C)}\ \frac{2}{9}\qquad\textbf{(D)}\ \frac{7}{27}\qquad\textbf{(E)}\ \frac{1}{2}$
+
+### 2017B-10
+The lines with equations $ax-2y=c$ and $2x+by=-c$ are perpendicular and intersect at $(1, -5)$. What is $c$? $\textbf{(A)}\ -13\qquad\textbf{(B)}\ -8\qquad\textbf{(C)}\ 2\qquad\textbf{(D)}\ 8\qquad\textbf{(E)}\ 13$
+
+### 2017B-11
+At Typico High School, $60\%$ of the students like dancing, and the rest dislike it. Of those who like dancing, $80\%$ say that they like it, and the rest say that they dislike it. Of those who dislike dancing, $90\%$ say that they dislike it, and the rest say that they like it. What fraction of students who say they dislike dancing actually like it? $\textbf{(A)}\ 10\%\qquad\textbf{(B)}\ 12\%\qquad\textbf{(C)}\ 20\%\qquad\textbf{(D)}\ 25\%\qquad\textbf{(E)}\ 33\frac{1}{3}\%$
+
+### 2017B-12
+Elmer's new car gives $50\%$ better fuel efficiency. However, the new car uses diesel fuel, which is $20\%$ more expensive per liter than the gasoline the old car used. By what percent will Elmer save money if he uses his new car instead of his old car for a long trip? $\textbf{(A) } 20\% \qquad \textbf{(B) } 26\tfrac23\% \qquad \textbf{(C) } 27\tfrac79\% \qquad \textbf{(D) } 33\tfrac13\% \qquad \textbf{(E) } 66\tfrac23\%$
+
+### 2017B-13
+There are $20$ students participating in an after-school program offering classes in yoga, bridge, and painting. Each student must take at least one of these three classes, but may take two or all three. There are $10$ students taking yoga, $13$ taking bridge, and $9$ taking painting. There are $9$ students taking at least two classes. How many students are taking all three classes? $\textbf{(A)}\ 1\qquad\textbf{(B)}\ 2\qquad\textbf{(C)}\ 3\qquad\textbf{(D)}\ 4\qquad\textbf{(E)}\ 5$
+
+### 2017B-14
+An integer $N$ is selected at random in the range $1\leq N \leq 2020$. What is the probability that the remainder when $N^{16}$ is divided by $5$ is $1$? $\textbf{(A)}\ \frac{1}{5}\qquad\textbf{(B)}\ \frac{2}{5}\qquad\textbf{(C)}\ \frac{3}{5}\qquad\textbf{(D)}\ \frac{4}{5}\qquad\textbf{(E)}\ 1$
+
+### 2017B-15
+Rectangle $ABCD$ has $AB=3$ and $BC=4$. Point $E$ is the foot of the perpendicular from $B$ to diagonal $\overline{AC}$. What is the area of $\triangle AED$? $\textbf{(A)}\ 1\qquad\textbf{(B)}\ \frac{42}{25}\qquad\textbf{(C)}\ \frac{28}{15}\qquad\textbf{(D)}\ 2\qquad\textbf{(E)}\ \frac{54}{25}$
+
+### 2017B-16
+How many of the base-ten numerals for the positive integers less than or equal to $2017$ contain the digit $0$? $\textbf{(A)}\ 469\qquad\textbf{(B)}\ 471\qquad\textbf{(C)}\ 475\qquad\textbf{(D)}\ 478\qquad\textbf{(E)}\ 481$
+
+### 2017B-17
+Call a positive integer $\textbf{monotonous}$ if it is a one-digit number or its digits, when read from left to right, form either a strictly increasing or a strictly decreasing sequence. For example, $3$, $23578$, and $987620$ are monotonous, but $88$, $7434$, and $23557$ are not. How many monotonous positive integers are there? $\textbf{(A)}\ 1024\qquad\textbf{(B)}\ 1524\qquad\textbf{(C)}\ 1533\qquad\textbf{(D)}\ 1536\qquad\textbf{(E)}\ 2048$
+
+### 2017B-18
+In the figure below, $3$ of the $6$ disks are to be painted blue, $2$ are to be painted red, and $1$ is to be painted green. Two paintings that can be obtained from one another by a rotation or a reflection of the entire figure are considered the same. How many different paintings are possible? $\textbf{(A)}\ 6\qquad\textbf{(B)}\ 8\qquad\textbf{(C)}\ 9\qquad\textbf{(D)}\ 12\qquad\textbf{(E)}\ 15$ [DIAGRAM]
+
+### 2017B-19
+Let $ABC$ be an equilateral triangle. Extend side $\overline{AB}$ beyond $B$ to a point $B'$ so that $BB'=3 \cdot AB$. Similarly, extend side $\overline{BC}$ beyond $C$ to a point $C'$ so that $CC'=3 \cdot BC$, and extend side $\overline{CA}$ beyond $A$ to a point $A'$ so that $AA'=3 \cdot CA$. What is the ratio of the area of $\triangle A'B'C'$ to the area of $\triangle ABC$? $\textbf{(A)}\ 9:1\qquad\textbf{(B)}\ 16:1\qquad\textbf{(C)}\ 25:1\qquad\textbf{(D)}\ 36:1\qquad\textbf{(E)}\ 37:1$
+
+### 2017B-20
+The number $21!=51,090,942,171,709,440,000$ has over $60,000$ positive integer divisors. One of them is chosen at random. What is the probability that it is odd? $\textbf{(A)}\ \frac{1}{21} \qquad \textbf{(B)}\ \frac{1}{19} \qquad \textbf{(C)}\ \frac{1}{18} \qquad \textbf{(D)}\ \frac{1}{2} \qquad \textbf{(E)}\ \frac{11}{21}$
+
+### 2017B-21
+In $\triangle ABC$, $AB=6$, $AC=8$, $BC=10$, and $D$ is the midpoint of $\overline{BC}$. What is the sum of the radii of the circles inscribed in $\triangle ADB$ and $\triangle ADC$? $\textbf{(A)}\ \sqrt{5}\qquad\textbf{(B)}\ \frac{11}{4}\qquad\textbf{(C)}\ 2\sqrt{2}\qquad\textbf{(D)}\ \frac{17}{6}\qquad\textbf{(E)}\ 3$
+
+### 2017B-22
+The diameter $AB$ of a circle of radius $2$ is extended to a point $D$ outside the circle so that $BD=3$. Point $E$ is chosen so that $ED=5$ and line $ED$ is perpendicular to line $AD$. Segment $AE$ intersects the circle at a point $C$ between $A$ and $E$. What is the area of $\triangle ABC$? $\textbf{(A)}\ \frac{120}{37}\qquad\textbf{(B)}\ \frac{140}{39}\qquad\textbf{(C)}\ \frac{145}{39}\qquad\textbf{(D)}\ \frac{140}{37}\qquad\textbf{(E)}\ \frac{120}{31}$
+
+### 2017B-23
+Let $N=123456789101112\dots4344$ be the $79$-digit number that is formed by writing the integers from $1$ to $44$ in order, one after the other. What is the remainder when $N$ is divided by $45$? $\textbf{(A)}\ 1\qquad\textbf{(B)}\ 4\qquad\textbf{(C)}\ 9\qquad\textbf{(D)}\ 18\qquad\textbf{(E)}\ 44$
+
+### 2017B-24
+The vertices of an equilateral triangle lie on the hyperbola $xy=1$, and a vertex of this hyperbola is the centroid of the triangle. What is the square of the area of the triangle? $\textbf{(A)}\ 48\qquad\textbf{(B)}\ 60\qquad\textbf{(C)}\ 108\qquad\textbf{(D)}\ 120\qquad\textbf{(E)}\ 169$
+
+### 2017B-25
+Last year Isabella took $7$ math tests and received $7$ different scores, each an integer between $91$ and $100$, inclusive. After each test she noticed that the average of her test scores was an integer. Her score on the seventh test was $95$. What was her score on the sixth test? $\textbf{(A)}\ 92\qquad\textbf{(B)}\ 94\qquad\textbf{(C)}\ 96\qquad\textbf{(D)}\ 98\qquad\textbf{(E)}\ 100$
+
+### 2017A-01
+What is the value of $(2(2(2(2(2(2+1)+1)+1)+1)+1)+1)$? $\textbf{(A)}\ 70\qquad\textbf{(B)}\ 97\qquad\textbf{(C)}\ 127\qquad\textbf{(D)}\ 159\qquad\textbf{(E)}\ 729$
+
+### 2017A-02
+Pablo buys popsicles for his friends. The store sells single popsicles for $\$1$ each, $3$-popsicle boxes for $\$2$ each, and $5$-popsicle boxes for $\$3$. What is the greatest number of popsicles that Pablo can buy with $\$8$? $\textbf{(A)}\ 8\qquad\textbf{(B)}\ 11\qquad\textbf{(C)}\ 12\qquad\textbf{(D)}\ 13\qquad\textbf{(E)}\ 15$
+
+### 2017A-03
+Tamara has three rows of two $6$-feet by $2$-feet flower beds in her garden. The beds are separated and also surrounded by $1$-foot-wide walkways, as shown on the diagram. What is the total area of the walkways, in square feet? $\textbf{(A)}\ 72\qquad\textbf{(B)}\ 78\qquad\textbf{(C)}\ 90\qquad\textbf{(D)}\ 120\qquad\textbf{(E)}\ 150$ [DIAGRAM]
+
+### 2017A-04
+Mia is “helping” her mom pick up $30$ toys that are strewn on the floor. Mia’s mom manages to put $3$ toys into the toy box every $30$ seconds, but each time immediately after those $30$ seconds have elapsed, Mia takes $2$ toys out of the box. How much time, in minutes, will it take Mia and her mom to put all $30$ toys into the box for the first time? $\textbf{(A)}\ 13.5\qquad\textbf{(B)}\ 14\qquad\textbf{(C)}\ 14.5\qquad\textbf{(D)}\ 15\qquad\textbf{(E)}\ 15.5$
+
+### 2017A-05
+The sum of two nonzero real numbers is $4$ times their product. What is the sum of the reciprocals of the two numbers? $\textbf{(A)}\ 1\qquad\textbf{(B)}\ 2\qquad\textbf{(C)}\ 4\qquad\textbf{(D)}\ 8\qquad\textbf{(E)}\ 12$
+
+### 2017A-06
+Ms. Carroll promised that anyone who got all the multiple choice questions right on the upcoming exam would receive an A on the exam. Which of these statements necessarily follows logically? $\textbf{(A)}\ \text{If Lewis did not receive an A, then he got all of the multiple choice questions wrong.}\\\textbf{(B)}\ \text{If Lewis did not receive an A, then he got at least one of the multiple choice questions wrong.}\\\textbf{(C)}\ \text{If Lewis got at least one of the multiple choice questions wrong, then he did not receive an A. }\\\textbf{(D)}\ \text{If Lewis received an A, then he got all of the multiple choice questions right.}\\\textbf{(E)}\ \text{If Lewis received an A, then he got at least one of the multiple choice questions right.}$
+
+### 2017A-07
+Jerry and Silvia wanted to go from the southwest corner of a square field to the northeast corner. Jerry walked due east and then due north to reach the goal, but Silvia headed northeast and reached the goal walking in a straight line. Which of the following is closest to how much shorter Silvia's trip was, compared to Jerry's trip? $\textbf{(A)}\ 30\%\qquad\textbf{(B)}\ 40\%\qquad\textbf{(C)}\ 50\%\qquad\textbf{(D)}\ 60\%\qquad\textbf{(E)}\ 70\%$
+
+### 2017A-08
+At a gathering of $30$ people, there are $20$ people who all know each other and $10$ people who know no one. People who know each other hug, and people who do not know each other shake hands. How many handshakes occur? $\textbf{(A)}\ 240\qquad\textbf{(B)}\ 245\qquad\textbf{(C)}\ 290\qquad\textbf{(D)}\ 480\qquad\textbf{(E)}\ 490$
+
+### 2017A-09
+Minnie rides on a flat road at $20$ kilometers per hour (kph), downhill at $30$ kph, and uphill at $5$ kph. Penny rides on a flat road at $30$ kph, downhill at $40$ kph, and uphill at $10$ kph. Minnie goes from town $A$ to town $B$, a distance of $10$ km all uphill, then from town $B$ to town $C$, a distance of $15$ km all downhill, and then back to town $A$, a distance of $20$ km on the flat. Penny goes the other way around using the same route. How many more minutes does it take Minnie to complete the $45$-km ride than it takes Penny? $\textbf{(A)}\ 45\qquad\textbf{(B)}\ 60\qquad\textbf{(C)}\ 65\qquad\textbf{(D)}\ 90\qquad\textbf{(E)}\ 95$
+
+### 2017A-10
+Joy has $30$ thin rods, one each of every integer length from $1$ cm through $30$ cm. She places the rods with lengths $3$ cm, $7$ cm, and $15$ cm on a table. She then wants to choose a fourth rod that she can put with these three to form a quadrilateral with positive area. How many of the remaining rods can she choose as the fourth rod? $\textbf{(A)}\ 16\qquad\textbf{(B)}\ 17\qquad\textbf{(C)}\ 18\qquad\textbf{(D)}\ 19\qquad\textbf{(E)}\ 20$
+
+### 2017A-11
+The region consisting of all points in three-dimensional space within $3$ units of line segment $\overline{AB}$ has volume $216\pi$. What is the length $\textit{AB}$? $\textbf{(A)}\ 6\qquad\textbf{(B)}\ 12\qquad\textbf{(C)}\ 18\qquad\textbf{(D)}\ 20\qquad\textbf{(E)}\ 24$
+
+### 2017A-12
+Let $S$ be a set of points $(x,y)$ in the coordinate plane such that two of the three quantities $3,~x+2,$ and $y-4$ are equal and the third of the three quantities is no greater than this common value. Which of the following is a correct description for $S?$ $\textbf{(A)}\ \text{a single point} \qquad\textbf{(B)}\ \text{two intersecting lines} \\\qquad\textbf{(C)}\ \text{ three lines whose pairwise intersections are three distinct points} \\\qquad\textbf{(D)}\ \text{a triangle} \qquad\textbf{(E)}\ \text{three rays with a common endpoint}$
+
+### 2017A-13
+Define a sequence recursively by $F_{0}=0,~F_{1}=1,$ and $F_{n}=$ the remainder when $F_{n-1}+F_{n-2}$ is divided by $3,$ for all $n\geq 2.$ Thus the sequence starts $0,1,1,2,0,2,\ldots$ What is $F_{2017}+F_{2018}+F_{2019}+F_{2020}+F_{2021}+F_{2022}+F_{2023}+F_{2024}?$ $\textbf{(A)}\ 6\qquad\textbf{(B)}\ 7\qquad\textbf{(C)}\ 8\qquad\textbf{(D)}\ 9\qquad\textbf{(E)}\ 10$
+
+### 2017A-14
+Every week Roger pays for a movie ticket and a soda out of his allowance. Last week, Roger's allowance was $A$ dollars. The cost of his movie ticket was $20\%$ of the difference between $A$ and the cost of his soda, while the cost of his soda was $5\%$ of the difference between $A$ and the cost of his movie ticket. To the nearest whole percent, what fraction of $A$ did Roger pay for his movie ticket and soda? $\textbf{(A)}\ 9\%\qquad\textbf{(B)}\ 19\%\qquad\textbf{(C)}\ 22\%\qquad\textbf{(D)}\ 23\%\qquad\textbf{(E)}\ 25\%$
+
+### 2017A-15
+Chloé chooses a real number uniformly at random from the interval $[0, 2017]$. Independently, Laurent chooses a real number uniformly at random from the interval $[0, 4034]$. What is the probability that Laurent's number is greater than Chloé's number? $\textbf{(A)}\ \frac{1}{2}\qquad\textbf{(B)}\ \frac{2}{3}\qquad\textbf{(C)}\ \frac{3}{4}\qquad\textbf{(D)}\ \frac{5}{6}\qquad\textbf{(E)}\ \frac{7}{8}$
+
+### 2017A-16
+There are 10 horses, named Horse 1, Horse 2, $\ldots$, Horse 10. They get their names from how many minutes it takes them to run one lap around a circular race track: Horse $k$ runs one lap in exactly $k$ minutes. At time 0 all the horses are together at the starting point on the track. The horses start running in the same direction, and they keep running around the circular track at their constant speeds. The least time $S>0$, in minutes, at which all 10 horses will again simultaneously be at the starting point is $S=2520$. Let $T>0$ be the least time, in minutes, such that at least 5 of the horses are again at the starting point. What is the sum of the digits of $T$? $\textbf{(A)}\ 2\qquad\textbf{(B)}\ 3\qquad\textbf{(C)}\ 4\qquad\textbf{(D)}\ 5\qquad\textbf{(E)}\ 6$
+
+### 2017A-17
+Distinct points $P$, $Q$, $R$, $S$ lie on the circle $x^2+y^2=25$ and have integer coordinates. The distances $PQ$ and $RS$ are irrational numbers. What is the greatest possible value of the ratio $\frac{PQ}{RS}$? $\textbf{(A)}\ 3\qquad\textbf{(B)}\ 5\qquad\textbf{(C)}\ 3\sqrt{5}\qquad\textbf{(D)}\ 7\qquad\textbf{(E)}\ 5\sqrt{2}$
+
+### 2017A-18
+Amelia has a coin that lands heads with probability $\tfrac{1}{3}$, and Blaine has a coin that lands on heads with probability $\tfrac{2}{5}$. Amelia and Blaine alternately toss their coins until someone gets a head; the first one to get a head wins. All coin tosses are independent. Amelia goes first. The probability that Amelia wins is $\tfrac{p}{q}$, where $p$ and $q$ are relatively prime positive integers. What is $q-p$? $\textbf{(A)}\ 1\qquad\textbf{(B)}\ 2\qquad\textbf{(C)}\ 3\qquad\textbf{(D)}\ 4\qquad\textbf{(E)}\ 5$
+
+### 2017A-19
+Alice refuses to sit next to either Bob or Carla. Derek refuses to sit next to Eric. How many ways are there for the five of them to sit in a row of 5 chairs under these conditions? $\textbf{(A)}\ 12\qquad\textbf{(B)}\ 16\qquad\textbf{(C)}\ 28\qquad\textbf{(D)}\ 32\qquad\textbf{(E)}\ 40$
+
+### 2017A-20
+Let $S(n)$ equal the sum of the digits of positive integer $n$. For example, $S(1507) = 13$. For a particular positive integer $n$, $S(n) = 1274$. Which of the following could be the value of $S(n+1)$? $\textbf{(A)}\ 1 \qquad\textbf{(B)}\ 3\qquad\textbf{(C)}\ 12\qquad\textbf{(D)}\ 1239\qquad\textbf{(E)}\ 1265$
+
+### 2017A-21
+A square with side length $x$ is inscribed in a right triangle with sides of length $3$, $4$, and $5$ so that one vertex of the square coincides with the right-angle vertex of the triangle. A square with side length $y$ is inscribed in another right triangle with sides of length $3$, $4$, and $5$ so that one side of the square lies on the hypotenuse of the triangle. What is $\tfrac{x}{y}$? $\textbf{(A) } \dfrac{12}{13} \qquad \textbf{(B) } \dfrac{35}{37} \qquad \textbf{(C) } 1 \qquad \textbf{(D) } \dfrac{37}{35} \qquad \textbf{(E) } \dfrac{13}{12}$
+
+### 2017A-22
+Sides $\overline{AB}$ and $\overline{AC}$ of equilateral triangle $ABC$ are tangent to a circle at points $B$ and $C$ respectively. What fraction of the area of $\triangle ABC$ lies outside the circle? $\textbf{(A)}\ \frac{4\sqrt{3}\pi}{27}-\frac{1}{3}\qquad\textbf{(B)}\ \frac{\sqrt{3}}{2}-\frac{\pi}{8}\qquad\textbf{(C)}\ \frac{1}{2}\qquad\textbf{(D)}\ \sqrt{3}-\frac{2\sqrt{3}\pi}{9}\qquad\textbf{(E)}\ \frac{4}{3}-\frac{4\sqrt{3}\pi}{27}$
+
+### 2017A-23
+How many triangles with positive area have all their vertices at points $(i,j)$ in the coordinate plane, where $i$ and $j$ are integers between $1$ and $5$, inclusive? $\textbf{(A)}\ 2128 \qquad\textbf{(B)}\ 2148 \qquad\textbf{(C)}\ 2160 \qquad\textbf{(D)}\ 2200 \qquad\textbf{(E)}\ 2300$
+
+### 2017A-24
+For certain real numbers $a$, $b$, and $c$, the polynomial \[g(x) = x^3 + ax^2 + x + 10\]has three distinct roots, and each root of $g(x)$ is also a root of the polynomial \[f(x) = x^4 + x^3 + bx^2 + 100x + c.\]What is $f(1)$? $\textbf{(A)}\ -9009\qquad\textbf{(B)}\ -8008\qquad\textbf{(C)}\ -7007\qquad\textbf{(D)}\ -6006\qquad\textbf{(E)}\ -5005$
+
+### 2017A-25
+How many integers between $100$ and $999$, inclusive, have the property that some permutation of its digits is a multiple of $11$ between $100$ and $999?$ For example, both $121$ and $211$ have this property. $\textbf{(A)}\ 226\qquad\textbf{(B)}\ 243\qquad\textbf{(C)}\ 270\qquad\textbf{(D)}\ 469\qquad\textbf{(E)}\ 486$
+
+### 2016B-01
+What is the value of $\frac{2a^{-1}+\frac{a^{-1}}{2}}{a}$ when $a= \tfrac{1}{2}$? $\textbf{(A)}\ 1\qquad\textbf{(B)}\ 2\qquad\textbf{(C)}\ \frac{5}{2}\qquad\textbf{(D)}\ 10\qquad\textbf{(E)}\ 20$
+
+### 2016B-02
+If $n\heartsuit m=n^3m^2$, what is $\frac{2\heartsuit 4}{4\heartsuit 2}$? $\textbf{(A)}\ \frac{1}{4}\qquad\textbf{(B)}\ \frac{1}{2}\qquad\textbf{(C)}\ 1\qquad\textbf{(D)}\ 2\qquad\textbf{(E)}\ 4$
+
+### 2016B-03
+Let $x=-2016$. What is the value of \[\bigg| \big||x|-x\big|-|x| \bigg| -x?\] $\textbf{(A)}\ -2016\qquad\textbf{(B)}\ 0\qquad\textbf{(C)}\ 2016\qquad\textbf{(D)}\ 4032\qquad\textbf{(E)}\ 6048$
+
+### 2016B-04
+Zoey read $15$ books, one at a time. The first book took her $1$ day to read, the second book took her $2$ days to read, the third book took her $3$ days to read, and so on, with each book taking her $1$ more day to read than the previous book. Zoey finished the first book on a Monday, and the second on a Wednesday. On what day of the week did she finish her $15$th book? $\textbf{(A)}\ \text{Sunday}\qquad\textbf{(B)}\ \text{Monday}\qquad\textbf{(C)}\ \text{Wednesday}\qquad\textbf{(D)}\ \text{Friday}\qquad\textbf{(E)}\ \text{Saturday}$
+
+### 2016B-05
+The mean age of Amanda's $4$ cousins is $8$, and their median age is $5$. What is the sum of the ages of Amanda's youngest and oldest cousins? $\textbf{(A)}\ 13\qquad\textbf{(B)}\ 16\qquad\textbf{(C)}\ 19\qquad\textbf{(D)}\ 22\qquad\textbf{(E)}\ 25$
+
+### 2016B-06
+Isaac added two three-digit positive integers. All six digits in these numbers are different. Isaac's sum is a three-digit number $S$. What is the smallest possible value for the sum of the digits of $S$? $\textbf{(A)}\ 1\qquad\textbf{(B)}\ 4\qquad\textbf{(C)}\ 5\qquad\textbf{(D)}\ 15\qquad\textbf{(E)}\ 20$
+
+### 2016B-07
+The ratio of the measures of two acute angles is $5:4$, and the complement of one of these two angles is twice as large as the complement of the other. What is the sum of the degree measures of the two angles? $\textbf{(A)}\ 75\qquad\textbf{(B)}\ 90\qquad\textbf{(C)}\ 135\qquad\textbf{(D)}\ 150\qquad\textbf{(E)}\ 270$
+
+### 2016B-08
+What is the tens digit of $2015^{2016}-2017?$ $\textbf{(A)}\ 0 \qquad \textbf{(B)}\ 1 \qquad \textbf{(C)}\ 3 \qquad \textbf{(D)}\ 5 \qquad \textbf{(E)}\ 8$
+
+### 2016B-09
+All three vertices of $\bigtriangleup ABC$ are lying on the parabola defined by $y=x^2$, with $A$ at the origin and $\overline{BC}$ parallel to the $x$-axis. The area of the triangle is $64$. What is the length of $BC$? $\textbf{(A)}\ 4\qquad\textbf{(B)}\ 6\qquad\textbf{(C)}\ 8\qquad\textbf{(D)}\ 10\qquad\textbf{(E)}\ 16$
+
+### 2016B-10
+A thin piece of wood of uniform density in the shape of an equilateral triangle with side length $3$ inches weighs $12$ ounces. A second piece of the same type of wood, with the same thickness, also in the shape of an equilateral triangle, has side length of $5$ inches. Which of the following is closest to the weight, in ounces, of the second piece? $\textbf{(A)}\ 14.0\qquad\textbf{(B)}\ 16.0\qquad\textbf{(C)}\ 20.0\qquad\textbf{(D)}\ 33.3\qquad\textbf{(E)}\ 55.6$
+
+### 2016B-11
+Sola decided to fence in his rectangular garden. He bought $20$ fence posts, placed one on each of the four corners, and spaced out the rest evenly along the edges of the garden, leaving exactly $4$ yards between neighboring posts. The longer side of his garden, including the corners, has twice as many posts as the shorter side, including the corners. What is the area, in square yards, of Sola’s garden? $\textbf{(A)}\ 256\qquad\textbf{(B)}\ 336\qquad\textbf{(C)}\ 384\qquad\textbf{(D)}\ 448\qquad\textbf{(E)}\ 512$
+
+### 2016B-12
+Two different numbers are selected at random from $( 1, 2, 3, 4, 5)$ and multiplied together. What is the probability that the product is even? $\textbf{(A)}\ 0.2\qquad\textbf{(B)}\ 0.4\qquad\textbf{(C)}\ 0.5\qquad\textbf{(D)}\ 0.7\qquad\textbf{(E)}\ 0.8$
+
+### 2016B-13
+At Megapolis Hospital one year, multiple-birth statistics were as follows: Sets of twins, triplets, and quadruplets accounted for $1000$ of the babies born. There were four times as many sets of triplets as sets of quadruplets, and there was three times as many sets of twins as sets of triplets. How many of these $1000$ babies were in sets of quadruplets? $\textbf{(A)}\ 25\qquad\textbf{(B)}\ 40\qquad\textbf{(C)}\ 64\qquad\textbf{(D)}\ 100\qquad\textbf{(E)}\ 160$
+
+### 2016B-14
+How many squares whose sides are parallel to the axis and whose vertices have coordinates that are integers lie entirely within the region bounded by the line $y=\pi x$, the line $y=-0.1$ and the line $x=5.1?$ $\textbf{(A)}\ 30 \qquad \textbf{(B)}\ 41 \qquad \textbf{(C)}\ 45 \qquad \textbf{(D)}\ 50 \qquad \textbf{(E)}\ 57$
+
+### 2016B-15
+All the numbers $1, 2, 3, 4, 5, 6, 7, 8, 9$ are written in a $3\times3$ array of squares, one number in each square, in such a way that if two numbers are consecutive then they occupy squares that share an edge. The numbers in the four corners add up to $18$. What is the number in the center? $\textbf{(A)}\ 5\qquad\textbf{(B)}\ 6\qquad\textbf{(C)}\ 7\qquad\textbf{(D)}\ 8\qquad\textbf{(E)}\ 9$
+
+### 2016B-16
+The sum of an infinite geometric series is a positive number $S$, and the second term in the series is $1$. What is the smallest possible value of $S?$ $\textbf{(A)}\ \frac{1+\sqrt{5}}{2} \qquad \textbf{(B)}\ 2 \qquad \textbf{(C)}\ \sqrt{5} \qquad \textbf{(D)}\ 3 \qquad \textbf{(E)}\ 4$
+
+### 2016B-17
+All the numbers $2, 3, 4, 5, 6, 7$ are assigned to the six faces of a cube, one number to each face. For each of the eight vertices of the cube, a product of three numbers is computed, where the three numbers are the numbers assigned to the three faces that include that vertex. What is the greatest possible value of the sum of these eight products? $\textbf{(A)}\ 312 \qquad \textbf{(B)}\ 343 \qquad \textbf{(C)}\ 625 \qquad \textbf{(D)}\ 729 \qquad \textbf{(E)}\ 1680$
+
+### 2016B-18
+In how many ways can $345$ be written as the sum of an increasing sequence of two or more consecutive positive integers? $\textbf{(A)}\ 1\qquad\textbf{(B)}\ 3\qquad\textbf{(C)}\ 5\qquad\textbf{(D)}\ 6\qquad\textbf{(E)}\ 7$
+
+### 2016B-19
+Rectangle $ABCD$ has $AB=5$ and $BC=4$. Point $E$ lies on $\overline{AB}$ so that $EB=1$, point $G$ lies on $\overline{BC}$ so that $CG=1$. and point $F$ lies on $\overline{CD}$ so that $DF=2$. Segments $\overline{AG}$ and $\overline{AC}$ intersect $\overline{EF}$ at $Q$ and $P$, respectively. What is the value of $\frac{PQ}{EF}$? $\textbf{(A)}~\frac{\sqrt{13}}{16} \qquad \textbf{(B)}~\frac{\sqrt{2}}{13} \qquad \textbf{(C)}~\frac{9}{82} \qquad \textbf{(D)}~\frac{10}{91}\qquad \textbf{(E)}~\frac19$ [DIAGRAM]
+
+### 2016B-20
+A dilation of the plane—that is, a size transformation with a positive scale factor—sends the circle of radius $2$ centered at $A(2,2)$ to the circle of radius $3$ centered at $A’(5,6)$. What distance does the origin $O(0,0)$, move under this transformation? $\textbf{(A)}\ 0\qquad\textbf{(B)}\ 3\qquad\textbf{(C)}\ \sqrt{13}\qquad\textbf{(D)}\ 4\qquad\textbf{(E)}\ 5$
+
+### 2016B-21
+What is the area of the region enclosed by the graph of the equation $x^2+y^2=|x|+|y|?$ $\textbf{(A)}\ \pi+\sqrt{2}\qquad\textbf{(B)}\ \pi+2\qquad\textbf{(C)}\ \pi+2\sqrt{2}\qquad\textbf{(D)}\ 2\pi+\sqrt{2}\qquad\textbf{(E)}\ 2\pi+2\sqrt{2}$
+
+### 2016B-22
+A set of teams held a round-robin tournament in which every team played every other team exactly once. Every team won $10$ games and lost $10$ games; there were no ties. How many sets of three teams $\{A, B, C\}$ were there in which $A$ beat $B$, $B$ beat $C$, and $C$ beat $A?$ $\textbf{(A)}\ 385 \qquad \textbf{(B)}\ 665 \qquad \textbf{(C)}\ 945 \qquad \textbf{(D)}\ 1140 \qquad \textbf{(E)}\ 1330$
+
+### 2016B-23
+In regular hexagon $ABCDEF$, points $W$, $X$, $Y$, and $Z$ are chosen on sides $\overline{BC}$, $\overline{CD}$, $\overline{EF}$, and $\overline{FA}$ respectively, so lines $AB$, $ZW$, $YX$, and $ED$ are parallel and equally spaced. What is the ratio of the area of hexagon $WCXYFZ$ to the area of hexagon $ABCDEF$? $\textbf{(A)}\ \frac{1}{3}\qquad\textbf{(B)}\ \frac{10}{27}\qquad\textbf{(C)}\ \frac{11}{27}\qquad\textbf{(D)}\ \frac{4}{9}\qquad\textbf{(E)}\ \frac{13}{27}$
+
+### 2016B-24
+How many four-digit integers $abcd$, with $a \neq 0$, have the property that the three two-digit integers $ab<bc<cd$ form an increasing arithmetic sequence? One such number is $4692$, where $a=4$, $b=6$, $c=9$, and $d=2$. $\textbf{(A)}\ 9\qquad\textbf{(B)}\ 15\qquad\textbf{(C)}\ 16\qquad\textbf{(D)}\ 17\qquad\textbf{(E)}\ 20$
+
+### 2016B-25
+Let $f(x)=\sum_{k=2}^{10}(\lfloor kx \rfloor -k \lfloor x \rfloor)$, where $\lfloor r \rfloor$ denotes the greatest integer less than or equal to $r$. How many distinct values does $f(x)$ assume for $x \ge 0$? $\textbf{(A)}\ 32\qquad\textbf{(B)}\ 36\qquad\textbf{(C)}\ 45\qquad\textbf{(D)}\ 46\qquad\textbf{(E)}\ \text{infinitely many}$
+
+### 2016A-01
+What is the value of $\dfrac{11!-10!}{9!}$? $\textbf{(A)}\ 99\qquad\textbf{(B)}\ 100\qquad\textbf{(C)}\ 110\qquad\textbf{(D)}\ 121\qquad\textbf{(E)}\ 132$
+
+### 2016A-02
+For what value $x$ does $10^{x}\cdot 100^{2x}=1000^{5}$? $\textbf{(A)}\ 1 \qquad\textbf{(B)}\ 2\qquad\textbf{(C)}\ 3\qquad\textbf{(D)}\ 4\qquad\textbf{(E)}\ 5$
+
+### 2016A-03
+For every dollar Ben spent on bagels, David spent $25$ cents less. Ben paid $\$12.50$ more than David. How much did they spend in the bagel store together? $\textbf{(A)}\ \$37.50 \qquad\textbf{(B)}\ \$50.00\qquad\textbf{(C)}\ \$87.50\qquad\textbf{(D)}\ \$90.00\qquad\textbf{(E)}\ \$92.50$
+
+### 2016A-04
+The remainder can be defined for all real numbers $x$ and $y$ with $y \neq 0$ by \[\text{rem} (x ,y)=x-y\left \lfloor \frac{x}{y} \right \rfloor\]where $\left \lfloor \dfrac{x}{y} \right \rfloor$ denotes the greatest integer less than or equal to $\dfrac{x}{y}$. What is the value of $\text{rem}\left(\dfrac{3}{8}, -\dfrac{2}{5}\right)$? $\textbf{(A) } -\frac{3}{8} \qquad \textbf{(B) } -\frac{1}{40} \qquad \textbf{(C) } 0 \qquad \textbf{(D) } \frac{3}{8} \qquad \textbf{(E) } \frac{31}{40}$
+
+### 2016A-05
+A rectangular box has integer side lengths in the ratio $1: 3: 4$. Which of the following could be the volume of the box? $\textbf{(A)}\ 48\qquad\textbf{(B)}\ 56\qquad\textbf{(C)}\ 64\qquad\textbf{(D)}\ 96\qquad\textbf{(E)}\ 144$
+
+### 2016A-06
+Ximena lists the whole numbers $1$ through $30$ once. Emilio copies Ximena's numbers, replacing each occurrence of the digit $2$ by the digit $1$. Ximena adds her numbers and Emilio adds his numbers. How much larger is Ximena's sum than Emilio's? $\textbf{(A)}\ 13\qquad\textbf{(B)}\ 26\qquad\textbf{(C)}\ 102\qquad\textbf{(D)}\ 103\qquad\textbf{(E)}\ 110$
+
+### 2016A-07
+The mean, median, and mode of the $7$ data values $60, 100, x, 40, 50, 200, 90$ are all equal to $x$. What is the value of $x$? $\textbf{(A)}\ 50 \qquad\textbf{(B)}\ 60 \qquad\textbf{(C)}\ 75 \qquad\textbf{(D)}\ 90 \qquad\textbf{(E)}\ 100$
+
+### 2016A-08
+Trickster Rabbit agrees with Foolish Fox to double Fox's money every time Fox crosses the bridge by Rabbit's house, as long as Fox pays $40$ coins in toll to Rabbit after each crossing. The payment is made after the doubling, Fox is excited about his good fortune until he discovers that all his money is gone after crossing the bridge three times. How many coins did Fox have at the beginning? $\textbf{(A)}\ 20 \qquad\textbf{(B)}\ 30\qquad\textbf{(C)}\ 35\qquad\textbf{(D)}\ 40\qquad\textbf{(E)}\ 45$
+
+### 2016A-09
+A triangular array of $2016$ coins has $1$ coin in the first row, $2$ coins in the second row, $3$ coins in the third row, and so on up to $N$ coins in the $N$th row. What is the sum of the digits of $N$? $\textbf{(A)}\ 6\qquad\textbf{(B)}\ 7\qquad\textbf{(C)}\ 8\qquad\textbf{(D)}\ 9\qquad\textbf{(E)}\ 10$
+
+### 2016A-10
+A rug is made with three different colors as shown. The areas of the three differently colored regions form an arithmetic progression. The inner rectangle is one foot wide, and each of the two shaded regions is $1$ foot wide on all four sides. What is the length in feet of the inner rectangle? $\textbf{(A) } 1 \qquad \textbf{(B) } 2 \qquad \textbf{(C) } 4 \qquad \textbf{(D) } 6 \qquad \textbf{(E) }8$ [DIAGRAM]
+
+### 2016A-11
+Find the area of the shaded region. $\textbf{(A)}\ 4\dfrac{3}{5} \qquad \textbf{(B)}\ 5\qquad \textbf{(C)}\ 5\dfrac{1}{4} \qquad \textbf{(D)}\ 6\dfrac{1}{2} \qquad \textbf{(E)}\ 8$ [DIAGRAM]
+
+### 2016A-12
+Three distinct integers are selected at random between $1$ and $2016$, inclusive. Which of the following is a correct statement about the probability $p$ that the product of the three integers is odd? $\textbf{(A)}\ p<\dfrac{1}{8}\qquad\textbf{(B)}\ p=\dfrac{1}{8}\qquad\textbf{(C)}\ \dfrac{1}{8}<p<\dfrac{1}{3}\qquad\textbf{(D)}\ p=\dfrac{1}{3}\qquad\textbf{(E)}\ p>\dfrac{1}{3}$
+
+### 2016A-13
+Five friends sat in a movie theater in a row containing $5$ seats, numbered $1$ to $5$ from left to right. (The directions "left" and "right" are from the point of view of the people as they sit in the seats.) During the movie Ada went to the lobby to get some popcorn. When she returned, she found that Bea had moved two seats to the right, Ceci had moved one seat to the left, and Dee and Edie had switched seats, leaving an end seat for Ada. In which seat had Ada been sitting before she got up? $\textbf{(A) }1 \qquad \textbf{(B) } 2 \qquad \textbf{(C) } 3 \qquad \textbf{(D) } 4\qquad \textbf{(E) } 5$
+
+### 2016A-14
+How many ways are there to write $2016$ as the sum of twos and threes, ignoring order? (For example, $1008\cdot 2 + 0\cdot 3$ and $402\cdot 2 + 404\cdot 3$ are two such ways.) $\textbf{(A)}\ 236\qquad\textbf{(B)}\ 336\qquad\textbf{(C)}\ 337\qquad\textbf{(D)}\ 403\qquad\textbf{(E)}\ 672$
+
+### 2016A-15
+Seven cookies of radius $1$ inch are cut from a circle of cookie dough, as shown. Neighboring cookies are tangent, and all except the center cookie are tangent to the edge of the dough. The leftover scrap is reshaped to form another cookie of the same thickness. What is the radius in inches of the scrap cookie? $\textbf{(A) } \sqrt{2} \qquad \textbf{(B) } 1.5 \qquad \textbf{(C) } \sqrt{\pi} \qquad \textbf{(D) } \sqrt{2\pi} \qquad \textbf{(E) } \pi$ [DIAGRAM]
+
+### 2016A-16
+A triangle with vertices $A(0, 2)$, $B(-3, 2)$, and $C(-3, 0)$ is reflected about the $x$-axis, then the image $\triangle A'B'C'$ is rotated counterclockwise about the origin by $90^{\circ}$ to produce $\triangle A''B''C''$. Which of the following transformations will return $\triangle A''B''C''$ to $\triangle ABC$? $\textbf{(A)}$ counterclockwise rotation about the origin by $90^{\circ}$. $\textbf{(B)}$ clockwise rotation about the origin by $90^{\circ}$. $\textbf{(C)}$ reflection about the $x$-axis $\textbf{(D)}$ reflection about the line $y = x$ $\textbf{(E)}$ reflection about the $y$-axis.
+
+### 2016A-17
+Let $N$ be a positive multiple of $5$. One red ball and $N$ green balls are arranged in a line in random order. Let $P(N)$ be the probability that at least $\tfrac{3}{5}$ of the green balls are on the same side of the red ball. Observe that $P(5)=1$ and that $P(N)$ approaches $\tfrac{4}{5}$ as $N$ grows large. What is the sum of the digits of the least value of $N$ such that $P(N) < \tfrac{321}{400}$? $\textbf{(A) } 12 \qquad \textbf{(B) } 14 \qquad \textbf{(C) }16 \qquad \textbf{(D) } 18 \qquad \textbf{(E) } 20$
+
+### 2016A-18
+Each vertex of a cube is to be labeled with an integer $1$ through $8$, with each integer being used once, in such a way that the sum of the four numbers on the vertices of a face is the same for each face. Arrangements that can be obtained from each other through rotations of the cube are considered to be the same. How many different arrangements are possible? $\textbf{(A) } 1\qquad\textbf{(B) } 3\qquad\textbf{(C) }6 \qquad\textbf{(D) }12 \qquad\textbf{(E) }24$
+
+### 2016A-19
+In rectangle $ABCD,$ $AB=6$ and $BC=3$. Point $E$ between $B$ and $C$, and point $F$ between $E$ and $C$ are such that $BE=EF=FC$. Segments $\overline{AE}$ and $\overline{AF}$ intersect $\overline{BD}$ at $P$ and $Q$, respectively. The ratio $BP:PQ:QD$ can be written as $r:s:t$ where the greatest common factor of $r,s$ and $t$ is 1. What is $r+s+t$? $\textbf{(A) } 7 \qquad \textbf{(B) } 9 \qquad \textbf{(C) } 12 \qquad \textbf{(D) } 15 \qquad \textbf{(E) } 20$
+
+### 2016A-20
+For some particular value of $N$, when $(a+b+c+d+1)^N$ is expanded and like terms are combined, the resulting expression contains exactly $1001$ terms that include all four variables $a, b,c,$ and $d$, each to some positive power. What is $N$? $\textbf{(A) }9 \qquad \textbf{(B) } 14 \qquad \textbf{(C) } 16 \qquad \textbf{(D) } 17 \qquad \textbf{(E) } 19$
+
+### 2016A-21
+Circles with centers $P, Q$ and $R$, having radii $1, 2$ and $3$, respectively, lie on the same side of line $l$ and are tangent to $l$ at $P', Q'$ and $R'$, respectively, with $Q'$ between $P'$ and $R'$. The circle with center $Q$ is externally tangent to each of the other two circles. What is the area of triangle $PQR$? $\textbf{(A) } 0\qquad \textbf{(B) } \sqrt{6}/3\qquad\textbf{(C) } 1\qquad\textbf{(D) } \sqrt{6}-\sqrt{2}\qquad\textbf{(E) }\sqrt{6}/2$
+
+### 2016A-22
+For some positive integer $n$, the number $110n^3$ has $110$ positive integer divisors, including $1$ and the number $110n^3$. How many positive integer divisors does the number $81n^4$ have? $\textbf{(A) }110\qquad\textbf{(B) }191\qquad\textbf{(C) }261\qquad\textbf{(D) }325\qquad\textbf{(E) }425$
+
+### 2016A-23
+A binary operation $\diamondsuit$ has the properties that $a\,\diamondsuit\, (b\,\diamondsuit \,c) = (a\,\diamondsuit \,b)\cdot c$ and that $a\,\diamondsuit \,a=1$ for all nonzero real numbers $a, b,$ and $c$. (Here $\cdot$ represents multiplication). The solution to the equation $2016 \,\diamondsuit\, (6\,\diamondsuit\, x)=100$ can be written as $\tfrac{p}{q}$, where $p$ and $q$ are relatively prime positive integers. What is $p+q?$ $\textbf{(A) }109\qquad\textbf{(B) }201\qquad\textbf{(C) }301\qquad\textbf{(D) }3049\qquad\textbf{(E) }33,601$
+
+### 2016A-24
+A quadrilateral is inscribed in a circle of radius $200\sqrt{2}$. Three of the sides of this quadrilateral have length $200$. What is the length of the fourth side? $\textbf{(A) }200\qquad \textbf{(B) }200\sqrt{2}\qquad\textbf{(C) }200\sqrt{3}\qquad\textbf{(D) }300\sqrt{2}\qquad\textbf{(E) } 500$
+
+### 2016A-25
+How many ordered triples $(x,y,z)$ of positive integers satisfy $\text{lcm}(x,y) = 72, \text{lcm}(x,z) = 600$ and $\text{lcm}(y,z)=900$? $\textbf{(A)}\ 15\qquad\textbf{(B)}\ 16\qquad\textbf{(C)}\ 24\qquad\textbf{(D)}\ 27\qquad\textbf{(E)}\ 64$
+
+### 2015B-01
+What is the value of $2-(-2)^{-2}$? $\textbf{(A) } -2 \qquad\textbf{(B) } \dfrac{1}{16} \qquad\textbf{(C) } \dfrac{7}{4} \qquad\textbf{(D) } \dfrac{9}{4} \qquad\textbf{(E) } 6$
+
+### 2015B-02
+Marie does three equally time-consuming tasks in a row without taking breaks. She begins the first task at 1:00 PM and finishes the second task at 2:40 PM. When does she finish the third task? $\textbf{(A) }\text{3:10 PM}\qquad\textbf{(B) }\text{3:30 PM}\qquad\textbf{(C) }\text{4:00 PM}\qquad\textbf{(D) }\text{4:10 PM}\qquad\textbf{(E) }\text{4:30 PM}$
+
+### 2015B-03
+Isaac has written down one integer two times and another integer three times. The sum of the five numbers is $100$, and one of the numbers is $28.$ What is the other number? $\textbf{(A) } 8 \qquad\textbf{(B) } 11 \qquad\textbf{(C) } 14 \qquad\textbf{(D) } 15 \qquad\textbf{(E) } 18$
+
+### 2015B-04
+Four siblings ordered an extra large pizza. Alex ate $\frac15$, Beth $\frac13$, and Cyril $\frac14$ of the pizza. Dan got the leftovers. What is the sequence of the siblings in decreasing order of the part of pizza they consumed? $\textbf{(A) } \text{Alex, Beth, Cyril, Dan}$ $\textbf{(B) } \text{Beth, Cyril, Alex, Dan}$ $\textbf{(C) } \text{Beth, Cyril, Dan, Alex}$ $\textbf{(D) } \text{Beth, Dan, Cyril, Alex}$ $\textbf{(E) } \text{Dan, Beth, Cyril, Alex}$
+
+### 2015B-05
+David, Hikmet, Jack, Marta, Rand, and Todd were in a $12$-person race with $6$ other people. Rand finished $6$ places ahead of Hikmet. Marta finished $1$ place behind Jack. David finished $2$ places behind Hikmet. Jack finished $2$ places behind Todd. Todd finished $1$ place behind Rand. Marta finished in $6$th place. Who finished in $8$th place? $\textbf{(A) } \text{David} \qquad\textbf{(B) } \text{Hikmet} \qquad\textbf{(C) } \text{Jack} \qquad\textbf{(D) } \text{Rand} \qquad\textbf{(E) } \text{Todd}$
+
+### 2015B-06
+Marley practices exactly one sport each day of the week. She runs three days a week but never on two consecutive days. On Monday she plays basketball and two days later golf. She swims and plays tennis, but she never plays tennis the day after running or swimming. Which day of the week does Marley swim? $\textbf{(A) } \text{Sunday} \qquad\textbf{(B) } \text{Tuesday} \qquad\textbf{(C) } \text{Thursday} \qquad\textbf{(D) } \text{Friday} \qquad\textbf{(E) } \text{Saturday}$
+
+### 2015B-07
+Consider the operation "minus the reciprocal of," defined by $a\diamond b=a-\frac{1}{b}$. What is $((1\diamond2)\diamond3)-(1\diamond(2\diamond3))$? $\textbf{(A) } -\dfrac{7}{30} \qquad\textbf{(B) } -\dfrac{1}{6} \qquad\textbf{(C) } 0 \qquad\textbf{(D) } \dfrac{1}{6} \qquad\textbf{(E) } \dfrac{7}{30}$
+
+### 2015B-08
+The letter F shown below is rotated $90^\circ$ clockwise around the origin, then reflected in the $y$-axis, and then rotated a half turn around the origin. What is the final image? [DIAGRAM]
+
+### 2015B-09
+The shaded region below is called a shark's fin falcata, a figure studied by Leonardo da Vinci. It is bounded by the portion of the circle of radius $3$ and center $(0,0)$ that lies in the first quadrant, the portion of the circle with radius $\tfrac{3}{2}$ and center $(0,\tfrac{3}{2})$ that lies in the first quadrant, and the line segment from $(0,0)$ to $(3,0)$. What is the area of the shark's fin falcata? $\textbf{(A) } \dfrac{4\pi}{5} \qquad\textbf{(B) } \dfrac{9\pi}{8} \qquad\textbf{(C) } \dfrac{4\pi}{3} \qquad\textbf{(D) } \dfrac{7\pi}{5} \qquad\textbf{(E) } \dfrac{3\pi}{2}$ [DIAGRAM]
+
+### 2015B-10
+What is the sign and units digit of the product of all the odd negative integers strictly greater than $-2015$? $\textbf{(A) } \text{It is a negative number ending with a 1.}$ $\textbf{(B) } \text{It is a positive number ending with a 1.}$ $\textbf{(C) } \text{It is a negative number ending with a 5.}$ $\textbf{(D) } \text{It is a positive number ending with a 5.}$ $\textbf{(E) } \text{It is a negative number ending with a 0.}$
+
+### 2015B-11
+Among the positive integers less than $100$, each of whose digits is a prime number, one is selected at random. What is the probability that the selected number is prime? $\textbf{(A) } \dfrac{8}{99} \qquad\textbf{(B) } \dfrac{2}{5} \qquad\textbf{(C) } \dfrac{9}{20} \qquad\textbf{(D) } \dfrac{1}{2} \qquad\textbf{(E) } \dfrac{9}{16}$
+
+### 2015B-12
+For how many integers $x$ is the point $(x,-x)$ inside or on the circle of radius $10$ centered at $(5,5)$? $\textbf{(A) } 11 \qquad\textbf{(B) } 12 \qquad\textbf{(C) } 13 \qquad\textbf{(D) } 14 \qquad\textbf{(E) } 15$
+
+### 2015B-13
+The line $12x+5y=60$ forms a triangle with the coordinate axes. What is the sum of the lengths of the altitudes of this triangle? $\textbf{(A) } 20 \qquad\textbf{(B) } \dfrac{360}{17} \qquad\textbf{(C) } \dfrac{107}{5} \qquad\textbf{(D) } \dfrac{43}{2} \qquad\textbf{(E) } \dfrac{281}{13}$
+
+### 2015B-14
+Let $a$, $b$, and $c$ be three distinct one-digit numbers. What is the maximum value of the sum of the roots of the equation $(x-a)(x-b)+(x-b)(x-c)=0$? $\textbf{(A) } 15 \qquad\textbf{(B) } 15.5 \qquad\textbf{(C) } 16 \qquad\textbf{(D) } 16.5 \qquad\textbf{(E) } 17$
+
+### 2015B-15
+The town of Hamlet has $3$ people for each horse, $4$ sheep for each cow, and $3$ ducks for each person. Which of the following could not possibly be the total number of people, horses, sheep, cows, and ducks in Hamlet? $\textbf{(A) } 41 \qquad\textbf{(B) } 47 \qquad\textbf{(C) } 59 \qquad\textbf{(D) } 61 \qquad\textbf{(E) } 66$
+
+### 2015B-16
+Al, Bill, and Cal will each randomly be assigned a whole number from $1$ to $10$, inclusive, with no two of them getting the same number. What is the probability that Al's number will be a whole number multiple of Bill's and Bill's number will be a whole number multiple of Cal's? $\textbf{(A) } \dfrac{9}{1000} \qquad\textbf{(B) } \dfrac{1}{90} \qquad\textbf{(C) } \dfrac{1}{80} \qquad\textbf{(D) } \dfrac{1}{72} \qquad\textbf{(E) } \dfrac{2}{121}$
+
+### 2015B-17
+When the centers of the faces of the right rectangular prism shown below are joined to create an octahedron, what is the volume of the octahedron? $\textbf{(A) } \dfrac{75}{12} \qquad\textbf{(B) } 10 \qquad\textbf{(C) } 12 \qquad\textbf{(D) } 10\sqrt2 \qquad\textbf{(E) } 15$ [DIAGRAM]
+
+### 2015B-18
+Johann has $64$ fair coins. He flips all the coins. Any coin that lands on tails is tossed again. Coins that land on tails on the second toss are tossed a third time. What is the expected number of coins that are now heads? $\textbf{(A) } 32 \qquad\textbf{(B) } 40 \qquad\textbf{(C) } 48 \qquad\textbf{(D) } 56 \qquad\textbf{(E) } 64$
+
+### 2015B-19
+In $\triangle{ABC}$, $\angle{C} = 90^{\circ}$ and $AB = 12$. Squares $ABXY$ and $ACWZ$ are constructed outside of the triangle. The points $X, Y, Z$, and $W$ lie on a circle. What is the perimeter of the triangle? $\textbf{(A)}\ 12+9\sqrt{3}\qquad\textbf{(B)}\ 18+6\sqrt{3}\qquad\textbf{(C)}\ 12+12\sqrt{2}\qquad\textbf{(D)}\ 30\qquad\textbf{(E)}\ 32$
+
+### 2015B-20
+Erin the ant starts at a given corner of a cube and crawls along exactly $7$ edges in such a way that she visits every corner exactly once and then finds that she is unable to return along an edge to her starting point. How many paths are there meeting these conditions? $\textbf{(A) }\text{6}\qquad\textbf{(B) }\text{9}\qquad\textbf{(C) }\text{12}\qquad\textbf{(D) }\text{18}\qquad\textbf{(E) }\text{24}$
+
+### 2015B-21
+Cozy the Cat and Dash the Dog are going up a staircase with a certain number of steps. However, instead of walking up the steps one at a time, both Cozy and Dash jump. Cozy goes two steps up with each jump (though if necessary, he will just jump the last step). Dash goes five steps up with each jump (though if necessary, he will just jump the last steps if there are fewer than 5 steps left). Suppose Dash takes 19 fewer jumps than Cozy to reach the top of the staircase. Let $s$ denote the sum of all possible numbers of steps this staircase can have. What is the sum of the digits of $s$? $\textbf{(A) } 9 \qquad\textbf{(B) } 11 \qquad\textbf{(C) } 12 \qquad\textbf{(D) } 13 \qquad\textbf{(E) } 15$
+
+### 2015B-22
+In the figure shown below, $ABCDE$ is a regular pentagon and $AG=1$. What is $FG+JH+CD$? $\textbf{(A) } 3 \qquad\textbf{(B) } 12-4\sqrt5 \qquad\textbf{(C) } \dfrac{5+2\sqrt5}{3} \qquad\textbf{(D) } 1+\sqrt5 \qquad\textbf{(E) } \dfrac{11+11\sqrt5}{10}$ [DIAGRAM]
+
+### 2015B-23
+Let $n$ be a positive integer greater than 4 such that the decimal representation of $n!$ ends in $k$ zeros and the decimal representation of $(2n)!$ ends in $3k$ zeros. Let $s$ denote the sum of the four least possible values of $n$. What is the sum of the digits of $s$? $\textbf{(A) }7\qquad\textbf{(B) }8\qquad\textbf{(C) }9\qquad\textbf{(D) }10\qquad\textbf{(E) }11$
+
+### 2015B-24
+Aaron the ant walks on the coordinate plane according to the following rules. He starts at the origin $p_0=(0,0)$ facing to the east and walks one unit, arriving at $p_1=(1,0)$. For $n=1,2,3,\dots$, right after arriving at the point $p_n$, if Aaron can turn $90^\circ$ left and walk one unit to an unvisited point $p_{n+1}$, he does that. Otherwise, he walks one unit straight ahead to reach $p_{n+1}$. Thus the sequence of points continues $p_2=(1,1), p_3=(0,1), p_4=(-1,1), p_5=(-1,0)$, and so on in a counterclockwise spiral pattern. What is $p_{2015}$? $\textbf{(A) } (-22,-13)\qquad\textbf{(B) } (-13,-22)\qquad\textbf{(C) } (-13,22)\qquad\textbf{(D) } (13,-22)\qquad\textbf{(E) } (22,-13)$
+
+### 2015B-25
+A rectangular box measures $a \times b \times c$, where $a,$ $b,$ and $c$ are integers and $1 \leq a \leq b \leq c$. The volume and surface area of the box are numerically equal. How many ordered triples $(a,b,c)$ are possible? $\textbf{(A) }4\qquad\textbf{(B) }10\qquad\textbf{(C) }12\qquad\textbf{(D) }21\qquad\textbf{(E) }26$
+
+### 2015A-01
+What is the value of $(2^0-1+5^2+0)^{-1}\times5?$ $\textbf{(A)}\ -125\qquad\textbf{(B)}\ -120\qquad\textbf{(C)}\ \frac{1}{5}\qquad\textbf{(D)}\ \frac{5}{24}\qquad\textbf{(E)}\ 25$
+
+### 2015A-02
+A box contains a collection of triangular and square tiles. There are $25$ tiles in the box, containing $84$ edges total. How many square tiles are there in the box? $\textbf{(A)}\ 3\qquad\textbf{(B)}\ 5\qquad\textbf{(C)}\ 7\qquad\textbf{(D)}\ 9\qquad\textbf{(E)}\ 11$
+
+### 2015A-03
+Ann made a 3-step staircase using 18 toothpicks as shown in the figure. How many toothpicks does she need to add to complete a 5-step staircase? $\textbf{(A)}\ 9\qquad\textbf{(B)}\ 18\qquad\textbf{(C)}\ 20\qquad\textbf{(D)}\ 22\qquad\textbf{(E)}\ 24$ [DIAGRAM]
+
+### 2015A-04
+Pablo, Sofia, and Mia got some candy eggs at a party. Pablo had three times as many eggs as Sofia, and Sofia had twice as many eggs as Mia. Pablo decides to give some of his eggs to Sofia and Mia so that all three will have the same number of eggs. What fraction of his eggs should Pablo give to Sofia? $\textbf{(A)}\ \frac{1}{12}\qquad\textbf{(B)}\ \frac{1}{6}\qquad\textbf{(C)}\ \frac{1}{4}\qquad\textbf{(D)}\ \frac{1}{3}\qquad\textbf{(E)}\ \frac{1}{2}$
+
+### 2015A-05
+Mr. Patrick teaches math to $15$ students. He was grading tests and found that when he graded everyone's test except Payton's, the average grade for the class was $80$. After he graded Payton's test, the test average became $81$. What was Payton's score on the test? $\textbf{(A)}\ 81\qquad\textbf{(B)}\ 85\qquad\textbf{(C)}\ 91\qquad\textbf{(D)}\ 94\qquad\textbf{(E)}\ 95$
+
+### 2015A-06
+The sum of two positive numbers is $5$ times their difference. What is the ratio of the larger number to the smaller number? $\textbf{(A)}\ \frac{5}{4}\qquad\textbf{(B)}\ \frac{3}{2}\qquad\textbf{(C)}\ \frac{9}{5}\qquad\textbf{(D)}\ 2 \qquad\textbf{(E)}\ \frac{5}{2}$
+
+### 2015A-07
+How many terms are there in the arithmetic sequence $13$, $16$, $19$, . . ., $70$, $73$? $\textbf{(A)}\ 20\qquad\textbf{(B)}\ 21\qquad\textbf{(C)}\ 24\qquad\textbf{(D)}\ 60\qquad\textbf{(E)}\ 61$
+
+### 2015A-08
+Two years ago Pete was three times as old as his cousin Claire. 2 years before that, Pete was four times as old as Claire. In how many years will the ratio of their ages be $2$ : $1$? $\textbf{(A)}\ 2\qquad\textbf{(B)}\ 4\qquad\textbf{(C)}\ 5\qquad\textbf{(D)}\ 6\qquad\textbf{(E)}\ 8$
+
+### 2015A-09
+Two right circular cylinders have the same volume. The radius of the second cylinder is $10\%$ more than the radius of the first. What is the relationship between the heights of the two cylinders? $\textbf{(A)}\ \text{The second height is } 10\% \text{ less than the first.}$ $\textbf{(B)}\ \text{The first height is } 10\% \text{ more than the second.}$ $\textbf{(C)}\ \text{The second height is } 21\% \text{ less than the first.}$ $\textbf{(D)}\ \text{The first height is } 21\% \text{ more than the second.}$ $\textbf{(E)}\ \text{The second height is } 80\% \text{ of the first.}$
+
+### 2015A-10
+How many rearrangements of $abcd$ are there in which no two adjacent letters are also adjacent letters in the alphabet? For example, no such rearrangements could include either $ab$ or $ba$. $\textbf{(A)}\ 0\qquad\textbf{(B)}\ 1\qquad\textbf{(C)}\ 2\qquad\textbf{(D)}\ 3\qquad\textbf{(E)}\ 4$
+
+### 2015A-11
+The ratio of the length to the width of a rectangle is $4$ : $3$. If the rectangle has diagonal of length $d$, then the area may be expressed as $kd^2$ for some constant $k$. What is $k$? $\textbf{(A)}\ \frac{2}{7}\qquad\textbf{(B)}\ \frac{3}{7}\qquad\textbf{(C)}\ \frac{12}{25}\qquad\textbf{(D)}\ \frac{16}{25}\qquad\textbf{(E)}\ \frac{3}{4}$
+
+### 2015A-12
+Points $(\sqrt{\pi}, a)$ and $(\sqrt{\pi}, b)$ are distinct points on the graph of $y^2+x^4=2x^2y+1$. What is $|a-b|$? $\textbf{(A) }1\qquad\textbf{(B) }\dfrac{\pi}{2}\qquad\textbf{(C) }2\qquad\textbf{(D) }\sqrt{1+\pi}\qquad\textbf{(E) }1+\sqrt{\pi}$
+
+### 2015A-13
+Claudia has 12 coins, each of which is a 5-cent coin or a 10-cent coin. There are exactly 17 different values that can be obtained as combinations of one or more of her coins. How many 10-cent coins does Claudia have? $\textbf{(A) }3\qquad\textbf{(B) }4\qquad\textbf{(C) }5\qquad\textbf{(D) }6\qquad\textbf{(E) }7$
+
+### 2015A-14
+The diagram below shows the circular face of a clock with radius $20$ cm and a circular disk with radius $10$ cm externally tangent to the clock face at $12$ o'clock. The disk has an arrow painted on it, initially pointing in the upward vertical direction. Let the disk roll clockwise around the clock face. At what point on the clock face will the disk be tangent when the arrow is next pointing in the upward vertical direction? $\textbf{(A) }\mathrm{2 o'clock} \qquad\textbf{(B) }\mathrm{3 o'clock} \qquad\textbf{(C) }\mathrm{4 o'clock} \qquad\textbf{(D) }\mathrm{6 o'clock} \qquad\textbf{(E) }\mathrm{8 o'clock}$ [DIAGRAM]
+
+### 2015A-15
+Consider the set of all fractions $\tfrac{x}{y},$ where $x$ and $y$ are relatively prime positive integers. How many of these fractions have the property that if both numerator and denominator are increased by $1$, the value of the fraction is increased by $10\%$? $\textbf{(A) }0\qquad\textbf{(B) }1\qquad\textbf{(C) }2\qquad\textbf{(D) }3\qquad\textbf{(E) }\text{infinitely many}$
+
+### 2015A-16
+If $y+4 = (x-2)^2, x+4 = (y-2)^2$, and $x \neq y$, what is the value of $x^2+y^2$? $\textbf{(A) }10\qquad\textbf{(B) }15\qquad\textbf{(C) }20\qquad\textbf{(D) }25\qquad\textbf{(E) }\text{30}$
+
+### 2015A-17
+A line that passes through the origin intersects both the line $x=1$ and the line $y=1+\frac{\sqrt{3}}{3}x$. The three lines create an equilateral triangle. What is the perimeter of the triangle? $\textbf{(A) }2\sqrt{6}\qquad\textbf{(B) }2+2\sqrt{3}\qquad\textbf{(C) }6\qquad\textbf{(D) }3+2\sqrt{3}\qquad\textbf{(E) }6+\frac{\sqrt{3}}{3}$
+
+### 2015A-18
+Hexadecimal (base-16) numbers are written using numeric digits $0$ through $9$ as well as the letters $A$ through $F$ to represent $10$ through $15$. Among the first $1000$ positive integers, there are $n$ whose hexadecimal representation contains only numeric digits. What is the sum of the digits of $n$? $\textbf{(A) }17\qquad\textbf{(B) }18\qquad\textbf{(C) }19\qquad\textbf{(D) }20\qquad\textbf{(E) }21$
+
+### 2015A-19
+The isosceles right triangle $ABC$ has right angle at $C$ and area $12.5$. The rays trisecting $\angle ACB$ intersect $AB$ at $D$ and $E$. What is the area of $\bigtriangleup CDE$? $\textbf{(A) }\dfrac{5\sqrt{2}}{3}\qquad\textbf{(B) }\dfrac{50\sqrt{3}-75}{4}\qquad\textbf{(C) }\dfrac{15\sqrt{3}}{8}\qquad\textbf{(D) }\dfrac{50-25\sqrt{3}}{2}\qquad\textbf{(E) }\dfrac{25}{6}$
+
+### 2015A-20
+A rectangle with positive integer side lengths in $\text{cm}$ has area $A$ $\text{cm}^2$ and perimeter $P$ $\text{cm}$. Which of the following numbers cannot equal $A+P$? $\textbf{(A) }100\qquad\textbf{(B) }102\qquad\textbf{(C) }104\qquad\textbf{(D) }106\qquad\textbf{(E) }108$ Note:[edit] As it originally appeared in the AMC 10, this problem was stated incorrectly and had no answer; it has been modified here to be solvable. This is the original question: A rectangle with side lengths in $\text{cm}$ has an area of integer $A$ $\text{cm}^2$ and a perimeter of integer $P$ $\text{cm}$. Which of the following numbers cannot equal $A+P$? $\textbf{(A) }100\qquad\textbf{(B) }102\qquad\textbf{(C) }104\qquad\textbf{(D) }106\qquad\textbf{(E) }108$
+
+### 2015A-21
+Tetrahedron $ABCD$ has $AB=5$, $AC=3$, $BC=4$, $BD=4$, $AD=3$, and $CD=\tfrac{12}5\sqrt2$. What is the volume of the tetrahedron? $\textbf{(A) }3\sqrt2\qquad\textbf{(B) }2\sqrt5\qquad\textbf{(C) }\dfrac{24}5\qquad\textbf{(D) }3\sqrt3\qquad\textbf{(E) }\dfrac{24}5\sqrt2$
+
+### 2015A-22
+Eight people are sitting around a circular table, each holding a fair coin. All eight people flip their coins and those who flip heads stand while those who flip tails remain seated. What is the probability that no two adjacent people will stand? $\textbf{(A)}\dfrac{47}{256}\qquad\textbf{(B)}\dfrac{3}{16}\qquad\textbf{(C) }\dfrac{49}{256}\qquad\textbf{(D) }\dfrac{25}{128}\qquad\textbf{(E) }\dfrac{51}{256}$
+
+### 2015A-23
+The zeroes of the function $f(x)=x^2-ax+2a$ are integers. What is the sum of the possible values of $a$? $\textbf{(A) }7\qquad\textbf{(B) }8\qquad\textbf{(C) }16\qquad\textbf{(D) }17\qquad\textbf{(E) }18$
+
+### 2015A-24
+For some positive integers $p$, there is a quadrilateral $ABCD$ with positive integer side lengths, perimeter $p$, right angles at $B$ and $C$, $AB=2$, and $CD=AD$. How many different values of $p<2015$ are possible? $\textbf{(A) }30\qquad\textbf{(B) }31\qquad\textbf{(C) }61\qquad\textbf{(D) }62\qquad\textbf{(E) }63$
+
+### 2015A-25
+Let $S$ be a square of side length $1$. Two points are chosen at random on the sides of $S$. The probability that the straight-line distance between the points is at least $\tfrac12$ is $\tfrac{a-b\pi}c$, where $a$, $b$, and $c$ are positive integers with $\gcd(a,b,c)=1$. What is $a+b+c$? $\textbf{(A) }59\qquad\textbf{(B) }60\qquad\textbf{(C) }61\qquad\textbf{(D) }62\qquad\textbf{(E) }63$
+
+### 2014B-01
+Leah has $13$ coins, all of which are pennies and nickels. If she had one more nickel than she has now, then she would have the same number of pennies as nickels. In cents, how much are Leah's coins worth? $\textbf {(A) } 33 \qquad \textbf {(B) } 35 \qquad \textbf {(C) } 37 \qquad \textbf {(D) } 39 \qquad \textbf {(E) } 41$
+
+### 2014B-02
+What is $\frac{2^3 + 2^3}{2^{-3} + 2^{-3}}$? $\textbf {(A) } 16 \qquad \textbf {(B) } 24 \qquad \textbf {(C) } 32 \qquad \textbf {(D) } 48 \qquad \textbf {(E) } 64$
+
+### 2014B-03
+Peter drove the first third of his trip on a gravel road, the next $20$ miles on pavement, and the remaining one-fifth on a dirt road. In miles how long was Peter's trip? $\textbf {(A) } 30 \qquad \textbf {(B) } \frac{400}{11} \qquad \textbf {(C) } \frac{75}{2} \qquad \textbf {(D) } 40 \qquad \textbf {(E) } \frac{300}{7}$
+
+### 2014B-04
+Susie pays for $4$ muffins and $3$ bananas. Calvin spends twice as much paying for $2$ muffins and $16$ bananas. A muffin is how many times as expensive as a banana? $\textbf {(A) } \frac{3}{2} \qquad \textbf {(B) } \frac{5}{3} \qquad \textbf {(C) } \frac{7}{4} \qquad \textbf {(D) } 2 \qquad \textbf {(E) } \frac{13}{4}$
+
+### 2014B-05
+Camden constructs a square window using $8$ equal-size panes of glass, as shown. The ratio of the height to width for each pane is $5 : 2$, and the borders around and between the panes are $2$ inches wide. In inches, what is the side length of the square window? $\textbf{(A)}\ 26\qquad\textbf{(B)}\ 28\qquad\textbf{(C)}\ 30\qquad\textbf{(D)}\ 32\qquad\textbf{(E)}\ 34$ [DIAGRAM]
+
+### 2014B-06
+Orvin went to the store with just enough money to buy $30$ balloons. When he arrived, he discovered that the store had a special sale on balloons: buy $1$ balloon at the regular price and get a second at $\frac{1}{3}$ off the regular price. What is the greatest number of balloons Orvin could buy? $\textbf {(A) } 33 \qquad \textbf {(B) } 34 \qquad \textbf {(C) } 36 \qquad \textbf {(D) } 38 \qquad \textbf {(E) } 39$
+
+### 2014B-07
+Suppose $A>B>0$ and $A$ is $x\%$ greater than $B$. What is $x$? $\textbf {(A) } 100\left(\frac{A-B}{B}\right) \qquad \textbf {(B) } 100\left(\frac{A+B}{B}\right) \qquad \textbf {(C) } 100\left(\frac{A+B}{A}\right)\qquad \textbf {(D) } 100\left(\frac{A-B}{A}\right) \qquad \textbf {(E) } 100\left(\frac{A}{B}\right)$
+
+### 2014B-08
+A truck travels $\frac{b}{6}$ feet every $t$ seconds. There are $3$ feet in a yard. How many yards does the truck travel in $3$ minutes? $\textbf {(A) } \frac{b}{1080t} \qquad \textbf {(B) } \frac{30t}{b} \qquad \textbf {(C) } \frac{30b}{t}\qquad \textbf {(D) } \frac{10t}{b} \qquad \textbf {(E) } \frac{10b}{t}$
+
+### 2014B-09
+For real numbers $w$ and $z$, \[\frac{\frac{1}{w} + \frac{1}{z}}{\frac{1}{w} - \frac{1}{z}} = 2014.\] What is $\frac{w+z}{w-z}$? $\textbf{(A) } -2014 \qquad\textbf{(B) } \frac{-1}{2014} \qquad\textbf{(C) } \frac{1}{2014} \qquad\textbf{(D) } 1 \qquad\textbf{(E) } 2014$
+
+### 2014B-10
+In the addition shown below $A, B, C,$ and $D$ are distinct digits. How many different values are possible for $D$? \[\begin{array}{lr}&ABBCB\\ +& BCADA\\ \hline & DBDDD\end{array}\] $\textbf{(A) }2\qquad\textbf{(B) }4\qquad\textbf{(C) }7\qquad\textbf{(D) }8\qquad\textbf{(E) }9$
+
+### 2014B-11
+For the consumer, a single discount of $n\%$ is more advantageous than any of the following discounts: (1) two successive $15\%$ discounts (2) three successive $10\%$ discounts (3) a $25\%$ discount followed by a $5\%$ discount What is the smallest possible positive integer value of $n$? $\textbf{(A)}\ \ 27\qquad\textbf{(B)}\ 28\qquad\textbf{(C)}\ 29\qquad\textbf{(D)}\ 31\qquad\textbf{(E)}\ 33$
+
+### 2014B-12
+The largest divisor of $2,014,000,000$ is itself. What is its fifth largest divisor? $\textbf{(A)}\ \ 125,875,000\qquad\textbf{(B)}\ 201,400,000\qquad\textbf{(C)}\ 251,750,000\qquad\textbf{(D)}\ 402,800,000\qquad\textbf{(E)}\ 503,500,000$
+
+### 2014B-13
+Six regular hexagons surround a regular hexagon of side length $1$ as shown. What is the area of $\triangle ABC$? $\textbf {(A) } 2\sqrt{3} \qquad \textbf {(B) } 3\sqrt{3} \qquad \textbf {(C) } 1+3\sqrt{2} \qquad \textbf {(D) } 2+2\sqrt{3} \qquad \textbf {(E) } 3+2\sqrt{3}$ [DIAGRAM]
+
+### 2014B-14
+Danica drove her new car on a trip for a whole number of hours, averaging $55$ miles per hour. At the beginning of the trip, $abc$ miles was displayed on the odometer, where $abc$ is a 3-digit number with $a \ge 1$ and $a + b + c \le 7$. At the end of the trip, the odometer showed $cba$ miles. What is $a^2 + b^2 + c^2$ ? $\textbf {(A) } 26 \qquad \textbf {(B) } 27 \qquad \textbf {(C) } 36 \qquad \textbf {(D) } 37 \qquad \textbf {(E) }41$
+
+### 2014B-15
+In rectangle $ABCD$, $DC=2 \cdot CB$ and points $E$ and $F$ lie on $\overline{AB}$ so that $\overline{ED}$ and $\overline{FD}$ trisect $\angle ADC$ as shown. What is the ratio of the area of $\triangle DEF$ to the area of rectangle $ABCD$? $\textbf{(A)}\ \ \frac{\sqrt{3}}{6}\qquad\textbf{(B)}\ \frac{\sqrt{6}}{8}\qquad\textbf{(C)}\ \frac{3\sqrt{3}}{16}\qquad\textbf{(D)}\ \frac{1}{3}\qquad\textbf{(E)}\ \frac{\sqrt{2}}{4}$ [DIAGRAM]
+
+### 2014B-16
+Four fair six-sided dice are rolled. What is the probability that at least three of the four dice show the same value? $\textbf {(A) } \frac{1}{36} \qquad \textbf {(B) } \frac{7}{72} \qquad \textbf {(C) } \frac{1}{9}\qquad \textbf {(D) } \frac{5}{36} \qquad \textbf {(E) } \frac{1}{6}$
+
+### 2014B-17
+What is the greatest power of $2$ that is a factor of $10^{1002} - 4^{501}$? $\textbf{(A) } 2^{1002} \qquad\textbf{(B) } 2^{1003} \qquad\textbf{(C) } 2^{1004} \qquad\textbf{(D) } 2^{1005} \qquad\textbf{(E) }2^{1006}$
+
+### 2014B-18
+A list of $11$ positive integers has a mean of $10$, a median of $9$, and a unique mode of $8$. What is the largest possible value of an integer in the list? $\textbf {(A) } 24 \qquad \textbf {(B) } 30 \qquad \textbf {(C) } 31\qquad \textbf {(D) } 33 \qquad \textbf {(E) } 35$
+
+### 2014B-19
+Two concentric circles have radii $1$ and $2$. Two points on the outer circle are chosen independently and uniformly at random. What is the probability that the chord joining the two points intersects the inner circle? $\textbf{(A) }\frac{1}{6}\qquad\textbf{(B) }\frac{1}{4}\qquad\textbf{(C) }\frac{2-\sqrt{2}}{2}\qquad\textbf{(D) }\frac{1}{3}\qquad\textbf{(E) }\frac{1}{2}\qquad$
+
+### 2014B-20
+For how many integers $x$ is the number $x^4 - 51x^2 + 50$ negative? $\textbf {(A) } 8 \qquad \textbf {(B) } 10 \qquad \textbf {(C) } 12\qquad \textbf {(D) } 14 \qquad \textbf {(E) }16$
+
+### 2014B-21
+Trapezoid $ABCD$ has parallel sides $\overline{AB}$ of length $33$ and $\overline{CD}$ of length $21$. The other two sides are of lengths $10$ and $14$. The angles at $A$ and $B$ are acute. What is the length of the shorter diagonal of $ABCD$? $\textbf{(A) } 10\sqrt{6} \qquad\textbf{(B) } 25 \qquad\textbf{(C) } 8\sqrt{10} \qquad\textbf{(D) } 18\sqrt{2} \qquad\textbf{(E) } 26$
+
+### 2014B-22
+Eight semicircles line the inside of a square with side length 2 as shown. What is the radius of the circle tangent to all of these semicircles? $\text{(A) } \dfrac{1+\sqrt2}4 \quad \text{(B) } \dfrac{\sqrt5-1}2 \quad \text{(C) } \dfrac{\sqrt3+1}4 \quad \text{(D) } \dfrac{2\sqrt3}5 \quad \text{(E) } \dfrac{\sqrt5}3$ [DIAGRAM]
+
+### 2014B-23
+A sphere is inscribed in a truncated right circular cone as shown. The volume of the truncated cone is twice that of the sphere. What is the ratio of the radius of the bottom base of the truncated cone to the radius of the top base of the truncated cone? $\text{(A) } \dfrac32 \quad \text{(B) } \dfrac{1+\sqrt5}2 \quad \text{(C) } \sqrt3 \quad \text{(D) } 2 \quad \text{(E) } \dfrac{3+\sqrt5}2$ [DIAGRAM]
+
+### 2014B-24
+The numbers 1, 2, 3, 4, 5 are to be arranged in a circle. An arrangement is bad if it is not true that for every $n$ from $1$ to $15$ one can find a subset of the numbers that appear consecutively on the circle that sum to $n$. Arrangements that differ only by a rotation or a reflection are considered the same. How many different bad arrangements are there? $\textbf {(A) } 1 \qquad \textbf {(B) } 2 \qquad \textbf {(C) } 3 \qquad \textbf {(D) } 4 \qquad \textbf {(E) } 5$
+
+### 2014B-25
+In a small pond there are eleven lily pads in a row labeled $0$ through $10$. A frog is sitting on pad $1$. When the frog is on pad $N$, $0<N<10$, it will jump to pad $N-1$ with probability $\frac{N}{10}$ and to pad $N+1$ with probability $1-\frac{N}{10}$. Each jump is independent of the previous jumps. If the frog reaches pad $0$ it will be eaten by a patiently waiting snake. If the frog reaches pad $10$ it will exit the pond, never to return. What is the probability that the frog will escape without being eaten by the snake? $\textbf {(A) } \frac{32}{79} \qquad \textbf {(B) } \frac{161}{384} \qquad \textbf {(C) } \frac{63}{146} \qquad \textbf {(D) } \frac{7}{16} \qquad \textbf {(E) } \frac{1}{2}$
+
+### 2014A-01
+What is $10 \cdot \left(\tfrac{1}{2} + \tfrac{1}{5} + \tfrac{1}{10}\right)^{-1}?$ $\textbf{(A)}\ 3\qquad\textbf{(B)}\ 8\qquad\textbf{(C)}\ \frac{25}{2}\qquad\textbf{(D)}\ \frac{170}{3}\qquad\textbf{(E)}\ 170$
+
+### 2014A-02
+Roy's cat eats $\frac{1}{3}$ of a can of cat food every morning and $\frac{1}{4}$ of a can of cat food every evening. Before feeding his cat on Monday morning, Roy opened a box containing $6$ cans of cat food. On what day of the week did the cat finish eating all the cat food in the box? $\textbf{(A)}\ \text{Tuesday}\qquad\textbf{(B)}\ \text{Wednesday}\qquad\textbf{(C)}\ \text{Thursday}\qquad\textbf{(D)}\ \text{Friday}\qquad\textbf{(E)}\ \text{Saturday}$
+
+### 2014A-03
+Bridget bakes 48 loaves of bread for her bakery. She sells half of them in the morning for $\textdollar 2.50$ each. In the afternoon she sells two thirds of what she has left, and because they are not fresh, she charges only half price. In the late afternoon she sells the remaining loaves at a dollar each. Each loaf costs $\textdollar 0.75$ for her to make. In dollars, what is her profit for the day? $\textbf{(A)}\ 24\qquad\textbf{(B)}\ 36\qquad\textbf{(C)}\ 44\qquad\textbf{(D)}\ 48\qquad\textbf{(E)}\ 52$
+
+### 2014A-04
+Walking down Jane Street, Ralph passed four houses in a row, each painted a different color. He passed the orange house before the red house, and he passed the blue house before the yellow house. The blue house was not next to the yellow house. How many orderings of the colored houses are possible? $\textbf{(A)}\ 2\qquad\textbf{(B)}\ 3\qquad\textbf{(C)}\ 4\qquad\textbf{(D)}\ 5\qquad\textbf{(E)}\ 6$
+
+### 2014A-05
+On an algebra quiz, $10\%$ of the students scored $70$ points, $35\%$ scored $80$ points, $30\%$ scored $90$ points, and the rest scored $100$ points. What is the difference between the mean and median score of the students' scores on this quiz? $\textbf{(A)}\ 1\qquad\textbf{(B)}\ 2\qquad\textbf{(C)}\ 3\qquad\textbf{(D)}\ 4\qquad\textbf{(E)}\ 5$
+
+### 2014A-06
+Suppose that $a$ cows give $b$ gallons of milk in $c$ days. At this rate, how many gallons of milk will $d$ cows give in $e$ days? $\textbf{(A)}\ \frac{bde}{ac}\qquad\textbf{(B)}\ \frac{ac}{bde}\qquad\textbf{(C)}\ \frac{abde}{c}\qquad\textbf{(D)}\ \frac{bcde}{a}\qquad\textbf{(E)}\ \frac{abc}{de}$
+
+### 2014A-07
+Nonzero real numbers $x$, $y$, $a$, and $b$ satisfy $x < a$ and $y < b$. How many of the following inequalities must be true? $\textbf{(I)}\ x+y < a+b\qquad$ $\textbf{(II)}\ x-y < a-b\qquad$ $\textbf{(III)}\ xy < ab\qquad$ $\textbf{(IV)}\ \frac{x}{y} < \frac{a}{b}$ $\textbf{(A)}\ 0\qquad\textbf{(B)}\ 1\qquad\textbf{(C)}\ 2\qquad\textbf{(D)}\ 3\qquad\textbf{(E)}\ 4$
+
+### 2014A-08
+Which of the following numbers is a perfect square? $\textbf{(A)}\ \dfrac{14!15!}2\qquad\textbf{(B)}\ \dfrac{15!16!}2\qquad\textbf{(C)}\ \dfrac{16!17!}2\qquad\textbf{(D)}\ \dfrac{17!18!}2\qquad\textbf{(E)}\ \dfrac{18!19!}2$
+
+### 2014A-09
+The two legs of a right triangle, which are altitudes, have lengths $2\sqrt3$ and $6$. How long is the third altitude of the triangle? $\textbf{(A)}\ 1\qquad\textbf{(B)}\ 2\qquad\textbf{(C)}\ 3\qquad\textbf{(D)}\ 4\qquad\textbf{(E)}\ 5$
+
+### 2014A-10
+Five positive consecutive integers starting with $a$ have average $b$. What is the average of $5$ consecutive integers that start with $b$? $\textbf{(A)}\ a+3\qquad\textbf{(B)}\ a+4\qquad\textbf{(C)}\ a+5\qquad\textbf{(D)}\ a+6\qquad\textbf{(E)}\ a+7$
+
+### 2014A-11
+A customer who intends to purchase an appliance has three coupons, only one of which may be used: Coupon 1: $10\%$ off the listed price if the listed price is at least $\textdollar50$ Coupon 2: $\textdollar 20$ off the listed price if the listed price is at least $\textdollar100$ Coupon 3: $18\%$ off the amount by which the listed price exceeds $\textdollar100$ For which of the following listed prices will coupon $1$ offer a greater price reduction than either coupon $2$ or coupon $3$? $\textbf{(A) }\textdollar179.95\qquad \textbf{(B) }\textdollar199.95\qquad \textbf{(C) }\textdollar219.95\qquad \textbf{(D) }\textdollar239.95\qquad \textbf{(E) }\textdollar259.95\qquad$
+
+### 2014A-12
+A regular hexagon has side length 6. Congruent arcs with radius 3 are drawn with the center at each of the vertices, creating circular sectors as shown. The region inside the hexagon but outside the sectors is shaded as shown. What is the area of the shaded region? $\textbf{(A)}\ 27\sqrt{3}-9\pi\qquad\textbf{(B)}\ 27\sqrt{3}-6\pi\qquad\textbf{(C)}\ 54\sqrt{3}-18\pi\qquad\textbf{(D)}\ 54\sqrt{3}-12\pi\qquad\textbf{(E)}\ 108\sqrt{3}-9\pi$ [DIAGRAM]
+
+### 2014A-13
+Equilateral $\triangle ABC$ has side length $1$, and squares $ABDE$, $BCHI$, $CAFG$ lie outside the triangle. What is the area of hexagon $DEFGHI$? $\textbf{(A)}\ \dfrac{12+3\sqrt3}4\qquad\textbf{(B)}\ \dfrac92\qquad\textbf{(C)}\ 3+\sqrt3\qquad\textbf{(D)}\ \dfrac{6+3\sqrt3}2\qquad\textbf{(E)}\ 6$ [DIAGRAM]
+
+### 2014A-14
+The $y$-intercepts, $P$ and $Q$, of two perpendicular lines intersecting at the point $A(6,8)$ have a sum of zero. What is the area of $\triangle APQ$? $\textbf{(A)}\ 45\qquad\textbf{(B)}\ 48\qquad\textbf{(C)}\ 54\qquad\textbf{(D)}\ 60\qquad\textbf{(E)}\ 72$
+
+### 2014A-15
+David drives from his home to the airport to catch a flight. He drives $35$ miles in the first hour, but realizes that he will be $1$ hour late if he continues at this speed. He increases his speed by $15$ miles per hour for the rest of the way to the airport and arrives $30$ minutes early. How many miles is the airport from his home? $\textbf{(A) }140\qquad \textbf{(B) }175\qquad \textbf{(C) }210\qquad \textbf{(D) }245\qquad \textbf{(E) }280\qquad$
+
+### 2014A-16
+In rectangle $ABCD$, $AB=1$, $BC=2$, and points $E$, $F$, and $G$ are midpoints of $\overline{BC}$, $\overline{CD}$, and $\overline{AD}$, respectively. Point $H$ is the midpoint of $\overline{GE}$. What is the area of the shaded region? $\textbf{(A)}\ \dfrac1{12}\qquad\textbf{(B)}\ \dfrac{\sqrt3}{18}\qquad\textbf{(C)}\ \dfrac{\sqrt2}{12}\qquad\textbf{(D)}\ \dfrac{\sqrt3}{12}\qquad\textbf{(E)}\ \dfrac16$ [DIAGRAM]
+
+### 2014A-17
+Three fair six-sided dice are rolled. What is the probability that the values shown on two of the dice sum to the value shown on the remaining die? $\textbf{(A)}\ \dfrac16\qquad\textbf{(B)}\ \dfrac{13}{72}\qquad\textbf{(C)}\ \dfrac7{36}\qquad\textbf{(D)}\ \dfrac5{24}\qquad\textbf{(E)}\ \dfrac29$
+
+### 2014A-18
+A square in the coordinate plane has vertices whose $y$-coordinates are $0$, $1$, $4$, and $5$. What is the area of the square? $\textbf{(A)}\ 16\qquad\textbf{(B)}\ 17\qquad\textbf{(C)}\ 25\qquad\textbf{(D)}\ 26\qquad\textbf{(E)}\ 27$
+
+### 2014A-19
+Four cubes with edge lengths $1$, $2$, $3$, and $4$ are stacked as shown. What is the length of the portion of $\overline{XY}$ contained in the cube with edge length $3$? $\textbf{(A)}\ \dfrac{3\sqrt{33}}5\qquad\textbf{(B)}\ 2\sqrt3\qquad\textbf{(C)}\ \dfrac{2\sqrt{33}}3\qquad\textbf{(D)}\ 4\qquad\textbf{(E)}\ 3\sqrt2$
+
+### 2014A-20
+The product $(8)(888\dots8)$, where the second factor has $k$ digits, is an integer whose digits have a sum of $1000$. What is $k$? $\textbf{(A)}\ 901\qquad\textbf{(B)}\ 911\qquad\textbf{(C)}\ 919\qquad\textbf{(D)}\ 991\qquad\textbf{(E)}\ 999$
+
+### 2014A-21
+Positive integers $a$ and $b$ are such that the graphs of $y=ax+5$ and $y=3x+b$ intersect the $x$-axis at the same point. What is the sum of all possible $x$-coordinates of these points of intersection? $\textbf{(A)}\ {-20}\qquad\textbf{(B)}\ {-18}\qquad\textbf{(C)}\ {-15}\qquad\textbf{(D)}\ {-12}\qquad\textbf{(E)}\ {-8}$
+
+### 2014A-22
+In rectangle $ABCD$, $AB=20$ and $BC=10$. Let $E$ be a point on $\overline{CD}$ such that $\angle CBE=15^\circ$. What is $AE$? $\textbf{(A)}\ \dfrac{20\sqrt3}3\qquad\textbf{(B)}\ 10\sqrt3\qquad\textbf{(C)}\ 18\qquad\textbf{(D)}\ 11\sqrt3\qquad\textbf{(E)}\ 20$
+
+### 2014A-23
+A rectangular piece of paper whose length is $\sqrt3$ times the width has area $A$. The paper is divided into three equal sections along the opposite lengths, and then a dotted line is drawn from the first divider to the second divider on the opposite side as shown. The paper is then folded flat along this dotted line to create a new shape with area $B$. What is the ratio $B:A$? $\textbf{(A)}\ 1:2\qquad\textbf{(B)}\ 3:5\qquad\textbf{(C)}\ 2:3\qquad\textbf{(D)}\ 3:4\qquad\textbf{(E)}\ 4:5$ [DIAGRAM]
+
+### 2014A-24
+A sequence of natural numbers is constructed by listing the first $4$, then skipping one, listing the next $5$, skipping $2$, listing $6$, skipping $3$, and, on the $n$th iteration, listing $n+3$ and skipping $n$. The sequence begins $1,2,3,4,6,7,8,9,10,13$. What is the $500,000^{\text{th}}$ number in the sequence? $\textbf{(A)}\ 996,506\qquad\textbf{(B)}\ 996,507\qquad\textbf{(C)}\ 996,508\qquad\textbf{(D)}\ 996,509\qquad\textbf{(E)}\ 996,510$
+
+### 2014A-25
+The number $5^{867}$ is between $2^{2013}$ and $2^{2014}$. How many pairs of integers $(m,n)$ are there such that $1\leq m\leq 2012$ and \[5^n<2^m<2^{m+2}<5^{n+1}?\] $\textbf{(A) }278\qquad\textbf{(B) }279\qquad\textbf{(C) }280\qquad\textbf{(D) }281\qquad\textbf{(E) }282\qquad$
+
+### 2013B-01
+What is $\frac{2+4+6}{1+3+5} - \frac{1+3+5}{2+4+6}$? $\textbf{(A)}\ -1 \qquad\textbf{(B)}\ \frac{5}{36} \qquad\textbf{(C)}\ \frac{7}{12} \qquad\textbf{(D)}\ \frac{49}{20} \qquad\textbf{(E)}\ \frac{43}{3}$
+
+### 2013B-02
+Mr. Green measures his rectangular garden by walking two of the sides and finding that it is $15$ steps by $20$ steps. Each of Mr. Green's steps is $2$ feet long. Mr. Green expects a half a pound of potatoes per square foot from his garden. How many pounds of potatoes does Mr. Green expect from his garden? $\textbf{(A)}\ 600 \qquad\textbf{(B)}\ 800 \qquad\textbf{(C)}\ 1000 \qquad\textbf{(D)}\ 1200 \qquad\textbf{(E)}\ 1400$
+
+### 2013B-03
+On a particular January day, the high temperature in Lincoln, Nebraska, was $16$ degrees higher than the low temperature, and the average of the high and the low temperatures was $3\,^\circ$. In degrees, what was the low temperature in Lincoln that day? $\textbf{(A)}\ -13\qquad\textbf{(B)}\ -8\qquad\textbf{(C)}\ -5\qquad\textbf{(D)}\ -3\qquad\textbf{(E)}\ 11$
+
+### 2013B-04
+When counting from $3$ to $201$, $53$ is the $51^\mathrm{st}$ number counted. When counting backwards from $201$ to $3$, $53$ is the $n^\mathrm{th}$ number counted. What is $n$? $\textbf{(A)}\ 146\qquad\textbf{(B)}\ 147\qquad\textbf{(C)}\ 148\qquad\textbf{(D)}\ 149\qquad\textbf{(E)}\ 150$
+
+### 2013B-05
+Positive integers $a$ and $b$ are each less than $6$. What is the smallest possible value for $2 \cdot a - a \cdot b$? $\textbf{(A)}\ -20\qquad\textbf{{(B)}}\ -15\qquad\textbf{{(C)}}\ -10\qquad\textbf{{(D)}}\ 0\qquad\textbf{{(E)}}\ 2$
+
+### 2013B-06
+The average age of 33 fifth-graders is 11. The average age of 55 of their parents is 33. What is the average age of all of these parents and fifth-graders? $\textbf{(A)}\ 22\qquad\textbf{(B)}\ 23.25\qquad\textbf{(C)}\ 24.75\qquad\textbf{(D)}\ 26.25\qquad\textbf{(E)}\ 28$
+
+### 2013B-07
+Six points are equally spaced around a circle of radius 1. Three of these points are the vertices of a triangle that is neither equilateral nor isosceles. What is the area of this triangle? $\textbf{(A)}\ \frac{\sqrt{3}}{3}\qquad\textbf{(B)}\ \frac{\sqrt{3}}{2}\qquad\textbf{(C)}\ 1\qquad\textbf{(D)}\ \sqrt{2}\qquad\textbf{(E)}\ \text{2}$
+
+### 2013B-08
+Ray's car averages 40 miles per gallon of gasoline, and Tom's car averages 10 miles per gallon of gasoline. Ray and Tom each drive the same number of miles. What is the cars' combined rate of miles per gallon of gasoline? $\textbf{(A) }10\qquad\textbf{(B) }16\qquad\textbf{(C) }25\qquad\textbf{(D) }30\qquad\textbf{(E) }40$
+
+### 2013B-09
+Three positive integers are each greater than $1$, have a product of $27000$, and are pairwise relatively prime. What is their sum? $\textbf{(A)}\ 100\qquad\textbf{(B)}\ 137\qquad\textbf{(C)}\ 156\qquad\textbf{(D)}\ 160\qquad\textbf{(E)}\ 165$
+
+### 2013B-10
+A basketball team's players were successful on 50% of their two-point shots and 40% of their three-point shots, which resulted in 54 points. They attempted 50% more two-point shots than three-point shots. How many three-point shots did they attempt? $\textbf{(A) }10\qquad\textbf{(B) }15\qquad\textbf{(C) }20\qquad\textbf{(D) }25\qquad\textbf{(E) }30$
+
+### 2013B-11
+Real numbers $x$ and $y$ satisfy the equation $x^2 + y^2 = 10x - 6y - 34$. What is $x+y$? $\textbf{(A)}\ 1 \qquad\textbf{(B)}\ 2 \qquad\textbf{(C)}\ 3 \qquad\textbf{(D)}\ 6 \qquad\textbf{(E)}\ 8$
+
+### 2013B-12
+Let $S$ be the set of sides and diagonals of a regular pentagon. A pair of elements of $S$ are selected at random without replacement. What is the probability that the two chosen segments have the same length? $\textbf{(A) }\frac{2}5\qquad\textbf{(B) }\frac{4}9\qquad\textbf{(C) }\frac{1}2\qquad\textbf{(D) }\frac{5}9\qquad\textbf{(E) }\frac{4}5$
+
+### 2013B-13
+Jo and Blair take turns counting from $1$ to one more than the last number said by the other person. Jo starts by saying "$1$", so Blair follows by saying "$1, 2$" . Jo then says "$1, 2, 3$" , and so on. What is the 53rd number said? $\textbf{(A)}\ 2\qquad\textbf{(B)}\ 3\qquad\textbf{(C)}\ 5\qquad\textbf{(D)}\ 6\qquad\textbf{(E)}\ 8$
+
+### 2013B-14
+Define $a\clubsuit b=a^2b-ab^2$. Which of the following describes the set of points $(x, y)$ for which $x\clubsuit y=y\clubsuit x$? $\textbf{(A)}\ \text{a finite set of points}\\ \qquad\textbf{(B)}\ \text{one line}\\ \qquad\textbf{(C)}\ \text{two parallel lines}\\ \qquad\textbf{(D)}\ \text{two intersecting lines}\\ \qquad\textbf{(E)}\ \text{three lines}$
+
+### 2013B-15
+A wire is cut into two pieces, one of length $a$ and the other of length $b$. The piece of length $a$ is bent to form an equilateral triangle, and the piece of length $b$ is bent to form a regular hexagon. The triangle and the hexagon have equal area. What is $\frac{a}{b}$? $\textbf{(A)}\ 1\qquad\textbf{(B)}\ \frac{\sqrt{6}}{2}\qquad\textbf{(C)}\ \sqrt{3} \qquad\textbf{(D)}\ 2\qquad\textbf{(E)}\ \frac{3\sqrt{2}}{2}$
+
+### 2013B-16
+In triangle $ABC$, medians $AD$ and $CE$ intersect at $P$, $PE=1.5$, $PD=2$, and $DE=2.5$. What is the area of $AEDC$? $\textbf{(A)}13\qquad\textbf{(B)}13.5\qquad\textbf{(C)}14\qquad\textbf{(D)}14.5\qquad\textbf{(E)}15\qquad$
+
+### 2013B-17
+Alex has $75$ red tokens and $75$ blue tokens. There is a booth where Alex can give two red tokens and receive in return a silver token and a blue token, and another booth where Alex can give three blue tokens and receive in return a silver token and a red token. Alex continues to exchange tokens until no more exchanges are possible. How many silver tokens will Alex have at the end? $\textbf{(A)} 62 \qquad \textbf{(B)} 82 \qquad \textbf{(C)} 83 \qquad \textbf{(D)} 102 \qquad \textbf{(E)} 103$
+
+### 2013B-18
+The number $2013$ has the property that its units digit is the sum of its other digits, that is $2+0+1=3$. How many integers less than $2013$ but greater than $1000$ share this property? $\textbf{(A)}\ 33\qquad\textbf{(B)}\ 34\qquad\textbf{(C)}\ 45\qquad\textbf{(D)}\ 46\qquad\textbf{(E)}\ 58$
+
+### 2013B-19
+The real numbers $c,b,a$ form an arithmetic sequence with $a\ge b\ge c\ge 0$. The quadratic $ax^2+bx+c$ has exactly one root. What is this root? $\textbf{(A)}\ -7-4\sqrt{3}\qquad\textbf{(B)}\ -2-\sqrt{3}\qquad\textbf{(C)}\ -1\qquad\textbf{(D)}\ -2+\sqrt{3}\qquad\textbf{(E)}\ -7+4\sqrt{3}$
+
+### 2013B-20
+The number $2013$ is expressed in the form \[2013=\frac{a_1!a_2!\cdots a_m!}{b_1!b_2!\cdots b_n!},\] where $a_1\ge a_2\ge\cdots\ge a_m$ and $b_1\ge b_2\ge\cdots\ge b_n$ are positive integers and $a_1+b_1$ is as small as possible. What is $|a_1-b_1|$? $\textbf{(A)}\ 1\qquad\textbf{(B)}\ 2\qquad\textbf{(C)}\ 3\qquad\textbf{(D)}\ 4\qquad\textbf{(E)}\ 5$
+
+### 2013B-21
+Two non-decreasing sequences of nonnegative integers have different first terms. Each sequence has the property that each term, beginning with the third, is the sum of the previous two terms, and the seventh term of each sequence is $N$. What is the smallest possible value of $N$? $\textbf{(A)}\ 55 \qquad\textbf{(B)}\ 89 \qquad\textbf{(C)}\ 104 \qquad\textbf{(D)}\ 144 \qquad\textbf{(E)}\ 273$
+
+### 2013B-22
+The regular octagon $ABCDEFGH$ has its center at $J$. Each of the vertices and the center are to be associated with one of the digits $1$ through $9$, with each digit used once, in such a way that the sums of the numbers on the lines $AJE$, $BJF$, $CJG$, and $DJH$ are all equal. In how many ways can this be done? $\textbf{(A)}\ 384 \qquad\textbf{(B)}\ 576 \qquad\textbf{(C)}\ 1152 \qquad\textbf{(D)}\ 1680 \qquad\textbf{(E)}\ 3456$
+
+### 2013B-23
+In triangle $ABC$, $AB = 13$, $BC = 14$, and $CA = 15$. Distinct points $D$, $E$, and $F$ lie on segments $\overline{BC}$, $\overline{CA}$, and $\overline{DE}$, respectively, such that $\overline{AD} \perp \overline{BC}$, $\overline{DE} \perp \overline{AC}$, and $\overline{AF} \perp \overline{BF}$. The length of segment $\overline{DF}$ can be written as $\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. What is $m + n$? $\textbf{(A)}\ 18\qquad\textbf{(B)}\ 21\qquad\textbf{(C)}\ 24\qquad\textbf{(D)}\ 27\qquad\textbf{(E)}\ 30$
+
+### 2013B-24
+A positive integer $n$ is nice if there is a positive integer $m$ with exactly four positive divisors (including $1$ and $m$) such that the sum of the four divisors is equal to $n$. How many numbers in the set $\{ 2010,2011,2012,\dotsc,2019 \}$ are nice? $\textbf{(A)}\ 1 \qquad\textbf{(B)}\ 2 \qquad\textbf{(C)}\ 3 \qquad\textbf{(D)}\ 4 \qquad\textbf{(E)}\ 5$
+
+### 2013B-25
+Bernardo chooses a three-digit positive integer $N$ and writes both its base-5 and base-6 representations on a blackboard. Later LeRoy sees the two numbers Bernardo has written. Treating the two numbers as base-10 integers, he adds them to obtain an integer $S$. For example, if $N = 749$, Bernardo writes the numbers $10,444$ and $3,245$, and LeRoy obtains the sum $S = 13,689$. For how many choices of $N$ are the two rightmost digits of $S$, in order, the same as those of $2N$? $\textbf{(A)}\ 5 \qquad\textbf{(B)}\ 10 \qquad\textbf{(C)}\ 15 \qquad\textbf{(D)}\ 20 \qquad\textbf{(E)}\ 25$
+

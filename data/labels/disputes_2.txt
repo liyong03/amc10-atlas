@@ -1,0 +1,315 @@
+### 2025B-11
+PassA: cp-probability-basic | PassB: cp-permutations | keywords: cp-probability-basic, misc-calendar-clock, misc-money-everyday | confidence A/B: medium/high
+PassB key idea: Count permutations with exactly two fixed points using derangements.
+On Monday, $6$ students went to the tutoring center at the same time, and each one was randomly assigned to one of the $6$ tutors on duty. On Tuesday, the same $6$ students showed up, the same $6$ tutors were on duty, and the students were again randomly assigned to the tutors. What is the probability that exactly $2$ students met with the same tutor both Monday and Tuesday? $\textbf{(A) } \frac{1}{16} \qquad\textbf{(B) } \frac{3}{16} \qquad\textbf{(C) }\frac{1}{4}\qquad\textbf{(D) } \frac{3}{8} \qquad\textbf{(E) } \frac{1}{2}$
+
+### 2025A-10
+PassA: geo-shaded-regions | PassB: geo-circle-area | keywords: geo-circle-theorems, geo-shaded-regions, geo-similar | confidence A/B: medium/high
+PassB key idea: Pythagoras gives R^2 - r^2 = (half chord)^2; area depends only on that.
+A semicircle has diameter $\overline{AB}$ and chord $\overline{CD}$ of length $16$ parallel to $\overline{AB}$. A smaller semicircle with diameter on $\overline{AB}$ and tangent to $\overline{CD}$ is cut from the larger semicircle, as shown below. What is the area of the resulting figure, shown shaded? $\textbf{(A) } 16\pi \qquad\textbf{(B) } 24\pi \qquad\textbf{(C) } 32\pi \qquad\textbf{(D) } 48\pi \qquad\textbf{(E) } 64\pi$ [DIAGRAM]
+
+### 2025A-24
+PassA: cp-recursion-counting | PassB: cp-combinations | keywords: nt-digits, misc-money-everyday, cp-basic-counting | confidence A/B: medium/high
+PassB key idea: Fair numbers are unimodal: choose digits, place each non-max digit left or right.
+Call a positive integer fair if no digit is used more than once, it has no 0s, and no digit is adjacent to two greater digits. For example, $196$, $23$, and $12463$ are fair, but $1546$, $320$, and $34321$ are not fair. How many fair positive integers are there? $\textbf{(A) } 511 \qquad\textbf{(B) } 2584 \qquad\textbf{(C) } 9841 \qquad\textbf{(D) } 17711 \qquad\textbf{(E) } 19682$
+
+### 2024B-19
+PassA: geo-coordinate | PassB: alg-graphs-lines | keywords: geo-coordinate, alg-graphs-lines, cp-inclusion-exclusion | confidence A/B: medium/medium
+PassB key idea: Rational slopes give 0 or infinitely many lattice points; irrational at most one.
+In the following table, each question mark is to be replaced by "Possible" or "Not Possible" to indicate whether a nonvertical line with the given slope can contain the given number of lattice points (points both of whose coordinates are integers). How many of the 12 entries will be "Possible"? $\textbf{(A) } 4 \qquad \textbf{(B) } 5 \qquad \textbf{(C) } 6 \qquad \textbf{(D) } 7 \qquad \textbf{(E) } 9$ [DIAGRAM]
+
+### 2024A-18
+PassA: nt-bases | PassB: nt-modular | keywords: nt-digits, nt-bases, nt-divisibility | confidence A/B: high/high
+PassB key idea: Expand 2b³+2b+4 and require divisibility by 16 via residues of b.
+There are exactly $K$ positive integers $5 \leq b \leq 2024$ such that the base-$b$ integer $2024_{b}$ is divisible by $16$(where $16$ is in base ten). What is the sum of the digits of $K$? $\textbf{(A)}~16\qquad\textbf{(B)}~17\qquad\textbf{(C)}~18\qquad\textbf{(D)}~20\qquad\textbf{(E)}~21$
+
+### 2024A-23
+PassA: alg-systems | PassB: nt-diophantine | keywords: alg-systems | confidence A/B: high/high
+PassB key idea: Subtract equations and factor, e.g. (a−c)(b−1), to limit integer cases.
+Integers $a$, $b$, and $c$ satisfy $ab + c = 100$, $bc + a = 87$, and $ca + b = 60$. What is $ab + bc + ca?$ $\textbf{(A) }212 \qquad \textbf{(B) }247 \qquad \textbf{(C) }258 \qquad \textbf{(D) }276 \qquad \textbf{(E) }284 \qquad$
+
+### 2023B-06
+PassA: alg-recursion-patterns | PassB: nt-parity | keywords: nt-parity, alg-recursion-patterns, alg-systems | confidence A/B: high/high
+PassB key idea: Parity pattern odd, odd, even repeats every three terms.
+Let $L_1 = 1$, $L_2 = 3$, and $L_{n+2} = L_{n+1}+L_n$ for $n \geq 1$. How many terms in the sequence $L_1, L_2, L_3, \cdots, L_{2023}$ are even? $\textbf{(A) }673\qquad\textbf{(B) }1011\qquad\textbf{(C) }675\qquad\textbf{(D) }1010\qquad\textbf{(E) }674$
+
+### 2023A-08
+PassA: alg-graphs-lines | PassB: alg-percent-ratio | keywords: alg-functions, geo-angles | confidence A/B: medium/high
+PassB key idea: Linear scale: use proportional position between the two reference points.
+Barb the baker has developed a new temperature scale for her bakery called the Breadus scale, which is a linear function of the Fahrenheit scale. Bread rises at $110$ degrees Fahrenheit, which is $0$ degrees on the Breadus scale. Bread is baked at $350$ degrees Fahrenheit, which is $100$ degrees on the Breadus scale. Bread is done when its internal temperature is $200$ degrees Fahrenheit. What is this, in degrees, on the Breadus scale? $\textbf{(A) }33\qquad\textbf{(B) }34.5\qquad\textbf{(C) }36\qquad\textbf{(D) }37.5\qquad\textbf{(E) }39$
+
+### 2023A-16
+PassA: alg-linear-word | PassB: alg-percent-ratio | keywords: alg-percent-ratio, misc-games, misc-process-simulation | confidence A/B: medium/medium
+PassB key idea: Total games C(3L,2); lefties win 7/12 of games; find integer L.
+In a table tennis tournament every participant played every other participant exactly once. Although there were twice as many right-handed players as left-handed players, the number of games won by left-handed players was $40\%$ more than the number of games won by right-handed players. (There were no ties and no ambidextrous players.) What is the total number of games played? $\textbf{(A) }15\qquad\textbf{(B) }36\qquad\textbf{(C) }45\qquad\textbf{(D) }48\qquad\textbf{(E) }66$
+
+### 2022B-16
+PassA: geo-shaded-regions | PassB: geo-similar | keywords: misc-logic, geo-quadrilaterals, cp-inclusion-exclusion | confidence A/B: medium/medium
+PassB key idea: Tilted square forms similar 3-4-5 right triangles with rectangle sides.
+The diagram below shows a rectangle with side lengths $4$ and $8$ and a square with side length $5$. Three vertices of the square lie on three different sides of the rectangle, as shown. What is the area of the region inside both the square and the rectangle? $\textbf{(A) }15\dfrac{1}{8} \qquad \textbf{(B) }15\dfrac{3}{8} \qquad \textbf{(C) }15\dfrac{1}{2} \qquad \textbf{(D) }15\dfrac{5}{8} \qquad \textbf{(E) }15\dfrac{7}{8}$ [DIAGRAM]
+
+### 2022A-21
+PassA: geo-polygons | PassB: geo-3d-cubes | keywords: geo-polygons, geo-quadrilaterals, misc-money-everyday | confidence A/B: medium/low
+PassB key idea: Find rim vertex positions; octagon is a square with corners cut.
+A bowl is formed by attaching four regular hexagons of side $1$ to a square of side $1$. The edges of the adjacent hexagons coincide, as shown in the figure. What is the area of the octagon obtained by joining the top eight vertices of the four hexagons, situated on the rim of the bowl? $\textbf{(A) } 6 \qquad \textbf{(B) } 7 \qquad \textbf{(C) } 5+2\sqrt{2} \qquad \textbf{(D) } 8 \qquad \textbf{(E) } 9$ [DIAGRAM]
+
+### 2021FB-11
+PassA: geo-circle-area | PassB: geo-shaded-regions | keywords: geo-polygons, geo-circle-area, geo-transformations | confidence A/B: medium/high
+PassB key idea: Region is hexagon minus six circular segments reflected inward.
+A regular hexagon of side length $1{ }$ is inscribed in a circle. Each minor arc of the circle determined by a side of the hexagon is reflected over that side. What is the area of the region bounded by these $6$ reflected arcs? $(\textbf{A})\: \frac{5\sqrt{3}}{2} - \pi\qquad(\textbf{B}) \: 3\sqrt{3}-\pi\qquad(\textbf{C}) \: 4\sqrt{3}-\frac{3\pi}{2}\qquad(\textbf{D}) \: \pi - \frac{\sqrt{3}}{2}\qquad(\textbf{E}) \: \frac{\pi + \sqrt{3}}{2}$
+
+### 2021FB-25
+PassA: geo-quadrilaterals | PassB: geo-similar | keywords: nt-primes-factorization, geo-quadrilaterals, geo-circle-theorems | confidence A/B: medium/low
+PassB key idea: Shared tilt angle gives similar right triangles along square sides.
+A rectangle with side lengths $1{ }$ and $3,$ a square with side length $1,$ and a rectangle $R$ are inscribed inside a larger square as shown. The sum of all possible values for the area of $R$ can be written in the form $\tfrac mn$, where $m$ and $n$ are relatively prime positive integers. What is $m+n?$ $(\textbf{A})\: 14\qquad(\textbf{B}) \: 23\qquad(\textbf{C}) \: 46\qquad(\textbf{D}) \: 59\qquad(\textbf{E}) \: 67$ [DIAGRAM]
+
+### 2021FA-18
+PassA: cp-paths-grids | PassB: cp-basic-counting | keywords: cp-basic-counting, cp-combinations, cp-paths-grids | confidence A/B: medium/high
+PassB key idea: Casework on which crops appear in adjacent sections of the 2x2 grid.
+A farmer's rectangular field is partitioned into $2$ by $2$ grid of $4$ rectangular sections as shown in the figure. In each section the farmer will plant one crop: corn, wheat, soybeans, or potatoes. The farmer does not want to grow corn and wheat in any two sections that share a border, and the farmer does not want to grow soybeans and potatoes in any two sections that share a border. Given these restrictions, in how many ways can the farmer choose crops to plant in each of the four sections of the field? $\textbf{(A)}\ 12 \qquad \textbf{(B)}\ 64 \qquad \textbf{(C)}\ 84 \qquad \textbf{(D)}\ 90 \qquad \textbf{(E)}\ 144$ [DIAGRAM]
+
+### 2021B-20
+PassA: geo-polygons | PassB: geo-triangle-area | keywords: geo-polygons, alg-exponents-radicals, geo-triangle-area | confidence A/B: medium/medium
+PassB key idea: Split pentagon into equilateral triangles and an isosceles triangle; find heights.
+The figure is constructed from $11$ line segments, each of which has length $2$. The area of pentagon $ABCDE$ can be written as $\sqrt{m} + \sqrt{n}$, where $m$ and $n$ are positive integers. What is $m + n ?$ $\textbf{(A)} ~20 \qquad\textbf{(B)} ~21 \qquad\textbf{(C)} ~22 \qquad\textbf{(D)} ~23 \qquad\textbf{(E)} ~24$ [DIAGRAM]
+
+### 2021A-09
+PassA: alg-inequalities-optimization | PassB: alg-factoring-identities | keywords: alg-inequalities-optimization, alg-arith-compute | confidence A/B: high/high
+PassB key idea: Expand and factor as (x²+1)(y²+1).
+What is the least possible value of $(xy-1)^2 + (x+y)^2$ for real numbers $x$ and $y$? $\textbf{(A)} ~0\qquad\textbf{(B)} ~\frac{1}{4}\qquad\textbf{(C)} ~\frac{1}{2}\qquad\textbf{(D)} ~1\qquad\textbf{(E)} ~2$
+
+### 2020B-22
+PassA: nt-modular | PassB: alg-factoring-identities | keywords: nt-modular, alg-exponents-radicals | confidence A/B: high/high
+PassB key idea: Sophie Germain identity: 4a⁴+1 = (2a²+2a+1)(2a²-2a+1).
+What is the remainder when $2^{202} +202$ is divided by $2^{101}+2^{51}+1$? $\textbf{(A) } 100 \qquad\textbf{(B) } 101 \qquad\textbf{(C) } 200 \qquad\textbf{(D) } 201 \qquad\textbf{(E) } 202$
+
+### 2020A-20
+PassA: geo-quadrilaterals | PassB: geo-similar | keywords: geo-angles, geo-pythagorean, geo-quadrilaterals | confidence A/B: medium/medium
+PassB key idea: Drop perpendicular from B to AC; similar triangles with E give heights.
+Quadrilateral $ABCD$ satisfies $\angle ABC = \angle ACD = 90^{\circ}, AC=20,$ and $CD=30.$ Diagonals $\overline{AC}$ and $\overline{BD}$ intersect at point $E,$ and $AE=5.$ What is the area of quadrilateral $ABCD?$ $\textbf{(A) } 330 \qquad \textbf{(B) } 340 \qquad \textbf{(C) } 350 \qquad \textbf{(D) } 360 \qquad \textbf{(E) } 370$
+
+### 2019A-06
+PassA: geo-quadrilaterals | PassB: geo-circle-theorems | keywords: geo-quadrilaterals, geo-coordinate, geo-3d-cubes | confidence A/B: high/high
+PassB key idea: Equidistant point exists iff quadrilateral is cyclic.
+For how many of the following types of quadrilaterals does there exist a point in the plane of the quadrilateral that is equidistant from all four vertices of the quadrilateral? a square a rectangle that is not a square a rhombus that is not a square a parallelogram that is not a rectangle or a rhombus an isosceles trapezoid that is not a parallelogram $\textbf{(A) } 1 \qquad\textbf{(B) } 2 \qquad\textbf{(C) } 3 \qquad\textbf{(D) } 4 \qquad\textbf{(E) } 5$
+
+### 2018B-04
+PassA: geo-3d-volume | PassB: alg-systems | keywords: geo-3d-volume, geo-quadrilaterals, geo-3d-cubes | confidence A/B: high/high
+PassB key idea: Multiply face areas to get (XYZ)², then divide by each.
+A three-dimensional rectangular box with dimensions $X$, $Y$, and $Z$ has faces whose surface areas are $24, 24, 48, 48, 72,$ and $72$ square units. What is $X+Y+Z$? $\textbf{(A) }18 \qquad \textbf{(B) }22 \qquad \textbf{(C) }24 \qquad \textbf{(D) }30 \qquad \textbf{(E) }36 \qquad$
+
+### 2018B-14
+PassA: alg-mean-median | PassB: cp-pigeonhole | keywords: alg-mean-median | confidence A/B: medium/high
+PassB key idea: Other values appear at most 9 times; bound count of distinct values.
+A list of $2018$ positive integers has a unique mode, which occurs exactly $10$ times. What is the least number of distinct values that can occur in the list? $\textbf{(A) }202 \qquad \textbf{(B) }223 \qquad \textbf{(C) }224 \qquad \textbf{(D) }225 \qquad \textbf{(E) }234 \qquad$
+
+### 2018A-07
+PassA: alg-exponents-radicals | PassB: nt-primes-factorization | keywords: cp-basic-counting, alg-inequalities-optimization, alg-arith-compute | confidence A/B: high/high
+PassB key idea: Factor 4000 into powers of 2 and 5; bound n both ways.
+For how many (not necessarily positive) integer values of $n$ is the value of $4000\cdot \left(\tfrac{2}{5}\right)^n$ an integer? $\textbf{(A) }3 \qquad \textbf{(B) }4 \qquad \textbf{(C) }6 \qquad \textbf{(D) }8 \qquad \textbf{(E) }9 \qquad$
+
+### 2018A-17
+PassA: nt-divisibility | PassB: cp-pigeonhole | keywords: alg-inequalities-optimization, nt-divisibility, alg-arith-compute | confidence A/B: medium/high
+PassB key idea: Partition into chains by odd part; one element per chain.
+Let $S$ be a set of $6$ integers taken from $\{1,2,\dots,12\}$ with the property that if $a$ and $b$ are elements of $S$ with $a<b$, then $b$ is not a multiple of $a$. What is the least possible value of an element in $S$? $\textbf{(A)}\ 2\qquad\textbf{(B)}\ 3\qquad\textbf{(C)}\ 4\qquad\textbf{(D)}\ 5\qquad\textbf{(E)}\ 7$
+
+### 2017B-11
+PassA: cp-conditional-probability | PassB: alg-percent-ratio | keywords: alg-percent-ratio, misc-logic | confidence A/B: medium/medium
+PassB key idea: Compute shares saying 'dislike' from each group, then take the conditional fraction.
+At Typico High School, $60\%$ of the students like dancing, and the rest dislike it. Of those who like dancing, $80\%$ say that they like it, and the rest say that they dislike it. Of those who dislike dancing, $90\%$ say that they dislike it, and the rest say that they like it. What fraction of students who say they dislike dancing actually like it? $\textbf{(A)}\ 10\%\qquad\textbf{(B)}\ 12\%\qquad\textbf{(C)}\ 20\%\qquad\textbf{(D)}\ 25\%\qquad\textbf{(E)}\ 33\frac{1}{3}\%$
+
+### 2017A-25
+PassA: nt-divisibility | PassB: cp-basic-counting | keywords: cp-basic-counting, nt-divisibility, nt-digits | confidence A/B: medium/medium
+PassB key idea: List three-digit multiples of 11, count their digit permutations, handle repeats and zeros.
+How many integers between $100$ and $999$, inclusive, have the property that some permutation of its digits is a multiple of $11$ between $100$ and $999?$ For example, both $121$ and $211$ have this property. $\textbf{(A)}\ 226\qquad\textbf{(B)}\ 243\qquad\textbf{(C)}\ 270\qquad\textbf{(D)}\ 469\qquad\textbf{(E)}\ 486$
+
+### 2016A-10
+PassA: geo-quadrilaterals | PassB: alg-arith-seq | keywords: alg-arith-seq, geo-shaded-regions, geo-quadrilaterals | confidence A/B: medium/medium
+PassB key idea: Express the three region areas in terms of length x; impose equal differences.
+A rug is made with three different colors as shown. The areas of the three differently colored regions form an arithmetic progression. The inner rectangle is one foot wide, and each of the two shaded regions is $1$ foot wide on all four sides. What is the length in feet of the inner rectangle? $\textbf{(A) } 1 \qquad \textbf{(B) } 2 \qquad \textbf{(C) } 4 \qquad \textbf{(D) } 6 \qquad \textbf{(E) }8$ [DIAGRAM]
+
+### 2015B-01
+PassA: alg-arith-compute | PassB: alg-exponents-radicals | keywords: alg-arith-compute | confidence A/B: high/high
+PassB key idea: A negative exponent means reciprocal; even power removes the sign.
+What is the value of $2-(-2)^{-2}$? $\textbf{(A) } -2 \qquad\textbf{(B) } \dfrac{1}{16} \qquad\textbf{(C) } \dfrac{7}{4} \qquad\textbf{(D) } \dfrac{9}{4} \qquad\textbf{(E) } 6$
+
+### 2014B-04
+PassA: alg-linear-word | PassB: alg-systems | keywords: misc-money-everyday, cp-basic-counting | confidence A/B: medium/high
+PassB key idea: Set 2(4m+3b) = 2m+16b and solve for the ratio m/b.
+Susie pays for $4$ muffins and $3$ bananas. Calvin spends twice as much paying for $2$ muffins and $16$ bananas. A muffin is how many times as expensive as a banana? $\textbf {(A) } \frac{3}{2} \qquad \textbf {(B) } \frac{5}{3} \qquad \textbf {(C) } \frac{7}{4} \qquad \textbf {(D) } 2 \qquad \textbf {(E) } \frac{13}{4}$
+
+### 2014B-15
+PassA: geo-triangle-area | PassB: geo-pythagorean | keywords: alg-percent-ratio, geo-triangle-area, misc-logic | confidence A/B: high/medium
+PassB key idea: Trisecting 90° gives 30° angles; use 30-60-90 triangles for AE and AF.
+In rectangle $ABCD$, $DC=2 \cdot CB$ and points $E$ and $F$ lie on $\overline{AB}$ so that $\overline{ED}$ and $\overline{FD}$ trisect $\angle ADC$ as shown. What is the ratio of the area of $\triangle DEF$ to the area of rectangle $ABCD$? $\textbf{(A)}\ \ \frac{\sqrt{3}}{6}\qquad\textbf{(B)}\ \frac{\sqrt{6}}{8}\qquad\textbf{(C)}\ \frac{3\sqrt{3}}{16}\qquad\textbf{(D)}\ \frac{1}{3}\qquad\textbf{(E)}\ \frac{\sqrt{2}}{4}$ [DIAGRAM]
+
+### 2014A-16
+PassA: geo-shaded-regions | PassB: geo-triangle-area | keywords: geo-shaded-regions, geo-quadrilaterals, geo-triangle-area | confidence A/B: medium/medium
+PassB key idea: Place coordinates and find intersection points to compute shaded triangle areas.
+In rectangle $ABCD$, $AB=1$, $BC=2$, and points $E$, $F$, and $G$ are midpoints of $\overline{BC}$, $\overline{CD}$, and $\overline{AD}$, respectively. Point $H$ is the midpoint of $\overline{GE}$. What is the area of the shaded region? $\textbf{(A)}\ \dfrac1{12}\qquad\textbf{(B)}\ \dfrac{\sqrt3}{18}\qquad\textbf{(C)}\ \dfrac{\sqrt2}{12}\qquad\textbf{(D)}\ \dfrac{\sqrt3}{12}\qquad\textbf{(E)}\ \dfrac16$ [DIAGRAM]
+
+### 2013B-03
+PassA: alg-linear-word | PassB: alg-mean-median | keywords: alg-mean-median, geo-angles | confidence A/B: high/high
+PassB key idea: High = low + 16 and their average is 3.
+On a particular January day, the high temperature in Lincoln, Nebraska, was $16$ degrees higher than the low temperature, and the average of the high and the low temperatures was $3\,^\circ$. In degrees, what was the low temperature in Lincoln that day? $\textbf{(A)}\ -13\qquad\textbf{(B)}\ -8\qquad\textbf{(C)}\ -5\qquad\textbf{(D)}\ -3\qquad\textbf{(E)}\ 11$
+
+### 2013B-18
+PassA: nt-digits | PassB: cp-basic-counting | keywords: nt-units-digit, cp-basic-counting, nt-digits | confidence A/B: high/high
+PassB key idea: Case on first digit 1; count tens/hundreds pairs with sum at most 8.
+The number $2013$ has the property that its units digit is the sum of its other digits, that is $2+0+1=3$. How many integers less than $2013$ but greater than $1000$ share this property? $\textbf{(A)}\ 33\qquad\textbf{(B)}\ 34\qquad\textbf{(C)}\ 45\qquad\textbf{(D)}\ 46\qquad\textbf{(E)}\ 58$
+
+### 2013A-21
+PassA: nt-divisibility | PassB: nt-primes-factorization | keywords: cp-permutations, alg-linear-word, cp-basic-counting | confidence A/B: medium/medium
+PassB key idea: Track remaining fraction products; cancel factors so every share is integral.
+A group of $12$ pirates agree to divide a treasure chest of gold coins among themselves as follows. The $k^{\text{th}}$ pirate to take a share takes $\frac{k}{12}$ of the coins that remain in the chest. The number of coins initially in the chest is the smallest number for which this arrangement will allow each pirate to receive a positive whole number of coins. How many coins does the $12^{\text{th}}$ pirate receive? $\textbf{(A)}\ 720\qquad\textbf{(B)}\ 1296\qquad\textbf{(C)}\ 1728\qquad\textbf{(D)}\ 1925\qquad\textbf{(E)}\ 3850$
+
+### 2012B-19
+PassA: geo-quadrilaterals | PassB: geo-similar | keywords: geo-quadrilaterals, geo-triangle-area | confidence A/B: medium/high
+PassB key idea: Similar triangles EBF and EAD locate F, then compute trapezoid area.
+In rectangle $ABCD$, $AB=6$, $AD=30$, and $G$ is the midpoint of $\overline{AD}$. Segment $AB$ is extended 2 units beyond $B$ to point $E$, and $F$ is the intersection of $\overline{ED}$ and $\overline{BC}$. What is the area of $BFDG$? $\textbf{(A)}\ \frac{133}{2}\qquad\textbf{(B)}\ 67\qquad\textbf{(C)}\ \frac{135}{2}\qquad\textbf{(D)}\ 68\qquad\textbf{(E)}\ \frac{137}{2}$
+
+### 2012A-16
+PassA: nt-gcd-lcm | PassB: alg-rates | keywords: alg-rates, cp-basic-counting | confidence A/B: high/high
+PassB key idea: Use relative speeds to find when each pair laps; take the LCM.
+Three runners start running simultaneously from the same point on a $500$-meter circular track. They each run clockwise around the course maintaining constant speeds of $4.4$, $4.8$, and $5.0$ meters per second. The runners stop once they are all together again somewhere on the circular course. How many seconds do the runners run? $\textbf{(A)}\ 1,000\qquad\textbf{(B)}\ 1,250\qquad\textbf{(C)}\ 2,500\qquad\textbf{(D)}\ 5,000\qquad\textbf{(E)}\ 10,000$
+
+### 2011B-09
+PassA: geo-triangle-area | PassB: geo-similar | keywords: geo-triangle-area | confidence A/B: high/high
+PassB key idea: Triangle EBD is similar to ABC; area ratio is the square of scale.
+The area of $\triangle$$EBD$ is one third of the area of $3-4-5$ $\triangle$$ABC$. Segment $DE$ is perpendicular to segment $AB$. What is $BD$? $\textbf{(A)}\ \frac{4}{3} \qquad\textbf{(B)}\ \sqrt{5} \qquad\textbf{(C)}\ \frac{9}{4} \qquad\textbf{(D)}\ \frac{4\sqrt{3}}{3} \qquad\textbf{(E)}\ \frac{5}{2}$ [DIAGRAM]
+
+### 2011B-22
+PassA: geo-3d-volume | PassB: geo-similar | keywords: geo-3d-volume, nt-bases, geo-3d-cubes | confidence A/B: high/medium
+PassB key idea: Take a cross-section through the apex; similar triangles relate cube side.
+A pyramid has a square base with sides of length $1$ and has lateral faces that are equilateral triangles. A cube is placed within the pyramid so that one face is on the base of the pyramid and its opposite face has all its edges on the lateral faces of the pyramid. What is the volume of this cube? $\textbf{(A)}\ 5\sqrt{2} - 7 \qquad\textbf{(B)}\ 7 - 4\sqrt{3} \qquad\textbf{(C)}\ \frac{2\sqrt{2}}{27} \qquad\textbf{(D)}\ \frac{\sqrt{2}}{9} \qquad\textbf{(E)}\ \frac{\sqrt{3}}{9}$
+
+### 2011A-15
+PassA: alg-percent-ratio | PassB: alg-linear-word | keywords: misc-money-everyday | confidence A/B: medium/medium
+PassB key idea: Total gallons used equals gas miles times rate; set miles per gallon.
+Roy bought a new battery-gasoline hybrid car. On a trip the car ran exclusively on its battery for the first 40 miles, then ran exclusively on gasoline for the rest of the trip, using gasoline at a rate of 0.02 gallons per mile. On the whole trip he averaged 55 miles per gallon. How long was the trip in miles? $\textbf{(A)}\,140 \qquad\textbf{(B)}\,240 \qquad\textbf{(C)}\,440 \qquad\textbf{(D)}\,640 \qquad\textbf{(E)}\,840$
+
+### 2010B-12
+PassA: alg-percent-ratio | PassB: alg-inequalities-optimization | keywords: alg-percent-ratio | confidence A/B: medium/medium
+PassB key idea: Find the minimum and maximum number of switchers given fixed totals.
+At the beginning of the school year, $50\%$ of all students in Mr. Wells' math class answered "Yes" to the question "Do you love math", and $50\%$ answered "No." At the end of the school year, $70\%$ answered "Yes" and $30\%$ answered "No." Altogether, $x\%$ of the students gave a different answer at the beginning and end of the school year. What is the difference between the maximum and the minimum possible values of $x$? $\textbf{(A)}\ 0 \qquad \textbf{(B)}\ 20 \qquad \textbf{(C)}\ 40 \qquad \textbf{(D)}\ 60 \qquad \textbf{(E)}\ 80$
+
+### 2010B-21
+PassA: cp-probability-basic | PassB: nt-divisibility | keywords: cp-probability-basic, nt-divisibility, nt-digits | confidence A/B: high/high
+PassB key idea: Write abba as 1001a+110b and use that 7 divides 1001.
+A palindrome between $1000$ and $10,000$ is chosen at random. What is the probability that it is divisible by $7$? $\textbf{(A)}\ \dfrac{1}{10} \qquad \textbf{(B)}\ \dfrac{1}{9} \qquad \textbf{(C)}\ \dfrac{1}{7} \qquad \textbf{(D)}\ \dfrac{1}{6} \qquad \textbf{(E)}\ \dfrac{1}{5}$
+
+### 2009B-14
+PassA: alg-recursion-patterns | PassB: alg-geom-seq | keywords: alg-percent-ratio, misc-calendar-clock | confidence A/B: medium/medium
+PassB key idea: Millet amount follows a geometric sum with ratio 3/4.
+On Monday, Millie puts a quart of seeds, $25\%$ of which are millet, into a bird feeder. On each successive day she adds another quart of the same mix of seeds without removing any seeds that are left. Each day the birds eat only $25\%$ of the millet in the feeder, but they eat all of the other seeds. On which day, just after Millie has placed the seeds, will the birds find that more than half the seeds in the feeder are millet? $\text{(A) } \text{Tuesday} \qquad \text{(B) } \text{Wednesday} \qquad \text{(C) } \text{Thursday} \qquad \text{(D) } \text{Friday} \qquad \text{(E) } \text{Saturday}$
+
+### 2009A-11
+PassA: geo-3d-volume | PassB: alg-factoring-identities | keywords: geo-3d-volume, geo-3d-cubes, alg-percent-ratio | confidence A/B: high/high
+PassB key idea: (a+1)(a-1)a equals a^3 minus a.
+One dimension of a cube is increased by $1$, another is decreased by $1$, and the third is left unchanged. The volume of the new rectangular solid is $5$ less than that of the cube. What was the volume of the cube? $\mathrm{(A)}\ 8 \qquad \mathrm{(B)}\ 27 \qquad \mathrm{(C)}\ 64 \qquad \mathrm{(D)}\ 125 \qquad \mathrm{(E)}\ 216$
+
+### 2008B-07
+PassA: geo-triangle-area | PassB: geo-similar | keywords: geo-triangle-area, cp-basic-counting | confidence A/B: medium/medium
+PassB key idea: Areas of similar figures scale with the square of side ratio.
+An equilateral triangle of side length $10$ is completely filled in by non-overlapping equilateral triangles of side length $1$. How many small triangles are required? $\mathrm{(A)}\ 10\qquad\mathrm{(B)}\ 25\qquad\mathrm{(C)}\ 100\qquad\mathrm{(D)}\ 250\qquad\mathrm{(E)}\ 1000$
+
+### 2008B-16
+PassA: cp-probability-dice-coins | PassB: cp-conditional-probability | keywords: cp-probability-dice-coins, cp-probability-basic, nt-parity | confidence A/B: high/medium
+PassB key idea: Casework on number of heads, then parity of dice sum.
+Two fair coins are to be tossed once. For each head that results, one fair die is to be rolled. What is the probability that the sum of the die rolls is odd? (Note that if no die is rolled, the sum is $0$.) $\mathrm{(A)}\ {{{\frac{3} {8}}}} \qquad \mathrm{(B)}\ {{{\frac{1} {2}}}} \qquad \mathrm{(C)}\ {{{\frac{43} {72}}}} \qquad \mathrm{(D)}\ {{{\frac{5} {8}}}} \qquad \mathrm{(E)}\ {{{\frac{2} {3}}}}$
+
+### 2008A-14
+PassA: geo-quadrilaterals | PassB: geo-pythagorean | keywords: alg-percent-ratio | confidence A/B: medium/high
+PassB key idea: The 4:3 screen and diagonal form a 3-4-5 triangle.
+Older television screens have an aspect ratio of $4: 3$. That is, the ratio of the width to the height is $4: 3$. The aspect ratio of many movies is not $4: 3$, so they are sometimes shown on a television screen by "letterboxing" - darkening strips of equal height at the top and bottom of the screen, as shown. Suppose a movie has an aspect ratio of $2: 1$ and is shown on an older television screen with a $27$-inch diagonal. What is the height, in inches, of each darkened strip? $\mathrm{(A)}\ 2\qquad\mathrm{(B)}\ 2.25\qquad\mathrm{(C)}\ 2.5\qquad\mathrm{(D)}\ 2.7\qquad\mathrm{(E)}\ 3$ [DIAGRAM]
+
+### 2007B-08
+PassA: nt-digits | PassB: cp-basic-counting | keywords: alg-mean-median, nt-digits, cp-basic-counting | confidence A/B: medium/medium
+PassB key idea: b is an average, so a and c must share parity.
+On the trip home from the meeting where this AMC10 was constructed, the Contest Chair noted that his airport parking receipt had digits of the form $bbcac,$ where $0 \le a < b < c \le 9,$ and $b$ was the average of $a$ and $c.$ How many different five-digit numbers satisfy all these properties? $\textbf{(A) } 12 \qquad\textbf{(B) } 16 \qquad\textbf{(C) } 18 \qquad\textbf{(D) } 20 \qquad\textbf{(E) } 25$
+
+### 2007B-23
+PassA: geo-3d-volume | PassB: geo-similar | keywords: geo-3d-volume, nt-bases, geo-quadrilaterals | confidence A/B: high/high
+PassB key idea: Surface area ratio 1/2 means linear ratio 1 over root 2.
+A pyramid with a square base is cut by a plane that is parallel to its base and $2$ units from the base. The surface area of the smaller pyramid that is cut from the top is half the surface area of the original pyramid. What is the altitude of the original pyramid? $\textbf{(A) } 2 \qquad\textbf{(B) } 2+\sqrt{2} \qquad\textbf{(C) } 1+2\sqrt{2} \qquad\textbf{(D) } 4 \qquad\textbf{(E) } 4+2\sqrt{2}$
+
+### 2007A-14
+PassA: geo-triangle-centers | PassB: geo-circle-theorems | keywords: geo-circle-area, alg-percent-ratio, geo-triangle-area | confidence A/B: medium/medium
+PassB key idea: A right triangle's hypotenuse is a diameter of its circumcircle.
+A triangle with side lengths in the ratio $3 : 4 : 5$ is inscribed in a circle with radius $3$. What is the area of the triangle? $\mathrm{(A)}\ 8.64\qquad \mathrm{(B)}\ 12\qquad \mathrm{(C)}\ 5\pi\qquad \mathrm{(D)}\ 17.28\qquad \mathrm{(E)}\ 18$
+
+### 2007A-21
+PassA: geo-3d-volume | PassB: geo-3d-cubes | keywords: geo-3d-volume, geo-3d-cubes, geo-quadrilaterals | confidence A/B: high/high
+PassB key idea: Sphere diameter equals outer edge and inner cube's space diagonal.
+A sphere is inscribed in a cube that has a surface area of $24$ square meters. A second cube is then inscribed within the sphere. What is the surface area in square meters of the inner cube? $\text{(A)}\ 3 \qquad \text{(B)}\ 6 \qquad \text{(C)}\ 8 \qquad \text{(D)}\ 9 \qquad \text{(E)}\ 12$
+
+### 2006B-15
+PassA: geo-quadrilaterals | PassB: geo-similar | keywords: geo-similar, geo-angles, geo-quadrilaterals | confidence A/B: high/medium
+PassB key idea: Compare the rhombi through diagonals; area ratio is square of side ratio.
+Rhombus $ABCD$ is similar to rhombus $BFDE$. The area of rhombus $ABCD$ is $24$ and $\angle BAD = 60^\circ$. What is the area of rhombus $BFDE$? $\mathrm{(A) \ } 6\qquad \mathrm{(B) \ } 4\sqrt{3}\qquad \mathrm{(C) \ } 8\qquad \mathrm{(D) \ } 9\qquad \mathrm{(E) \ } 6\sqrt{3}$ [DIAGRAM]
+
+### 2006A-25
+PassA: cp-conditional-probability | PassB: cp-paths-grids | keywords: geo-3d-cubes, cp-combinations, cp-probability-basic | confidence A/B: high/medium
+PassB key idea: Count Hamiltonian paths on the cube, divide by 3^7.
+A bug starts at one vertex of a cube and moves along the edges of the cube according to the following rule. At each vertex the bug will choose to travel along one of the three edges emanating from that vertex. Each edge has equal probability of being chosen, and all choices are independent. What is the probability that after seven moves the bug will have visited every vertex exactly once? $\mathrm{(A)}\ \frac{1}{2187}\qquad\mathrm{(B)}\ \frac{1}{729}\qquad\mathrm{(C)}\ \frac{2}{243}\qquad\mathrm{(D)}\ \frac{1}{81}\qquad\mathrm{(E)}\ \frac{5}{243}$
+
+### 2005B-24
+PassA: nt-digits | PassB: nt-squares-cubes | keywords: nt-digits, alg-quadratics | confidence A/B: high/high
+PassB key idea: x^2-y^2 = 99(a+b)(a-b) must be a perfect square.
+Let $x$ and $y$ be two-digit integers such that $y$ is obtained by reversing the digits of $x$. The integers $x$ and $y$ satisfy $x^2 - y^2 = m^2$ for some positive integer $m$. What is $x + y + m$? $\mathrm{(A)} 88 \qquad \mathrm{(B)} 112 \qquad \mathrm{(C)} 116 \qquad \mathrm{(D)} 144 \qquad \mathrm{(E)} 154$
+
+### 2005A-12
+PassA: geo-circle-area | PassB: geo-shaded-regions | keywords: nt-bases, geo-circle-area, geo-triangle-area | confidence A/B: medium/medium
+PassB key idea: Decompose trefoil into sectors and equilateral triangles.
+The figure shown is called a trefoil and is constructed by drawing circular sectors about sides of the congruent equilateral triangles. What is the area of a trefoil whose horizontal base has length $2$? $\textbf{(A) } \frac{1}{3}\pi+\frac{\sqrt{3}}{2}\qquad \textbf{(B) } \frac{2}{3}\pi\qquad \textbf{(C) } \frac{2}{3}\pi+\frac{\sqrt{3}}{4}\qquad \textbf{(D) } \frac{2}{3}\pi+\frac{\sqrt{3}}{3}\qquad \textbf{(E) } \frac{2}{3}\pi+\frac{\sqrt{3}}{2}$ [DIAGRAM]
+
+### 2004B-16
+PassA: geo-circle-theorems | PassB: geo-triangle-centers | keywords: geo-circle-theorems, alg-exponents-radicals, geo-circle-area | confidence A/B: high/high
+PassB key idea: Centers form an equilateral triangle; use its circumradius plus 1.
+Three circles of radius $1$ are externally tangent to each other and internally tangent to a larger circle. What is the radius of the large circle? $\mathrm{(A) \ } \frac{2 + \sqrt{6}}{3} \qquad \mathrm{(B) \ } 2 \qquad \mathrm{(C) \ } \frac{2 + 3\sqrt{2}}{2} \qquad \mathrm{(D) \ } \frac{3 + 2\sqrt{3}}{3} \qquad \mathrm{(E) \ } \frac{3 + \sqrt{3}}{2}$
+
+### 2004A-20
+PassA: geo-triangle-area | PassB: geo-pythagorean | keywords: alg-percent-ratio, geo-triangle-area, geo-quadrilaterals | confidence A/B: high/medium
+PassB key idea: Symmetry makes DEF isosceles right; equate EF and BE via Pythagoras.
+Points $E$ and $F$ are located on square $ABCD$ so that $\triangle BEF$ is equilateral. What is the ratio of the area of $\triangle DEF$ to that of $\triangle ABE$? $\mathrm{(A) \ } \frac{4}{3} \qquad \mathrm{(B) \ } \frac{3}{2} \qquad \mathrm{(C) \ } \sqrt{3} \qquad \mathrm{(D) \ } 2 \qquad \mathrm{(E) \ } 1+\sqrt{3}$ [DIAGRAM]
+
+### 2003A-08
+PassA: cp-probability-basic | PassB: nt-divisors | keywords: cp-probability-basic | confidence A/B: high/high
+PassB key idea: Count all divisors of 60 from its factorization, then the small ones.
+What is the probability that a randomly drawn positive factor of $60$ is less than $7$? $\mathrm{(A) \ } \frac{1}{10}\qquad \mathrm{(B) \ } \frac{1}{6}\qquad \mathrm{(C) \ } \frac{1}{4}\qquad \mathrm{(D) \ } \frac{1}{3}\qquad \mathrm{(E) \ } \frac{1}{2}$
+
+### 2003A-24
+PassA: misc-magic-squares | PassB: misc-logic | keywords: nt-divisibility | confidence A/B: medium/medium
+PassB key idea: Place restrictive cards first (5 and 6 neighbors) and deduce the order.
+Sally has five red cards numbered $1$ through $5$ and four blue cards numbered $3$ through $6$. She stacks the cards so that the colors alternate and so that the number on each red card divides evenly into the number on each neighboring blue card. What is the sum of the numbers on the middle three cards? $\mathrm{(A) \ } 8\qquad \mathrm{(B) \ } 9\qquad \mathrm{(C) \ } 10\qquad \mathrm{(D) \ } 11\qquad \mathrm{(E) \ } 12$
+
+### 2002B-12
+PassA: alg-factoring-identities | PassB: alg-factoring-identities | keywords:  | confidence A/B: medium/medium | suggested new category: Rational equations
+PassB key idea: Cross-multiply; quadratic terms cancel, leaving a linear equation to vanish.
+For which of the following values of $k$ does the equation $\frac{x-1}{x-2} = \frac{x-k}{x-6}$ have no solution for $x$? $\textbf{(A) } 1\qquad \textbf{(B) } 2\qquad \textbf{(C) } 3\qquad \textbf{(D) } 4\qquad \textbf{(E) } 5$
+
+### 2002B-24
+PassA: geo-circle-area | PassB: geo-trig | keywords: geo-coordinate, alg-rates, geo-circle-area | confidence A/B: medium/medium
+PassB key idea: Height above bottom is r - r cos(theta); find the angle turned.
+Riders on a Ferris wheel travel in a circle in a vertical plane. A particular wheel has radius $20$ feet and revolves at the constant rate of one revolution per minute. How many seconds does it take a rider to travel from the bottom of the wheel to a point $10$ vertical feet above the bottom? $\mathrm{(A) \ } 5\qquad \mathrm{(B) \ } 6\qquad \mathrm{(C) \ } 7.5\qquad \mathrm{(D) \ } 10\qquad \mathrm{(E) \ } 15$
+
+### 2002P-06
+PassA: geo-quadrilaterals | PassB: alg-factoring-identities | keywords: geo-perimeter-length, geo-quadrilaterals, alg-quadratics | confidence A/B: high/high
+PassB key idea: (l+w)^2 = l^2 + w^2 + 2lw with l^2+w^2 = x^2.
+The perimeter of a rectangle is $100$ and its diagonal has length $x.$ What is the area of this rectangle? $\text{(A) }625-x^2 \qquad \text{(B) }625-\frac{x^2}{2} \qquad \text{(C) }1250-x^2 \qquad \text{(D) }1250-\frac{x^2}{2} \qquad \text{(E) }2500-\frac{x^2}{2}$
+
+### 2001-07
+PassA: nt-fractions-decimals | PassB: alg-linear-word | keywords: nt-fractions-decimals | confidence A/B: medium/high
+PassB key idea: Moving decimal four places multiplies by 10^4; set equal to 4/x.
+When the decimal point of a certain positive decimal number is moved four places to the right, the new number is four times the reciprocal of the original number. What is the original number? $\textbf{(A) } 0.0002 \qquad\textbf{(B) } 0.002 \qquad\textbf{(C) } 0.02 \qquad\textbf{(D) } 0.2 \qquad\textbf{(E) } 2$
+
+### 2000-11
+PassA: nt-primes-factorization | PassB: nt-diophantine | keywords: nt-primes-factorization, cp-combinations | confidence A/B: high/high
+PassB key idea: pq - p - q = (p-1)(q-1) - 1; test each choice.
+Two different prime numbers between $4$ and $18$ are chosen. When their sum is subtracted from their product, which of the following numbers could be obtained? $\textbf{(A)}\ 21 \qquad\textbf{(B)}\ 60 \qquad\textbf{(C)}\ 119 \qquad\textbf{(D)}\ 180 \qquad\textbf{(E)}\ 231$
+
+### 2000-22
+PassA: alg-percent-ratio | PassB: alg-inequalities-optimization | keywords: alg-percent-ratio, cp-basic-counting | confidence A/B: medium/medium
+PassB key idea: Compare Angela's share with total; bound family size between 4 and 6.
+One morning each member of Angela's family drank an 8-ounce mixture of coffee with milk. The amounts of coffee and milk varied from cup to cup, but were never zero. Angela drank a quarter of the total amount of milk and a sixth of the total amount of coffee. How many people are in the family? $\textbf{(A)}\ 3 \qquad\textbf{(B)}\ 4 \qquad\textbf{(C)}\ 5 \qquad\textbf{(D)}\ 6 \qquad\textbf{(E)}\ 7$
+

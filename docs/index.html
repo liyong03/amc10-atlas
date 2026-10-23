@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AMC 10 Problem Atlas</title>
+<meta name="description" content="Every AMC 10 problem since 2000, grouped by topic, newest first, with answers and links to AoPS solutions.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,800&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;1,6..72,400&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+<script>
+  try { const t = localStorage.getItem('amc-theme'); if (t) document.documentElement.dataset.theme = t; } catch (e) {}
+  window.MathJax = {
+    tex: { inlineMath: [['$', '$'], ['\\(', '\\)']], displayMath: [['$$', '$$'], ['\\[', '\\]']], processEscapes: true },
+    options: { skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code', 'button'] },
+    chtml: { scale: 1.02 },
+    startup: { typeset: false }
+  };
+</script>
+<script defer src="https://cdn.jsdelivr.net/npm/mathjax@3.2.2/es5/tex-chtml.js"></script>
+</head>
+<body>
+<header class="masthead">
+  <button class="menu-btn" id="menuBtn" aria-label="Open topic list">☰</button>
+  <a class="brand" href="#/">
+    <span class="brand-mark">∑</span>
+    <span class="brand-text">AMC&nbsp;10 <em>Problem Atlas</em></span>
+  </a>
+  <div class="search">
+    <input id="search" type="search" placeholder="Search problems or topics…" autocomplete="off">
+  </div>
+  <div class="mast-right">
+    <div class="progress" title="Problems you've marked solved">
+      <span id="progressText">0 solved</span>
+      <span class="progress-bar"><span id="progressFill"></span></span>
+    </div>
+    <button id="themeBtn" class="icon-btn" aria-label="Toggle dark mode">◐</button>
+  </div>
+</header>
+
+<div class="layout">
+  <nav class="sidebar" id="sidebar" aria-label="Topics"></nav>
+  <main id="main" tabindex="-1">
+    <div class="loading">Loading problems…</div>
+  </main>
+</div>
+
+<footer class="foot">
+  Problems © Mathematical Association of America, text and diagrams from the
+  <a href="https://artofproblemsolving.com/wiki/index.php?title=AMC_10_Problems_and_Solutions" target="_blank" rel="noopener">AoPS Wiki</a>.
+  Topic labels are our own (checked by two independent reviews and keyword rules); suggestions welcome.
+</footer>
+<script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,632 @@
+# PART 1: candidates for the NEW categories (cp-symmetry-counting, cp-graph-networks, geo-3d-spheres)
+
+### 2025B-21
+Current label: cp-paths-grids (secondary: cp-basic-counting)
+Each of the $9$ squares in a $3 \times 3$ grid is to be colored red, blue, or yellow in such a way that each red square shares an edge with at least one blue square, each blue square shares an edge with at least one yellow square, and each yellow square shares an edge with at least one red square. Colorings that can be obtained from one another by rotations and/or reflections are to be considered the same. How many different colorings are possible? $\textbf{(A) } 3 \qquad \textbf{(B) } 9 \qquad \textbf{(C) } 12 \qquad \textbf{(D) } 18 \qquad \textbf{(E) } 27$
+
+### 2024B-22
+Current label: cp-combinations (secondary: nt-factorials)
+A group of $16$ people will be partitioned into $4$ indistinguishable $4$-person committees. Each committee will have one chairperson and one secretary. The number of different ways to make these assignments can be written as ${3^r}M$, where $r$ and $M$ are positive integers and $M$ is not divisible by $3$. What is $r$? $\textbf{(A) } 5 \qquad\textbf{(B) } 6 \qquad\textbf{(C) } 7 \qquad\textbf{(D) } 8 \qquad\textbf{(E) } 9$
+
+### 2024A-13
+Current label: geo-transformations (secondary: -)
+Two transformations are said to commute if applying the first followed by the second gives the same result as applying the second followed by the first. Consider these four transformations of the coordinate plane: a translation $2$ units to the right, a $90^{\circ}$-rotation counterclockwise about the origin, a reflection across the $x$-axis, and a dilation centered at the origin with scale factor $2.$ Of the $6$ pairs of distinct transformations from this list, how many commute? $\textbf{(A)}~1\qquad\textbf{(B)}~2\qquad\textbf{(C)}~3\qquad\textbf{(D)}~4\qquad\textbf{(E)}~5$
+
+### 2023B-07
+Current label: geo-angles (secondary: geo-transformations)
+Square $ABCD$ is rotated $20^{\circ}$ clockwise about its center to obtain square $EFGH$, as shown below. What is the degree measure of $\angle{EAB}$? $\textbf{(A) }24^{\circ}\qquad\textbf{(B) }35^{\circ}\qquad\textbf{(C) }30^{\circ}\qquad\textbf{(D) }32^{\circ}\qquad\textbf{(E) }20^{\circ}$ [DIAGRAM]
+
+### 2023A-18
+Current label: geo-3d-cubes (secondary: -)
+A rhombic dodecahedron is a solid with $12$ congruent rhombus faces. At every vertex, $3$ or $4$ edges meet, depending on the vertex. How many vertices have exactly $3$ edges meet? $\textbf{(A) }5\qquad\textbf{(B) }6\qquad\textbf{(C) }7\qquad\textbf{(D) }8\qquad\textbf{(E) }9$
+
+### 2023A-19
+Current label: geo-transformations (secondary: geo-coordinate)
+The line segment formed by $A(1, 2)$ and $B(3, 3)$ is rotated to the line segment formed by $A'(3, 1)$ and $B'(4, 3)$ about the point $P(r, s)$. What is $|r-s|$? $\textbf{(A) } \frac{1}{4} \qquad \textbf{(B) } \frac{1}{2} \qquad \textbf{(C) } \frac{3}{4} \qquad \textbf{(D) } \frac{2}{3} \qquad \textbf{(E) } 1$
+
+### 2023A-25
+Current label: cp-probability-basic (secondary: geo-3d-cubes)
+If $A$ and $B$ are vertices of a polyhedron, define the distance $d(A, B)$ to be the minimum number of edges of the polyhedron one must traverse in order to connect $A$ and $B$. For example, $\overline{AB}$ is an edge of the polyhedron, then $d(A, B) = 1$, but if $\overline{AC}$ and $\overline{CB}$ are edges and $\overline{AB}$ is not an edge, then $d(A, B) = 2$. Let $Q$, $R$, and $S$ be randomly chosen distinct vertices of a regular icosahedron (regular polyhedron made up of $20$ equilateral triangles). What is the probability that $d(Q, R) > d(R, S)$? $\textbf{(A) }\frac{7}{22}\qquad\textbf{(B) }\frac{1}{3}\qquad\textbf{(C) }\frac{3}{8}\qquad\textbf{(D) }\frac{5}{12}\qquad\textbf{(E) }\frac{1}{2}$
+
+### 2022A-18
+Current label: geo-transformations (secondary: nt-modular)
+Let $T_k$ be the transformation of the coordinate plane that first rotates the plane $k$ degrees counterclockwise around the origin and then reflects the plane across the $y$-axis. What is the least positive integer $n$ such that performing the sequence of transformations $T_1, T_2, T_3,...,T_n$ returns the point $(1, 0)$ back to itself? $\textbf{(A) } 359 \qquad \textbf{(B) } 360 \qquad \textbf{(C) } 719 \qquad \textbf{(D) } 720 \qquad \textbf{(E) } 721$
+
+### 2021FB-10
+Current label: misc-logic (secondary: nt-squares-cubes)
+Forty slips of paper numbered $1$ to $40$ are placed in a hat. Alice and Bob each draw one number from the hat without replacement, keeping their numbers hidden from each other. Alice says, "I can't tell who has the larger number." Then Bob says, "I know who has the larger number." Alice says, "You do? Is your number prime?" Bob replies, "Yes." Alice says, "In that case, if I multiply your number by $100$ and add my number, the result is a perfect square. " What is the sum of the two numbers drawn from the hat? $\textbf{(A) }27\qquad\textbf{(B) }37\qquad\textbf{(C) }47\qquad\textbf{(D) }57\qquad\textbf{(E) }67$
+
+### 2021FB-18
+Current label: geo-polygons (secondary: geo-shaded-regions, geo-pythagorean)
+Three identical square sheets of paper each with side length $6{ }$ are stacked on top of each other. The middle sheet is rotated clockwise $30^\circ$ about its center and the top sheet is rotated clockwise $60^\circ$ about its center, resulting in the $24$-sided polygon shown in the figure below. The area of this polygon can be expressed in the form $a-b\sqrt{c}$, where $a$, $b$, and $c$ are positive integers, and $c$ is not divisible by the square of any prime. What is $a+b+c?$ $(\textbf{A})\: 75\qquad(\textbf{B}) \: 93\qquad(\textbf{C}) \: 96\qquad(\textbf{D}) \: 129\qquad(\textbf{E}) \: 147$ [DIAGRAM]
+
+### 2021FA-24
+Current label: cp-basic-counting (secondary: geo-3d-cubes)
+Each of the $12$ edges of a cube is labeled $0$ or $1$. Two labelings are considered different even if one can be obtained from the other by a sequence of one or more rotations and/or reflections. For how many such labelings is the sum of the labels on the edges of each of the $6$ faces of the cube equal to $2$? $\textbf{(A) } 8 \qquad\textbf{(B) } 10 \qquad\textbf{(C) } 12 \qquad\textbf{(D) } 16 \qquad\textbf{(E) } 20$
+
+### 2021B-09
+Current label: geo-transformations (secondary: geo-coordinate)
+The point $P(a,b)$ in the $xy$-plane is first rotated counterclockwise by $90^\circ$ around the point $(1,5)$ and then reflected about the line $y = -x$. The image of $P$ after these two transformations is at $(-6,3)$. What is $b - a ?$ $\textbf{(A)} ~1 \qquad\textbf{(B)} ~3 \qquad\textbf{(C)} ~5 \qquad\textbf{(D)} ~7 \qquad\textbf{(E)} ~9$
+
+### 2021A-25
+Current label: cp-paths-grids (secondary: cp-basic-counting)
+How many ways are there to place $3$ indistinguishable red chips, $3$ indistinguishable blue chips, and $3$ indistinguishable green chips in the squares of a $3 \times 3$ grid so that no two chips of the same color are directly adjacent to each other, either vertically or horizontally? $\textbf{(A)} ~12\qquad\textbf{(B)} ~18\qquad\textbf{(C)} ~24\qquad\textbf{(D)} ~30\qquad\textbf{(E)} ~36$
+
+### 2020B-05
+Current label: cp-permutations (secondary: -)
+How many distinguishable arrangements are there of $1$ brown tile, $1$ purple tile, $2$ green tiles, and $3$ yellow tiles in a row from left to right? (Tiles of the same color are indistinguishable.) $\textbf{(A)}\ 210 \qquad\textbf{(B)}\ 420 \qquad\textbf{(C)}\ 630 \qquad\textbf{(D)}\ 840 \qquad\textbf{(E)}\ 1050$
+
+### 2020B-17
+Current label: cp-basic-counting (secondary: cp-recursion-counting)
+There are $10$ people standing equally spaced around a circle. Each person knows exactly $3$ of the other $9$ people: the $2$ people standing next to him or her, as well as the person directly across the circle. How many ways are there for the $10$ people to split up into $5$ pairs so that the members of each pair know each other? $\textbf{(A)}\ 11 \qquad\textbf{(B)}\ 12 \qquad\textbf{(C)}\ 13 \qquad\textbf{(D)}\ 14 \qquad\textbf{(E)}\ 15$
+
+### 2020B-23
+Current label: geo-transformations (secondary: cp-basic-counting)
+Square $ABCD$ in the coordinate plane has vertices at the points $A(1,1), B(-1,1), C(-1,-1),$ and $D(1,-1).$ Consider the following four transformations: $\quad\bullet\qquad$ $L,$ a rotation of $90^{\circ}$ counterclockwise around the origin; $\quad\bullet\qquad$ $R,$ a rotation of $90^{\circ}$ clockwise around the origin; $\quad\bullet\qquad$ $H,$ a reflection across the $x$-axis; and $\quad\bullet\qquad$ $V,$ a reflection across the $y$-axis. Each of these transformations maps the squares onto itself, but the positions of the labeled vertices will change. For example, applying $R$ and then $V$ would send the vertex $A$ at $(1,1)$ to $(-1,-1)$ and would send the vertex $B$ at $(-1,1)$ to itself. How many sequences of $20$ transformations chosen from $\{L, R, H, V\}$ will send all of the labeled vertices back to their original positions? (For example, $R, R, V, H$ is one sequence of $4$ transformations that will send the vertices back to their original positions.) $\textbf{(A)}\ 2^{37} \qquad\textbf{(B)}\ 3\cdot 2^{36} \qquad\textbf{(C)}\ 2^{38} \qquad\textbf{(D)}\ 3\cdot 2^{37} \qquad\textbf{(E)}\ 2^{39}$
+
+### 2020A-23
+Current label: geo-transformations (secondary: cp-basic-counting)
+Let $T$ be the triangle in the coordinate plane with vertices $(0,0), (4,0),$ and $(0,3).$ Consider the following five isometries (rigid transformations) of the plane: rotations of $90^{\circ}, 180^{\circ},$ and $270^{\circ}$ counterclockwise around the origin, reflection across the $x$-axis, and reflection across the $y$-axis. How many of the $125$ sequences of three of these transformations (not necessarily distinct) will return $T$ to its original position? (For example, a $180^{\circ}$ rotation, followed by a reflection across the $x$-axis, followed by a reflection across the $y$-axis will return $T$ to its original position, but a $90^{\circ}$ rotation, followed by a reflection across the $x$-axis, followed by another reflection across the $x$-axis will not return $T$ to its original position.) $\textbf{(A) } 12 \qquad \textbf{(B) } 15 \qquad \textbf{(C) } 17 \qquad \textbf{(D) } 20 \qquad \textbf{(E) } 25$
+
+### 2019A-08
+Current label: geo-transformations (secondary: -)
+The figure below shows line $\ell$ with a regular, infinite, recurring pattern of squares and line segments. How many of the following four kinds of rigid motion transformations of the plane in which this figure is drawn, other than the identity transformation, will transform this figure into itself? some rotation around a point of line $\ell$ some translation in the direction parallel to line $\ell$ the reflection across line $\ell$ some reflection across a line perpendicular to line $\ell$ $\textbf{(A) } 0 \qquad\textbf{(B) } 1 \qquad\textbf{(C) } 2 \qquad\textbf{(D) } 3 \qquad\textbf{(E) } 4$ [DIAGRAM]
+
+### 2019A-21
+Current label: geo-triangle-centers (secondary: geo-pythagorean)
+A sphere with center $O$ has radius 6. A triangle with sides of length $15$, $15$, and $24$ is situated in space so that each of its sides are tangent to the sphere. What is the distance between $O$ and the plane determined by the triangle? $\textbf{(A) } 2\sqrt{3} \qquad \textbf{(B) }4 \qquad \textbf{(C) } 3\sqrt{2} \qquad \textbf{(D) } 2\sqrt{5} \qquad \textbf{(E) } 5$
+
+### 2019A-23
+Current label: alg-arith-seq (secondary: alg-recursion-patterns)
+Travis has to babysit the terrible Thompson triplets. Knowing that they love big numbers, Travis devises a counting game for them. First Tadd will say the number $1$, then Todd must say the next two numbers ($2$ and $3$), then Tucker must say the next three numbers ($4$, $5$, $6$), then Tadd must say the next four numbers ($7$, $8$, $9$, $10$), and the process continues to rotate through the three children in order, each saying one more number than the previous child did, until the number $10,000$ is reached. What is the $2019$th number said by Tadd? $\textbf{(A)}\ 5743 \qquad\textbf{(B)}\ 5885 \qquad\textbf{(C)}\ 5979 \qquad\textbf{(D)}\ 6001 \qquad\textbf{(E)}\ 6011$
+
+### 2018A-20
+Current label: cp-paths-grids (secondary: geo-transformations)
+A scanning code consists of a $7 \times 7$ grid of squares, with some of its squares colored black and the rest colored white. There must be at least one square of each color in this grid of $49$ squares. A scanning code is called $\textit{symmetric}$ if its look does not change when the entire square is rotated by a multiple of $90 ^{\circ}$ counterclockwise around its center, nor when it is reflected across a line joining opposite corners or a line joining midpoints of opposite sides. What is the total number of possible symmetric scanning codes? $\textbf{(A)} \text{ 510} \qquad \textbf{(B)} \text{ 1022} \qquad \textbf{(C)} \text{ 8190} \qquad \textbf{(D)} \text{ 8192} \qquad \textbf{(E)} \text{ 65,534}$
+
+### 2017B-07
+Current label: alg-rates (secondary: -)
+Samia set off on her bicycle to visit her friend, traveling at an average speed of $17$ kilometers per hour. When she had gone half the distance to her friend's house, a tire went flat, and she walked the rest of the way at $5$ kilometers per hour. In all it took her $44$ minutes to reach her friend's house. In kilometers rounded to the nearest tenth, how far did Samia walk? $\textbf{(A)}\ 2.0\qquad\textbf{(B)}\ 2.2\qquad\textbf{(C)}\ 2.8\qquad\textbf{(D)}\ 3.4\qquad\textbf{(E)}\ 4.4$
+
+### 2017A-02
+Current label: misc-money-everyday (secondary: alg-inequalities-optimization)
+Pablo buys popsicles for his friends. The store sells single popsicles for $\$1$ each, $3$-popsicle boxes for $\$2$ each, and $5$-popsicle boxes for $\$3$. What is the greatest number of popsicles that Pablo can buy with $\$8$? $\textbf{(A)}\ 8\qquad\textbf{(B)}\ 11\qquad\textbf{(C)}\ 12\qquad\textbf{(D)}\ 13\qquad\textbf{(E)}\ 15$
+
+### 2017A-08
+Current label: cp-combinations (secondary: -)
+At a gathering of $30$ people, there are $20$ people who all know each other and $10$ people who know no one. People who know each other hug, and people who do not know each other shake hands. How many handshakes occur? $\textbf{(A)}\ 240\qquad\textbf{(B)}\ 245\qquad\textbf{(C)}\ 290\qquad\textbf{(D)}\ 480\qquad\textbf{(E)}\ 490$
+
+### 2016A-13
+Current label: misc-logic (secondary: -)
+Five friends sat in a movie theater in a row containing $5$ seats, numbered $1$ to $5$ from left to right. (The directions "left" and "right" are from the point of view of the people as they sit in the seats.) During the movie Ada went to the lobby to get some popcorn. When she returned, she found that Bea had moved two seats to the right, Ceci had moved one seat to the left, and Dee and Edie had switched seats, leaving an end seat for Ada. In which seat had Ada been sitting before she got up? $\textbf{(A) }1 \qquad \textbf{(B) } 2 \qquad \textbf{(C) } 3 \qquad \textbf{(D) } 4\qquad \textbf{(E) } 5$
+
+### 2016A-16
+Current label: geo-transformations (secondary: -)
+A triangle with vertices $A(0, 2)$, $B(-3, 2)$, and $C(-3, 0)$ is reflected about the $x$-axis, then the image $\triangle A'B'C'$ is rotated counterclockwise about the origin by $90^{\circ}$ to produce $\triangle A''B''C''$. Which of the following transformations will return $\triangle A''B''C''$ to $\triangle ABC$? $\textbf{(A)}$ counterclockwise rotation about the origin by $90^{\circ}$. $\textbf{(B)}$ clockwise rotation about the origin by $90^{\circ}$. $\textbf{(C)}$ reflection about the $x$-axis $\textbf{(D)}$ reflection about the line $y = x$ $\textbf{(E)}$ reflection about the $y$-axis.
+
+### 2015B-08
+Current label: geo-transformations (secondary: -)
+The letter F shown below is rotated $90^\circ$ clockwise around the origin, then reflected in the $y$-axis, and then rotated a half turn around the origin. What is the final image? [DIAGRAM]
+
+### 2014B-23
+Current label: geo-3d-volume (secondary: geo-circle-theorems)
+A sphere is inscribed in a truncated right circular cone as shown. The volume of the truncated cone is twice that of the sphere. What is the ratio of the radius of the bottom base of the truncated cone to the radius of the top base of the truncated cone? $\text{(A) } \dfrac32 \quad \text{(B) } \dfrac{1+\sqrt5}2 \quad \text{(C) } \sqrt3 \quad \text{(D) } 2 \quad \text{(E) } \dfrac{3+\sqrt5}2$ [DIAGRAM]
+
+### 2013A-17
+Current label: nt-gcd-lcm (secondary: cp-inclusion-exclusion)
+Daphnia is visited periodically by her three best friends: Alice, Beatrix, and Claire. Alice visits every third day, Beatrix visits every fourth day, and Claire visits every fifth day. All three friends visited Daphnia yesterday. How many days of the next 365-day period will exactly two friends visit her? $\textbf{(A)}\ 48\qquad\textbf{(B)}\ 54\qquad\textbf{(C)}\ 60\qquad\textbf{(D)}\ 66\qquad\textbf{(E)}\ 72$
+
+### 2013A-20
+Current label: geo-shaded-regions (secondary: geo-transformations, geo-circle-area)
+A unit square is rotated $45^\circ$ about its center. What is the area of the region swept out by the interior of the square? $\textbf{(A)}\ 1 - \frac{\sqrt2}{2} + \frac{\pi}{4}\qquad\textbf{(B)}\ \frac{1}{2} + \frac{\pi}{4} \qquad\textbf{(C)}\ 2 - \sqrt2 + \frac{\pi}{4}$ $\textbf{(D)}\ \frac{\sqrt2}{2} + \frac{\pi}{4} \qquad\textbf{(E)}\ 1 + \frac{\sqrt2}{4} + \frac{\pi}{8}$
+
+### 2012A-20
+Current label: cp-probability-basic (secondary: geo-transformations)
+A $3 \times 3$ square is partitioned into $9$ unit squares. Each unit square is painted either white or black with each color being equally likely, chosen independently and at random. The square is then rotated $90\,^{\circ}$ clockwise about its center, and every white square in a position formerly occupied by a black square is painted black. The colors of all other squares are left unchanged. What is the probability the grid is now entirely black? $\textbf{(A)}\ \frac{49}{512}\qquad\textbf{(B)}\ \frac{7}{64}\qquad\textbf{(C)}\ \frac{121}{1024}\qquad\textbf{(D)}\ \frac{81}{512}\qquad\textbf{(E)}\ \frac{9}{32}$
+
+### 2008B-14
+Current label: geo-transformations (secondary: geo-coordinate, geo-pythagorean)
+Triangle $OAB$ has $O=(0,0)$, $B=(5,0)$, and $A$ in the first quadrant. In addition, $\angle ABO=90^\circ$ and $\angle AOB=30^\circ$. Suppose that $OA$ is rotated $90^\circ$ counterclockwise about $O$. What are the coordinates of the image of $A$? $\mathrm{(A)}\ \left( - \frac {10}{3}\sqrt {3},5\right) \qquad \mathrm{(B)}\ \left( - \frac {5}{3}\sqrt {3},5\right) \qquad \mathrm{(C)}\ \left(\sqrt {3},5\right) \qquad \mathrm{(D)}\ \left(\frac {5}{3}\sqrt {3},5\right) \qquad \mathrm{(E)}\ \left(\frac {10}{3}\sqrt {3},5\right)$
+
+### 2008A-19
+Current label: geo-transformations (secondary: geo-circle-area)
+Rectangle $PQRS$ lies in a plane with $PQ=RS=2$ and $QR=SP=6$. The rectangle is rotated $90^\circ$ clockwise about $R$, then rotated $90^\circ$ clockwise about the point $S$ moved to after the first rotation. What is the length of the path traveled by point $P$? $\mathrm{(A)}\ \left(2\sqrt{3}+\sqrt{5}\right)\pi\qquad\mathrm{(B)}\ 6\pi\qquad\mathrm{(C)}\ \left(3+\sqrt{10}\right)\pi\qquad\mathrm{(D)}\ \left(\sqrt{3}+2\sqrt{5}\right)\pi\\\mathrm{(E)}\ 2\sqrt{10}\pi$
+
+### 2005A-19
+Current label: geo-pythagorean (secondary: geo-transformations)
+Three one-inch squares are placed with their bases on a line. The center square is lifted out and rotated $45^{\circ}$, as shown. Then it is centered and lowered into its original location until it touches both of the adjoining squares. How many inches is the point $B$ from the line on which the bases of the original squares were placed? $\textbf{(A) } 1\qquad\textbf{(B) } \sqrt{2}\qquad\textbf{(C) } \frac{3}{2}\qquad\textbf{(D) } \sqrt{2}+\frac{1}{2}\qquad\textbf{(E) } 2$ [DIAGRAM]
+
+### 2004A-01
+Current label: misc-money-everyday (secondary: -)
+You and five friends need to raise $1500$ dollars in donations for a charity, dividing the fundraising equally. How many dollars will each of you need to raise? $\mathrm{(A) \ } 250\qquad \mathrm{(B) \ } 300 \qquad \mathrm{(C) \ } 1500 \qquad \mathrm{(D) \ } 7500 \qquad \mathrm{(E) \ } 9000$
+
+### 2004A-25
+Current label: geo-3d-cubes (secondary: geo-pythagorean, geo-triangle-centers)
+Three mutually tangent spheres of radius 1 rest on a horizontal plane. A sphere of radius 2 rests on them. What is the distance from the plane to the top of the larger sphere? $\mathrm{(A) \ } 3+\dfrac{\sqrt{30}}{2} \qquad \mathrm{(B) \ } 3+\dfrac{\sqrt{69}}{3} \qquad \mathrm{(C) \ } 3+\dfrac{\sqrt{123}}{4} \qquad \mathrm{(D) \ } \dfrac{52}{9} \qquad \mathrm{(E) \ } 3+2\sqrt{2}$
+
+### 2003B-17
+Current label: geo-3d-volume (secondary: -)
+An ice cream cone consists of a sphere of vanilla ice cream and a right circular cone that has the same diameter as the sphere. If the ice cream melts, it will exactly fill the cone. Assume that the melted ice cream occupies $75\%$ of the volume of the frozen ice cream. What is the ratio of the cone's height to its radius? (Note: a cone with radius $r$ and height $h$ has volume $\pi r^2 h / 3$ and a sphere with radius $r$ has volume $4 \pi r^3 / 3$.) $\textbf{(A) } 2:1 \qquad\textbf{(B) } 3:1 \qquad\textbf{(C) } 4:1 \qquad\textbf{(D) } 16:3 \qquad\textbf{(E) } 6:1$
+
+# PART 2: random sample of consensus labels to audit
+
+### 2024A-09
+Current label: cp-combinations (secondary: -)
+In how many ways can $6$ juniors and $6$ seniors form $3$ disjoint teams of $4$ people so that each team has $2$ juniors and $2$ seniors? $\textbf{(A) }720\qquad\textbf{(B) }1350\qquad\textbf{(C) }2700\qquad\textbf{(D) }3280\qquad\textbf{(E) }8100$
+
+### 2004A-05
+Current label: cp-probability-basic (secondary: cp-combinations)
+A set of three points is randomly chosen from the grid shown. Each three point set has the same probability of being chosen. What is the probability that the points lie on the same straight line? $\mathrm{(A) \ } \frac{1}{21} \qquad \mathrm{(B) \ } \frac{1}{14} \qquad \mathrm{(C) \ } \frac{2}{21} \qquad \mathrm{(D) \ } \frac17 \qquad \mathrm{(E) \ } \frac27$ [DIAGRAM]
+
+### 2002P-16
+Current label: geo-pythagorean (secondary: geo-3d-cubes)
+Two walls and the ceiling of a room meet at right angles at point $P.$ A fly is in the air one meter from one wall, eight meters from the other wall, and nine meters from point $P$. How many meters is the fly from the ceiling? $\text{(A) }\sqrt{13} \qquad \text{(B) }\sqrt{14} \qquad \text{(C) }\sqrt{15} \qquad \text{(D) }4 \qquad \text{(E) }\sqrt{17}$
+
+### 2025A-13
+Current label: alg-geom-seq (secondary: geo-shaded-regions)
+In the figure below, the outside square contains infinitely many squares, each of them with the same center and sides parallel to the outside square. The ratio of the side length of a square to the side length of the next inner square is $k$, where $0 < k < 1.$ The spaces between squares are alternately shaded as shown in the figure (which is not necessarily drawn to scale). The area of the shaded portion of the figure is $64\%$ of the area of the original square. What is $k$? $\textbf{(A) } \frac{3}{5} \qquad\textbf{(B) } \frac{16}{25} \qquad\textbf{(C) } \frac{2}{3} \qquad\textbf{(D) } \frac{3}{4} \qquad\textbf{(E) } \frac{4}{5}$ [DIAGRAM]
+
+### 2015B-05
+Current label: misc-logic (secondary: -)
+David, Hikmet, Jack, Marta, Rand, and Todd were in a $12$-person race with $6$ other people. Rand finished $6$ places ahead of Hikmet. Marta finished $1$ place behind Jack. David finished $2$ places behind Hikmet. Jack finished $2$ places behind Todd. Todd finished $1$ place behind Rand. Marta finished in $6$th place. Who finished in $8$th place? $\textbf{(A) } \text{David} \qquad\textbf{(B) } \text{Hikmet} \qquad\textbf{(C) } \text{Jack} \qquad\textbf{(D) } \text{Rand} \qquad\textbf{(E) } \text{Todd}$
+
+### 2002B-17
+Current label: geo-polygons (secondary: geo-triangle-area)
+A regular octagon $ABCDEFGH$ has sides of length two. Find the area of $\triangle ADG$. $\textbf{(A) } 4 + 2\sqrt2 \qquad \textbf{(B) } 6 + \sqrt2\qquad \textbf{(C) } 4 + 3\sqrt2 \qquad \textbf{(D) } 3 + 4\sqrt2 \qquad \textbf{(E) } 8 + \sqrt2$
+
+### 2001-11
+Current label: alg-recursion-patterns (secondary: alg-arith-seq, alg-factoring-identities)
+Consider the dark square in an array of unit squares, part of which is shown. The ﬁrst ring of squares around this center square contains $8$ unit squares. The second ring contains $16$ unit squares. If we continue this process, the number of unit squares in the $100^\text{th}$ ring is $\textbf{(A)}\ 396 \qquad \textbf{(B)}\ 404 \qquad \textbf{(C)}\ 800 \qquad \textbf{(D)}\ 10,\!000 \qquad \textbf{(E)}\ 10,\!404$ [DIAGRAM]
+
+### 2012A-10
+Current label: alg-arith-seq (secondary: geo-angles, nt-diophantine)
+Mary divides a circle into $12$ sectors. The central angles of these sectors, measured in degrees, are all integers and they form an arithmetic sequence. What is the degree measure of the smallest possible sector angle? $\textbf{(A)}\ 5\qquad\textbf{(B)}\ 6\qquad\textbf{(C)}\ 8\qquad\textbf{(D)}\ 10\qquad\textbf{(E)}\ 12$
+
+### 2018A-10
+Current label: alg-factoring-identities (secondary: alg-exponents-radicals)
+Suppose that real number $x$ satisfies \[\sqrt{49-x^2}-\sqrt{25-x^2}=3.\] What is the value of $\sqrt{49-x^2}+\sqrt{25-x^2}$? $\textbf{(A) }8 \qquad \textbf{(B) }\sqrt{33}+8\qquad \textbf{(C) }9 \qquad \textbf{(D) }2\sqrt{10}+4 \qquad \textbf{(E) }12 \qquad$
+
+### 2024A-14
+Current label: geo-shaded-regions (secondary: geo-circle-theorems, geo-pythagorean)
+One side of an equilateral triangle of height $24$ lies on line $\ell$. A circle of radius $12$ is tangent to line $\ell$ and is externally tangent to the triangle. The area of the region exterior to the triangle and the circle and bounded by the triangle, the circle, and line $\ell$ can be written as $a \sqrt{b} - c \pi$, where $a$, $b$, and $c$ are positive integers and $b$ is not divisible by the square of any prime. What is $a + b + c$? $\textbf{(A)}~72\qquad\textbf{(B)}~73\qquad\textbf{(C)}~74\qquad\textbf{(D)}~75\qquad\textbf{(E)}~76$
+
+### 2001-08
+Current label: nt-gcd-lcm (secondary: -)
+Wanda, Darren, Beatrice, and Chi are tutors in the school math lab. Their schedule is as follows: Darren works every third school day, Wanda works every fourth school day, Beatrice works every sixth school day, and Chi works every seventh school day. Today they are all working in the math lab. In how many school days from today will they next be together tutoring in the lab? $\textbf{(A) } 42 \qquad\textbf{(B) } 84 \qquad\textbf{(C) } 126 \qquad\textbf{(D) } 178 \qquad\textbf{(E) } 252$
+
+### 2009B-15
+Current label: alg-systems (secondary: -)
+When a bucket is two-thirds full of water, the bucket and water weigh $a$ kilograms. When the bucket is one-half full of water the total weight is $b$ kilograms. In terms of $a$ and $b$, what is the total weight in kilograms when the bucket is full of water? $\text{(A) } \frac23a + \frac13b \qquad \text{(B) } \frac32a - \frac12b \qquad \text{(C) } \frac32a + b \qquad \text{(D) } \frac32a + 2b \qquad \text{(E) } 3a - 2b$
+
+### 2021FB-09
+Current label: alg-percent-ratio (secondary: alg-linear-word)
+The knights in a certain kingdom come in two colors. $\frac{2}{7}$ of them are red, and the rest are blue. Furthermore, $\frac{1}{6}$ of the knights are magical, and the fraction of red knights who are magical is $2$ times the fraction of blue knights who are magical. What fraction of red knights are magical? $\textbf{(A) }\frac{2}{9}\qquad\textbf{(B) }\frac{3}{13}\qquad\textbf{(C) }\frac{7}{27}\qquad\textbf{(D) }\frac{2}{7}\qquad\textbf{(E) }\frac{1}{3}$
+
+### 2013B-15
+Current label: geo-polygons (secondary: geo-perimeter-length, alg-percent-ratio)
+A wire is cut into two pieces, one of length $a$ and the other of length $b$. The piece of length $a$ is bent to form an equilateral triangle, and the piece of length $b$ is bent to form a regular hexagon. The triangle and the hexagon have equal area. What is $\frac{a}{b}$? $\textbf{(A)}\ 1\qquad\textbf{(B)}\ \frac{\sqrt{6}}{2}\qquad\textbf{(C)}\ \sqrt{3} \qquad\textbf{(D)}\ 2\qquad\textbf{(E)}\ \frac{3\sqrt{2}}{2}$
+
+### 2007B-04
+Current label: geo-circle-theorems (secondary: geo-angles)
+The point $O$ is the center of the circle circumscribed about $\triangle ABC,$ with $\angle BOC=120^\circ$ and $\angle AOB=140^\circ$. What is the degree measure of $\angle ABC?$ $\textbf{(A) } 35 \qquad\textbf{(B) } 40 \qquad\textbf{(C) } 45 \qquad\textbf{(D) } 50 \qquad\textbf{(E) } 60$
+
+### 2024B-09
+Current label: alg-factoring-identities (secondary: alg-mean-median)
+Real numbers $a, b,$ and $c$ have arithmetic mean $0$. The arithmetic mean of $a^2, b^2,$ and $c^2$ is $10$. What is the arithmetic mean of $ab, ac,$ and $bc$? $\textbf{(A) } -5 \qquad\textbf{(B) } -\dfrac{10}{3} \qquad\textbf{(C) } -\dfrac{10}{9} \qquad\textbf{(D) } 0 \qquad\textbf{(E) } \dfrac{10}{9}$
+
+### 2015B-14
+Current label: alg-quadratics (secondary: alg-inequalities-optimization)
+Let $a$, $b$, and $c$ be three distinct one-digit numbers. What is the maximum value of the sum of the roots of the equation $(x-a)(x-b)+(x-b)(x-c)=0$? $\textbf{(A) } 15 \qquad\textbf{(B) } 15.5 \qquad\textbf{(C) } 16 \qquad\textbf{(D) } 16.5 \qquad\textbf{(E) } 17$
+
+### 2004A-08
+Current label: misc-process-simulation (secondary: misc-games)
+A game is played with tokens according to the following rule. In each round, the player with the most tokens gives one token to each of the other players and also places one token in the discard pile. The game ends when some player runs out of tokens. Players $A$, $B$, and $C$ start with 15, 14, and 13 tokens, respectively. How many rounds will there be in the game? $\mathrm{(A) \ } 36 \qquad \mathrm{(B) \ } 37 \qquad \mathrm{(C) \ } 38 \qquad \mathrm{(D) \ } 39 \qquad \mathrm{(E) \ } 40$
+
+### 2022A-16
+Current label: alg-polynomials (secondary: geo-3d-volume)
+The roots of the polynomial $10x^3 - 39x^2 + 29x - 6$ are the height, length, and width of a rectangular box (right rectangular prism). A new rectangular box is formed by lengthening each edge of the original box by $2$ units. What is the volume of the new box? $\textbf{(A) } \frac{24}{5} \qquad \textbf{(B) } \frac{42}{5} \qquad \textbf{(C) } \frac{81}{5} \qquad \textbf{(D) } 30 \qquad \textbf{(E) } 48$
+
+### 2011A-24
+Current label: geo-3d-cubes (secondary: geo-3d-volume)
+Two distinct regular tetrahedra have all their vertices among the vertices of the same unit cube. What is the volume of the region formed by the intersection of the tetrahedra? $\textbf{(A)}\ \frac{1}{12}\qquad\textbf{(B)}\ \frac{\sqrt{2}}{12}\qquad\textbf{(C)}\ \frac{\sqrt{3}}{12}\qquad\textbf{(D)}\ \frac{1}{6}\qquad\textbf{(E)}\ \frac{\sqrt{2}}{6}$
+
+### 2017A-09
+Current label: alg-rates (secondary: -)
+Minnie rides on a flat road at $20$ kilometers per hour (kph), downhill at $30$ kph, and uphill at $5$ kph. Penny rides on a flat road at $30$ kph, downhill at $40$ kph, and uphill at $10$ kph. Minnie goes from town $A$ to town $B$, a distance of $10$ km all uphill, then from town $B$ to town $C$, a distance of $15$ km all downhill, and then back to town $A$, a distance of $20$ km on the flat. Penny goes the other way around using the same route. How many more minutes does it take Minnie to complete the $45$-km ride than it takes Penny? $\textbf{(A)}\ 45\qquad\textbf{(B)}\ 60\qquad\textbf{(C)}\ 65\qquad\textbf{(D)}\ 90\qquad\textbf{(E)}\ 95$
+
+### 2016B-15
+Current label: misc-magic-squares (secondary: misc-logic, nt-parity)
+All the numbers $1, 2, 3, 4, 5, 6, 7, 8, 9$ are written in a $3\times3$ array of squares, one number in each square, in such a way that if two numbers are consecutive then they occupy squares that share an edge. The numbers in the four corners add up to $18$. What is the number in the center? $\textbf{(A)}\ 5\qquad\textbf{(B)}\ 6\qquad\textbf{(C)}\ 7\qquad\textbf{(D)}\ 8\qquad\textbf{(E)}\ 9$
+
+### 2015B-15
+Current label: nt-diophantine (secondary: alg-percent-ratio, alg-linear-word)
+The town of Hamlet has $3$ people for each horse, $4$ sheep for each cow, and $3$ ducks for each person. Which of the following could not possibly be the total number of people, horses, sheep, cows, and ducks in Hamlet? $\textbf{(A) } 41 \qquad\textbf{(B) } 47 \qquad\textbf{(C) } 59 \qquad\textbf{(D) } 61 \qquad\textbf{(E) } 66$
+
+### 2019A-07
+Current label: geo-coordinate (secondary: alg-graphs-lines, geo-triangle-area)
+Two lines with slopes $\dfrac{1}{2}$ and $2$ intersect at $(2,2)$. What is the area of the triangle enclosed by these two lines and the line $x+y=10 ?$ $\textbf{(A) } 4 \qquad\textbf{(B) } 4\sqrt{2} \qquad\textbf{(C) } 6 \qquad\textbf{(D) } 8 \qquad\textbf{(E) } 6\sqrt{2}$
+
+### 2005A-16
+Current label: nt-digits (secondary: -)
+The sum of the digits of a two-digit number is subtracted from the number. The units digit of the result is $6$. How many two-digit numbers have this property? $\textbf{(A) } 5\qquad \textbf{(B) } 7\qquad \textbf{(C) } 9\qquad \textbf{(D) } 10\qquad \textbf{(E) } 19$
+
+### 2009A-14
+Current label: geo-quadrilaterals (secondary: -)
+Four congruent rectangles are placed as shown. The area of the outer square is $4$ times that of the inner square. What is the ratio of the length of the longer side of each rectangle to the length of its shorter side? $\mathrm{(A)}\ 3 \qquad \mathrm{(B)}\ \sqrt {10} \qquad \mathrm{(C)}\ 2 + \sqrt2 \qquad \mathrm{(D)}\ 2\sqrt3 \qquad \mathrm{(E)}\ 4$ [DIAGRAM]
+
+### 2019B-07
+Current label: nt-gcd-lcm (secondary: -)
+Each piece of candy in a store costs a whole number of cents. Casper has exactly enough money to buy either $12$ pieces of red candy, $14$ pieces of green candy, $15$ pieces of blue candy, or $n$ pieces of purple candy. A piece of purple candy costs $20$ cents. What is the smallest possible value of $n$? $\textbf{(A) } 18 \qquad \textbf{(B) } 21 \qquad \textbf{(C) } 24\qquad \textbf{(D) } 25 \qquad \textbf{(E) } 28$
+
+### 2014B-07
+Current label: alg-percent-ratio (secondary: -)
+Suppose $A>B>0$ and $A$ is $x\%$ greater than $B$. What is $x$? $\textbf {(A) } 100\left(\frac{A-B}{B}\right) \qquad \textbf {(B) } 100\left(\frac{A+B}{B}\right) \qquad \textbf {(C) } 100\left(\frac{A+B}{A}\right)\qquad \textbf {(D) } 100\left(\frac{A-B}{A}\right) \qquad \textbf {(E) } 100\left(\frac{A}{B}\right)$
+
+### 2021FA-16
+Current label: alg-floor-ceiling (secondary: alg-functions)
+The graph of \[f(x) = |\lfloor x \rfloor| - |\lfloor 1 - x \rfloor|\] is symmetric about which of the following? (Here $\lfloor x \rfloor$ is the greatest integer not exceeding $x$.) \(\textbf{(A) }\text{the }y\text{-axis}\qquad \textbf{(B) }\text{the line }x = 1\qquad \textbf{(C) }\text{the origin}\qquad \textbf{(D) }\text{ the point }\left(\dfrac12, 0\right)\qquad \textbf{(E) }\text{the point }(1,0)\)
+
+### 2008B-02
+Current label: alg-arith-compute (secondary: misc-process-simulation)
+A $4\times 4$ block of calendar dates is shown. The order of the numbers in the second row is to be reversed. Then the order of the numbers in the fourth row is to be reversed. Finally, the numbers on each diagonal are to be added. What will be the positive difference between the two diagonal sums? $\begin{tabular}[t]{|c|c|c|c|} \multicolumn{4}{c}{}\\\hline 1&2&3&4\\\hline 8&9&10&11\\\hline 15&16&17&18\\\hline 22&23&24&25\\\hline \end{tabular}$ $\textbf{(A)}\ 2 \qquad \textbf{(B)}\ 4 \qquad \textbf{(C)}\ 6 \qquad \textbf{(D)}\ 8 \qquad \textbf{(E)}\ 10$
+
+### 2018B-10
+Current label: geo-3d-volume (secondary: geo-pythagorean)
+In the rectangular parallelepiped shown, $AB=3$, $BC=1$, and $CG=2$. Point $M$ is the midpoint of $\overline{FG}$. What is the volume of the rectangular pyramid with base $BCHE$ and apex $M$? $\textbf{(A) }1 \qquad \textbf{(B) }\frac{4}{3} \qquad \textbf{(C) }\frac{3}{2} \qquad \textbf{(D) }\frac{5}{3} \qquad \textbf{(E) }2 \qquad$ [DIAGRAM]
+
+### 2009B-22
+Current label: geo-3d-volume (secondary: geo-triangle-area)
+A cubical cake with edge length $2$ inches is iced on the sides and the top. It is cut vertically into three pieces as shown in this top view, where $M$ is the midpoint of a top edge. The piece whose top is triangle $B$ contains $c$ cubic inches of cake and $s$ square inches of icing. What is $c+s$? $\text{(A) } \frac{24}{5} \qquad \text{(B) } \frac{32}{5} \qquad \text{(C) } 8+\sqrt5 \qquad \text{(D) } 5+\frac{16\sqrt5}{5} \qquad \text{(E) } 10+5\sqrt5$ [DIAGRAM]
+
+### 2017A-17
+Current label: geo-coordinate (secondary: geo-pythagorean)
+Distinct points $P$, $Q$, $R$, $S$ lie on the circle $x^2+y^2=25$ and have integer coordinates. The distances $PQ$ and $RS$ are irrational numbers. What is the greatest possible value of the ratio $\frac{PQ}{RS}$? $\textbf{(A)}\ 3\qquad\textbf{(B)}\ 5\qquad\textbf{(C)}\ 3\sqrt{5}\qquad\textbf{(D)}\ 7\qquad\textbf{(E)}\ 5\sqrt{2}$
+
+### 2022A-10
+Current label: geo-pythagorean (secondary: geo-quadrilaterals, alg-factoring-identities)
+Daniel finds a rectangular index card and measures its diagonal to be $8$ centimeters. Daniel then cuts out equal squares of side $1$ cm at two opposite corners of the index card and measures the distance between the two closest vertices of these squares to be $4\sqrt{2}$ centimeters, as shown below. What is the area of the original index card? $\textbf{(A) } 14 \qquad \textbf{(B) } 10\sqrt{2} \qquad \textbf{(C) } 16 \qquad \textbf{(D) } 12\sqrt{2} \qquad \textbf{(E) } 18$ [DIAGRAM]
+
+### 2001-16
+Current label: alg-mean-median (secondary: alg-linear-word)
+The mean of three numbers is $10$ more than the least of the numbers and $15$ less than the greatest. The median of the three numbers is $5$. What is their sum? $\textbf{(A)} \ 5 \qquad \textbf{(B)} \ 20 \qquad \textbf{(C)} \ 25 \qquad \textbf{(D)} \ 30 \qquad \textbf{(E)} \ 36$
+
+### 2006B-18
+Current label: alg-recursion-patterns (secondary: -)
+Let $a_1 , a_2 , ...$ be a sequence for which $a_1=2$ , $a_2=3$, and $a_n=\frac{a_{n-1}}{a_{n-2}}$ for each positive integer $n \ge 3$. What is $a_{2006}$? $\mathrm{(A) \ } \frac{1}{2}\qquad \mathrm{(B) \ } \frac{2}{3}\qquad \mathrm{(C) \ } \frac{3}{2}\qquad \mathrm{(D) \ } 2\qquad \mathrm{(E) \ } 3$
+
+### 2000-02
+Current label: alg-exponents-radicals (secondary: -)
+$2000({2000}^{2000}) =$ $\textbf{(A)}\ {2000}^{2001} \qquad \textbf{(B)}\ {4000}^{2000} \qquad \textbf{(C)}\ {2000}^{4000} \qquad \textbf{(D)}\ {4,000,000}^{2000} \qquad\textbf{(E)}\ {2000}^{4,000,000}$
+
+### 2020A-03
+Current label: alg-factoring-identities (secondary: -)
+Assuming $a\neq3$, $b\neq4$, and $c\neq5$, what is the value in simplest form of the following expression? \[\frac{a-3}{5-c} \cdot \frac{b-4}{3-a} \cdot \frac{c-5}{4-b}\] $\textbf{(A) } {-}1 \qquad \textbf{(B) } 1 \qquad \textbf{(C) } \frac{abc}{60} \qquad \textbf{(D) } \frac{1}{abc} - \frac{1}{60} \qquad \textbf{(E) } \frac{1}{60} - \frac{1}{abc}$
+
+### 2002P-20
+Current label: cp-basic-counting (secondary: cp-inclusion-exclusion)
+How many three-digit numbers have at least one $2$ and at least one $3$? $\text{(A) }52 \qquad \text{(B) }54 \qquad \text{(C) }56 \qquad \text{(D) }58 \qquad \text{(E) }60$
+
+### 2015A-10
+Current label: cp-permutations (secondary: -)
+How many rearrangements of $abcd$ are there in which no two adjacent letters are also adjacent letters in the alphabet? For example, no such rearrangements could include either $ab$ or $ba$. $\textbf{(A)}\ 0\qquad\textbf{(B)}\ 1\qquad\textbf{(C)}\ 2\qquad\textbf{(D)}\ 3\qquad\textbf{(E)}\ 4$
+
+### 2010B-14
+Current label: alg-mean-median (secondary: alg-arith-seq)
+The average of the numbers $1, 2, 3,\cdots, 98, 99,$ and $x$ is $100x$. What is $x$? $\textbf{(A)}\ \dfrac{49}{101} \qquad \textbf{(B)}\ \dfrac{50}{101} \qquad \textbf{(C)}\ \dfrac{1}{2} \qquad \textbf{(D)}\ \dfrac{51}{101} \qquad \textbf{(E)}\ \dfrac{50}{99}$
+
+### 2016B-08
+Current label: nt-units-digit (secondary: nt-modular)
+What is the tens digit of $2015^{2016}-2017?$ $\textbf{(A)}\ 0 \qquad \textbf{(B)}\ 1 \qquad \textbf{(C)}\ 3 \qquad \textbf{(D)}\ 5 \qquad \textbf{(E)}\ 8$
+
+### 2000-05
+Current label: geo-triangle-area (secondary: geo-similar, geo-perimeter-length)
+Points $M$ and $N$ are the midpoints of sides $PA$ and $PB$ of $\triangle PAB$. As $P$ moves along a line that is parallel to side $AB$, how many of the four quantities listed below change? (a) the length of the segment $MN$ (b) the perimeter of $\triangle PAB$ (c) the area of $\triangle PAB$ (d) the area of trapezoid $ABNM$ $\textbf{(A)}\ 0 \qquad\textbf{(B)}\ 1 \qquad\textbf{(C)}\ 2 \qquad\textbf{(D)}\ 3 \qquad\textbf{(E)}\ 4$ [DIAGRAM]
+
+### 2011B-25
+Current label: geo-triangle-centers (secondary: alg-recursion-patterns, geo-triangle-inequality)
+Let $T_1$ be a triangle with sides $2011, 2012,$ and $2013$. For $n \ge 1$, if $T_n = \triangle ABC$ and $D, E,$ and $F$ are the points of tangency of the incircle of $\triangle ABC$ to the sides $AB, BC$ and $AC,$ respectively, then $T_{n+1}$ is a triangle with side lengths $AD, BE,$ and $CF,$ if it exists. What is the perimeter of the last triangle in the sequence $( T_n )$? $\textbf{(A)}\ \frac{1509}{8} \qquad\textbf{(B)}\ \frac{1509}{32} \qquad\textbf{(C)}\ \frac{1509}{64} \qquad\textbf{(D)}\ \frac{1509}{128} \qquad\textbf{(E)}\ \frac{1509}{256}$
+
+### 2025B-05
+Current label: geo-circle-theorems (secondary: geo-angles, geo-triangle-centers)
+In $\triangle ABC$, $AB=10$, $AC=18$, and $\angle B=130^\circ.$ Let $O$ be the center of the circle containing $A$, $B$, and $C.$ What is the degree measure of $\angle CAO$? $\textbf{(A)}~20 \qquad \textbf{(B)}~30 \qquad \textbf{(C)}~40 \qquad \textbf{(D)}~50 \qquad \textbf{(E)}~60$
+
+### 2020B-24
+Current label: alg-floor-ceiling (secondary: nt-diophantine, alg-inequalities-optimization)
+How many positive integers $n$ satisfy\[\dfrac{n+1000}{70} = \lfloor \sqrt{n} \rfloor?\](Recall that $\lfloor x\rfloor$ is the greatest integer not exceeding $x$.) $\textbf{(A) } 2 \qquad\textbf{(B) } 4 \qquad\textbf{(C) } 6 \qquad\textbf{(D) } 30 \qquad\textbf{(E) } 32$
+
+### 2022A-11
+Current label: alg-exponents-radicals (secondary: alg-quadratics)
+Ted mistakenly wrote $2^m\cdot\sqrt{\frac{1}{4096}}$ as $2\cdot\sqrt[m]{\frac{1}{4096}}.$ What is the sum of all real numbers $m$ for which these two expressions have the same value? $\textbf{(A) } 5 \qquad \textbf{(B) } 6 \qquad \textbf{(C) } 7 \qquad \textbf{(D) } 8 \qquad \textbf{(E) } 9$
+
+### 2021B-19
+Current label: alg-mean-median (secondary: alg-systems)
+Suppose that $S$ is a finite set of positive integers. If the greatest integer in $S$ is removed from $S$, then the average value (arithmetic mean) of the integers remaining is $32$. If the least integer in $S$ is also removed, then the average value of the integers remaining is $35$. If the greatest integer is then returned to the set, the average value of the integers rises to $40$. The greatest integer in the original set $S$ is $72$ greater than the least integer in $S$. What is the average value of all the integers in the set $S$? $\textbf{(A) }36.2 \qquad \textbf{(B) }36.4 \qquad \textbf{(C) }36.6\qquad \textbf{(D) }36.8 \qquad \textbf{(E) }37$
+
+### 2002A-12
+Current label: alg-rates (secondary: -)
+Mr. Earl E. Bird leaves his house for work at exactly 8:00 A.M. every morning. When he averages $40$ miles per hour, he arrives at his workplace three minutes late. When he averages $60$ miles per hour, he arrives three minutes early. At what average speed, in miles per hour, should Mr. Bird drive to arrive at his workplace precisely on time? $\text{(A)}\ 45 \qquad \text{(B)}\ 48 \qquad \text{(C)}\ 50 \qquad \text{(D)}\ 55 \qquad \text{(E)} 58$
+
+### 2003A-18
+Current label: alg-quadratics (secondary: -)
+What is the sum of the reciprocals of the roots of the equation $\frac{2003}{2004}x+1+\frac{1}{x}=0$? $\mathrm{(A) \ } -\frac{2004}{2003}\qquad \mathrm{(B) \ } -1\qquad \mathrm{(C) \ } \frac{2003}{2004}\qquad \mathrm{(D) \ } 1\qquad \mathrm{(E) \ } \frac{2004}{2003}$
+
+### 2001-12
+Current label: nt-divisibility (secondary: -)
+Suppose that $n$ is the product of three consecutive integers and that $n$ is divisible by $7$. Which of the following is not necessarily a divisor of $n$? $\textbf{(A)}\ 6 \qquad \textbf{(B)}\ 14 \qquad \textbf{(C)}\ 21 \qquad \textbf{(D)}\ 28 \qquad \textbf{(E)}\ 42$
+
+### 2012B-13
+Current label: alg-rates (secondary: alg-work)
+It takes Clea 60 seconds to walk down an escalator when it is not operating, and only 24 seconds to walk down the escalator when it is operating. How many seconds does it take Clea to ride down the operating escalator when she just stands on it? $\textbf{(A)}\ 36\qquad\textbf{(B)}\ 40\qquad\textbf{(C)}\ 42\qquad\textbf{(D)}\ 48\qquad\textbf{(E)}\ 52$
+
+### 2017A-20
+Current label: nt-digits (secondary: nt-modular)
+Let $S(n)$ equal the sum of the digits of positive integer $n$. For example, $S(1507) = 13$. For a particular positive integer $n$, $S(n) = 1274$. Which of the following could be the value of $S(n+1)$? $\textbf{(A)}\ 1 \qquad\textbf{(B)}\ 3\qquad\textbf{(C)}\ 12\qquad\textbf{(D)}\ 1239\qquad\textbf{(E)}\ 1265$
+
+### 2006B-22
+Current label: nt-diophantine (secondary: nt-primes-factorization)
+Elmo makes $N$ sandwiches for a fundraiser. For each sandwich he uses $B$ globs of peanut butter at $4\cent$ per glob and $J$ blobs of jam at $5\cent$ per blob. The cost of the peanut butter and jam to make all the sandwiches is $\$2.53$. Assume that $B$, $J$, and $N$ are positive integers with $N>1$. What is the cost of the jam Elmo uses to make the sandwiches? $\mathrm{(A) \ } 1.05\qquad \mathrm{(B) \ } 1.25\qquad \mathrm{(C) \ } 1.45\qquad \mathrm{(D) \ } 1.65\qquad \mathrm{(E) \ } 1.85$
+
+### 2003A-03
+Current label: geo-3d-volume (secondary: alg-percent-ratio)
+A solid box is $15$ cm by $10$ cm by $8$ cm. A new solid is formed by removing a cube $3$ cm on a side from each corner of this box. What percent of the original volume is removed? $\mathrm{(A) \ } 4.5\qquad \mathrm{(B) \ } 9\qquad \mathrm{(C) \ } 12\qquad \mathrm{(D) \ } 18\qquad \mathrm{(E) \ } 24$
+
+### 2001-04
+Current label: geo-circle-theorems (secondary: -)
+What is the maximum number for the possible points of intersection of a circle and a triangle? $\textbf{(A) } 2 \qquad\textbf{(B) } 3 \qquad\textbf{(C) } 4 \qquad\textbf{(D) } 5 \qquad\textbf{(E) } 6$
+
+### 2018B-25
+Current label: alg-floor-ceiling (secondary: alg-quadratics)
+Let $\lfloor x \rfloor$ denote the greatest integer less than or equal to $x$. How many real numbers $x$ satisfy the equation $x^2 + 10,000\lfloor x \rfloor = 10,000x$? $\textbf{(A) } 197 \qquad \textbf{(B) } 198 \qquad \textbf{(C) } 199 \qquad \textbf{(D) } 200 \qquad \textbf{(E) } 201$
+
+### 2009A-02
+Current label: misc-money-everyday (secondary: nt-diophantine, cp-basic-counting)
+Four coins are picked out of a piggy bank that contains a collection of pennies, nickels, dimes and quarters. Which of the following could not be the total value of the four coins, in cents? $\mathrm{(A)}\ 15 \qquad \mathrm{(B)}\ 25 \qquad \mathrm{(C)}\ 35 \qquad \mathrm{(D)}\ 45 \qquad \mathrm{(E)}\ 55$
+
+### 2012A-04
+Current label: geo-angles (secondary: -)
+Let $\angle ABC = 24^\circ$ and $\angle ABD = 20^\circ$. What is the smallest possible degree measure for angle $CBD$? $\textbf{(A)}\ 0\qquad\textbf{(B)}\ 2\qquad\textbf{(C)}\ 4\qquad\textbf{(D)}\ 6\qquad\textbf{(E)}\ 12$
+
+### 2015A-22
+Current label: cp-recursion-counting (secondary: cp-probability-dice-coins)
+Eight people are sitting around a circular table, each holding a fair coin. All eight people flip their coins and those who flip heads stand while those who flip tails remain seated. What is the probability that no two adjacent people will stand? $\textbf{(A)}\dfrac{47}{256}\qquad\textbf{(B)}\dfrac{3}{16}\qquad\textbf{(C) }\dfrac{49}{256}\qquad\textbf{(D) }\dfrac{25}{128}\qquad\textbf{(E) }\dfrac{51}{256}$
+
+### 2015A-06
+Current label: alg-percent-ratio (secondary: alg-linear-word)
+The sum of two positive numbers is $5$ times their difference. What is the ratio of the larger number to the smaller number? $\textbf{(A)}\ \frac{5}{4}\qquad\textbf{(B)}\ \frac{3}{2}\qquad\textbf{(C)}\ \frac{9}{5}\qquad\textbf{(D)}\ 2 \qquad\textbf{(E)}\ \frac{5}{2}$
+
+### 2014B-25
+Current label: cp-conditional-probability (secondary: cp-recursion-counting)
+In a small pond there are eleven lily pads in a row labeled $0$ through $10$. A frog is sitting on pad $1$. When the frog is on pad $N$, $0<N<10$, it will jump to pad $N-1$ with probability $\frac{N}{10}$ and to pad $N+1$ with probability $1-\frac{N}{10}$. Each jump is independent of the previous jumps. If the frog reaches pad $0$ it will be eaten by a patiently waiting snake. If the frog reaches pad $10$ it will exit the pond, never to return. What is the probability that the frog will escape without being eaten by the snake? $\textbf {(A) } \frac{32}{79} \qquad \textbf {(B) } \frac{161}{384} \qquad \textbf {(C) } \frac{63}{146} \qquad \textbf {(D) } \frac{7}{16} \qquad \textbf {(E) } \frac{1}{2}$
+
+### 2000-25
+Current label: misc-calendar-clock (secondary: nt-modular)
+In year $N$, the $300^\text{th}$ day of the year is a Tuesday. In year $N+1$, the $200^\text{th}$ day is also a Tuesday. On what day of the week did the $100^\text{th}$ day of year $N-1$ occur? $\textbf{(A)}\ \text{Thursday} \qquad\textbf{(B)}\ \text{Friday} \qquad\textbf{(C)}\ \text{Saturday} \qquad\textbf{(D)}\ \text{Sunday} \qquad\textbf{(E)}\ \text{Monday}$
+
+### 2009B-10
+Current label: geo-pythagorean (secondary: -)
+A flagpole is originally $5$ meters tall. A hurricane snaps the flagpole at a point $x$ meters above the ground so that the upper part, still attached to the stump, touches the ground $1$ meter away from the base. What is $x$? $\text{(A) } 2.0 \qquad \text{(B) } 2.1 \qquad \text{(C) } 2.2 \qquad \text{(D) } 2.3 \qquad \text{(E) } 2.4$
+
+### 2011A-02
+Current label: misc-money-everyday (secondary: alg-floor-ceiling)
+A small bottle of shampoo can hold 35 milliliters of shampoo, whereas a large bottle can hold 500 milliliters of shampoo. Jasmine wants to buy the minimum number of small bottles necessary to completely fill a large bottle. How many bottles must she buy? $\textbf{(A)}\ 11 \qquad\textbf{(B)}\ 12 \qquad\textbf{(C)}\ 13\qquad\textbf{(D)}\ 14\qquad\textbf{(E)}\ 15$
+
+### 2018A-18
+Current label: nt-bases (secondary: cp-basic-counting)
+How many nonnegative integers can be written in the form \[a_7\cdot3^7+a_6\cdot3^6+a_5\cdot3^5+a_4\cdot3^4+a_3\cdot3^3+a_2\cdot3^2+a_1\cdot3^1+a_0\cdot3^0,\] where $a_i\in \{-1,0,1\}$ for $0\le i \le 7$? $\textbf{(A) } 512 \qquad \textbf{(B) } 729 \qquad \textbf{(C) } 1094 \qquad \textbf{(D) } 3281 \qquad \textbf{(E) } 59,048$
+
+### 2004B-11
+Current label: cp-probability-dice-coins (secondary: alg-factoring-identities)
+Two eight-sided dice each have faces numbered $1$ through $8$. When the dice are rolled, each face has an equal probability of appearing on the top. What is the probability that the product of the two top numbers is greater than their sum? $\mathrm{(A) \ } \frac{1}{2} \qquad \mathrm{(B) \ } \frac{47}{64} \qquad \mathrm{(C) \ } \frac{3}{4} \qquad \mathrm{(D) \ } \frac{55}{64} \qquad \mathrm{(E) \ } \frac{7}{8}$
+
+### 2013B-17
+Current label: misc-process-simulation (secondary: alg-systems)
+Alex has $75$ red tokens and $75$ blue tokens. There is a booth where Alex can give two red tokens and receive in return a silver token and a blue token, and another booth where Alex can give three blue tokens and receive in return a silver token and a red token. Alex continues to exchange tokens until no more exchanges are possible. How many silver tokens will Alex have at the end? $\textbf{(A)} 62 \qquad \textbf{(B)} 82 \qquad \textbf{(C)} 83 \qquad \textbf{(D)} 102 \qquad \textbf{(E)} 103$
+
+### 2021FB-16
+Current label: cp-expected-value (secondary: cp-permutations)
+Five balls are arranged around a circle. Chris chooses two adjacent balls at random and interchanges them. Then Silva does the same, with her choice of adjacent balls to interchange being independent of Chris's. What is the expected number of balls that occupy their original positions after these two successive transpositions? $(\textbf{A})\: 1.6\qquad(\textbf{B}) \: 1.8\qquad(\textbf{C}) \: 2.0\qquad(\textbf{D}) \: 2.2\qquad(\textbf{E}) \: 2.4$
+
+### 2004B-09
+Current label: geo-shaded-regions (secondary: geo-circle-area)
+A square has sides of length $10$, and a circle centered at one of its vertices has radius $10$. What is the area of the union of the regions enclosed by the square and the circle? $\mathrm{(A) \ } 200+25\pi \qquad \mathrm{(B) \ } 100+75\pi \qquad \mathrm{(C) \ } 75+100\pi \qquad \mathrm{(D) \ } 100+100\pi \qquad \mathrm{(E) \ } 100+125\pi$
+
+### 2020B-09
+Current label: nt-diophantine (secondary: nt-squares-cubes, alg-quadratics)
+How many ordered pairs of integers $(x,y)$ satisfy the equation \[x^{2020} + y^2 = 2y?\] $\textbf{(A)}\ 1 \qquad\textbf{(B)}\ 2 \qquad\textbf{(C)}\ 3 \qquad\textbf{(D)}\ 4 \qquad\textbf{(E)}\ \text{infinitely many}$
+
+### 2000-19
+Current label: geo-similar (secondary: geo-triangle-area)
+Through a point on the hypotenuse of a right triangle, lines are drawn parallel to the legs of the triangle so that the triangle is divided into a square and two smaller right triangles. The area of one of the two small right triangles is $m$ times the area of the square. The ratio of the area of the other small right triangle to the area of the square is $\textbf{(A)}\ \frac{1}{2m+1} \qquad\textbf{(B)}\ m \qquad\textbf{(C)}\ 1-m \qquad\textbf{(D)}\ \frac{1}{4m} \qquad\textbf{(E)}\ \frac{1}{8m^2}$
+
+### 2020A-02
+Current label: alg-mean-median (secondary: -)
+The numbers $3, 5, 7, a,$ and $b$ have an average (arithmetic mean) of $15$. What is the average of $a$ and $b$? $\textbf{(A) } 0 \qquad\textbf{(B) } 15 \qquad\textbf{(C) } 30 \qquad\textbf{(D) } 45 \qquad\textbf{(E) } 60$
+
+### 2025A-23
+Current label: geo-similar (secondary: geo-pythagorean)
+Triangle $\triangle ABC$ has side lengths $AB = 80$, $BC = 45$, and $AC = 75$. The bisector of $\angle B$ and the altitude to side $\overline{AB}$ intersect at point $P.$ What is $BP$? $\textbf{(A)}~18\qquad\textbf{(B)}~19\qquad\textbf{(C)}~20\qquad\textbf{(D)}~21\qquad\textbf{(E)}~22$
+
+### 2025A-16
+Current label: cp-expected-value (secondary: cp-probability-basic, cp-basic-counting)
+There are three jars. Each of three coins is placed in one of the three jars, chosen at random and independently of the placements of the other coins. What is the expected number of coins in a jar with the most coins? $\textbf{(A) } \frac{4}{3} \qquad\textbf{(B) } \frac{13}{9} \qquad\textbf{(C) } \frac{5}{3} \qquad\textbf{(D) } \frac{17}{9} \qquad\textbf{(E) } 2$
+
+### 2013B-10
+Current label: alg-linear-word (secondary: alg-percent-ratio)
+A basketball team's players were successful on 50% of their two-point shots and 40% of their three-point shots, which resulted in 54 points. They attempted 50% more two-point shots than three-point shots. How many three-point shots did they attempt? $\textbf{(A) }10\qquad\textbf{(B) }15\qquad\textbf{(C) }20\qquad\textbf{(D) }25\qquad\textbf{(E) }30$
+
+### 2018B-08
+Current label: alg-recursion-patterns (secondary: alg-arith-seq)
+Sara makes a staircase out of toothpicks as shown: This is a $3$-step staircase and uses $18$ toothpicks. How many steps would be in a staircase that used $180$ toothpicks? $\textbf{(A) }10 \qquad \textbf{(B) }11 \qquad \textbf{(C) }12 \qquad \textbf{(D) }24 \qquad \textbf{(E) }30 \qquad$ [DIAGRAM]
+
+### 2005A-03
+Current label: alg-linear-word (secondary: -)
+The equations $2x + 7 = 3$ and $bx - 10 = -2$ have the same solution $x$. What is the value of $b$? $\textbf{(A) } -8\qquad \textbf{(B) } -4\qquad \textbf{(C) } -2\qquad \textbf{(D) } 4\qquad \textbf{(E) } 8$
+
+### 2010B-04
+Current label: alg-custom-op (secondary: -)
+For a real number $x$, define $\heartsuit(x)$ to be the average of $x$ and $x^2$. What is $\heartsuit(1)+\heartsuit(2)+\heartsuit(3)$? $\textbf{(A)}\ 3 \qquad \textbf{(B)}\ 6 \qquad \textbf{(C)}\ 10 \qquad \textbf{(D)}\ 12 \qquad \textbf{(E)}\ 20$
+
+### 2009B-17
+Current label: geo-coordinate (secondary: geo-triangle-area)
+Five unit squares are arranged in the coordinate plane as shown, with the lower left corner at the origin. The slanted line, extending from $(c,0)$ to $(3,3)$, divides the entire region into two regions of equal area. What is $c$? $\text{(A) } \frac 12 \qquad \text{(B) } \frac 35 \qquad \text{(C) } \frac 23 \qquad \text{(D) } \frac 34 \qquad \text{(E) } \frac 45$ [DIAGRAM]
+
+### 2024A-24
+Current label: cp-probability-dice-coins (secondary: geo-3d-cubes, cp-conditional-probability)
+A bee is moving in three-dimensional space. A fair six-sided die with faces labeled $A^+, A^-, B^+, B^-, C^+,$ and $C^-$ is rolled. Suppose the bee occupies the point $(a,b,c).$ If the die shows $A^+$, then the bee moves to the point $(a+1,b,c)$ and if the die shows $A^-,$ then the bee moves to the point $(a-1,b,c).$ Analogous moves are made with the other four outcomes. Suppose the bee starts at the point $(0,0,0)$ and the die is rolled four times. What is the probability that the bee traverses four distinct edges of some unit cube? $\textbf{(A) }\frac{1}{54}\qquad\textbf{(B) }\frac{7}{54}\qquad\textbf{(C) }\frac{1}{6}\qquad\textbf{(D) }\frac{5}{18}\qquad\textbf{(E) }\frac{2}{5}$
+
+### 2012B-10
+Current label: nt-divisors (secondary: -)
+How many ordered pairs of positive integers $(M,N)$ satisfy the equation $\frac{M}{6}=\frac{6}{N}?$ $\textbf{(A)}\ 6\qquad\textbf{(B)}\ 7\qquad\textbf{(C)}\ 8\qquad\textbf{(D)}\ 9\qquad\textbf{(E)}\ 10$
+
+### 2002B-14
+Current label: nt-digits (secondary: alg-exponents-radicals)
+The number $25^{64}\cdot 64^{25}$ is the square of a positive integer $N$. In decimal representation, the sum of the digits of $N$ is $\mathrm{(A) \ } 7\qquad \mathrm{(B) \ } 14\qquad \mathrm{(C) \ } 21\qquad \mathrm{(D) \ } 28\qquad \mathrm{(E) \ } 35$
+
+### 2004A-02
+Current label: alg-custom-op (secondary: alg-arith-compute)
+For any three real numbers $a$, $b$, and $c$, with $b\neq c$, the operation $\otimes$ is defined by: $\otimes(a,b,c)=\frac{a}{b-c}.$ What is $\otimes ( \otimes (1,2,3), \otimes (2,3,1), \otimes (3,1,2))$? $\mathrm{(A) \ } -\frac{1}{2}\qquad \mathrm{(B) \ } -\frac{1}{4} \qquad \mathrm{(C) \ } 0 \qquad \mathrm{(D) \ } \frac{1}{4} \qquad \mathrm{(E) \ } \frac{1}{2}$
+
+### 2023B-13
+Current label: geo-graph-regions (secondary: alg-absolute-value)
+What is the area of the region in the coordinate plane defined by \[| | x | - 1 | + | | y | - 1 | \le 1?\] $\textbf{(A)}\ 2 \qquad \textbf{(B)}\ 8 \qquad \textbf{(C)}\ 4 \qquad \textbf{(D)}\ 15 \qquad \textbf{(E)}\ 12$
+
+### 2021FB-07
+Current label: nt-fractions-decimals (secondary: cp-basic-counting, nt-divisibility)
+Call a fraction $\frac{a}{b}$, not necessarily in the simplest form, special, if $a$ and $b$ are positive integers whose sum is $15$. How many distinct integers can be written as the sum of two, not necessarily different, special fractions? $\textbf{(A)}\ 9 \qquad\textbf{(B)}\ 10 \qquad\textbf{(C)}\ 11 \qquad\textbf{(D)}\ 12 \qquad\textbf{(E)}\ 13$
+
+### 2016B-18
+Current label: alg-arith-seq (secondary: nt-divisors)
+In how many ways can $345$ be written as the sum of an increasing sequence of two or more consecutive positive integers? $\textbf{(A)}\ 1\qquad\textbf{(B)}\ 3\qquad\textbf{(C)}\ 5\qquad\textbf{(D)}\ 6\qquad\textbf{(E)}\ 7$
+
+### 2011B-01
+Current label: alg-arith-compute (secondary: -)
+What is \[\dfrac{2+4+6}{1+3+5} - \dfrac{1+3+5}{2+4+6}\] $\textbf{(A)}\ -1\qquad\textbf{(B)}\ \frac{5}{36}\qquad\textbf{(C)}\ \frac{7}{12}\qquad\textbf{(D)}\ \frac{147}{60}\qquad\textbf{(E)}\ \frac{43}{3}$
+
+### 2016B-06
+Current label: nt-digits (secondary: misc-magic-squares, alg-inequalities-optimization)
+Isaac added two three-digit positive integers. All six digits in these numbers are different. Isaac's sum is a three-digit number $S$. What is the smallest possible value for the sum of the digits of $S$? $\textbf{(A)}\ 1\qquad\textbf{(B)}\ 4\qquad\textbf{(C)}\ 5\qquad\textbf{(D)}\ 15\qquad\textbf{(E)}\ 20$
+
+### 2003A-21
+Current label: cp-distributions (secondary: -)
+Pat is to select six cookies from a tray containing only chocolate chip, oatmeal, and peanut butter cookies. There are at least six of each of these three kinds of cookies on the tray. How many different assortments of six cookies can be selected? $\mathrm{(A) \ } 22\qquad \mathrm{(B) \ } 25\qquad \mathrm{(C) \ } 27\qquad \mathrm{(D) \ } 28\qquad \mathrm{(E) \ } 729$
+
+### 2011A-22
+Current label: cp-basic-counting (secondary: cp-recursion-counting)
+Each vertex of convex pentagon $ABCDE$ is to be assigned a color. There are $6$ colors to choose from, and the ends of each diagonal must have different colors. How many different colorings are possible? $\textbf{(A)}\ 2520\qquad\textbf{(B)}\ 2880\qquad\textbf{(C)}\ 3120\qquad\textbf{(D)}\ 3250\qquad\textbf{(E)}\ 3750$
+
+### 2002B-23
+Current label: alg-recursion-patterns (secondary: alg-functions)
+Let $\{a_k\}$ be a sequence of integers such that $a_1=1$ and $a_{m+n}=a_m+a_n+mn,$ for all positive integers $m$ and $n.$ Then $a_{12}$ is $\mathrm{(A) \ } 45\qquad \mathrm{(B) \ } 56\qquad \mathrm{(C) \ } 67\qquad \mathrm{(D) \ } 78\qquad \mathrm{(E) \ } 89$
+
+### 2022B-09
+Current label: alg-recursion-patterns (secondary: nt-factorials)
+The sum \[\frac{1}{2!}+\frac{2}{3!}+\frac{3}{4!}+\cdots+\frac{2021}{2022!}\] can be expressed as $a-\frac{1}{b!}$, where $a$ and $b$ are positive integers. What is $a+b$? $\textbf{(A)}\ 2020 \qquad\textbf{(B)}\ 2021 \qquad\textbf{(C)}\ 2022 \qquad\textbf{(D)}\ 2023 \qquad\textbf{(E)}\ 2024$
+
+### 2006A-01
+Current label: misc-money-everyday (secondary: -)
+Sandwiches at Joe's Fast Food cost $\textdollar 3$ each and sodas cost $\textdollar 2$ each. How many dollars will it cost to purchase 5 sandwiches and 8 sodas? $\mathrm{(A)}\ 31\qquad\mathrm{(B)}\ 32\qquad\mathrm{(C)}\ 33\qquad\mathrm{(D)}\ 34\qquad\mathrm{(E)}\ 35$
+
+### 2006B-23
+Current label: geo-triangle-area (secondary: -)
+A triangle is partitioned into three triangles and a quadrilateral by drawing two lines from vertices to their opposite sides. The areas of the three triangles are 3, 7, and 7 as shown. What is the area of the shaded quadrilateral? $\mathrm{(A) \ } 15\qquad \mathrm{(B) \ } 17\qquad \mathrm{(C) \ } \frac{35}{2}\qquad \mathrm{(D) \ } 18\qquad \mathrm{(E) \ } \frac{55}{3}$ [DIAGRAM]
+
+### 2023A-07
+Current label: cp-probability-dice-coins (secondary: cp-basic-counting)
+Janet rolls a standard $6$-sided die $4$ times and keeps a running total of the numbers she rolls. What is the probability that at some point, her running total will equal $3?$ $\textbf{(A) }\frac{2}{9}\qquad\textbf{(B) }\frac{49}{216}\qquad\textbf{(C) }\frac{25}{108}\qquad\textbf{(D) }\frac{17}{72}\qquad\textbf{(E) }\frac{13}{54}$
+
+### 2015A-13
+Current label: cp-basic-counting (secondary: alg-linear-word)
+Claudia has 12 coins, each of which is a 5-cent coin or a 10-cent coin. There are exactly 17 different values that can be obtained as combinations of one or more of her coins. How many 10-cent coins does Claudia have? $\textbf{(A) }3\qquad\textbf{(B) }4\qquad\textbf{(C) }5\qquad\textbf{(D) }6\qquad\textbf{(E) }7$
+
+### 2021FA-07
+Current label: geo-angles (secondary: geo-quadrilaterals)
+As shown in the figure below, point $E$ lies on the opposite half-plane determined by line $CD$ from point $A$ so that $\angle CDE = 110^\circ$. Point $F$ lies on $\overline{AD}$ so that $DE=DF$, and $ABCD$ is a square. What is the degree measure of $\angle AFE$? $\textbf{(A) }160\qquad\textbf{(B) }164\qquad\textbf{(C) }166\qquad\textbf{(D) }170\qquad\textbf{(E) }174$ [DIAGRAM]
+
+### 2005B-13
+Current label: cp-inclusion-exclusion (secondary: nt-divisibility)
+How many numbers between $1$ and $2005$ are integer multiples of $3$ or $4$ but not $12$? $\mathrm{(A)} 501 \qquad \mathrm{(B)} 668 \qquad \mathrm{(C)} 835 \qquad \mathrm{(D)} 1002 \qquad \mathrm{(E)} 1169$
+
+### 2021B-14
+Current label: geo-circle-theorems (secondary: geo-pythagorean)
+Three equally spaced parallel lines intersect a circle, creating three chords of lengths $38, 38,$ and $34$. What is the distance between two adjacent parallel lines? $\textbf{(A)} ~5\frac{1}{2} \qquad\textbf{(B)} ~6 \qquad\textbf{(C)} ~6\frac{1}{2} \qquad\textbf{(D)} ~7 \qquad\textbf{(E)} ~7\frac{1}{2}$
+
+### 2017A-01
+Current label: alg-arith-compute (secondary: -)
+What is the value of $(2(2(2(2(2(2+1)+1)+1)+1)+1)+1)$? $\textbf{(A)}\ 70\qquad\textbf{(B)}\ 97\qquad\textbf{(C)}\ 127\qquad\textbf{(D)}\ 159\qquad\textbf{(E)}\ 729$
+
+### 2015A-03
+Current label: alg-recursion-patterns (secondary: geo-perimeter-length, alg-arith-seq)
+Ann made a 3-step staircase using 18 toothpicks as shown in the figure. How many toothpicks does she need to add to complete a 5-step staircase? $\textbf{(A)}\ 9\qquad\textbf{(B)}\ 18\qquad\textbf{(C)}\ 20\qquad\textbf{(D)}\ 22\qquad\textbf{(E)}\ 24$ [DIAGRAM]
+
+### 2015B-07
+Current label: alg-custom-op (secondary: -)
+Consider the operation "minus the reciprocal of," defined by $a\diamond b=a-\frac{1}{b}$. What is $((1\diamond2)\diamond3)-(1\diamond(2\diamond3))$? $\textbf{(A) } -\dfrac{7}{30} \qquad\textbf{(B) } -\dfrac{1}{6} \qquad\textbf{(C) } 0 \qquad\textbf{(D) } \dfrac{1}{6} \qquad\textbf{(E) } \dfrac{7}{30}$
+
+### 2015A-17
+Current label: geo-coordinate (secondary: alg-graphs-lines, geo-pythagorean)
+A line that passes through the origin intersects both the line $x=1$ and the line $y=1+\frac{\sqrt{3}}{3}x$. The three lines create an equilateral triangle. What is the perimeter of the triangle? $\textbf{(A) }2\sqrt{6}\qquad\textbf{(B) }2+2\sqrt{3}\qquad\textbf{(C) }6\qquad\textbf{(D) }3+2\sqrt{3}\qquad\textbf{(E) }6+\frac{\sqrt{3}}{3}$
+
+### 2020A-11
+Current label: alg-mean-median (secondary: nt-squares-cubes)
+What is the median of the following list of $4040$ numbers$?$ \[1, 2, 3, \ldots, 2020, 1^2, 2^2, 3^2, \ldots, 2020^2\] $\textbf{(A)}\ 1974.5\qquad\textbf{(B)}\ 1975.5\qquad\textbf{(C)}\ 1976.5\qquad\textbf{(D)}\ 1977.5\qquad\textbf{(E)}\ 1978.5$
+
+### 2009A-20
+Current label: alg-rates (secondary: -)
+Andrea and Lauren are $20$ kilometers apart. They bike toward one another with Andrea traveling three times as fast as Lauren, and the distance between them decreasing at a rate of $1$ kilometer per minute. After $5$ minutes, Andrea stops biking because of a flat tire and waits for Lauren. After how many minutes from the time they started to bike does Lauren reach Andrea? $\mathrm{(A)}\ 20 \qquad \mathrm{(B)}\ 30 \qquad \mathrm{(C)}\ 55 \qquad \mathrm{(D)}\ 65 \qquad \mathrm{(E)}\ 80$
+
+### 2019B-21
+Current label: cp-probability-dice-coins (secondary: cp-conditional-probability, alg-geom-seq)
+Debra flips a fair coin repeatedly, keeping track of how many heads and how many tails she has seen in total, until she gets either two heads in a row or two tails in a row, at which point she stops flipping. What is the probability that she gets two heads in a row but she sees a second tail before she sees a second head? $\textbf{(A) } \frac{1}{36} \qquad \textbf{(B) } \frac{1}{24} \qquad \textbf{(C) } \frac{1}{18} \qquad \textbf{(D) } \frac{1}{12} \qquad \textbf{(E) } \frac{1}{6}$
+
+### 2022A-22
+Current label: cp-permutations (secondary: cp-combinations)
+Suppose that $13$ cards numbered $1, 2, 3, \ldots, 13$ are arranged in a row. The task is to pick them up in numerically increasing order, working repeatedly from left to right. In the example below, cards $1, 2, 3$ are picked up on the first pass, $4$ and $5$ on the second pass, $6$ on the third pass, $7, 8, 9, 10$ on the fourth pass, and $11, 12, 13$ on the fifth pass. For how many of the $13!$ possible orderings of the cards will the $13$ cards be picked up in exactly two passes? $\textbf{(A) } 4082 \qquad \textbf{(B) } 4095 \qquad \textbf{(C) } 4096 \qquad \textbf{(D) } 8178 \qquad \textbf{(E) } 8191$ [DIAGRAM]
+
+### 2010B-22
+Current label: cp-distributions (secondary: cp-inclusion-exclusion)
+Seven distinct pieces of candy are to be distributed among three bags. The red bag and the blue bag must each receive at least one piece of candy; the white bag may remain empty. How many arrangements are possible? $\textbf{(A)}\ 1930 \qquad \textbf{(B)}\ 1931 \qquad \textbf{(C)}\ 1932 \qquad \textbf{(D)}\ 1933 \qquad \textbf{(E)}\ 1934$
+
+### 2013A-18
+Current label: geo-coordinate (secondary: geo-triangle-area)
+Let points $A = (0, 0)$, $B = (1, 2)$, $C=(3, 3)$, and $D = (4, 0)$. Quadrilateral $ABCD$ is cut into equal area pieces by a line passing through $A$. This line intersects $\overline{CD}$ at point $\bigg(\frac{p}{q}, \frac{r}{s}\bigg)$, where these fractions are in lowest terms. What is $p+q+r+s$? $\textbf{(A)}\ 54\qquad\textbf{(B)}\ 58\qquad\textbf{(C)}\ 62\qquad\textbf{(D)}\ 70\qquad\textbf{(E)}\ 75$
+
+### 2021FA-23
+Current label: nt-divisors (secondary: alg-functions)
+For each positive integer $n$, let $f_1(n)$ be twice the number of positive integer divisors of $n$, and for $j \ge 2$, let $f_j(n) = f_1(f_{j-1}(n))$. For how many values of $n \le 50$ is $f_{50}(n) = 12?$ $\textbf{(A) }7\qquad\textbf{(B) }8\qquad\textbf{(C) }9\qquad\textbf{(D) }10\qquad\textbf{(E) }11$
+
+### 2004A-13
+Current label: cp-basic-counting (secondary: -)
+At a party, each man danced with exactly three women and each woman danced with exactly two men. Twelve men attended the party. How many women attended the party? $\mathrm{(A) \ } 8 \qquad \mathrm{(B) \ } 12 \qquad \mathrm{(C) \ } 16 \qquad \mathrm{(D) \ } 18 \qquad \mathrm{(E) \ } 24$
+
+### 2022B-20
+Current label: geo-angles (secondary: geo-quadrilaterals, geo-circle-theorems)
+Let $ABCD$ be a rhombus with $\angle{ADC} = 46^{\circ}$. Let $E$ be the midpoint of $\overline{CD}$, and let $F$ be the point on $\overline{BE}$ such that $\overline{AF}$ is perpendicular to $\overline{BE}$. What is the degree measure of $\angle{BFC}$? $\textbf{(A)}\ 110 \qquad \textbf{(B)}\ 111 \qquad \textbf{(C)}\ 112 \qquad \textbf{(D)}\ 113 \qquad \textbf{(E)}\ 114$
+
+### 2019B-12
+Current label: nt-bases (secondary: nt-digits)
+What is the greatest possible sum of the digits in the base-seven representation of a positive integer less than $2019$? $\textbf{(A) } 11 \qquad\textbf{(B) } 14 \qquad\textbf{(C) } 22 \qquad\textbf{(D) } 23 \qquad\textbf{(E) } 27$
+
+### 2014B-03
+Current label: alg-linear-word (secondary: -)
+Peter drove the first third of his trip on a gravel road, the next $20$ miles on pavement, and the remaining one-fifth on a dirt road. In miles how long was Peter's trip? $\textbf {(A) } 30 \qquad \textbf {(B) } \frac{400}{11} \qquad \textbf {(C) } \frac{75}{2} \qquad \textbf {(D) } 40 \qquad \textbf {(E) } \frac{300}{7}$
+
+### 2018B-09
+Current label: cp-probability-dice-coins (secondary: -)
+The faces of each of $7$ standard dice are labeled with the integers from $1$ to $6$. Let $p$ be the probability that when all $7$ dice are rolled, the sum of the numbers on the top faces is $10$. What other sum occurs with the same probability $p$? $\textbf{(A) }13 \qquad \textbf{(B) }26 \qquad \textbf{(C) }32 \qquad \textbf{(D) }39 \qquad \textbf{(E) }42 \qquad$
+
+### 2021FA-04
+Current label: alg-rates (secondary: -)
+Mr. Lopez has a choice of two routes to get to work. Route A is $6$ miles long, and his average speed along this route is $30$ miles per hour. Route B is $5$ miles long, and his average speed along this route is $40$ miles per hour, except for a $\frac{1}{2}$-mile stretch in a school zone where his average speed is $20$ miles per hour. By how many minutes is Route B quicker than Route A? $\textbf{(A)}\ 2 \frac{3}{4} \qquad\textbf{(B)}\ 3 \frac{3}{4} \qquad\textbf{(C)}\ 4 \frac{1}{2} \qquad\textbf{(D)}\ 5 \frac{1}{2} \qquad\textbf{(E)}\ 6 \frac{3}{4}$
+
+### 2009B-21
+Current label: nt-modular (secondary: alg-geom-seq)
+What is the remainder when $3^0 + 3^1 + 3^2 + \cdots + 3^{2009}$ is divided by 8? $\text{(A) } 0 \qquad \text{(B) } 1 \qquad \text{(C) } 2 \qquad \text{(D) } 4 \qquad \text{(E) } 6$
+
+### 2009B-06
+Current label: nt-primes-factorization (secondary: misc-logic)
+Kiana has two older twin brothers. The product of their three ages is 128. What is the sum of their three ages? $\text{(A) } 10 \qquad \text{(B) } 12 \qquad \text{(C) } 16 \qquad \text{(D) } 18 \qquad \text{(E) } 24$
+
+### 2005A-07
+Current label: alg-rates (secondary: -)
+Josh and Mike live $13$ miles apart. Josh started to ride his bicycle toward Mike's house. A little later Mike started to ride his bicycle toward Josh's house. When they met, Josh had ridden for twice the length of time as Mike and at four-fifths of Mike's rate. How many miles had Mike ridden when they met? $\textbf{(A) } 4\qquad \textbf{(B) } 5\qquad \textbf{(C) } 6\qquad \textbf{(D) } 7\qquad \textbf{(E) } 8$
+

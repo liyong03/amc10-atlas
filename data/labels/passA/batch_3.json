@@ -1,0 +1,1703 @@
+[
+ {
+  "id": "2017B-01",
+  "primary": "nt-digits",
+  "secondary": [
+   "alg-linear-word"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "2017B-02",
+  "primary": "alg-rates",
+  "secondary": [],
+  "confidence": "high"
+ },
+ {
+  "id": "2017B-03",
+  "primary": "alg-inequalities-optimization",
+  "secondary": [],
+  "confidence": "high"
+ },
+ {
+  "id": "2017B-04",
+  "primary": "alg-factoring-identities",
+  "secondary": [
+   "alg-linear-word"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "2017B-05",
+  "primary": "alg-systems",
+  "secondary": [
+   "alg-percent-ratio"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2017B-06",
+  "primary": "geo-3d-cubes",
+  "secondary": [
+   "geo-3d-volume"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "2017B-07",
+  "primary": "alg-rates",
+  "secondary": [],
+  "confidence": "high"
+ },
+ {
+  "id": "2017B-08",
+  "primary": "geo-coordinate",
+  "secondary": [],
+  "confidence": "high"
+ },
+ {
+  "id": "2017B-09",
+  "primary": "cp-probability-basic",
+  "secondary": [
+   "cp-combinations"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "2017B-10",
+  "primary": "alg-graphs-lines",
+  "secondary": [],
+  "confidence": "high"
+ },
+ {
+  "id": "2017B-11",
+  "primary": "cp-conditional-probability",
+  "secondary": [
+   "alg-percent-ratio"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "2017B-12",
+  "primary": "alg-percent-ratio",
+  "secondary": [],
+  "confidence": "high"
+ },
+ {
+  "id": "2017B-13",
+  "primary": "cp-inclusion-exclusion",
+  "secondary": [],
+  "confidence": "high"
+ },
+ {
+  "id": "2017B-14",
+  "primary": "nt-modular",
+  "secondary": [
+   "cp-probability-basic"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2017B-15",
+  "primary": "geo-triangle-area",
+  "secondary": [
+   "geo-similar",
+   "geo-quadrilaterals"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "2017B-16",
+  "primary": "cp-basic-counting",
+  "secondary": [
+   "nt-digits"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "2017B-17",
+  "primary": "cp-combinations",
+  "secondary": [
+   "nt-digits"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2017B-18",
+  "primary": "cp-basic-counting",
+  "secondary": [
+   "geo-transformations"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "2017B-19",
+  "primary": "geo-triangle-area",
+  "secondary": [],
+  "confidence": "high"
+ },
+ {
+  "id": "2017B-20",
+  "primary": "nt-divisors",
+  "secondary": [
+   "cp-probability-basic",
+   "nt-factorials"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2017B-21",
+  "primary": "geo-triangle-centers",
+  "secondary": [
+   "geo-pythagorean"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2017B-22",
+  "primary": "geo-similar",
+  "secondary": [
+   "geo-triangle-area",
+   "geo-circle-theorems"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "2017B-23",
+  "primary": "nt-modular",
+  "secondary": [
+   "nt-divisibility"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2017B-24",
+  "primary": "geo-coordinate",
+  "secondary": [
+   "geo-graph-regions",
+   "geo-triangle-centers"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "2017B-25",
+  "primary": "alg-mean-median",
+  "secondary": [
+   "nt-divisibility"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "2017A-01",
+  "primary": "alg-arith-compute",
+  "secondary": [],
+  "confidence": "high"
+ },
+ {
+  "id": "2017A-02",
+  "primary": "misc-money-everyday",
+  "secondary": [
+   "alg-inequalities-optimization"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "2017A-03",
+  "primary": "geo-shaded-regions",
+  "secondary": [
+   "geo-quadrilaterals"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "2017A-04",
+  "primary": "misc-process-simulation",
+  "secondary": [
+   "alg-rates"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "2017A-05",
+  "primary": "alg-factoring-identities",
+  "secondary": [],
+  "confidence": "high"
+ },
+ {
+  "id": "2017A-06",
+  "primary": "misc-logic",
+  "secondary": [],
+  "confidence": "high"
+ },
+ {
+  "id": "2017A-07",
+  "primary": "geo-pythagorean",
+  "secondary": [
+   "alg-percent-ratio"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2017A-08",
+  "primary": "cp-combinations",
+  "secondary": [],
+  "confidence": "high"
+ },
+ {
+  "id": "2017A-09",
+  "primary": "alg-rates",
+  "secondary": [],
+  "confidence": "high"
+ },
+ {
+  "id": "2017A-10",
+  "primary": "geo-triangle-inequality",
+  "secondary": [],
+  "confidence": "high"
+ },
+ {
+  "id": "2017A-11",
+  "primary": "geo-3d-volume",
+  "secondary": [],
+  "confidence": "high"
+ },
+ {
+  "id": "2017A-12",
+  "primary": "geo-graph-regions",
+  "secondary": [
+   "alg-graphs-lines"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "2017A-13",
+  "primary": "alg-recursion-patterns",
+  "secondary": [
+   "nt-modular"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2017A-14",
+  "primary": "alg-systems",
+  "secondary": [
+   "alg-percent-ratio"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2017A-15",
+  "primary": "cp-geometric-probability",
+  "secondary": [],
+  "confidence": "high"
+ },
+ {
+  "id": "2017A-16",
+  "primary": "nt-gcd-lcm",
+  "secondary": [
+   "nt-divisibility"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2017A-17",
+  "primary": "geo-coordinate",
+  "secondary": [
+   "geo-pythagorean"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2017A-18",
+  "primary": "cp-conditional-probability",
+  "secondary": [
+   "cp-probability-dice-coins",
+   "alg-geom-seq"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2017A-19",
+  "primary": "cp-permutations",
+  "secondary": [],
+  "confidence": "high"
+ },
+ {
+  "id": "2017A-20",
+  "primary": "nt-digits",
+  "secondary": [],
+  "confidence": "high"
+ },
+ {
+  "id": "2017A-21",
+  "primary": "geo-similar",
+  "secondary": [
+   "geo-pythagorean"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2017A-22",
+  "primary": "geo-shaded-regions",
+  "secondary": [
+   "geo-circle-theorems",
+   "geo-circle-area"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "2017A-23",
+  "primary": "cp-paths-grids",
+  "secondary": [
+   "cp-combinations"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "2017A-24",
+  "primary": "alg-polynomials",
+  "secondary": [],
+  "confidence": "high"
+ },
+ {
+  "id": "2017A-25",
+  "primary": "nt-divisibility",
+  "secondary": [
+   "cp-basic-counting",
+   "nt-digits"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "2016B-01",
+  "primary": "alg-arith-compute",
+  "secondary": [
+   "alg-exponents-radicals"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2016B-02",
+  "primary": "alg-custom-op",
+  "secondary": [],
+  "confidence": "high"
+ },
+ {
+  "id": "2016B-03",
+  "primary": "alg-absolute-value",
+  "secondary": [],
+  "confidence": "high"
+ },
+ {
+  "id": "2016B-04",
+  "primary": "misc-calendar-clock",
+  "secondary": [
+   "alg-arith-seq"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2016B-05",
+  "primary": "alg-mean-median",
+  "secondary": [],
+  "confidence": "high"
+ },
+ {
+  "id": "2016B-06",
+  "primary": "nt-digits",
+  "secondary": [
+   "misc-magic-squares"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "2016B-07",
+  "primary": "geo-angles",
+  "secondary": [
+   "alg-percent-ratio"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2016B-08",
+  "primary": "nt-units-digit",
+  "secondary": [
+   "nt-modular"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2016B-09",
+  "primary": "geo-coordinate",
+  "secondary": [
+   "geo-graph-regions",
+   "geo-triangle-area"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2016B-10",
+  "primary": "geo-similar",
+  "secondary": [
+   "alg-percent-ratio",
+   "geo-triangle-area"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "2016B-11",
+  "primary": "geo-perimeter-length",
+  "secondary": [
+   "geo-quadrilaterals"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "2016B-12",
+  "primary": "cp-probability-basic",
+  "secondary": [
+   "nt-parity"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2016B-13",
+  "primary": "alg-linear-word",
+  "secondary": [
+   "alg-percent-ratio"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2016B-14",
+  "primary": "cp-paths-grids",
+  "secondary": [
+   "geo-coordinate"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "2016B-15",
+  "primary": "misc-magic-squares",
+  "secondary": [
+   "misc-logic"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "2016B-16",
+  "primary": "alg-geom-seq",
+  "secondary": [
+   "alg-inequalities-optimization"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2016B-17",
+  "primary": "alg-factoring-identities",
+  "secondary": [
+   "alg-inequalities-optimization",
+   "geo-3d-cubes"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "2016B-18",
+  "primary": "alg-arith-seq",
+  "secondary": [
+   "nt-divisors"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2016B-19",
+  "primary": "geo-similar",
+  "secondary": [
+   "geo-coordinate"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2016B-20",
+  "primary": "geo-transformations",
+  "secondary": [
+   "geo-coordinate"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2016B-21",
+  "primary": "geo-graph-regions",
+  "secondary": [
+   "alg-absolute-value"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2016B-22",
+  "primary": "cp-combinations",
+  "secondary": [
+   "misc-process-simulation"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "2016B-23",
+  "primary": "geo-polygons",
+  "secondary": [],
+  "confidence": "high"
+ },
+ {
+  "id": "2016B-24",
+  "primary": "nt-digits",
+  "secondary": [
+   "alg-arith-seq",
+   "cp-basic-counting"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "2016B-25",
+  "primary": "alg-floor-ceiling",
+  "secondary": [
+   "nt-fractions-decimals"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2016A-01",
+  "primary": "alg-arith-compute",
+  "secondary": [
+   "nt-factorials"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2016A-02",
+  "primary": "alg-exponents-radicals",
+  "secondary": [],
+  "confidence": "high"
+ },
+ {
+  "id": "2016A-03",
+  "primary": "alg-linear-word",
+  "secondary": [
+   "alg-percent-ratio"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2016A-04",
+  "primary": "alg-floor-ceiling",
+  "secondary": [
+   "alg-custom-op"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2016A-05",
+  "primary": "geo-3d-volume",
+  "secondary": [
+   "nt-squares-cubes"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "2016A-06",
+  "primary": "nt-digits",
+  "secondary": [],
+  "confidence": "high"
+ },
+ {
+  "id": "2016A-07",
+  "primary": "alg-mean-median",
+  "secondary": [],
+  "confidence": "high"
+ },
+ {
+  "id": "2016A-08",
+  "primary": "alg-linear-word",
+  "secondary": [
+   "misc-process-simulation"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2016A-09",
+  "primary": "alg-arith-seq",
+  "secondary": [],
+  "confidence": "high"
+ },
+ {
+  "id": "2016A-10",
+  "primary": "geo-quadrilaterals",
+  "secondary": [
+   "alg-arith-seq",
+   "geo-shaded-regions"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "2016A-11",
+  "primary": "geo-shaded-regions",
+  "secondary": [],
+  "confidence": "low"
+ },
+ {
+  "id": "2016A-12",
+  "primary": "cp-probability-basic",
+  "secondary": [
+   "nt-parity"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2016A-13",
+  "primary": "misc-logic",
+  "secondary": [],
+  "confidence": "high"
+ },
+ {
+  "id": "2016A-14",
+  "primary": "nt-diophantine",
+  "secondary": [],
+  "confidence": "high"
+ },
+ {
+  "id": "2016A-15",
+  "primary": "geo-circle-area",
+  "secondary": [
+   "geo-shaded-regions"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2016A-16",
+  "primary": "geo-transformations",
+  "secondary": [],
+  "confidence": "high"
+ },
+ {
+  "id": "2016A-17",
+  "primary": "cp-probability-basic",
+  "secondary": [
+   "alg-inequalities-optimization"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "2016A-18",
+  "primary": "misc-magic-squares",
+  "secondary": [
+   "geo-3d-cubes",
+   "cp-basic-counting"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "2016A-19",
+  "primary": "geo-similar",
+  "secondary": [
+   "geo-quadrilaterals"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2016A-20",
+  "primary": "cp-distributions",
+  "secondary": [
+   "cp-combinations"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2016A-21",
+  "primary": "geo-circle-theorems",
+  "secondary": [
+   "geo-triangle-area"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2016A-22",
+  "primary": "nt-divisors",
+  "secondary": [
+   "nt-primes-factorization"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2016A-23",
+  "primary": "alg-custom-op",
+  "secondary": [],
+  "confidence": "high"
+ },
+ {
+  "id": "2016A-24",
+  "primary": "geo-circle-theorems",
+  "secondary": [
+   "geo-trig",
+   "geo-pythagorean"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "2016A-25",
+  "primary": "nt-gcd-lcm",
+  "secondary": [
+   "cp-basic-counting"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2015B-01",
+  "primary": "alg-arith-compute",
+  "secondary": [
+   "alg-exponents-radicals"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2015B-02",
+  "primary": "misc-calendar-clock",
+  "secondary": [],
+  "confidence": "high"
+ },
+ {
+  "id": "2015B-03",
+  "primary": "alg-linear-word",
+  "secondary": [
+   "nt-diophantine"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2015B-04",
+  "primary": "alg-arith-compute",
+  "secondary": [
+   "nt-fractions-decimals"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "2015B-05",
+  "primary": "misc-logic",
+  "secondary": [],
+  "confidence": "high"
+ },
+ {
+  "id": "2015B-06",
+  "primary": "misc-logic",
+  "secondary": [],
+  "confidence": "high"
+ },
+ {
+  "id": "2015B-07",
+  "primary": "alg-custom-op",
+  "secondary": [],
+  "confidence": "high"
+ },
+ {
+  "id": "2015B-08",
+  "primary": "geo-transformations",
+  "secondary": [],
+  "confidence": "high"
+ },
+ {
+  "id": "2015B-09",
+  "primary": "geo-shaded-regions",
+  "secondary": [
+   "geo-circle-area"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2015B-10",
+  "primary": "nt-units-digit",
+  "secondary": [
+   "nt-parity"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2015B-11",
+  "primary": "cp-probability-basic",
+  "secondary": [
+   "nt-primes-factorization"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2015B-12",
+  "primary": "geo-coordinate",
+  "secondary": [
+   "alg-inequalities-optimization"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2015B-13",
+  "primary": "geo-triangle-area",
+  "secondary": [
+   "geo-coordinate",
+   "geo-pythagorean"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "2015B-14",
+  "primary": "alg-quadratics",
+  "secondary": [
+   "alg-inequalities-optimization"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2015B-15",
+  "primary": "nt-diophantine",
+  "secondary": [
+   "alg-percent-ratio"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "2015B-16",
+  "primary": "cp-probability-basic",
+  "secondary": [
+   "nt-divisibility"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2015B-17",
+  "primary": "geo-3d-volume",
+  "secondary": [
+   "geo-3d-cubes"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2015B-18",
+  "primary": "cp-expected-value",
+  "secondary": [
+   "cp-probability-dice-coins"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2015B-19",
+  "primary": "geo-circle-theorems",
+  "secondary": [
+   "geo-pythagorean",
+   "geo-quadrilaterals"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "2015B-20",
+  "primary": "cp-paths-grids",
+  "secondary": [
+   "geo-3d-cubes"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2015B-21",
+  "primary": "alg-floor-ceiling",
+  "secondary": [
+   "nt-modular"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "2015B-22",
+  "primary": "geo-polygons",
+  "secondary": [
+   "geo-similar"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2015B-23",
+  "primary": "nt-factorials",
+  "secondary": [],
+  "confidence": "high"
+ },
+ {
+  "id": "2015B-24",
+  "primary": "alg-recursion-patterns",
+  "secondary": [
+   "geo-coordinate",
+   "misc-process-simulation"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2015B-25",
+  "primary": "nt-diophantine",
+  "secondary": [
+   "geo-3d-volume"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2015A-01",
+  "primary": "alg-arith-compute",
+  "secondary": [],
+  "confidence": "high"
+ },
+ {
+  "id": "2015A-02",
+  "primary": "alg-systems",
+  "secondary": [],
+  "confidence": "high"
+ },
+ {
+  "id": "2015A-03",
+  "primary": "alg-recursion-patterns",
+  "secondary": [
+   "geo-perimeter-length"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "2015A-04",
+  "primary": "alg-percent-ratio",
+  "secondary": [
+   "alg-linear-word"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2015A-05",
+  "primary": "alg-mean-median",
+  "secondary": [],
+  "confidence": "high"
+ },
+ {
+  "id": "2015A-06",
+  "primary": "alg-percent-ratio",
+  "secondary": [
+   "alg-linear-word"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2015A-07",
+  "primary": "alg-arith-seq",
+  "secondary": [],
+  "confidence": "high"
+ },
+ {
+  "id": "2015A-08",
+  "primary": "alg-systems",
+  "secondary": [
+   "alg-percent-ratio"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2015A-09",
+  "primary": "geo-3d-volume",
+  "secondary": [
+   "alg-percent-ratio"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2015A-10",
+  "primary": "cp-permutations",
+  "secondary": [],
+  "confidence": "high"
+ },
+ {
+  "id": "2015A-11",
+  "primary": "geo-quadrilaterals",
+  "secondary": [
+   "geo-pythagorean"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2015A-12",
+  "primary": "alg-factoring-identities",
+  "secondary": [
+   "alg-quadratics"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2015A-13",
+  "primary": "cp-basic-counting",
+  "secondary": [
+   "alg-linear-word"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "2015A-14",
+  "primary": "geo-circle-area",
+  "secondary": [],
+  "confidence": "high"
+ },
+ {
+  "id": "2015A-15",
+  "primary": "nt-diophantine",
+  "secondary": [
+   "nt-fractions-decimals",
+   "alg-percent-ratio"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2015A-16",
+  "primary": "alg-systems",
+  "secondary": [
+   "alg-factoring-identities"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2015A-17",
+  "primary": "geo-coordinate",
+  "secondary": [
+   "alg-graphs-lines",
+   "geo-pythagorean"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2015A-18",
+  "primary": "nt-bases",
+  "secondary": [],
+  "confidence": "high"
+ },
+ {
+  "id": "2015A-19",
+  "primary": "geo-triangle-area",
+  "secondary": [
+   "geo-trig"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "2015A-20",
+  "primary": "nt-diophantine",
+  "secondary": [],
+  "confidence": "high"
+ },
+ {
+  "id": "2015A-21",
+  "primary": "geo-3d-volume",
+  "secondary": [
+   "geo-pythagorean"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2015A-22",
+  "primary": "cp-recursion-counting",
+  "secondary": [
+   "cp-probability-dice-coins"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2015A-23",
+  "primary": "alg-quadratics",
+  "secondary": [
+   "nt-diophantine"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2015A-24",
+  "primary": "geo-quadrilaterals",
+  "secondary": [
+   "nt-diophantine",
+   "geo-pythagorean"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2015A-25",
+  "primary": "cp-geometric-probability",
+  "secondary": [],
+  "confidence": "high"
+ },
+ {
+  "id": "2014B-01",
+  "primary": "alg-linear-word",
+  "secondary": [],
+  "confidence": "high"
+ },
+ {
+  "id": "2014B-02",
+  "primary": "alg-exponents-radicals",
+  "secondary": [
+   "alg-arith-compute"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2014B-03",
+  "primary": "alg-linear-word",
+  "secondary": [],
+  "confidence": "high"
+ },
+ {
+  "id": "2014B-04",
+  "primary": "alg-linear-word",
+  "secondary": [
+   "alg-percent-ratio"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "2014B-05",
+  "primary": "geo-perimeter-length",
+  "secondary": [
+   "geo-quadrilaterals",
+   "alg-percent-ratio"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "2014B-06",
+  "primary": "misc-money-everyday",
+  "secondary": [
+   "alg-percent-ratio"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2014B-07",
+  "primary": "alg-percent-ratio",
+  "secondary": [],
+  "confidence": "high"
+ },
+ {
+  "id": "2014B-08",
+  "primary": "alg-rates",
+  "secondary": [
+   "alg-percent-ratio"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2014B-09",
+  "primary": "alg-factoring-identities",
+  "secondary": [],
+  "confidence": "high"
+ },
+ {
+  "id": "2014B-10",
+  "primary": "misc-magic-squares",
+  "secondary": [],
+  "confidence": "high"
+ },
+ {
+  "id": "2014B-11",
+  "primary": "alg-percent-ratio",
+  "secondary": [],
+  "confidence": "high"
+ },
+ {
+  "id": "2014B-12",
+  "primary": "nt-divisors",
+  "secondary": [
+   "nt-primes-factorization"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2014B-13",
+  "primary": "geo-polygons",
+  "secondary": [
+   "geo-triangle-area"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2014B-14",
+  "primary": "nt-digits",
+  "secondary": [
+   "alg-rates",
+   "nt-divisibility"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2014B-15",
+  "primary": "geo-triangle-area",
+  "secondary": [
+   "geo-pythagorean",
+   "geo-quadrilaterals"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2014B-16",
+  "primary": "cp-probability-dice-coins",
+  "secondary": [],
+  "confidence": "high"
+ },
+ {
+  "id": "2014B-17",
+  "primary": "nt-primes-factorization",
+  "secondary": [
+   "alg-factoring-identities",
+   "nt-divisibility"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2014B-18",
+  "primary": "alg-mean-median",
+  "secondary": [
+   "alg-inequalities-optimization"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2014B-19",
+  "primary": "cp-geometric-probability",
+  "secondary": [
+   "geo-circle-theorems"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2014B-20",
+  "primary": "alg-inequalities-optimization",
+  "secondary": [
+   "alg-polynomials"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2014B-21",
+  "primary": "geo-quadrilaterals",
+  "secondary": [
+   "geo-pythagorean"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2014B-22",
+  "primary": "geo-circle-theorems",
+  "secondary": [
+   "geo-pythagorean"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2014B-23",
+  "primary": "geo-3d-volume",
+  "secondary": [
+   "geo-circle-theorems"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2014B-24",
+  "primary": "cp-permutations",
+  "secondary": [
+   "cp-basic-counting"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "2014B-25",
+  "primary": "cp-conditional-probability",
+  "secondary": [],
+  "confidence": "high"
+ },
+ {
+  "id": "2014A-01",
+  "primary": "alg-arith-compute",
+  "secondary": [],
+  "confidence": "high"
+ },
+ {
+  "id": "2014A-02",
+  "primary": "misc-calendar-clock",
+  "secondary": [
+   "alg-arith-compute"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2014A-03",
+  "primary": "misc-money-everyday",
+  "secondary": [],
+  "confidence": "high"
+ },
+ {
+  "id": "2014A-04",
+  "primary": "cp-permutations",
+  "secondary": [
+   "misc-logic"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2014A-05",
+  "primary": "alg-mean-median",
+  "secondary": [],
+  "confidence": "high"
+ },
+ {
+  "id": "2014A-06",
+  "primary": "alg-work",
+  "secondary": [
+   "alg-percent-ratio"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2014A-07",
+  "primary": "alg-inequalities-optimization",
+  "secondary": [],
+  "confidence": "high"
+ },
+ {
+  "id": "2014A-08",
+  "primary": "nt-squares-cubes",
+  "secondary": [
+   "nt-factorials"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2014A-09",
+  "primary": "geo-pythagorean",
+  "secondary": [
+   "geo-triangle-area"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2014A-10",
+  "primary": "alg-mean-median",
+  "secondary": [
+   "nt-parity"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2014A-11",
+  "primary": "alg-percent-ratio",
+  "secondary": [
+   "alg-inequalities-optimization"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2014A-12",
+  "primary": "geo-shaded-regions",
+  "secondary": [
+   "geo-polygons",
+   "geo-circle-area"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2014A-13",
+  "primary": "geo-polygons",
+  "secondary": [
+   "geo-triangle-area"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "2014A-14",
+  "primary": "geo-coordinate",
+  "secondary": [
+   "alg-graphs-lines",
+   "geo-triangle-area"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2014A-15",
+  "primary": "alg-rates",
+  "secondary": [],
+  "confidence": "high"
+ },
+ {
+  "id": "2014A-16",
+  "primary": "geo-shaded-regions",
+  "secondary": [
+   "geo-quadrilaterals"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "2014A-17",
+  "primary": "cp-probability-dice-coins",
+  "secondary": [],
+  "confidence": "high"
+ },
+ {
+  "id": "2014A-18",
+  "primary": "geo-coordinate",
+  "secondary": [
+   "geo-quadrilaterals",
+   "geo-pythagorean"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2014A-19",
+  "primary": "geo-3d-cubes",
+  "secondary": [
+   "geo-similar",
+   "geo-pythagorean"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2014A-20",
+  "primary": "nt-digits",
+  "secondary": [],
+  "confidence": "high"
+ },
+ {
+  "id": "2014A-21",
+  "primary": "alg-graphs-lines",
+  "secondary": [
+   "nt-diophantine"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2014A-22",
+  "primary": "geo-trig",
+  "secondary": [
+   "geo-pythagorean",
+   "geo-quadrilaterals"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "2014A-23",
+  "primary": "geo-transformations",
+  "secondary": [
+   "geo-triangle-area"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2014A-24",
+  "primary": "alg-recursion-patterns",
+  "secondary": [
+   "alg-arith-seq"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2014A-25",
+  "primary": "alg-exponents-radicals",
+  "secondary": [
+   "alg-logs",
+   "alg-inequalities-optimization"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "2013B-01",
+  "primary": "alg-arith-compute",
+  "secondary": [],
+  "confidence": "high"
+ },
+ {
+  "id": "2013B-02",
+  "primary": "geo-quadrilaterals",
+  "secondary": [
+   "alg-percent-ratio"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "2013B-03",
+  "primary": "alg-linear-word",
+  "secondary": [
+   "alg-mean-median"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2013B-04",
+  "primary": "cp-basic-counting",
+  "secondary": [
+   "alg-arith-seq"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "2013B-05",
+  "primary": "alg-inequalities-optimization",
+  "secondary": [],
+  "confidence": "high"
+ },
+ {
+  "id": "2013B-06",
+  "primary": "alg-mean-median",
+  "secondary": [],
+  "confidence": "high"
+ },
+ {
+  "id": "2013B-07",
+  "primary": "geo-triangle-area",
+  "secondary": [
+   "geo-polygons",
+   "geo-pythagorean"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2013B-08",
+  "primary": "alg-percent-ratio",
+  "secondary": [
+   "alg-rates"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "2013B-09",
+  "primary": "nt-primes-factorization",
+  "secondary": [
+   "nt-gcd-lcm"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2013B-10",
+  "primary": "alg-linear-word",
+  "secondary": [
+   "alg-percent-ratio"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2013B-11",
+  "primary": "alg-quadratics",
+  "secondary": [
+   "alg-factoring-identities"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2013B-12",
+  "primary": "cp-probability-basic",
+  "secondary": [
+   "geo-polygons"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2013B-13",
+  "primary": "alg-recursion-patterns",
+  "secondary": [
+   "alg-arith-seq"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2013B-14",
+  "primary": "geo-graph-regions",
+  "secondary": [
+   "alg-custom-op",
+   "alg-factoring-identities"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2013B-15",
+  "primary": "geo-polygons",
+  "secondary": [
+   "geo-perimeter-length"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2013B-16",
+  "primary": "geo-triangle-centers",
+  "secondary": [
+   "geo-triangle-area"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2013B-17",
+  "primary": "misc-process-simulation",
+  "secondary": [],
+  "confidence": "high"
+ },
+ {
+  "id": "2013B-18",
+  "primary": "nt-digits",
+  "secondary": [
+   "cp-basic-counting"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2013B-19",
+  "primary": "alg-quadratics",
+  "secondary": [
+   "alg-arith-seq"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2013B-20",
+  "primary": "nt-factorials",
+  "secondary": [
+   "nt-primes-factorization"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2013B-21",
+  "primary": "alg-recursion-patterns",
+  "secondary": [
+   "nt-diophantine"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2013B-22",
+  "primary": "misc-magic-squares",
+  "secondary": [
+   "cp-permutations"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2013B-23",
+  "primary": "geo-similar",
+  "secondary": [
+   "geo-pythagorean",
+   "geo-coordinate"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "2013B-24",
+  "primary": "nt-divisors",
+  "secondary": [
+   "nt-primes-factorization"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "2013B-25",
+  "primary": "nt-bases",
+  "secondary": [
+   "nt-modular"
+  ],
+  "confidence": "high"
+ }
+]
