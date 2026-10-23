@@ -83,8 +83,9 @@ button { font: inherit; color: inherit; }
 .icon-btn, .menu-btn {
   border: 1.5px solid var(--rule); background: var(--paper-2); border-radius: 8px;
   width: 36px; height: 36px; cursor: pointer; font-size: 18px;
+  display: inline-grid; place-items: center; padding: 0; flex: none;
 }
-.menu-btn { display: none; }
+.menu-btn, .search-btn, .scrim, .side-progress { display: none; }
 
 /* ---------- layout ---------- */
 .layout { display: grid; grid-template-columns: var(--side-w) minmax(0, 1fr); min-height: calc(100vh - 60px); }
@@ -182,7 +183,10 @@ main { padding: 28px clamp(16px, 4vw, 56px) 80px; outline: none; max-width: 1040
 .p-body img.diagram { display: block; max-width: 100%; height: auto; margin: 10px auto; background: #fff; border-radius: 6px; padding: 4px; }
 :root[data-theme="dark"] .p-body img.diagram { filter: invert(.9) hue-rotate(180deg); background: #fff; }
 @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .p-body img.diagram { filter: invert(.9) hue-rotate(180deg); } }
-.p-body mjx-container[display="true"] { overflow-x: auto; overflow-y: hidden; }
+.p-body mjx-container[display="true"] { overflow-x: auto; overflow-y: hidden; max-width: 100%; }
+.choices { display: flex; flex-wrap: wrap; gap: 6px 30px; align-items: baseline; margin-top: 4px; }
+.choice { white-space: nowrap; }
+.choice.long { white-space: normal; flex: 1 1 100%; }
 .p-actions { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin-top: 12px; padding-top: 10px; border-top: 1px dashed var(--rule); }
 .btn {
   font-family: var(--mono); font-size: 12.5px; padding: 5px 11px; border-radius: 7px; cursor: pointer;
@@ -204,19 +208,91 @@ main { padding: 28px clamp(16px, 4vw, 56px) 80px; outline: none; max-width: 1040
 
 .foot { padding: 18px 24px 30px calc(var(--side-w) + 24px); font-size: 14px; color: var(--ink-soft); border-top: 1.5px dashed var(--rule); }
 
-/* ---------- small screens ---------- */
+/* ---------- tablets & phones ---------- */
 @media (max-width: 860px) {
-  .menu-btn { display: inline-block; }
-  .layout { grid-template-columns: 1fr; }
+  :root { --mast-h: 56px; }
+  body { font-size: 17px; }
+  .menu-btn, .search-btn { display: inline-grid; }
+  .layout { grid-template-columns: minmax(0, 1fr); }
+  main { min-width: 0; max-width: none; padding: 18px 16px 56px; }
+
+  /* masthead: ☰ brand ……… 🔍 ◐ ; search drops into its own row when opened */
+  .masthead { flex-wrap: wrap; gap: 8px; padding: 8px 16px; padding-left: max(16px, env(safe-area-inset-left)); padding-right: max(16px, env(safe-area-inset-right)); }
+  .brand { gap: 8px; min-width: 0; }
+  .brand-mark { width: 32px; height: 32px; font-size: 20px; box-shadow: 2px 2px 0 var(--ink); }
+  .brand-text { font-size: 19px; }
+  .brand-text em { display: none; }
+  .progress { display: none; }
+  .mast-right { gap: 8px; }
+  .search { display: none; order: 10; flex: 1 0 100%; max-width: none; padding-bottom: 2px; }
+  body.search-open .search { display: block; }
+  body.search-open .search-btn { background: var(--ink); color: var(--paper); border-color: var(--ink); }
+  .search input { font-size: 16px; padding: 9px 14px; } /* 16px stops iOS zooming in on focus */
+
+  /* topics drawer */
   .sidebar {
-    position: fixed; left: 0; top: 58px; z-index: 30; width: min(320px, 88vw); background: var(--paper);
+    position: fixed; left: 0; top: 0; bottom: 0; height: 100dvh; z-index: 40; width: min(330px, 86vw);
+    background: var(--paper); padding: 16px 14px calc(30px + env(safe-area-inset-bottom)) 18px;
     transform: translateX(-102%); transition: transform .25s ease; box-shadow: 8px 0 30px -10px rgba(0,0,0,.35);
+    border-right: 1.5px solid var(--rule); overscroll-behavior: contain;
   }
   body.nav-open .sidebar { transform: none; }
-  .progress-bar { display: none; }
-  .brand-text em { display: none; }
-  .masthead { gap: 10px; padding: 8px 16px; }
-  main { padding: 20px 16px 60px; }
-  .problem { padding: 14px 14px 12px; }
-  .foot { padding-left: 16px; }
+  .scrim { display: block; position: fixed; inset: 0; z-index: 35; background: rgba(15, 20, 30, .42); opacity: 0; pointer-events: none; transition: opacity .25s ease; }
+  body.nav-open .scrim { opacity: 1; pointer-events: auto; }
+  body.nav-open { overflow: hidden; }
+  .side-area li a { padding: 7px 8px; font-size: 16px; }
+  .side-progress { display: block; font-family: var(--mono); font-size: 12.5px; color: var(--ink-soft); margin: 0 0 14px 8px; }
+  .side-progress .progress-bar { display: block; width: 100%; margin-top: 6px; }
+
+  /* home */
+  .hero h1 { font-size: clamp(32px, 9vw, 44px); }
+  .hero p { font-size: 17px; }
+  .stats { gap: 14px 22px; margin: 16px 0 24px; }
+  .stats b { font-size: 26px; }
+  .area-block { margin-top: 30px; }
+  .area-block h2 { font-size: 24px; flex-wrap: wrap; gap: 2px 10px; }
+  .tiles { grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); gap: 10px; }
+  .tile { padding: 10px 12px 9px; }
+  .tile h4 { font-size: 16px; }
+
+  /* topic page */
+  .cat-head h1 { font-size: clamp(28px, 8vw, 38px); }
+  .toolbar { gap: 10px 14px; }
+  .toolbar .count { margin-left: 0; width: 100%; }
+  .seg button { padding: 8px 12px; }
+  .toolbar label { min-height: 32px; }
+
+  /* problem cards */
+  .problem { margin: 14px 0; padding: 14px 14px 12px; border-radius: 10px; }
+  .problem.solved::after { top: 12px; right: 12px; }
+  .p-head { padding-right: 64px; gap: 6px 8px; }
+  .p-src { font-size: 13px; }
+  .p-body { font-size: 17px; padding-right: 12px; margin-right: -12px; } /* room for overlines at line ends */
+  .choices { gap: 8px 22px; }
+  .p-actions { gap: 8px; }
+  .p-actions .btn { min-height: 38px; padding: 8px 12px; display: inline-flex; align-items: center; }
+  .tags { margin-left: 0; width: 100%; gap: 4px 10px; }
+  .foot { padding: 16px 16px calc(24px + env(safe-area-inset-bottom)); }
+}
+
+.sm { display: none; }
+
+/* phones: short button labels so a card's actions fit on one row */
+@media (max-width: 600px) {
+  .lg { display: none; }
+  .sm { display: inline; }
+  .p-actions { gap: 5px; }
+  .p-actions .btn { padding: 8px 8px; font-size: 13px; justify-content: center; }
+  .p-actions .btn.solve, .p-actions .btn.star { min-width: 40px; }
+  .p-actions .btn.star { margin-left: auto; }
+  .tiles { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .tile h4 { font-size: 15px; }
+  .tile .meta { flex-wrap: wrap; }
+}
+@media (max-width: 380px) {
+  main { padding-left: 12px; padding-right: 12px; }
+  .problem { padding-left: 12px; padding-right: 12px; }
+  .p-actions { gap: 4px; }
+  .p-actions .btn { padding: 8px 6px; font-size: 12px; }
+  .p-actions .btn.solve, .p-actions .btn.star { min-width: 34px; }
 }

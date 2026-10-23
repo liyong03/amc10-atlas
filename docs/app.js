@@ -7,6 +7,10 @@
 (function () {
   'use strict';
 
+  // .lg parts are hidden on phones so a card's buttons fit on one row
+  const ANSWER_LABEL = '<span class="lg">Show a</span><span class="sm">A</span>nswer';
+  const SOLVED_LABEL = '✓<span class="lg">&nbsp;Solved</span>';
+  const UNSOLVED_LABEL = '<span class="lg">Mark solved</span><span class="sm" aria-label="Mark solved">✓</span>';
   const PAGE = 30; // problems rendered per "page" (MathJax is the slow part)
   const store = {
     get(k, d) { try { const v = localStorage.getItem(k); return v ? JSON.parse(v) : d; } catch (e) { return d; } },
@@ -51,6 +55,7 @@
   function renderSidebar() {
     const collapsed = new Set(store.get('amc-collapsed', []));
     $('#sidebar').innerHTML =
+      `<div class="side-progress"><span id="sideProgressText"></span><span class="progress-bar"><span id="sideProgressFill"></span></span></div>` +
       `<div class="side-area"><ul><li><a href="#/" data-cat="__home"><span>All topics</span><span class="n">${DB.problems.length}</span></a></li>` +
       `<li><a href="#/review" data-cat="__review"><span>★ Review list</span><span class="n" id="starCount">${state.starred.size}</span></a></li></ul></div>` +
       AREAS.map(a => {
@@ -76,6 +81,8 @@
     const n = state.solved.size, total = DB.problems.length;
     $('#progressText').textContent = `${n} / ${total} solved`;
     $('#progressFill').style.width = (100 * n / total) + '%';
+    const st = $('#sideProgressText'); if (st) st.textContent = `${n} / ${total} solved`;
+    const sf = $('#sideProgressFill'); if (sf) sf.style.width = (100 * n / total) + '%';
     const sc = $('#starCount'); if (sc) sc.textContent = state.starred.size;
   }
 
@@ -155,7 +162,7 @@
       <div class="toolbar">
         <span class="seg" id="diffSeg">${[['all', 'All'], ['easy', '1–10'], ['mid', '11–20'], ['hard', '21–25']]
           .map(([k, l]) => `<button data-k="${k}" class="${pr.diff === k ? 'on' : ''}">${l}</button>`).join('')}</span>
-        ${isCat ? `<label><input type="checkbox" id="secBox" ${pr.secondary ? 'checked' : ''}> include related (secondary topic)</label>` : ''}
+        ${isCat ? `<label><input type="checkbox" id="secBox" ${pr.secondary ? 'checked' : ''}> include related<span class="lg">&nbsp;(secondary topic)</span></label>` : ''}
         <label><input type="checkbox" id="hideBox" ${pr.hideSolved ? 'checked' : ''}> hide solved</label>
         <span class="count">${filtered.length} of ${list.length} shown</span>
       </div>
@@ -201,9 +208,9 @@
       ${p.idea ? `<div class="idea"><b>KEY IDEA</b>${esc(p.idea)}</div>` : ''}
       <div class="p-actions">
         ${p.idea ? '<button class="btn hint">Hint</button>' : ''}
-        <button class="btn answer" data-a="${p.answer}">Show answer</button>
-        <a class="btn" href="${esc(p.url)}" target="_blank" rel="noopener">Solutions ↗</a>
-        <button class="btn solve${state.solved.has(p.id) ? ' on' : ''}">${state.solved.has(p.id) ? '✓ Solved' : 'Mark solved'}</button>
+        <button class="btn answer" data-a="${p.answer}">${ANSWER_LABEL}</button>
+        <a class="btn" href="${esc(p.url)}" target="_blank" rel="noopener">Solution<span class="lg">s</span>&nbsp;↗</a>
+        <button class="btn solve${state.solved.has(p.id) ? ' on' : ''}" title="Mark solved">${state.solved.has(p.id) ? SOLVED_LABEL : UNSOLVED_LABEL}</button>
         <button class="btn star${state.starred.has(p.id) ? ' on' : ''}" title="Add to review list">★</button>
         <span class="tags">${tags}</span>
       </div>
@@ -216,16 +223,16 @@
     const art = btn.closest('.problem'), id = art.dataset.id;
     if (btn.classList.contains('answer')) {
       const shown = btn.classList.toggle('shown');
-      btn.textContent = shown ? `Answer: (${btn.dataset.a})` : 'Show answer';
+      btn.innerHTML = shown ? `<span class="lg">Answer:&nbsp;</span>(${btn.dataset.a})` : ANSWER_LABEL;
     } else if (btn.classList.contains('hint')) {
       art.querySelector('.idea').classList.toggle('shown');
     } else if (btn.classList.contains('solve')) {
       const on = !state.solved.has(id);
       on ? state.solved.add(id) : state.solved.delete(id);
       store.set('amc-solved', [...state.solved]);
-      btn.classList.toggle('on', on); btn.textContent = on ? '✓ Solved' : 'Mark solved';
+      btn.classList.toggle('on', on); btn.innerHTML = on ? SOLVED_LABEL : UNSOLVED_LABEL;
       art.classList.toggle('solved', on);
-      updateProgress(); renderSidebar(); markActive(currentKey());
+      renderSidebar(); updateProgress(); markActive(currentKey());
     } else if (btn.classList.contains('star')) {
       const on = !state.starred.has(id);
       on ? state.starred.add(id) : state.starred.delete(id);
@@ -282,6 +289,13 @@
 
   // ---------- chrome ----------
   $('#menuBtn').addEventListener('click', () => document.body.classList.toggle('nav-open'));
+  $('#scrim').addEventListener('click', () => document.body.classList.remove('nav-open'));
+  document.addEventListener('keydown', e => { if (e.key === 'Escape') document.body.classList.remove('nav-open', 'search-open'); });
+  $('#searchBtn').addEventListener('click', () => {
+    const open = document.body.classList.toggle('search-open');
+    if (open) $('#search').focus();
+  });
+  if ($('#search').value) document.body.classList.add('search-open');
   $('#themeBtn').addEventListener('click', () => {
     const root = document.documentElement;
     const dark = root.dataset.theme ? root.dataset.theme === 'dark' : matchMedia('(prefers-color-scheme: dark)').matches;

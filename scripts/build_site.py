@@ -17,6 +17,88 @@ def ungroup_numbers(h):
     return MATH.sub(lambda m: GROUPED_NUMBER.sub(lambda n: re.sub(r'\{,\}|,', '', n.group(0)), m.group(0)), h)
 
 
+# Start of an answer label inside math: \textbf{(A)…, \mathrm{(A)…, \text{(A) …, (\textbf{A}), (A)
+CHOICE_LABEL = re.compile(r'\\(?:textbf|mathrm|text|textrm|mathbf)\s*\{\s*\{?\s*\(\s*([A-E])\s*\)'
+                          r'|\(\s*\\(?:textbf|mathrm|text|mathbf)\s*\{\s*([A-E])\s*\}\s*\)'
+                          r'|(?<![\w}])\(\s*([A-E])\s*\)')
+INLINE_MATH = re.compile(r'(?<!\\)\$((?:\\.|[^$\\])+)\$|\\\[(.*?)\\\]|\\\((.*?)\\\)', re.S)
+CHOICE_GAP = re.compile(r'(?:\s|~|\\[ ,:;!]|\\q?quad\b|\\hspace\*?\{[^{}]*\}|\\\\)+$')
+
+
+def balanced(s):
+    depth = 0
+    for i, ch in enumerate(s):
+        if ch in '{}' and (i == 0 or s[i - 1] != '\\'):
+            depth += 1 if ch == '{' else -1
+            if depth < 0:
+                return False
+    return depth == 0
+
+
+TEXT_CMD = re.compile(r'\\(text|textrm|textbf|textit|mbox)\s*\{([^{}]*)\}')
+SPACING = re.compile(r'^(?:\s|~|\\[ ,:;!]|\\q?quad\b|\\noindent\b)*$')
+
+
+def demath(inner):
+    """Math whose words are in \\text{...} can't wrap. If it holds a long sentence, rewrite
+    '\\textbf{(C)}\\ \\text{If Lewis got ...}' as '<b>(C)</b> If Lewis got ...' with any real
+    math left as small $...$ pieces. Returns None when not worth it or not safe."""
+    texts = list(TEXT_CMD.finditer(inner))
+    if not texts or max(len(t.group(2)) for t in texts) < 20:
+        return None
+    out, pos = [], 0
+    for t in texts + [None]:
+        chunk = inner[pos:t.start() if t else len(inner)]
+        if chunk.strip():
+            if not balanced(chunk):
+                return None
+            out.append(' ' if SPACING.match(chunk) else f'${chunk.strip()}$')
+        elif chunk:
+            out.append(' ')
+        if t:
+            kind, body = t.group(1), t.group(2)
+            out.append(f'<b>{body}</b>' if kind == 'textbf' else f'<i>{body}</i>' if kind == 'textit' else body)
+            pos = t.end()
+    return re.sub(r'\s+', ' ', ''.join(out)).strip()
+
+
+def demath_all(h):
+    def repl(m):
+        inner = next(g for g in m.groups() if g is not None)
+        d = demath(inner)
+        return f'<span class="prose">{d}</span>' if d else m.group(0)
+    return INLINE_MATH.sub(repl, h)
+
+
+def split_choices(h):
+    """One long '(A) 4 \\qquad (B) 5 …' formula can't wrap on a phone; turn it into five
+    separate formulas in a wrapping row. Leaves the problem untouched if anything looks odd."""
+    for m in INLINE_MATH.finditer(h):
+        inner = next(g for g in m.groups() if g is not None)
+        if '\\begin' in inner:
+            continue
+        labels = list(CHOICE_LABEL.finditer(inner))
+        letters = ''.join(next(g for g in l.groups() if g) for l in labels)
+        # a run of 2+ consecutive choices: "ABCDE", or "ABCD" + "E" in the next formula, etc.
+        if len(letters) < 2 or letters not in 'ABCDE':
+            continue
+        if not SPACING.match(CHOICE_GAP.sub('', inner[:labels[0].start()])):
+            continue
+        starts = [l.start() for l in labels] + [len(inner)]
+        pieces = [CHOICE_GAP.sub('', inner[a:b]).strip() for a, b in zip(starts, starts[1:])]
+        if not all(balanced(p) for p in pieces):
+            continue
+        row = ''.join(choice_span(p) for p in pieces)
+        h = h[:m.start()] + f'<span class="choices">{row}</span>' + h[m.end():]
+        return split_choices(h)  # the rest of the choices may be in a later formula
+    return h
+
+
+def choice_span(piece):
+    d = demath(piece)
+    return f'<span class="choice long">{d}</span>' if d else f'<span class="choice">${piece}$</span>'
+
+
 def text_dollar_problems():
     """(test, num) of problems whose wiki source has a plain-text "$" (e.g. "worth &#36;300")
     outside math tags. In the HTML those look like math delimiters, so they must be escaped."""
@@ -52,7 +134,7 @@ def clean_html(h):
     h = re.sub(r'(?<=[^\s\\$])\$\$(?=[^\s$])', ' ', h)
     #  - a plain-text "$" before a formula, "five for $$2$" -> "five for $\$2$"
     h = re.sub(r'(?<=\s)\$\$([^$]+?)\$(?!\$)', r'$\\$\1$', h)
-    return ungroup_numbers(h)
+    return demath_all(split_choices(ungroup_numbers(h)))
 
 
 def main():
