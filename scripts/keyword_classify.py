@@ -1,8 +1,8 @@
 """Pass C: deterministic keyword/regex classifier, used as an independent cross-check
-of the two LLM passes. Writes data/labels/passC.json with the top-scoring categories."""
+of the two LLM passes. Writes data/<contest>/labels/passC.json with the top-scoring categories."""
 import json, os, re
 
-ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..')
+from contest import D
 
 # category id -> list of (regex, weight). Matched case-insensitively against problem text.
 RULES = {
@@ -84,6 +84,12 @@ RULES = {
     'misc-money-everyday': [(r'\$\\\$|\\\$\d|dollars?|cents?', 2), (r'\b(buy|bought|costs?|price|pays?|paid|sells?|sold|tip)\b', 1)],
     'misc-process-simulation': [(r'\brepeat(s|ed|edly)?\b|\bprocess\b|\bprocedure\b|\balgorithm', 2), (r'\btournament|\bteams?\b|\bplay(s|ed)? (each|every)', 1.5)],
     'misc-magic-squares': [(r'magic square', 4), (r'\beach of the (numbers|digits|integers)\b.*\b(placed|written|used)', 2), (r'\bsums? (along|of the numbers in) each', 2.5)],
+
+    # AMC 8 only
+    'alg-fraction-word': [(r'\\(d|t)?frac\{1\}\{[2-9]\}\$? of (the|her|his|their|all)', 2.5), (r'\b(half|third|quarter|fourth|fifth) of (the|her|his|their|what)', 2.5), (r'\b(remaining|rest|left over|what was left)\b', 1.5)],
+    'alg-visual-patterns': [(r'toothpicks?|matchsticks?', 3), (r'\b(figure|stage|step)s? \$?\d+\$?\b.*\b(figure|stage|step)s? \$?\d+', 2), (r'pattern (continues|shown)', 2.5)],
+    'geo-grid-area': [(r'\b(grid|dot paper|geoboard|unit squares?)\b', 2), (r'\bcut\b.*\b(pieces|rearrang)', 2.5)],
+    'misc-units-measurement': [(r'\b(inch(es)?|feet|foot|yards?|miles?|ounces?|pounds?|cups?|quarts?|gallons?|liters?|centimeters?|meters?)\b.*\bin (a|an|one)\b', 2.5), (r'\bscale\b|\bmap\b', 2.5), (r'\bconver', 2)],
 }
 
 
@@ -102,12 +108,16 @@ def classify(text):
 
 
 def main():
-    problems = json.load(open(os.path.join(ROOT, 'data/problems.json')))
+    problems = json.load(open(D('problems.json')))
+    valid = {c['id'] for c in json.load(open(D('taxonomy.json')))['categories']}
+    for cat in set(RULES) - valid:  # rules for topics this contest's taxonomy doesn't have
+        del RULES[cat]
     out = []
     for p in problems:
         top, scores = classify(p['text'])
         out.append({'id': p['id'], 'top': top, 'scores': scores})
-    json.dump(out, open(os.path.join(ROOT, 'data/labels/passC.json'), 'w'), indent=1)
+    os.makedirs(D('labels'), exist_ok=True)
+    json.dump(out, open(D('labels/passC.json'), 'w'), indent=1)
     print('classified', len(out), '| no match:', sum(1 for o in out if not o['top']))
 
 

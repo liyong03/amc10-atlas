@@ -1,0 +1,82 @@
+[
+ {
+  "id": "2022-10",
+  "part": 1,
+  "verdict": "change",
+  "primary": "misc-change-graphs",
+  "secondary": [
+   "alg-rates"
+  ],
+  "reason": "Match trip story to distance-from-home vs time graph"
+ },
+ {
+  "id": "2020-11",
+  "part": 1,
+  "verdict": "change",
+  "primary": "misc-change-graphs",
+  "secondary": [
+   "alg-rates"
+  ],
+  "reason": "Read speeds from distance-time graph of two journeys"
+ },
+ {
+  "id": "2011-09",
+  "part": 1,
+  "verdict": "change",
+  "primary": "misc-change-graphs",
+  "secondary": [
+   "alg-rates"
+  ],
+  "reason": "Read average speed off distance-time graph of ride"
+ },
+ {
+  "id": "2009-03",
+  "part": 1,
+  "verdict": "change",
+  "primary": "misc-change-graphs",
+  "secondary": [
+   "alg-rates"
+  ],
+  "reason": "Read constant rate from distance-time line graph"
+ },
+ {
+  "id": "2004-23",
+  "part": 1,
+  "verdict": "change",
+  "primary": "misc-change-graphs",
+  "secondary": [
+   "geo-quadrilaterals"
+  ],
+  "reason": "Match run around block to distance-from-home graph"
+ },
+ {
+  "id": "2003-24",
+  "part": 1,
+  "verdict": "change",
+  "primary": "misc-change-graphs",
+  "secondary": [
+   "geo-circle-theorems"
+  ],
+  "reason": "Match ship path to distance-from-island graph"
+ },
+ {
+  "id": "2002-06",
+  "part": 1,
+  "verdict": "change",
+  "primary": "misc-change-graphs",
+  "secondary": [
+   "alg-work"
+  ],
+  "reason": "Match filling/overflowing birdbath to volume-time graph"
+ },
+ {
+  "id": "2001-19",
+  "part": 1,
+  "verdict": "change",
+  "primary": "misc-change-graphs",
+  "secondary": [
+   "alg-rates"
+  ],
+  "reason": "Choose speed-time graph matching story of two cars"
+ }
+]

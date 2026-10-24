@@ -14,7 +14,10 @@
 <script>
   try { const t = localStorage.getItem('amc-theme'); if (t) document.documentElement.dataset.theme = t; } catch (e) {}
   window.MathJax = {
-    tex: { inlineMath: [['$', '$'], ['\\(', '\\)']], displayMath: [['$$', '$$'], ['\\[', '\\]']], processEscapes: true },
+    tex: { inlineMath: [['$', '$'], ['\\(', '\\)']], displayMath: [['$$', '$$'], ['\\[', '\\]']], processEscapes: true,
+      // LaTeX commands the AoPS wiki uses that MathJax lacks (they would show as red text)
+      macros: { textdollar: '\\$', cent: '\\unicode{xA2}', overarc: ['\\overparen{#1}', 1], textsc: ['\\text{#1}', 1],
+                emph: ['\\textit{#1}', 1], thickspace: '\\;', begingroup: '', endgroup: '', setlength: ['', 2] } },
     options: { skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code', 'button'] },
     output: { scale: 1.02, displayOverflow: 'linebreak', linebreaks: { inline: true, width: '100%' } },
     startup: { typeset: false }

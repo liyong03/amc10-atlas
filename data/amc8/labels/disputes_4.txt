@@ -1,0 +1,120 @@
+### 2025-02
+PassA: nt-bases | PassB: misc-data-charts | keywords: misc-data-charts | confidence A/B: low/medium | suggested new category: Numeral systems & place value
+PassB key idea: Read each symbol's value from the table and add them up.
+The table below shows the Ancient Egyptian hieroglyphs that were used to represent different numbers. For example, the number $32$ was represented by the hieroglyphs $\cap \cap \cap ||$. What number is represented by the following combination of hieroglyphs? $\textbf{(A)}\ 1,423 \qquad \textbf{(B)}\ 10,423 \qquad \textbf{(C)}\ 14,023 \qquad \textbf{(D)}\ 14,203 \qquad \textbf{(E)}\ 14,230$ [DIAGRAM]
+
+### 2025-07
+PassA: misc-data-charts | PassB: misc-data-charts | keywords: alg-percent-ratio, misc-money-everyday, cp-basic-counting | confidence A/B: low/medium
+PassB key idea: 'At least' counts are nested; subtract to get a range.
+On the most recent exam on Prof. Xochi's class, $5$ students earned a score of at least $95\%$ $13$ students earned a score of at least $90\%$ $27$ students earned a score of at least $85\%$ $50$ students earned a score of at least $80\%$ How many students earned a score of at least $80\%$ and less than $90\%$? $\textbf{(A)}\ 8\qquad \textbf{(B)}\ 14\qquad \textbf{(C)}\ 22\qquad \textbf{(D)}\ 37\qquad \textbf{(E)}\ 45$
+
+### 2024-08
+PassA: misc-process-simulation | PassB: cp-basic-counting | keywords: misc-calendar-clock, misc-money-everyday, cp-basic-counting | confidence A/B: high/high
+PassB key idea: Build a tree of the two choices each day and remove duplicates.
+On Monday, Taye has $\$2$. Every day, he either gains $\$3$ or doubles the amount of money he had on the previous day. How many different dollar amounts could Taye have on Thursday, $3$ days later? $\textbf{(A) } 3\qquad\textbf{(B) } 4\qquad\textbf{(C) } 5\qquad\textbf{(D) } 6\qquad\textbf{(E) } 7$
+
+### 2023-11
+PassA: alg-rates | PassB: misc-units-measurement | keywords: alg-rates, alg-mean-median | confidence A/B: high/high
+PassB key idea: Estimate hours in 6.5 months and divide distance by time.
+NASA’s Perseverance Rover was launched on July $30,$ $2020.$ After traveling $292{,}526{,}838$ miles, it landed on Mars in Jezero Crater about $6.5$ months later. Which of the following is closest to the Rover’s average interplanetary speed in miles per hour? $\textbf{(A)}\ 6{,}000 \qquad \textbf{(B)}\ 12{,}000 \qquad \textbf{(C)}\ 60{,}000 \qquad \textbf{(D)}\ 120{,}000 \qquad \textbf{(E)}\ 600{,}000$
+
+### 2022-22
+PassA: alg-rates | PassB: misc-process-simulation | keywords: alg-rates, cp-basic-counting | confidence A/B: high/high
+PassB key idea: Simulate positions of bus and Zia minute by minute.
+A bus takes $2$ minutes to drive from one stop to the next, and waits $1$ minute at each stop to let passengers board. Zia takes $5$ minutes to walk from one bus stop to the next. As Zia reaches a bus stop, if the bus is at the previous stop or has already left the previous stop, then she will wait for the bus. Otherwise she will start walking toward the next stop. Suppose the bus and Zia start at the same time toward the library, with the bus $3$ stops behind. After how many minutes will Zia board the bus? $\textbf{(A) } 17 \qquad \textbf{(B) } 19 \qquad \textbf{(C) } 20 \qquad \textbf{(D) } 21 \qquad \textbf{(E) } 23$ [DIAGRAM]
+
+### 2020-07
+PassA: nt-digits | PassB: cp-combinations | keywords: cp-basic-counting, nt-digits, cp-permutations | confidence A/B: high/high
+PassB key idea: Increasing digits are determined by choosing which digits to use.
+How many integers between $2020$ and $2400$ have four distinct digits arranged in increasing order? (For example, $2347$ is one integer.) $\textbf{(A) }\text{9} \qquad \textbf{(B) }\text{10} \qquad \textbf{(C) }\text{15} \qquad \textbf{(D) }\text{21}\qquad \textbf{(E) }\text{28}$
+
+### 2020-25
+PassA: geo-perimeter-length | PassB: alg-systems | keywords: geo-quadrilaterals, geo-perimeter-length | confidence A/B: medium/medium
+PassB key idea: Write the width and height as sums of square sides, then subtract.
+Rectangles $R_1$ and $R_2,$ and squares $S_1,\,S_2,\,$ and $S_3,$ shown below, combine to form a rectangle that is $3322$ units wide and $2020$ units high. What is the side length of $S_2$ in units? $\textbf{(A) }651 \qquad \textbf{(B) }655 \qquad \textbf{(C) }656 \qquad \textbf{(D) }662 \qquad \textbf{(E) }666$ [DIAGRAM]
+
+### 2018-12
+PassA: misc-calendar-clock | PassB: alg-percent-ratio | keywords: misc-calendar-clock, cp-inclusion-exclusion | confidence A/B: high/high
+PassB key idea: Car clock runs 35 minutes per 30 real minutes; scale proportionally.
+The clock in Sri's car, which is not accurate, gains time at a constant rate. One day as he begins shopping, he notes that his car clock and his watch (which is accurate) both say 12:00 noon. When he is done shopping, his watch says 12:30 and his car clock says 12:35. Later that day, Sri loses his watch. He looks at his car clock and it says 7:00. What is the actual time? $\textbf{(A) }5:50\qquad\textbf{(B) }6:00\qquad\textbf{(C) }6:30\qquad\textbf{(D) }6:55\qquad \textbf{(E) }8:10$
+
+### 2017-23
+PassA: alg-rates | PassB: nt-divisors | keywords: alg-rates, misc-units-measurement, alg-percent-ratio | confidence A/B: high/high
+PassB key idea: Minutes per mile must divide 60 for four values 5 apart.
+Each day for four days, Linda traveled for one hour at a speed that resulted in her traveling one mile in an integer number of minutes. Each day after the first, her speed decreased so that the number of minutes to travel one mile increased by 5 minutes over the preceding day. Each of the four days, her distance traveled was also an integer number of miles. What was the total number of miles for the four trips? $\textbf{(A) }10\qquad\textbf{(B) }15\qquad\textbf{(C) }25\qquad\textbf{(D) }50\qquad\textbf{(E) }82$
+
+### 2016-15
+PassA: nt-divisibility | PassB: alg-factoring-identities | keywords: nt-divisors | confidence A/B: medium/high
+PassB key idea: Factor with difference of squares twice, then count factors of 2.
+What is the largest power of $2$ that is a divisor of $13^4 - 11^4$? $\textbf{(A)}\mbox{ }8\qquad \textbf{(B)}\mbox{ }16\qquad \textbf{(C)}\mbox{ }32\qquad \textbf{(D)}\mbox{ }64\qquad \textbf{(E)}\mbox{ }128$
+
+### 2015-06
+PassA: geo-triangle-area | PassB: geo-pythagorean | keywords: geo-triangle-area, alg-systems | confidence A/B: high/high
+PassB key idea: Drop the altitude to the base; find it with Pythagoras.
+In $\triangle ABC$, $AB=BC=29$, and $AC=42$. What is the area of $\triangle ABC$? $\textbf{(A) }100\qquad\textbf{(B) }420\qquad\textbf{(C) }500\qquad\textbf{(D) }609\qquad \textbf{(E) }701$
+
+### 2015-25
+PassA: geo-quadrilaterals | PassB: geo-quadrilaterals | keywords: geo-quadrilaterals, alg-fraction-word, geo-triangle-area | confidence A/B: medium/low
+PassB key idea: Tilt the square 45 degrees so its sides touch the inner corners.
+One-inch squares are cut from the corners of this $5$ inch square. What is the area in square inches of the largest square that can fit into the remaining space? $\textbf{(A) } 9\qquad \textbf{(B) } 12\frac{1}{2}\qquad \textbf{(C) } 15\qquad \textbf{(D) } 15\frac{1}{2}\qquad \textbf{(E) } 17$ [DIAGRAM]
+
+### 2013-18
+PassA: geo-3d-cubes | PassB: geo-3d-volume | keywords: cp-basic-counting | confidence A/B: high/high
+PassB key idea: Subtract the hollow interior volume from the full box volume.
+Isabella uses one-foot cubical blocks to build a rectangular fort that is 12 feet long, 10 feet wide, and 5 feet high. The floor and the four walls are all one foot thick. How many blocks does the fort contain? $\textbf{(A)}\ 204 \qquad \textbf{(B)}\ 280 \qquad \textbf{(C)}\ 320 \qquad \textbf{(D)}\ 340 \qquad \textbf{(E)}\ 600$ [DIAGRAM]
+
+### 2012-25
+PassA: geo-quadrilaterals | PassB: geo-pythagorean | keywords: nt-divisibility, geo-quadrilaterals, geo-circle-theorems | confidence A/B: high/medium
+PassB key idea: Use a+b and a squared plus b squared to find ab via (a+b) squared.
+A square with area 4 is inscribed in a square with area 5, with one vertex of the smaller square on each side of the larger square. A vertex of the smaller square divides a side of the larger square into two segments, one of length $a$, and the other of length $b$. What is the value of $ab$? $\textbf{(A)}\hspace{.05in}\frac{1}5\qquad\textbf{(B)}\hspace{.05in}\frac{2}5\qquad\textbf{(C)}\hspace{.05in}\frac{1}2\qquad\textbf{(D)}\hspace{.05in}1\qquad\textbf{(E)}\hspace{.05in}4$ [DIAGRAM]
+
+### 2011-19
+PassA: cp-paths-grids | PassB: cp-basic-counting | keywords: cp-paths-grids, cp-basic-counting | confidence A/B: high/medium
+PassB key idea: Systematically count rectangles by size in the figure.
+How many rectangles are in this figure? $\textbf{(A)}\ 8\qquad\textbf{(B)}\ 9\qquad\textbf{(C)}\ 10\qquad\textbf{(D)}\ 11\qquad\textbf{(E)}\ 12$ [DIAGRAM]
+
+### 2010-17
+PassA: geo-grid-area | PassB: geo-triangle-area | keywords: nt-bases, geo-polygons, alg-percent-ratio | confidence A/B: medium/high
+PassB key idea: Half the area is below PQ; solve for the triangle height.
+The diagram shows an octagon consisting of $10$ unit squares. The portion below $\overline{PQ}$ is a unit square and a triangle with base $5$. If $\overline{PQ}$ bisects the area of the octagon, what is the ratio $\frac{XQ}{QY}$? $\textbf{(A)}\ \frac 25 \qquad \textbf{(B)}\ \frac 12 \qquad \textbf{(C)}\ \frac 35 \qquad \textbf{(D)}\ \frac 23 \qquad \textbf{(E)}\ \frac 34$ [DIAGRAM]
+
+### 2008-04
+PassA: geo-triangle-area | PassB: geo-shaded-regions | keywords: geo-triangle-area | confidence A/B: high/high
+PassB key idea: Subtract the inner triangle's area and split the rest equally.
+In the figure, the outer equilateral triangle has area $16$, the inner equilateral triangle has area $1$, and the three trapezoids are congruent. What is the area of one of the trapezoids? $\textbf{(A)}\ 3 \qquad \textbf{(B)}\ 4 \qquad \textbf{(C)}\ 5 \qquad \textbf{(D)}\ 6 \qquad \textbf{(E)}\ 7$ [DIAGRAM]
+
+### 2007-10
+PassA: alg-custom-op | PassB: nt-divisors | keywords: nt-divisors | confidence A/B: high/high
+PassB key idea: Sum the divisors of a prime, then sum divisors of that result.
+For any positive integer $n$, define $\boxed{n}$ to be the sum of the positive factors of $n$. For example, $\boxed{6} = 1 + 2 + 3 + 6 = 12$. Find $\boxed{\boxed{11}}$ . $\textbf{(A)}\ 13 \qquad \textbf{(B)}\ 20 \qquad \textbf{(C)}\ 24 \qquad \textbf{(D)}\ 28 \qquad \textbf{(E)}\ 30$
+
+### 2006-19
+PassA: geo-perimeter-length | PassB: geo-similar | keywords: cp-inclusion-exclusion, geo-triangle-area, geo-perimeter-length | confidence A/B: medium/medium | suggested new category: Congruent triangles
+PassB key idea: Congruent triangles give AB equals CE; D halves BC.
+Triangle $ABC$ is an isosceles triangle with $\overline{AB}=\overline{BC}$. Point $D$ is the midpoint of both $\overline{BC}$ and $\overline{AE}$, and $\overline{CE}$ is 11 units long. Triangle $ABD$ is congruent to triangle $ECD$. What is the length of $\overline{BD}$? $\textbf{(A)}\ 4\qquad\textbf{(B)}\ 4.5\qquad\textbf{(C)}\ 5\qquad\textbf{(D)}\ 5.5\qquad\textbf{(E)}\ 6$ [DIAGRAM]
+
+### 2005-09
+PassA: geo-quadrilaterals | PassB: geo-angles | keywords: geo-angles, geo-quadrilaterals, cp-inclusion-exclusion | confidence A/B: medium/high
+PassB key idea: An isosceles triangle with a 60-degree vertex angle is equilateral.
+In quadrilateral $ABCD$, sides $\overline{AB}$ and $\overline{BC}$ both have length 10, sides $\overline{CD}$ and $\overline{DA}$ both have length 17, and the measure of angle $ADC$ is $60^\circ$. What is the length of diagonal $\overline{AC}$? $\textbf{(A)}\ 13.5\qquad\textbf{(B)}\ 14\qquad\textbf{(C)}\ 15.5\qquad\textbf{(D)}\ 17\qquad\textbf{(E)}\ 18.5$ [DIAGRAM]
+
+### 2003-09
+PassA: alg-percent-ratio | PassB: geo-quadrilaterals | keywords: misc-money-everyday, alg-percent-ratio | confidence A/B: medium/medium
+PassB key idea: Use areas to count Roger's cookies, then split the same revenue.
+$\textbf{Bake Sale}$ (Problems 8, 9, and 10 use the data found in the accompanying paragraph and figures) Four friends, Art, Roger, Paul and Trisha, bake cookies, and all cookies have the same thickness. The shapes of the cookies differ, as shown. $\circ$ Art's cookies are trapezoids. $\circ$ Roger's cookies are rectangles. $\circ$ Paul's cookies are parallelograms. $\circ$ Trisha's cookies are triangles. Each friend uses the same amount of dough, and Art makes exactly $12$ cookies. Art's cookies sell for $60$ cents each. To earn the same amount from a single batch, how much should one of Roger's cookies cost in cents? $\textbf{(A)}\ 18\qquad\textbf{(B)}\ 25\qquad\textbf{(C)}\ 40\qquad\textbf{(D)}\ 75\qquad\textbf{(E)}\ 90$ [DIAGRAM]
+
+### 2003-24
+PassA: misc-data-charts | PassB: misc-data-charts | keywords: cp-paths-grids, misc-money-everyday, alg-rates | confidence A/B: medium/medium | suggested new category: Interpreting graphs of changing quantities
+PassB key idea: On the semicircle the distance stays equal to the radius.
+A ship travels from point A to point $B$ along a semicircular path, centered at Island $X$. Then it travels along a straight path from B to $C$. Which of these graphs best shows the ship's distance from Island $X$ as it moves along its course? [DIAGRAM]
+
+### 2001-02
+PassA: alg-systems | PassB: nt-divisors | keywords:  | confidence A/B: medium/medium
+PassB key idea: List factor pairs of 24 and pick the one with the right sum.
+I'm thinking of two whole numbers. Their product is 24 and their sum is 11. What is the larger number? $\text{(A)}\ 3 \qquad \text{(B)}\ 4 \qquad \text{(C)}\ 6 \qquad \text{(D)}\ 8 \qquad \text{(E)}\ 12$
+
+### 2000-12
+PassA: cp-basic-counting | PassB: cp-basic-counting | keywords: nt-parity | confidence A/B: low/medium | suggested new category: Tiling & packing
+PassB key idea: Alternate rows: all long blocks, or long blocks with short ends.
+A block wall 100 feet long and 7 feet high will be constructed using blocks that are 1 foot high and either 2 feet long or 1 foot long (no blocks may be cut). The vertical joins in the blocks must be staggered as shown, and the wall must be even on the ends. What is the smallest number of blocks needed to build this wall? $\text{(A)}\ 344 \qquad \text{(B)}\ 347 \qquad \text{(C)}\ 350 \qquad \text{(D)}\ 353 \qquad \text{(E)}\ 356$ [DIAGRAM]
+

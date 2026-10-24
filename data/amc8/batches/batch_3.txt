@@ -1,0 +1,406 @@
+### 2015-21
+In the given figure hexagon $ABCDEF$ is equiangular, $ABJI$ and $FEHG$ are squares with areas $18$ and $32$ respectively, $\triangle JBK$ is equilateral and $FE=BC$. What is the area of $\triangle KBC$? $\textbf{(A) }6\sqrt{2}\qquad\textbf{(B) }9\qquad\textbf{(C) }12\qquad\textbf{(D) }9\sqrt{2}\qquad\textbf{(E) }32$ [DIAGRAM]
+
+### 2015-22
+On June $1$, a group of students are standing in rows, with $15$ students in each row. On June $2$, the same group is standing with all of the students in one long row. On June $3$, the same group is standing with just one student in each row. On June $4$, the same group is standing with $6$ students in each row. This process continues through June $12$ with a different number of students per row each day. However, on June $13$, they cannot find a new way of organizing the students. What is the smallest possible number of students in the group? $\textbf{(A) } 21 \qquad \textbf{(B) } 30 \qquad \textbf{(C) } 60 \qquad \textbf{(D) } 90 \qquad \textbf{(E) } 1080$
+
+### 2015-23
+Tom has twelve slips of paper which he wants to put into five cups labeled $A$, $B$, $C$, $D$, $E$. He wants the sum of the numbers on the slips in each cup to be an integer. Furthermore, he wants the five integers to be consecutive and increasing from $A$ to $E$. The numbers on the papers are $2, 2, 2, 2.5, 2.5, 3, 3, 3, 3, 3.5, 4,$ and $4.5$. If a slip with $2$ goes into cup $E$ and a slip with $3$ goes into cup $B$, then the slip with $3.5$ must go into what cup? $\textbf{(A) } A \qquad \textbf{(B) } B \qquad \textbf{(C) } C \qquad \textbf{(D) } D \qquad \textbf{(E) } E$
+
+### 2015-24
+A baseball league consists of two four-team divisions. Each team plays every other team in its division $N$ games. Each team plays every team in the other division $M$ games with $N>2M$ and $M>4$. Each team plays a $76$-game schedule. How many games does a team play within its own division? $\textbf{(A) } 36 \qquad \textbf{(B) } 48 \qquad \textbf{(C) } 54 \qquad \textbf{(D) } 60 \qquad \textbf{(E) } 72$
+
+### 2015-25
+One-inch squares are cut from the corners of this $5$ inch square. What is the area in square inches of the largest square that can fit into the remaining space? $\textbf{(A) } 9\qquad \textbf{(B) } 12\frac{1}{2}\qquad \textbf{(C) } 15\qquad \textbf{(D) } 15\frac{1}{2}\qquad \textbf{(E) } 17$ [DIAGRAM]
+
+### 2014-01
+Harry and Terry are each told to calculate $8 - (2 + 5)$. Harry gets the correct answer. Terry ignores the parentheses and calculates $8 - 2 + 5$. If Harry's answer is $H$ and Terry's answer is $T$, what is $H - T$? $\textbf{(A) }-10\qquad\textbf{(B) }-6\qquad\textbf{(C) }0\qquad\textbf{(D) }6\qquad \textbf{(E) }10$
+
+### 2014-02
+Paul owes Paula 35 cents and has a pocket full of 5-cent coins, 10-cent coins, and 25-cent coins that he can use to pay her. What is the difference between the largest and the smallest number of coins he can use to pay her? $\textbf{(A) }1\qquad\textbf{(B) }2\qquad\textbf{(C) }3\qquad\textbf{(D) }4\qquad \textbf{(E) }5$
+
+### 2014-03
+Isabella had a week to read a book for a school assignment. She read an average of 36 pages per day for the first three days and an average of 44 pages per day for the next three days. She then finished the book by reading 10 pages on the last day. How many pages were in the book? $\textbf{(A) }240\qquad\textbf{(B) }250\qquad\textbf{(C) }260\qquad\textbf{(D) }270\qquad \textbf{(E) }280$
+
+### 2014-04
+The sum of two prime numbers is 85. What is the product of these two prime numbers? $\textbf{(A) }85\qquad\textbf{(B) }91\qquad\textbf{(C) }115\qquad\textbf{(D) }133\qquad \textbf{(E) }166$
+
+### 2014-05
+Margie's car can go 32 miles on a gallon of gas, and gas currently costs \$4 per gallon. How many miles can Margie drive on \$20? $\textbf{(A) }64\qquad\textbf{(B) }128\qquad\textbf{(C) }160\qquad\textbf{(D) }320\qquad\textbf{(E) }640$
+
+### 2014-06
+Six rectangles each with a common base width of 2 have lengths of 1, 4, 9, 16, 25, and 36. What is the sum of the areas of the six rectangles? $\textbf{(A) }91\qquad\textbf{(B) }93\qquad\textbf{(C) }162\qquad\textbf{(D) }182\qquad\textbf{(E) }202$
+
+### 2014-07
+There are four more girls than boys in Ms. Raub's class of 28 students. What is the ratio of number of girls to the number of boys in her class? $\textbf{(A) }3 : 4\qquad\textbf{(B) }4 : 3\qquad\textbf{(C) }3 : 2\qquad\textbf{(D) }7 : 4\qquad\textbf{(E) }2 : 1$
+
+### 2014-08
+Eleven members of the Middle School Math Club each paid the same integer amount for a guest speaker to talk about problem solving at their math club meeting. In all, they paid their guest speaker $\textdollar\underline{1}\underline{A}\underline{2}$. What is the missing digit A of this 3-digit number? $\textbf{(A) }0\qquad\textbf{(B) }1\qquad\textbf{(C) }2\qquad\textbf{(D) }3\qquad\textbf{(E) }4$
+
+### 2014-09
+In $\bigtriangleup ABC$, $D$ is a point on side $\overline{AC}$ such that $BD=DC$ and $\angle BCD$ measures $70^\circ$. What is the degree measure of $\angle ADB$? $\textbf{(A) }100\qquad\textbf{(B) }120\qquad\textbf{(C) }135\qquad\textbf{(D) }140\qquad \textbf{(E) }150$ [DIAGRAM]
+
+### 2014-10
+The first AMC 8 was given in 1985 and it has been given annually since that time. Samantha turned 12 years old the year that she took the seventh AMC 8. In what year was Samantha born? $\textbf{(A) }1979\qquad\textbf{(B) }1980\qquad\textbf{(C) }1981\qquad\textbf{(D) }1982\qquad \textbf{(E) }1983$
+
+### 2014-11
+Jack wants to bike from his house to Jill's house, which is located three blocks east and two blocks north of Jack's house. After biking each block, Jack can continue either east or north, but he needs to avoid a dangerous intersection one block east and one block north of his house. In how many ways can he reach Jill's house by biking a total of five blocks? $\textbf{(A) }4\qquad\textbf{(B) }5\qquad\textbf{(C) }6\qquad\textbf{(D) }8\qquad\textbf{(E) }10$
+
+### 2014-12
+A magazine printed photos of three celebrities along with three photos of the celebrities as babies. The baby pictures did not identify the celebrities. Readers were asked to match each celebrity with the correct baby pictures. What is the probability that a reader guessing at random will match all three correctly as a fraction? $\textbf{(A) }\frac{1}{9}\qquad\textbf{(B) }\frac{1}{6}\qquad\textbf{(C) }\frac{1}{4}\qquad\textbf{(D) }\frac{1}{3}\qquad\textbf{(E) }\frac{1}{2}$
+
+### 2014-13
+If $n$ and $m$ are integers and $n^2+m^2$ is even, which of the following is impossible? $\textbf{(A) }$ $n$ and $m$ are even $\qquad\textbf{(B) }$ $n$ and $m$ are odd $\qquad\textbf{(C) }$ $n+m$ is even $\qquad\textbf{(D) }$ $n+m$ is odd $\qquad \textbf{(E) }$ none of these are impossible
+
+### 2014-14
+Rectangle $ABCD$ and right triangle $DCE$ have the same area. They are joined to form a trapezoid, as shown. What is $DE$? $\textbf{(A) }12\qquad\textbf{(B) }13\qquad\textbf{(C) }14\qquad\textbf{(D) }15\qquad\textbf{(E) }16$ [DIAGRAM]
+
+### 2014-15
+The circumference of the circle with center $O$ is divided into $12$ equal arcs, marked the letters $A$ through $L$ as seen below. What is the number of degrees in the sum of the angles $x$ and $y$? $\textbf{(A) }75\qquad\textbf{(B) }80\qquad\textbf{(C) }90\qquad\textbf{(D) }120\qquad\textbf{(E) }150$ [DIAGRAM]
+
+### 2014-16
+The "Middle School Eight" basketball conference has 8 teams. Every season, each team plays every other conference team twice (home and away), and each team also plays 4 games against non-conference opponents. What is the total number of games in a season involving the "Middle School Eight" teams? $\textbf{(A) }60\qquad\textbf{(B) }88\qquad\textbf{(C) }96\qquad\textbf{(D) }144\qquad\textbf{(E) }160$
+
+### 2014-17
+George walks $1$ mile to school. He leaves home at the same time each day, walks at a steady speed of $3$ miles per hour, and arrives just as school begins. Today he was distracted by the pleasant weather and walked the first $\frac{1}{2}$ mile at a speed of only $2$ miles per hour. At how many miles per hour must George run the last $\frac{1}{2}$ mile in order to arrive just as school begins today? $\textbf{(A) }4\qquad\textbf{(B) }6\qquad\textbf{(C) }8\qquad\textbf{(D) }10\qquad\textbf{(E) }12$
+
+### 2014-18
+Four children were born at City Hospital yesterday. Assume each child is equally likely to be a boy or a girl. Which of the following outcomes is most likely? $\textbf{(A) }$ All 4 are boys $\textbf{(B) }$ All 4 are girls $\textbf{(C) }$ 2 are girls and 2 are boys $\textbf{(D) }$ 3 are of one gender and 1 is of the other gender $\textbf{(E) }$ All of these outcomes are equally likely
+
+### 2014-19
+A cube with 3-inch edges is to be constructed from 27 smaller cubes with 1-inch edges. Twenty-one of the cubes are colored red and 6 are colored white. If the 3-inch cube is constructed to have the smallest possible white surface area showing, what fraction of the surface area is white? $\textbf{(A) }\frac{5}{54}\qquad\textbf{(B) }\frac{1}{9}\qquad\textbf{(C) }\frac{5}{27}\qquad\textbf{(D) }\frac{2}{9}\qquad\textbf{(E) }\frac{1}{3}$
+
+### 2014-20
+Rectangle $ABCD$ has sides $CD=3$ and $DA=5$. A circle with a radius of $1$ is centered at $A$, a circle with a radius of $2$ is centered at $B$, and a circle with a radius of $3$ is centered at $C$. Which of the following is closest to the area of the region inside the rectangle but outside all three circles? $\textbf{(A) }3.5\qquad\textbf{(B) }4.0\qquad\textbf{(C) }4.5\qquad\textbf{(D) }5.0\qquad\textbf{(E) }5.5$ [DIAGRAM]
+
+### 2014-21
+The 7-digit numbers $\underline{7} \underline{4} \underline{A} \underline{5} \underline{2} \underline{B} \underline{1}$ and $\underline{3} \underline{2} \underline{6} \underline{A} \underline{B} \underline{4} \underline{C}$ are each multiples of 3. Which of the following could be the value of $C$? $\textbf{(A) }1\qquad\textbf{(B) }2\qquad\textbf{(C) }3\qquad\textbf{(D) }5\qquad\textbf{(E) }8$
+
+### 2014-22
+A 2-digit number is such that the product of the digits plus the sum of the digits is equal to the number. What is the units digit of the number? $\textbf{(A) }1\qquad\textbf{(B) }3\qquad\textbf{(C) }5\qquad\textbf{(D) }7\qquad\textbf{(E) }9$
+
+### 2014-23
+Three members of the Euclid Middle School girls' softball team had the following conversation. Ashley: I just realized that our uniform numbers are all 2-digit primes. Bethany: And the sum of your two uniform numbers is the date of my birthday earlier this month. Caitlin: That's funny. The sum of your two uniform numbers is the date of my birthday later this month. Ashley: And the sum of your two uniform numbers is today's date. What number does Caitlin wear? $\textbf{(A) }11\qquad\textbf{(B) }13\qquad\textbf{(C) }17\qquad\textbf{(D) }19\qquad\textbf{(E) }23$
+
+### 2014-24
+One day the Beverage Barn sold 252 cans of soda to 100 customers, and every customer bought at least one can of soda. What is the maximum possible median number of cans of soda bought per customer on that day? $\textbf{(A) }2.5\qquad\textbf{(B) }3.0\qquad\textbf{(C) }3.5\qquad\textbf{(D) }4.0\qquad\textbf{(E) }4.5$
+
+### 2014-25
+A straight one-mile stretch of highway, 40 feet wide, is closed. Robert rides his bike on a path composed of semicircles as shown. If he rides at 5 miles per hour, how many hours will it take to cover the one-mile stretch? Note: 1 mile = 5280 feet $\textbf{(A) }\frac{\pi}{11}\qquad\textbf{(B) }\frac{\pi}{10}\qquad\textbf{(C) }\frac{\pi}{5}\qquad\textbf{(D) }\frac{2\pi}{5}\qquad\textbf{(E) }\frac{2\pi}{3}$ [DIAGRAM]
+
+### 2013-01
+Danica wants to arrange her model cars in rows with exactly 6 cars in each row. She now has 23 model cars. What is the smallest number of additional cars she must buy in order to be able to arrange all her cars this way? $\textbf{(A)}\ 1 \qquad \textbf{(B)}\ 2 \qquad \textbf{(C)}\ 3 \qquad \textbf{(D)}\ 4 \qquad \textbf{(E)}\ 5$
+
+### 2013-02
+A sign at the fish market says, "50% off, today only: half-pound packages for just \$3 per package." What is the regular price for a full pound of fish, in dollars? (Assume that there are no deals for bulk) $\textbf{(A)}\ 6 \qquad \textbf{(B)}\ 9 \qquad \textbf{(C)}\ 10 \qquad \textbf{(D)}\ 12 \qquad \textbf{(E)}\ 15$
+
+### 2013-03
+What is the value of $4 \cdot (-1+2-3+4-5+6-7+\cdots+1000)$? $\textbf{(A)}\ -10 \qquad \textbf{(B)}\ 0 \qquad \textbf{(C)}\ 1 \qquad \textbf{(D)}\ 500 \qquad \textbf{(E)}\ 2000$
+
+### 2013-04
+Eight friends ate at a restaurant and agreed to share the bill equally. Because Judi forgot her money, each of her seven friends paid an extra \$2.50 to cover her portion of the total bill. What was the total bill? $\textbf{(A)}\ \text{\textdollar}120\qquad\textbf{(B)}\ \text{\textdollar}128\qquad\textbf{(C)}\ \text{\textdollar}140\qquad\textbf{(D)}\ \text{\textdollar}144\qquad\textbf{(E)}\ \text{\textdollar}160$
+
+### 2013-05
+Hammie is in the $6^\text{th}$ grade and weighs 106 pounds. Her quadruplet sisters are tiny babies and weigh 5, 5, 6, and 8 pounds. Which is greater, the average (mean) weight of these five children or the median weight, and by how many pounds? $\textbf{(A)}\ \text{median, by 60} \qquad \textbf{(B)}\ \text{median, by 20} \qquad \textbf{(C)}\ \text{average, by 5} \qquad \textbf{(D)}\ \text{average, by 15} \qquad \textbf{(E)}\ \text{average, by 20}$
+
+### 2013-06
+The number in each box below is the product of the numbers in the two boxes that touch it in the row above. For example, $30 = 6\times5$. What is the missing number in the top row? $\textbf{(A)}\ 2 \qquad \textbf{(B)}\ 3 \qquad \textbf{(C)}\ 4 \qquad \textbf{(D)}\ 5 \qquad \textbf{(E)}\ 6$ [DIAGRAM]
+
+### 2013-07
+Trey and his mom stopped at a railroad crossing to let a train pass. As the train began to pass, Trey counted 6 cars in the first 10 seconds. It took the train 2 minutes and 45 seconds to clear the crossing at a constant speed. Which of the following was the most likely number of cars in the train? $\textbf{(A)}\ 60 \qquad \textbf{(B)}\ 80 \qquad \textbf{(C)}\ 100 \qquad \textbf{(D)}\ 120 \qquad \textbf{(E)}\ 140$
+
+### 2013-08
+A fair coin is tossed 3 times. What is the probability of at least two consecutive heads? $\textbf{(A)}\ \frac18 \qquad \textbf{(B)}\ \frac14 \qquad \textbf{(C)}\ \frac38 \qquad \textbf{(D)}\ \frac12 \qquad \textbf{(E)}\ \frac34$
+
+### 2013-09
+The Incredible Hulk can double the distance it jumps with each succeeding jump. If its first jump is 1 meter, the second jump is 2 meters, the third jump is 4 meters, and so on, then on which jump will it first be able to jump more than 1 kilometer? $\textbf{(A)}\ 9^\text{th} \qquad \textbf{(B)}\ 10^\text{th} \qquad \textbf{(C)}\ 11^\text{th} \qquad \textbf{(D)}\ 12^\text{th} \qquad \textbf{(E)}\ 13^\text{th}$
+
+### 2013-10
+What is the ratio of the least common multiple of 180 and 594 to the greatest common factor of 180 and 594? $\textbf{(A)}\ 110 \qquad \textbf{(B)}\ 165 \qquad \textbf{(C)}\ 330 \qquad \textbf{(D)}\ 625 \qquad \textbf{(E)}\ 660$
+
+### 2013-11
+Ted's grandfather used his treadmill on 3 days this week. He went 2 miles each day. On Monday he jogged at a speed of 5 miles per hour. He walked at the rate of 3 miles per hour on Wednesday and at 4 miles per hour on Friday. If Grandfather had always walked at 4 miles per hour, he would have spent less time on the treadmill. How many minutes less? $\textbf{(A)}\ 1 \qquad \textbf{(B)}\ 2 \qquad \textbf{(C)}\ 3 \qquad \textbf{(D)}\ 4 \qquad \textbf{(E)}\ 5$
+
+### 2013-12
+At the 2013 Winnebago County Fair a vendor is offering a "fair special" on sandals. If you buy one pair of sandals at the regular price of $50$, you get a second pair at a 40% discount, and a third pair at half the regular price. Javier took advantage of the "fair special" to buy three pairs of sandals. What percentage of the 150 dollar regular price did he save? $\textbf{(A)}\ 25\% \qquad \textbf{(B)}\ 30\% \qquad \textbf{(C)}\ 33\% \qquad \textbf{(D)}\ 40\% \qquad \textbf{(E)}\ 45\%$
+
+### 2013-13
+When Clara totaled her scores, she inadvertently reversed the units digit and the tens digit of one score. By which of the following might her incorrect sum have differed from the correct one? $\textbf{(A)}\ 45 \qquad \textbf{(B)}\ 46 \qquad \textbf{(C)}\ 47 \qquad \textbf{(D)}\ 48 \qquad \textbf{(E)}\ 49$
+
+### 2013-14
+Abe holds 1 green and 1 red jelly bean in his hand. Bob holds 1 green, 1 yellow, and 2 red jelly beans in his hand. Each randomly picks a jelly bean to show the other. What is the probability that the colors match? $\textbf{(A)}\ \frac14 \qquad \textbf{(B)}\ \frac13 \qquad \textbf{(C)}\ \frac38 \qquad \textbf{(D)}\ \frac12 \qquad \textbf{(E)}\ \frac23$
+
+### 2013-15
+If $3^p + 3^4 = 90$, $2^r + 44 = 76$, and $5^3 + 6^s = 1421$, what is the product of $p$, $r$, and $s$? $\textbf{(A)}\ 27 \qquad \textbf{(B)}\ 40 \qquad \textbf{(C)}\ 50 \qquad \textbf{(D)}\ 70 \qquad \textbf{(E)}\ 90$
+
+### 2013-16
+A number of students from Fibonacci Middle School are taking part in a community service project. The ratio of $8^\text{th}$-graders to $6^\text{th}$-graders is $5:3$, and the ratio of $8^\text{th}$-graders to $7^\text{th}$-graders is $8:5$. What is the smallest number of students that could be participating in the project? $\textbf{(A)}\ 16 \qquad \textbf{(B)}\ 40 \qquad \textbf{(C)}\ 55 \qquad \textbf{(D)}\ 79 \qquad \textbf{(E)}\ 89$
+
+### 2013-17
+The sum of six consecutive positive integers is 2013. What is the largest of these six integers? $\textbf{(A)}\ 335 \qquad \textbf{(B)}\ 338 \qquad \textbf{(C)}\ 340 \qquad \textbf{(D)}\ 345 \qquad \textbf{(E)}\ 350$
+
+### 2013-18
+Isabella uses one-foot cubical blocks to build a rectangular fort that is 12 feet long, 10 feet wide, and 5 feet high. The floor and the four walls are all one foot thick. How many blocks does the fort contain? $\textbf{(A)}\ 204 \qquad \textbf{(B)}\ 280 \qquad \textbf{(C)}\ 320 \qquad \textbf{(D)}\ 340 \qquad \textbf{(E)}\ 600$ [DIAGRAM]
+
+### 2013-19
+Bridget, Cassie, and Hannah are discussing the results of their last math test. Hannah shows Bridget and Cassie her test, but Bridget and Cassie don't show theirs to anyone. Cassie says, 'I didn't get the lowest score in our class,' and Bridget adds, 'I didn't get the highest score.' What is the ranking of the three girls from the highest score to the lowest score? $\textbf{(A)}\ \text{Hannah, Cassie, Bridget} \qquad \textbf{(B)}\ \text{Hannah, Bridget, Cassie} \\ \qquad \textbf{(C)}\ \text{Cassie, Bridget, Hannah} \qquad \textbf{(D)}\ \text{Cassie, Hannah, Bridget} \\ \qquad \textbf{(E)}\ \text{Bridget, Cassie, Hannah}$
+
+### 2013-20
+A $1\times 2$ rectangle is inscribed in a semicircle with longer side on the diameter. What is the area of the semicircle? $\textbf{(A)}\ \frac\pi2 \qquad \textbf{(B)}\ \frac{2\pi}3 \qquad \textbf{(C)}\ \pi \qquad \textbf{(D)}\ \frac{4\pi}3 \qquad \textbf{(E)}\ \frac{5\pi}3$
+
+### 2013-21
+Samantha lives 2 blocks west and 1 block south of the southwest corner of City Park. Her school is 2 blocks east and 2 blocks north of the northeast corner of City Park. On school days she bikes on streets to the southwest corner of City Park, then takes a diagonal path through the park to the northeast corner, and then bikes on streets to school. If her route is as short as possible, how many different routes can she take? $\textbf{(A)}\ 3 \qquad \textbf{(B)}\ 6 \qquad \textbf{(C)}\ 9 \qquad \textbf{(D)}\ 12 \qquad \textbf{(E)}\ 18$
+
+### 2013-22
+Toothpicks are used to make a grid that is 60 toothpicks long and 32 toothpicks wide. How many toothpicks are used altogether? $\textbf{(A)}\ 1920 \qquad \textbf{(B)}\ 1952 \qquad \textbf{(C)}\ 1980 \qquad \textbf{(D)}\ 2013 \qquad \textbf{(E)}\ 3932$ [DIAGRAM]
+
+### 2013-23
+Angle $ABC$ of $\triangle ABC$ is a right angle. The sides of $\triangle ABC$ are the diameters of semicircles as shown. The area of the semicircle on $\overline{AB}$ equals $8\pi$, and the arc of the semicircle on $\overline{AC}$ has length $8.5\pi$. What is the radius of the semicircle on $\overline{BC}$? $\textbf{(A)}\ 7 \qquad \textbf{(B)}\ 7.5 \qquad \textbf{(C)}\ 8 \qquad \textbf{(D)}\ 8.5 \qquad \textbf{(E)}\ 9$ [DIAGRAM]
+
+### 2013-24
+Squares $ABCD$, $EFGH$, and $GHIJ$ are equal in area. Points $C$ and $D$ are the midpoints of sides $IH$ and $HE$, respectively. What is the ratio of the area of the shaded pentagon $AJICB$ to the sum of the areas of the three squares? $\textbf{(A)}\hspace{.05in}\frac{1}{4}\qquad\textbf{(B)}\hspace{.05in}\frac{7}{24}\qquad\textbf{(C)}\hspace{.05in}\frac{1}{3}\qquad\textbf{(D)}\hspace{.05in}\frac{3}{8}\qquad\textbf{(E)}\hspace{.05in}\frac{5}{12}$ [DIAGRAM]
+
+### 2013-25
+A ball with diameter 4 inches starts at point A to roll along the track shown. The track is comprised of 3 semicircular arcs whose radii are $R_1 = 100$ inches, $R_2 = 60$ inches, and $R_3 = 80$ inches, respectively. The ball always remains in contact with the track and does not slip. What is the distance the center of the ball travels over the course from A to B? $\textbf{(A)}\ 238\pi\qquad\textbf{(B)}\ 240\pi\qquad\textbf{(C)}\ 260\pi\qquad\textbf{(D)}\ 280\pi\qquad\textbf{(E)}\ 500\pi$ These problems are copyrighted © by the Mathematical Association of America. [DIAGRAM]
+[DIAGRAM IMAGE: /Users/liyong03/Documents/AMC10/data/amc8/raw/images/AMC_Logo.png]
+
+### 2012-01
+Rachelle uses $3$ pounds of meat to make $8$ hamburgers for her family. How many pounds of meat does she need to make $24$ hamburgers for a neighborhood picnic? $\textbf{(A)}\hspace{.05in}6\qquad\textbf{(B)}\hspace{.05in}6\frac{2}3\qquad\textbf{(C)}\hspace{.05in}7\frac{1}2\qquad\textbf{(D)}\hspace{.05in}8\qquad\textbf{(E)}\hspace{.05in}9$
+
+### 2012-02
+In the country of East Westmore, statisticians estimate there is a baby born every $8$ hours and a death every day. To the nearest hundred, how many people are added to the population of East Westmore each year? $\textbf{(A)}\hspace{.05in}600\qquad\textbf{(B)}\hspace{.05in}700\qquad\textbf{(C)}\hspace{.05in}800\qquad\textbf{(D)}\hspace{.05in}900\qquad\textbf{(E)}\hspace{.05in}1000$
+
+### 2012-03
+On February 13 $\emph{The Oshkosh Northwester}$ listed the length of daylight as 10 hours and 24 minutes, the sunrise was $6:57\textsc{am}$, and the sunset as $8:15\textsc{pm}$. The length of daylight and sunrise were correct, but the sunset was wrong. When did the sun really set? $\textbf{(A)}\hspace{.05in}5:10\textsc{pm}\quad\textbf{(B)}\hspace{.05in}5:21\textsc{pm}\quad\textbf{(C)}\hspace{.05in}5:41\textsc{pm}\quad\textbf{(D)}\hspace{.05in}5:57\textsc{pm}\quad\textbf{(E)}\hspace{.05in}6:03\textsc{pm}$
+
+### 2012-04
+Peter's family ordered a 12-slice pizza for dinner. Peter ate one slice and shared another slice equally with his brother Paul. What fraction of the pizza did Peter eat? $\textbf{(A)}\hspace{.05in}\frac{1}{24}\qquad\textbf{(B)}\hspace{.05in}\frac{1}{12}\qquad\textbf{(C)}\hspace{.05in}\frac{1}{8}\qquad\textbf{(D)}\hspace{.05in}\frac{1}{6}\qquad\textbf{(E)}\hspace{.05in}\frac{1}{4}$
+
+### 2012-05
+In the diagram, all angles are right angles and the lengths of the sides are given in centimeters. Note that the diagram is not drawn to scale. What is the length of $X$, in centimeters? $\textbf{(A)}\hspace{.05in}1\qquad\textbf{(B)}\hspace{.05in}2\qquad\textbf{(C)}\hspace{.05in}3\qquad\textbf{(D)}\hspace{.05in}4\qquad\textbf{(E)}\hspace{.05in}5$ [DIAGRAM]
+
+### 2012-06
+A rectangular photograph is placed in a frame that forms a border two inches wide on all sides of the photograph. The photograph measures 8 inches high and 10 inches wide. What is the area of the border, in square inches? $\textbf{(A)}\hspace{.05in}36\qquad\textbf{(B)}\hspace{.05in}40\qquad\textbf{(C)}\hspace{.05in}64\qquad\textbf{(D)}\hspace{.05in}72\qquad\textbf{(E)}\hspace{.05in}88$
+
+### 2012-07
+Isabella must take four 100-point tests in her math class. Her goal is to achieve an average grade of 95 on the tests. Her first two test scores were 97 and 91. After seeing her score on the third test, she realized she can still reach her goal. What is the lowest possible score she could have made on the third test? $\textbf{(A)}\hspace{.05in}90\qquad\textbf{(B)}\hspace{.05in}92\qquad\textbf{(C)}\hspace{.05in}95\qquad\textbf{(D)}\hspace{.05in}96\qquad\textbf{(E)}\hspace{.05in}97$
+
+### 2012-08
+A shop advertises everything is "half price in today's sale." In addition, a coupon gives a 20% discount on sale prices. Using the coupon, the price today represents what percentage off the original price? $\textbf{(A)}\hspace{.05in}10\qquad\textbf{(B)}\hspace{.05in}33\qquad\textbf{(C)}\hspace{.05in}40\qquad\textbf{(D)}\hspace{.05in}60\qquad\textbf{(E)}\hspace{.05in}70$
+
+### 2012-09
+The Fort Worth Zoo has a number of two-legged birds and a number of four-legged mammals. On one visit to the zoo, Margie counted 200 heads and 522 legs. How many of the animals that Margie counted were two-legged birds? $\textbf{(A)}\hspace{.05in}61\qquad\textbf{(B)}\hspace{.05in}122\qquad\textbf{(C)}\hspace{.05in}139\qquad\textbf{(D)}\hspace{.05in}150\qquad\textbf{(E)}\hspace{.05in}161$
+
+### 2012-10
+How many 4-digit numbers greater than 1000 are there that use the four digits of 2012? $\textbf{(A)}\hspace{.05in}6\qquad\textbf{(B)}\hspace{.05in}7\qquad\textbf{(C)}\hspace{.05in}8\qquad\textbf{(D)}\hspace{.05in}9\qquad\textbf{(E)}\hspace{.05in}12$
+
+### 2012-11
+The mean, median, and unique mode of the positive integers 3, 4, 5, 6, 6, 7, and $x$ are all equal. What is the value of $x$? $\textbf{(A)}\hspace{.05in}5\qquad\textbf{(B)}\hspace{.05in}6\qquad\textbf{(C)}\hspace{.05in}7\qquad\textbf{(D)}\hspace{.05in}11\qquad\textbf{(E)}\hspace{.05in}12$
+
+### 2012-12
+What is the units digit (ones place digit) of $13^{2012}$? $\textbf{(A)}\hspace{.05in}1\qquad\textbf{(B)}\hspace{.05in}3\qquad\textbf{(C)}\hspace{.05in}5\qquad\textbf{(D)}\hspace{.05in}7\qquad\textbf{(E)}\hspace{.05in}9$
+
+### 2012-13
+Jamar bought some pencils costing more than a penny each at the school bookstore and paid $\textdollar 1.43$. Sharona bought some of the same pencils and paid $\textdollar 1.87$. How many more pencils did Sharona buy than Jamar? $\textbf{(A)}\hspace{.05in}2\qquad\textbf{(B)}\hspace{.05in}3\qquad\textbf{(C)}\hspace{.05in}4\qquad\textbf{(D)}\hspace{.05in}5\qquad\textbf{(E)}\hspace{.05in}6$
+
+### 2012-14
+In the BIG N, a middle school football conference, each team plays every other team exactly once. If a total of 21 conference games were played during the 2012 season, how many teams were members of the BIG N conference? $\textbf{(A)}\hspace{.05in}6\qquad\textbf{(B)}\hspace{.05in}7\qquad\textbf{(C)}\hspace{.05in}8\qquad\textbf{(D)}\hspace{.05in}9\qquad\textbf{(E)}\hspace{.05in}10$
+
+### 2012-15
+The smallest number greater than 2 that leaves a remainder of 2 when divided by 3, 4, 5, or 6 lies between what numbers? $\textbf{(A)}\hspace{.05in}40\text{ and }50\qquad\textbf{(B)}\hspace{.05in}51\text{ and }55\qquad\textbf{(C)}\hspace{.05in}56\text{ and }60\qquad\textbf{(D)}\hspace{.05in}\text{61 and 65}\qquad\textbf{(E)}\hspace{.01in}\text{66 and 99}$
+
+### 2012-16
+Each of the digits 0, 1, 2, 3, 4, 5, 6, 7, 8, and 9 is used only once to make two five-digit numbers so that they have the largest possible sum. Which of the following could be one of the numbers? $\textbf{(A)}\hspace{.05in}76531\qquad\textbf{(B)}\hspace{.05in}86724\qquad\textbf{(C)}\hspace{.05in}87431\qquad\textbf{(D)}\hspace{.05in}96240\qquad\textbf{(E)}\hspace{.05in}97403$
+
+### 2012-17
+A square with integer side length is cut into 10 squares, all of which have integer side length and at least 8 of which have area 1. What is the smallest possible value of the length of the side of the original square? $\textbf{(A)}\hspace{.05in}3\qquad\textbf{(B)}\hspace{.05in}4\qquad\textbf{(C)}\hspace{.05in}5\qquad\textbf{(D)}\hspace{.05in}6\qquad\textbf{(E)}\hspace{.05in}7$
+
+### 2012-18
+What is the smallest positive integer that is neither prime nor square and that has no prime factor less than 50? $\textbf{(A)}\hspace{.05in}3127\qquad\textbf{(B)}\hspace{.05in}3133\qquad\textbf{(C)}\hspace{.05in}3137\qquad\textbf{(D)}\hspace{.05in}3139\qquad\textbf{(E)}\hspace{.05in}3149$
+
+### 2012-19
+In a jar of red, green, and blue marbles, all but 6 are red marbles, all but 8 are green, and all but 4 are blue. How many marbles are in the jar? $\textbf{(A)}\hspace{.05in}6\qquad\textbf{(B)}\hspace{.05in}8\qquad\textbf{(C)}\hspace{.05in}9\qquad\textbf{(D)}\hspace{.05in}10\qquad\textbf{(E)}\hspace{.05in}12$
+
+### 2012-20
+What is the correct ordering of the three numbers $\frac{5}{19}$, $\frac{7}{21}$, and $\frac{9}{23}$, in increasing order? $\textbf{(A)}\hspace{.05in}\frac{9}{23}<\frac{7}{21}<\frac{5}{19}\quad\textbf{(B)}\hspace{.05in}\frac{5}{19}<\frac{7}{21}<\frac{9}{23}\quad\textbf{(C)}\hspace{.05in}\frac{9}{23}<\frac{5}{19}<\frac{7}{21}$ $\textbf{(D)}\hspace{.05in}\frac{5}{19}<\frac{9}{23}<\frac{7}{21}\quad\textbf{(E)}\hspace{.05in}\frac{7}{21}<\frac{5}{19}<\frac{9}{23}$
+
+### 2012-21
+Marla has a large white cube that has an edge of 10 feet. She also has enough green paint to cover 300 square feet. Marla uses all the paint to create a white square centered on each face, surrounded by a green border. What is the area of one of the white squares, in square feet? $\textbf{(A)}\hspace{.05in}5\sqrt2\qquad\textbf{(B)}\hspace{.05in}10\qquad\textbf{(C)}\hspace{.05in}10\sqrt2\qquad\textbf{(D)}\hspace{.05in}50\qquad\textbf{(E)}\hspace{.05in}50\sqrt2$
+
+### 2012-22
+Let $R$ be a set of nine distinct integers. Six of the elements are 2, 3, 4, 6, 9, and 14. What is the number of possible values of the median of $R$ ? $\textbf{(A)}\hspace{.05in}4\qquad\textbf{(B)}\hspace{.05in}5\qquad\textbf{(C)}\hspace{.05in}6\qquad\textbf{(D)}\hspace{.05in}7\qquad\textbf{(E)}\hspace{.05in}8$
+
+### 2012-23
+An equilateral triangle and a regular hexagon have equal perimeters. If the area of the triangle is 4, what is the area of the hexagon? $\textbf{(A)}\hspace{.05in}4\qquad\textbf{(B)}\hspace{.05in}5\qquad\textbf{(C)}\hspace{.05in}6\qquad\textbf{(D)}\hspace{.05in}4\sqrt3\qquad\textbf{(E)}\hspace{.05in}6\sqrt3$
+
+### 2012-24
+A circle of radius 2 is cut into four congruent arcs. The four arcs are joined to form the star figure shown. What is the ratio of the area of the star figure to the area of the original circle? $\textbf{(A)}\hspace{.05in}\frac{4-\pi}{\pi}\qquad\textbf{(B)}\hspace{.05in}\frac{1}\pi\qquad\textbf{(C)}\hspace{.05in}\frac{\sqrt2}{\pi}\qquad\textbf{(D)}\hspace{.05in}\frac{\pi-1}{\pi}\qquad\textbf{(E)}\hspace{.05in}\frac{3}\pi$ [DIAGRAM]
+
+### 2012-25
+A square with area 4 is inscribed in a square with area 5, with one vertex of the smaller square on each side of the larger square. A vertex of the smaller square divides a side of the larger square into two segments, one of length $a$, and the other of length $b$. What is the value of $ab$? $\textbf{(A)}\hspace{.05in}\frac{1}5\qquad\textbf{(B)}\hspace{.05in}\frac{2}5\qquad\textbf{(C)}\hspace{.05in}\frac{1}2\qquad\textbf{(D)}\hspace{.05in}1\qquad\textbf{(E)}\hspace{.05in}4$ [DIAGRAM]
+
+### 2011-01
+Margie bought $3$ apples at a cost of $50$ cents per apple. She paid with a 5-dollar bill. How much change did Margie receive? $\textbf{(A) }\ \textdollar 1.50 \qquad \textbf{(B) }\ \textdollar 2.00 \qquad \textbf{(C) }\ \textdollar 2.50 \qquad \textbf{(D) }\ \textdollar 3.00 \qquad \textbf{(E) }\ \textdollar 3.50$
+
+### 2011-02
+Karl's rectangular vegetable garden is $20$ feet by $45$ feet, and Makenna's is $25$ feet by $40$ feet. Which of the following statements are true? $\textbf{(A) }\text{Karl's garden is larger by 100 square feet.}$ $\textbf{(B) }\text{Karl's garden is larger by 25 square feet.}$ $\textbf{(C) }\text{The gardens are the same size.}$ $\textbf{(D) }\text{Makenna's garden is larger by 25 square feet.}$ $\textbf{(E) }\text{Makenna's garden is larger by 100 square feet.}$
+
+### 2011-03
+Extend the square pattern of 8 black and 17 white square tiles by attaching a border of black tiles around the square. What is the ratio of black tiles to white tiles in the extended pattern? $\textbf{(A) }8:17 \qquad\textbf{(B) }25:49 \qquad\textbf{(C) }36:25 \qquad\textbf{(D) }32:17 \qquad\textbf{(E) }36:17$ [DIAGRAM]
+
+### 2011-04
+Here is a list of the numbers of fish that Tyler caught in nine outings last summer: \[2,0,1,3,0,3,3,1,2.\] Which statement about the mean, median, and mode is true? $\textbf{(A) }\text{median} < \text{mean} < \text{mode} \qquad \textbf{(B) }\text{mean} < \text{mode} < \text{median} \\ \\ \textbf{(C) }\text{mean} < \text{median} < \text{mode} \qquad \textbf{(D) }\text{median} < \text{mode} < \text{mean} \\ \\ \textbf{(E) }\text{mode} < \text{median} < \text{mean}$
+
+### 2011-05
+What time was it $2011$ minutes after midnight on January 1, 2011? $\textbf{(A) }\text{January 1 at 9:31 PM}$ $\textbf{(B) }\text{January 1 at 11:51 PM}$ $\textbf{(C) }\text{January 2 at 3:11 AM}$ $\textbf{(D) }\text{January 2 at 9:31 AM}$ $\textbf{(E) }\text{January 2 at 6:01 PM}$
+
+### 2011-06
+In a town of 351 adults, every adult owns a car, motorcycle, or both. If 331 adults own cars and 45 adults own motorcycles, how many of the car owners do not own a motorcycle? $\textbf{(A) }20 \qquad\textbf{(B) }25 \qquad\textbf{(C) }45 \qquad\textbf{(D) }306 \qquad\textbf{(E) }351$
+
+### 2011-07
+Each of the following four large congruent squares is subdivided into combinations of congruent triangles or rectangles and is partially bolded. What percent of the total area is partially bolded? $\textbf{(A)}12\frac{1}{2}\qquad\textbf{(B)}20\qquad\textbf{(C)}25\qquad\textbf{(D)}33\frac{1}{3}\qquad\textbf{(E)}37\frac{1}{2}$ [DIAGRAM]
+
+### 2011-08
+Bag A has three chips labeled 1, 3, and 5. Bag B has three chips labeled 2, 4, and 6. If one chip is drawn from each bag, how many different values are possible for the sum of the two numbers on the chips? $\textbf{(A) }4 \qquad\textbf{(B) }5 \qquad\textbf{(C) }6 \qquad\textbf{(D) }7 \qquad\textbf{(E) }9$
+
+### 2011-09
+Carmen takes a long bike ride on a hilly highway. The graph indicates the miles traveled during the time of her ride. What is Carmen's average speed for her entire ride in miles per hour? $\textbf{(A) }2\qquad\textbf{(B) } 2.5\qquad\textbf{(C) } 4\qquad\textbf{(D) } 4.5\qquad\textbf{(E) } 5$ [DIAGRAM]
+
+### 2011-10
+The taxi fare in Gotham City is $2.40 for the first $\frac12$ mile and additional mileage charged at the rate $0.20 for each additional 0.1 mile. You plan to give the driver a $2 tip. How many miles can you ride for $10? $\textbf{(A) } 3.0\qquad\textbf{(B) }3.25\qquad\textbf{(C) }3.3\qquad\textbf{(D) }3.5\qquad\textbf{(E) }3.75$
+
+### 2011-11
+The graph shows the number of minutes studied by both Asha (black bar) and Sasha (grey bar) in one week. On the average, how many more minutes per day did Sasha study than Asha? $\textbf{(A)}\ 6\qquad\textbf{(B)}\ 8\qquad\textbf{(C)}\ 9\qquad\textbf{(D)}\ 10\qquad\textbf{(E)}\ 12$ [DIAGRAM]
+
+### 2011-12
+Angie, Bridget, Carlos, and Diego are seated at random around a square table, one person to a side. What is the probability that Angie and Carlos are seated opposite each other? $\textbf{(A) } \frac14 \qquad\textbf{(B) } \frac13 \qquad\textbf{(C) } \frac12 \qquad\textbf{(D) } \frac23 \qquad\textbf{(E) } \frac34$
+
+### 2011-13
+Two congruent squares, $ABCD$ and $PQRS$, have side length $15$. They overlap to form the $15$ by $25$ rectangle $AQRD$ shown. What percent of the area of rectangle $AQRD$ is shaded? $\textbf{(A)}\ 15\qquad\textbf{(B)}\ 18\qquad\textbf{(C)}\ 20\qquad\textbf{(D)}\ 24\qquad\textbf{(E)}\ 25$ [DIAGRAM]
+
+### 2011-14
+There are $270$ students at Colfax Middle School, where the ratio of boys to girls is $5 : 4$. There are $180$ students at Winthrop Middle School, where the ratio of boys to girls is $4 : 5$. The two schools hold a dance and all students from both schools attend. What fraction of the students at the dance are girls? $\textbf{(A) } \dfrac7{18} \qquad\textbf{(B) } \dfrac7{15} \qquad\textbf{(C) } \dfrac{22}{45} \qquad\textbf{(D) } \dfrac12 \qquad\textbf{(E) } \dfrac{23}{45}$
+
+### 2011-15
+How many digits are in the product $4^5 \cdot 5^{10}$? $\textbf{(A) } 8 \qquad\textbf{(B) } 9 \qquad\textbf{(C) } 10 \qquad\textbf{(D) } 11 \qquad\textbf{(E) } 12$
+
+### 2011-16
+Let $A$ be the area of the triangle with sides of length $25, 25$, and $30$. Let $B$ be the area of the triangle with sides of length $25, 25,$ and $40$. What is the relationship between $A$ and $B$? $\textbf{(A) } A = \dfrac9{16}B \qquad\textbf{(B) } A = \dfrac34B \qquad\textbf{(C) } A=B \qquad\textbf{(D) } A = \dfrac43B \qquad \textbf{(E) }A = \dfrac{16}9B$
+
+### 2011-17
+Let $w$, $x$, $y$, and $z$ be whole numbers. If $2^w \cdot 3^x \cdot 5^y \cdot 7^z = 588$, then what does $2w + 3x + 5y + 7z$ equal? $\textbf{(A) } 21\qquad\textbf{(B) }25\qquad\textbf{(C) }27\qquad\textbf{(D) }35\qquad\textbf{(E) }56$
+
+### 2011-18
+A fair 6-sided die is rolled twice. What is the probability that the first number that comes up is greater than or equal to the second number? $\textbf{(A) }\dfrac16\qquad\textbf{(B) }\dfrac5{12}\qquad\textbf{(C) }\dfrac12\qquad\textbf{(D) }\dfrac7{12}\qquad\textbf{(E) }\dfrac56$
+
+### 2011-19
+How many rectangles are in this figure? $\textbf{(A)}\ 8\qquad\textbf{(B)}\ 9\qquad\textbf{(C)}\ 10\qquad\textbf{(D)}\ 11\qquad\textbf{(E)}\ 12$ [DIAGRAM]
+
+### 2011-20
+Quadrilateral $ABCD$ is a trapezoid, $AD = 15$, $AB = 50$, $BC = 20$, and the altitude is $12$. What is the area of the trapezoid? $\textbf{(A) }600\qquad\textbf{(B) }650\qquad\textbf{(C) }700\qquad\textbf{(D) }750\qquad\textbf{(E) }800$ [DIAGRAM]
+
+### 2011-21
+Students guess that Norb's age is $24, 28, 30, 32, 36, 38, 41, 44, 47$, and $49$. Norb says, "At least half of you guessed too low, two of you are off by one, and my age is a prime number." How old is Norb? $\textbf{(A) }29\qquad\textbf{(B) }31\qquad\textbf{(C) }37\qquad\textbf{(D) }43\qquad\textbf{(E) }48$
+
+### 2011-22
+What is the tens digit of $7^{2011}$? $\textbf{(A) }0\qquad\textbf{(B) }1\qquad\textbf{(C) }3\qquad\textbf{(D) }4\qquad\textbf{(E) }7$
+
+### 2011-23
+How many 4-digit positive integers have four different digits, where the leading digit is not zero, the integer is a multiple of 5, and 5 is the largest digit? $\textbf{(A) }24\qquad\textbf{(B) }48\qquad\textbf{(C) }60\qquad\textbf{(D) }84\qquad\textbf{(E) }108$
+
+### 2011-24
+In how many ways can 10001 be written as the sum of two primes? $\textbf{(A) }0\qquad\textbf{(B) }1\qquad\textbf{(C) }2\qquad\textbf{(D) }3\qquad\textbf{(E) }4$
+
+### 2011-25
+A circle with radius $1$ is inscribed in a square and circumscribed about another square as shown. Which fraction is closest to the ratio of the circle's shaded area to the area between the two squares? $\textbf{(A)}\ \frac{1}2\qquad\textbf{(B)}\ 1\qquad\textbf{(C)}\ \frac{3}2\qquad\textbf{(D)}\ 2\qquad\textbf{(E)}\ \frac{5}2$ [DIAGRAM]
+
+### 2010-01
+At Euclid Middle School, the mathematics teachers are Miss Germain, Mr. Newton, and Mrs. Young. There are $11$ students in Mrs. Germain's class, $8$ students in Mr. Newton's class, and $9$ students in Mrs. Young's class taking the AMC 8 this year. How many mathematics students at Euclid Middle School are taking the contest? $\textbf{(A)}\ 26 \qquad\textbf{(B)}\ 27\qquad\textbf{(C)}\ 28\qquad\textbf{(D)}\ 29\qquad\textbf{(E)}\ 30$
+
+### 2010-02
+If $a @ b = \frac{a\times b}{a+b}$ for $a,b$ positive integers, then what is $5 @ 10$? $\textbf{(A)}\ \frac{3}{10} \qquad\textbf{(B)}\ 1 \qquad\textbf{(C)}\ 2 \qquad\textbf{(D)}\ \frac{10}{3} \qquad\textbf{(E)}\ 50$
+
+### 2010-03
+The graph shows the price of five gallons of gasoline during the first ten months of the year. By what percent is the highest price more than the lowest price? $\textbf{(A)}\ 50 \qquad \textbf{(B)}\ 62 \qquad \textbf{(C)}\ 70 \qquad \textbf{(D)}\ 89 \qquad \textbf{(E)}\ 100$ [DIAGRAM]
+
+### 2010-04
+What is the sum of the mean, median, and mode of the numbers $2,3,0,3,1,4,0,3$? $\textbf{(A)}\ 6.5 \qquad\textbf{(B)}\ 7\qquad\textbf{(C)}\ 7.5\qquad\textbf{(D)}\ 8.5\qquad\textbf{(E)}\ 9$
+
+### 2010-05
+Alice needs to replace a light bulb located $10$ centimeters below the ceiling in her kitchen. The ceiling is $2.4$ meters above the floor. Alice is $1.5$ meters tall and can reach $46$ centimeters above the top of her head. Standing on a stool, she can just reach the light bulb. What is the height of the stool, in centimeters? $\textbf{(A)}\ 32 \qquad\textbf{(B)}\ 34\qquad\textbf{(C)}\ 36\qquad\textbf{(D)}\ 38\qquad\textbf{(E)}\ 40$
+
+### 2010-06
+Which of the following figures has the greatest number of lines of symmetry? $\textbf{(A)}\ \text{equilateral triangle}$ $\textbf{(B)}\ \text{non-square rhombus}$ $\textbf{(C)}\ \text{non-square rectangle}$ $\textbf{(D)}\ \text{isosceles trapezoid}$ $\textbf{(E)}\ \text{square}$
+
+### 2010-07
+Using only pennies, nickels, dimes, and quarters, what is the smallest number of coins Freddie would need so he could pay any amount of money less than a dollar? $\textbf{(A)}\ 6 \qquad\textbf{(B)}\ 10\qquad\textbf{(C)}\ 15\qquad\textbf{(D)}\ 25\qquad\textbf{(E)}\ 99$
+
+### 2010-08
+As Emily is riding her bicycle on a long straight road, she spots Emerson skating in the same direction $1/2$ mile in front of her. After she passes him, she can see him in her rear mirror until he is $1/2$ mile behind her. Emily rides at a constant rate of $12$ miles per hour, and Emerson skates at a constant rate of $8$ miles per hour. For how many minutes can Emily see Emerson? $\textbf{(A)}\ 2 \qquad\textbf{(B)}\ 6\qquad\textbf{(C)}\ 12\qquad\textbf{(D)}\ 15\qquad\textbf{(E)}\ 16$
+
+### 2010-09
+Ryan got $80\%$ of the problems correct on a $25$-problem test, $90\%$ on a $40$-problem test, and $70\%$ on a $10$-problem test. What percent of all the problems did Ryan answer correctly? $\textbf{(A)}\ 64 \qquad\textbf{(B)}\ 75\qquad\textbf{(C)}\ 80\qquad\textbf{(D)}\ 84\qquad\textbf{(E)}\ 86$
+
+### 2010-10
+Six pepperoni circles will exactly fit across the diameter of a $12$-inch pizza when placed. If a total of $24$ circles of pepperoni are placed on this pizza without overlap, what fraction of the pizza is covered by pepperoni? $\textbf{(A)}\ \frac 12 \qquad\textbf{(B)}\ \frac 23 \qquad\textbf{(C)}\ \frac 34 \qquad\textbf{(D)}\ \frac 56 \qquad\textbf{(E)}\ \frac 78$
+
+### 2010-11
+The top of one tree is $16$ feet higher than the top of another tree. The heights of the two trees are in the ratio $3:4$. In feet, how tall is the taller tree? $\textbf{(A)}\ 48 \qquad\textbf{(B)}\ 64 \qquad\textbf{(C)}\ 80 \qquad\textbf{(D)}\ 96\qquad\textbf{(E)}\ 112$
+
+### 2010-12
+Of the $500$ balls in a large bag, $80\%$ are red and the rest are blue. How many of the red balls must be removed from the bag so that $75\%$ of the remaining balls are red? $\textbf{(A)}\ 25 \qquad\textbf{(B)}\ 50 \qquad\textbf{(C)}\ 75 \qquad\textbf{(D)}\ 100\qquad\textbf{(E)}\ 150$
+
+### 2010-13
+The lengths of the sides of a triangle in inches are three consecutive integers. The length of the shortest side is $30\%$ of the perimeter. What is the length of the longest side? $\textbf{(A)}\ 7 \qquad\textbf{(B)}\ 8\qquad\textbf{(C)}\ 9\qquad\textbf{(D)}\ 10\qquad\textbf{(E)}\ 11$
+
+### 2010-14
+What is the sum of the prime factors of $2010$? $\textbf{(A)}\ 67 \qquad\textbf{(B)}\ 75\qquad\textbf{(C)}\ 77\qquad\textbf{(D)}\ 201\qquad\textbf{(E)}\ 210$
+
+### 2010-15
+A jar contains five different colors of gumdrops: $30\%$ are blue, $20\%$ are brown, $15\%$ red, $10\%$ yellow, and the other $30$ gumdrops are green. If half of the blue gumdrops are replaced with brown gumdrops, how many gumdrops will be brown? $\textbf{(A)}\ 35 \qquad\textbf{(B)}\ 36\qquad\textbf{(C)}\ 42\qquad\textbf{(D)}\ 48\qquad\textbf{(E)}\ 64$
+
+### 2010-16
+A square and a circle have the same area. What is the ratio of the side length of the square to the radius of the circle? $\textbf{(A)}\ \frac{\sqrt{\pi}}{2} \qquad\textbf{(B)}\ \sqrt{\pi} \qquad\textbf{(C)}\ \pi \qquad\textbf{(D)}\ 2\pi \qquad\textbf{(E)}\ \pi^{2}$
+
+### 2010-17
+The diagram shows an octagon consisting of $10$ unit squares. The portion below $\overline{PQ}$ is a unit square and a triangle with base $5$. If $\overline{PQ}$ bisects the area of the octagon, what is the ratio $\frac{XQ}{QY}$? $\textbf{(A)}\ \frac 25 \qquad \textbf{(B)}\ \frac 12 \qquad \textbf{(C)}\ \frac 35 \qquad \textbf{(D)}\ \frac 23 \qquad \textbf{(E)}\ \frac 34$ [DIAGRAM]
+
+### 2010-18
+A decorative window is made up of a rectangle with semicircles on either end. The ratio of $AD$ to $AB$ is $3:2$, and $AB$ is 30 inches. What is the ratio of the area of the rectangle to the combined areas of the semicircles? $\textbf{(A)}\ 2:3 \qquad\textbf{(B)}\ 3:2\qquad\textbf{(C)}\ 6:\pi \qquad\textbf{(D)}\ 9: \pi \qquad\textbf{(E)}\ 30 : \pi$ [DIAGRAM]
+
+### 2010-19
+The two circles pictured have the same center $C$. Chord $\overline{AD}$ is tangent to the inner circle at $B$, $AC$ is $10$, and chord $\overline{AD}$ has length $16$. What is the area between the two circles? $\textbf{(A)}\ 36 \pi \qquad\textbf{(B)}\ 49 \pi\qquad\textbf{(C)}\ 64 \pi\qquad\textbf{(D)}\ 81 \pi\qquad\textbf{(E)}\ 100 \pi$ [DIAGRAM]
+
+### 2010-20
+In a room, $2/5$ of the people are wearing gloves, and $3/4$ of the people are wearing hats. What is the minimum number of people in the room wearing both a hat and a glove? $\textbf{(A)}\ 3 \qquad\textbf{(B)}\ 5\qquad\textbf{(C)}\ 8\qquad\textbf{(D)}\ 15\qquad\textbf{(E)}\ 20$
+
+### 2010-21
+Hui is an avid reader. She bought a copy of the best seller Math is Beautiful. On the first day, Hui read $1/5$ of the pages plus $12$ more, and on the second day she read $1/4$ of the remaining pages plus $15$ pages. On the third day she read $1/3$ of the remaining pages plus $18$ pages. She then realized that there were only $62$ pages left to read, which she read the next day. How many pages are in this book? $\textbf{(A)}\ 120 \qquad\textbf{(B)}\ 180\qquad\textbf{(C)}\ 240\qquad\textbf{(D)}\ 300\qquad\textbf{(E)}\ 360$
+
+### 2010-22
+The hundreds digit of a three-digit number is $2$ more than the units digit. The digits of the three-digit number are reversed, and the result is subtracted from the original three-digit number. What is the units digit of the result? $\textbf{(A)}\ 0 \qquad\textbf{(B)}\ 2\qquad\textbf{(C)}\ 4\qquad\textbf{(D)}\ 6\qquad\textbf{(E)}\ 8$
+
+### 2010-23
+Semicircles $POQ$ and $ROS$ pass through the center of circle $O$. What is the ratio of the combined areas of the two semicircles to the area of circle $O$? $\textbf{(A)}\ \frac{\sqrt 2}{4}\qquad\textbf{(B)}\ \frac{1}{2}\qquad\textbf{(C)}\ \frac{2}{\pi}\qquad\textbf{(D)}\ \frac{2}{3}\qquad\textbf{(E)}\ \frac{\sqrt 2}{2}$ [DIAGRAM]
+
+### 2010-24
+What is the correct ordering of the three numbers, $10^8$, $5^{12}$, and $2^{24}$? $\textbf{(A)}\ 2{}^2{}^4<10^8<5{}^1{}^2$ $\textbf{(B)}\ 2{}^2{}^4<5{}^1{}^2<10^8$ $\textbf{(C)}\ 5{}^1{}^2<2{}^2{}^4<10^8$ $\textbf{(D)}\ 10^8<5{}^1{}^2<2{}^2{}^4$ $\textbf{(E)}\ 10^8<2{}^2{}^4<5{}^1{}^2$
+
+### 2010-25
+Everyday at school, Jo climbs a flight of $6$ stairs. Jo can take the stairs $1$, $2$, or $3$ at a time. For example, Jo could climb $3$, then $1$, then $2$. In how many ways can Jo climb the stairs? $\textbf{(A)}\ 13 \qquad\textbf{(B)}\ 18\qquad\textbf{(C)}\ 20\qquad\textbf{(D)}\ 22\qquad\textbf{(E)}\ 24$
+
+### 2009-01
+Bridget bought a bag of apples at the grocery store. She gave half of the apples to Ann. Then she gave Cassie 3 apples, keeping 4 apples for herself. How many apples did Bridget buy? $\textbf{(A)}\ 3\qquad\textbf{(B)}\ 4\qquad\textbf{(C)}\ 7\qquad\textbf{(D)}\ 11\qquad\textbf{(E)}\ 14$
+
+### 2009-02
+On average, for every 4 sports cars sold at the local dealership, 7 sedans are sold. The dealership predicts that it will sell 28 sports cars next month. How many sedans does it expect to sell? $\textbf{(A)}\ 7\qquad\textbf{(B)}\ 32\qquad\textbf{(C)}\ 35\qquad\textbf{(D)}\ 49\qquad\textbf{(E)}\ 112$
+
+### 2009-03
+The graph shows the constant rate at which Suzanna rides her bike. If she rides a total of a half an hour at the same speed, how many miles would she have ridden? $\textbf{(A)}\ 5\qquad\textbf{(B)}\ 5.5\qquad\textbf{(C)}\ 6\qquad\textbf{(D)}\ 6.5\qquad\textbf{(E)}\ 7$ [DIAGRAM]
+
+### 2009-04
+The five pieces shown below can be arranged to form four of the five figures shown in the choices. Which figure cannot be formed? \[\textbf{(A)}\qquad\qquad\qquad\textbf{(B)}\quad\qquad\qquad\textbf{(C)}\:\qquad\qquad\qquad\textbf{(D)}\quad\qquad\qquad\textbf{(E)}\] [DIAGRAM]
+
+### 2009-05
+A sequence of numbers starts with $1$, $2$, and $3$. The fourth number of the sequence is the sum of the previous three numbers in the sequence: $1+2+3=6$. In the same way, every number after the fourth is the sum of the previous three numbers. What is the eighth number in the sequence? $\textbf{(A)}\ 11\qquad\textbf{(B)}\ 20\qquad\textbf{(C)}\ 37\qquad\textbf{(D)}\ 68\qquad\textbf{(E)}\ 99$
+

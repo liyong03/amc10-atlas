@@ -1,0 +1,494 @@
+{
+ "areas": [
+  {
+   "id": "ALG",
+   "name": "Algebra"
+  },
+  {
+   "id": "NT",
+   "name": "Number Theory"
+  },
+  {
+   "id": "CP",
+   "name": "Counting & Probability"
+  },
+  {
+   "id": "GEO",
+   "name": "Geometry"
+  },
+  {
+   "id": "MISC",
+   "name": "Logic, Puzzles & Arithmetic"
+  }
+ ],
+ "categories": [
+  {
+   "id": "alg-arith-compute",
+   "area": "ALG",
+   "name": "Arithmetic & Expression Evaluation",
+   "desc": "Direct computation of a numeric expression, fractions, order of operations, nested fractions, simplifying a given numerical expression."
+  },
+  {
+   "id": "alg-custom-op",
+   "area": "ALG",
+   "name": "Defined Operations & Notation",
+   "desc": "A new operation or symbol is defined (e.g. a⋆b = ...) and must be evaluated or solved."
+  },
+  {
+   "id": "alg-linear-word",
+   "area": "ALG",
+   "name": "Linear Equations & Word Problems",
+   "desc": "Set up and solve one linear equation from a story: ages, coins, purchases, weights, 'how many' with one unknown."
+  },
+  {
+   "id": "alg-fraction-word",
+   "area": "ALG",
+   "name": "Fraction Word Problems & Working Backwards",
+   "desc": "Stories about parts of a whole: 'a third of the students...', 'half of what was left', undoing a chain of steps to find the starting amount."
+  },
+  {
+   "id": "alg-systems",
+   "area": "ALG",
+   "name": "Systems of Equations",
+   "desc": "Two or more unknowns related by several equations; solve the system or find a combination of the variables."
+  },
+  {
+   "id": "alg-rates",
+   "area": "ALG",
+   "name": "Rates: Distance, Speed & Time",
+   "desc": "Travel, meeting, chasing, average speed, trains, walking/biking, escalators, clocks of travel."
+  },
+  {
+   "id": "alg-work",
+   "area": "ALG",
+   "name": "Work & Combined Rates",
+   "desc": "Jobs done together, pipes filling tanks, painting, production rates."
+  },
+  {
+   "id": "alg-percent-ratio",
+   "area": "ALG",
+   "name": "Percents, Ratios & Proportions",
+   "desc": "Percent increase/decrease, discounts, ratios between quantities, mixtures, proportional reasoning, unit conversions."
+  },
+  {
+   "id": "alg-mean-median",
+   "area": "ALG",
+   "name": "Mean, Median, Mode & Range",
+   "desc": "Averages, medians, modes, ranges of data sets; changes to averages when values added/removed."
+  },
+  {
+   "id": "alg-exponents-radicals",
+   "area": "ALG",
+   "name": "Exponents & Radicals",
+   "desc": "Laws of exponents, simplifying radicals, nested radicals, comparing powers, rationalizing."
+  },
+  {
+   "id": "alg-factoring-identities",
+   "area": "ALG",
+   "name": "Algebraic Manipulation & Identities",
+   "desc": "Factoring, difference of squares, symmetric expressions (x+1/x), clever expansions, simplifying algebraic expressions. Also rational expressions and rational equations."
+  },
+  {
+   "id": "alg-quadratics",
+   "area": "ALG",
+   "name": "Quadratics & Vieta's Formulas",
+   "desc": "Quadratic equations, roots, discriminant, sum/product of roots, completing the square, parabola vertex."
+  },
+  {
+   "id": "alg-polynomials",
+   "area": "ALG",
+   "name": "Polynomials (higher degree)",
+   "desc": "Cubic or higher polynomials, remainder/factor theorem, polynomial roots and coefficients, polynomial identities."
+  },
+  {
+   "id": "alg-functions",
+   "area": "ALG",
+   "name": "Functions & Composition",
+   "desc": "Function notation, composition, inverse, functional equations, function iteration, piecewise functions."
+  },
+  {
+   "id": "alg-graphs-lines",
+   "area": "ALG",
+   "name": "Linear Graphs, Slopes & Intercepts",
+   "desc": "Lines in the coordinate plane as algebra: slope, intercepts, intersection of lines, line equations (no area focus)."
+  },
+  {
+   "id": "alg-inequalities-optimization",
+   "area": "ALG",
+   "name": "Inequalities & Optimization",
+   "desc": "Solving inequalities, max/min of an expression, AM-GM, bounding, which value is largest."
+  },
+  {
+   "id": "alg-absolute-value",
+   "area": "ALG",
+   "name": "Absolute Value",
+   "desc": "Equations or inequalities involving absolute values."
+  },
+  {
+   "id": "alg-floor-ceiling",
+   "area": "ALG",
+   "name": "Floor, Ceiling & Rounding",
+   "desc": "Greatest integer function, ceiling, rounding behaviour."
+  },
+  {
+   "id": "alg-arith-seq",
+   "area": "ALG",
+   "name": "Arithmetic Sequences & Series",
+   "desc": "Sequences with constant difference, sums of arithmetic series, sums 1+2+...+n."
+  },
+  {
+   "id": "alg-geom-seq",
+   "area": "ALG",
+   "name": "Geometric Sequences & Series",
+   "desc": "Sequences with constant ratio, finite/infinite geometric sums."
+  },
+  {
+   "id": "alg-recursion-patterns",
+   "area": "ALG",
+   "name": "Recursive Sequences & Patterns",
+   "desc": "Sequences defined recursively, periodic sequences, find the 2023rd term, growing patterns, telescoping sums."
+  },
+  {
+   "id": "alg-visual-patterns",
+   "area": "ALG",
+   "name": "Growing Figure Patterns",
+   "desc": "A sequence of pictures (toothpicks, tiles, dots, stacked cubes) that grows stage by stage; count the pieces in a later stage."
+  },
+  {
+   "id": "nt-divisibility",
+   "area": "NT",
+   "name": "Divisibility & Divisibility Rules",
+   "desc": "Whether one number divides another, divisibility rules (3, 9, 11), multiples counting, 'how many integers divisible by'."
+  },
+  {
+   "id": "nt-divisors",
+   "area": "NT",
+   "name": "Divisors: Counting & Sums",
+   "desc": "Number of divisors, sum of divisors, perfect numbers, factor pairs."
+  },
+  {
+   "id": "nt-primes-factorization",
+   "area": "NT",
+   "name": "Primes & Prime Factorization",
+   "desc": "Primality, prime factorizations, largest prime factor, products of primes."
+  },
+  {
+   "id": "nt-gcd-lcm",
+   "area": "NT",
+   "name": "GCD & LCM",
+   "desc": "Greatest common divisor, least common multiple, simultaneous periodic events."
+  },
+  {
+   "id": "nt-modular",
+   "area": "NT",
+   "name": "Remainders & Modular Arithmetic",
+   "desc": "Remainders on division, congruences, Chinese remainder style problems."
+  },
+  {
+   "id": "nt-units-digit",
+   "area": "NT",
+   "name": "Units Digit & Last Digits",
+   "desc": "Last digit(s) of large powers or products, cyclic last-digit patterns."
+  },
+  {
+   "id": "nt-digits",
+   "area": "NT",
+   "name": "Digits & Digit Sums",
+   "desc": "Properties of decimal digits: digit sums, palindromes, reversing digits, numbers with digit constraints, decimal expansions."
+  },
+  {
+   "id": "nt-bases",
+   "area": "NT",
+   "name": "Number Bases",
+   "desc": "Numbers written in bases other than 10."
+  },
+  {
+   "id": "nt-diophantine",
+   "area": "NT",
+   "name": "Integer Equations (Diophantine)",
+   "desc": "Find integer/positive-integer solutions to an equation, SFFT (Simon's favourite factoring), coin/postage combinations."
+  },
+  {
+   "id": "nt-factorials",
+   "area": "NT",
+   "name": "Factorials & Trailing Zeros",
+   "desc": "Factorials, trailing zeros, powers of a prime dividing n!."
+  },
+  {
+   "id": "nt-squares-cubes",
+   "area": "NT",
+   "name": "Perfect Squares & Cubes",
+   "desc": "Perfect squares/cubes/powers, making an expression a perfect square."
+  },
+  {
+   "id": "nt-fractions-decimals",
+   "area": "NT",
+   "name": "Fractions, Decimals & Rationals",
+   "desc": "Repeating decimals, fractions in lowest terms, rational vs irrational, terminating decimals."
+  },
+  {
+   "id": "nt-parity",
+   "area": "NT",
+   "name": "Parity & Integer Properties",
+   "desc": "Odd/even arguments, integer constraints, consecutive integers."
+  },
+  {
+   "id": "cp-basic-counting",
+   "area": "CP",
+   "name": "Basic Counting & Casework",
+   "desc": "Count objects by listing or careful casework, multiplication principle, complementary counting."
+  },
+  {
+   "id": "cp-permutations",
+   "area": "CP",
+   "name": "Arrangements & Permutations",
+   "desc": "Ordering people/letters/objects in a line or circle, seating with restrictions, permutations of a word."
+  },
+  {
+   "id": "cp-combinations",
+   "area": "CP",
+   "name": "Combinations & Selections",
+   "desc": "Choosing subsets, committees, handshakes, binomial coefficients, subsets with properties."
+  },
+  {
+   "id": "cp-distributions",
+   "area": "CP",
+   "name": "Distributions & Stars and Bars",
+   "desc": "Distributing identical/distinct objects into groups, solutions to x1+...+xk = n."
+  },
+  {
+   "id": "cp-inclusion-exclusion",
+   "area": "CP",
+   "name": "Inclusion-Exclusion & Venn Diagrams",
+   "desc": "Overlapping sets, Venn diagrams, counting with overlaps."
+  },
+  {
+   "id": "cp-paths-grids",
+   "area": "CP",
+   "name": "Paths, Grids & Lattice Counting",
+   "desc": "Lattice paths, routes in a grid/graph, counting rectangles/squares in grids, colorings of grids."
+  },
+  {
+   "id": "cp-recursion-counting",
+   "area": "CP",
+   "name": "Recursive Counting & States",
+   "desc": "Counting via recursion (no two consecutive, tilings, stairs), states/transitions."
+  },
+  {
+   "id": "cp-probability-basic",
+   "area": "CP",
+   "name": "Probability: Discrete Outcomes",
+   "desc": "Probability with equally likely outcomes: drawing balls/cards, choosing numbers, random selections."
+  },
+  {
+   "id": "cp-probability-dice-coins",
+   "area": "CP",
+   "name": "Probability: Dice, Coins & Spinners",
+   "desc": "Probability problems built on dice rolls, coin flips, spinners."
+  },
+  {
+   "id": "cp-geometric-probability",
+   "area": "CP",
+   "name": "Geometric Probability",
+   "desc": "Probability measured by length/area/volume, random points in a region, random real numbers."
+  },
+  {
+   "id": "cp-expected-value",
+   "area": "CP",
+   "name": "Expected Value",
+   "desc": "Expected value, expected number of steps/outcomes."
+  },
+  {
+   "id": "cp-conditional-probability",
+   "area": "CP",
+   "name": "Conditional & Multi-stage Probability",
+   "desc": "Conditional probability, sequential processes, games of chance with stages, random walks/frogs/states with probability."
+  },
+  {
+   "id": "cp-pigeonhole",
+   "area": "CP",
+   "name": "Pigeonhole & Extremal Counting",
+   "desc": "Minimum needed to guarantee something, pigeonhole principle, worst case."
+  },
+  {
+   "id": "cp-symmetry-counting",
+   "area": "CP",
+   "name": "Counting with Symmetry",
+   "desc": "Count colorings/labelings/arrangements where rotations or reflections are considered the same (necklaces, cube labelings, circular arrangements up to symmetry)."
+  },
+  {
+   "id": "cp-graph-networks",
+   "area": "CP",
+   "name": "Graphs & Networks",
+   "desc": "Friendship/acquaintance networks, vertices and edges, tournaments as graphs, connecting points with segments, routes in networks of roads."
+  },
+  {
+   "id": "geo-angles",
+   "area": "GEO",
+   "name": "Angle Chasing",
+   "desc": "Find angle measures using parallel lines, triangle angle sums, isosceles triangles, polygons' angle sums, clock angles."
+  },
+  {
+   "id": "geo-triangle-area",
+   "area": "GEO",
+   "name": "Triangle Areas & Area Ratios",
+   "desc": "Areas of triangles, ratios of areas, Heron's formula, triangles sharing heights."
+  },
+  {
+   "id": "geo-pythagorean",
+   "area": "GEO",
+   "name": "Right Triangles & Pythagorean Theorem",
+   "desc": "Right triangles, Pythagorean triples, 30-60-90 and 45-45-90 triangles, distances via Pythagoras."
+  },
+  {
+   "id": "geo-similar",
+   "area": "GEO",
+   "name": "Similar Triangles",
+   "desc": "Problems solved by similar triangles, proportional segments, angle bisector theorem, parallel lines cutting triangles."
+  },
+  {
+   "id": "geo-triangle-centers",
+   "area": "GEO",
+   "name": "Triangle Centers, Inradius & Circumradius",
+   "desc": "Incircle/circumcircle radii, centroid, orthocenter, medians, special points of triangles."
+  },
+  {
+   "id": "geo-triangle-inequality",
+   "area": "GEO",
+   "name": "Triangle Inequality & Side Lengths",
+   "desc": "Possible side lengths, integer-sided triangles, triangle existence, perimeter constraints."
+  },
+  {
+   "id": "geo-quadrilaterals",
+   "area": "GEO",
+   "name": "Quadrilaterals (Rectangles, Trapezoids, Parallelograms)",
+   "desc": "Lengths and areas in squares, rectangles, trapezoids, rhombi, kites, parallelograms."
+  },
+  {
+   "id": "geo-polygons",
+   "area": "GEO",
+   "name": "Regular Polygons & Polygons",
+   "desc": "Regular hexagons/octagons/pentagons, polygon interior angles and areas, star polygons."
+  },
+  {
+   "id": "geo-circle-area",
+   "area": "GEO",
+   "name": "Circles: Area, Circumference & Arcs",
+   "desc": "Areas of circles/sectors/segments, arc lengths, circumference, rolling circles."
+  },
+  {
+   "id": "geo-circle-theorems",
+   "area": "GEO",
+   "name": "Circles: Chords, Tangents & Inscribed Angles",
+   "desc": "Tangent lines, chords, inscribed angles, power of a point, tangent circles, cyclic quadrilaterals."
+  },
+  {
+   "id": "geo-shaded-regions",
+   "area": "GEO",
+   "name": "Shaded & Composite Regions",
+   "desc": "Area of shaded/overlapping regions built from several shapes (circles+squares etc.)."
+  },
+  {
+   "id": "geo-coordinate",
+   "area": "GEO",
+   "name": "Coordinate Geometry",
+   "desc": "Geometry in coordinates: distances, areas of figures given by coordinates, shoelace, lattice points in regions, circles in coordinates."
+  },
+  {
+   "id": "geo-graph-regions",
+   "area": "GEO",
+   "name": "Graphs of Equations & Regions",
+   "desc": "Area/shape of region defined by equations or inequalities (|x|+|y|≤k, intersecting curves), parabolas and circles graphed."
+  },
+  {
+   "id": "geo-transformations",
+   "area": "GEO",
+   "name": "Reflections, Rotations & Folding",
+   "desc": "Reflections, rotations, translations, paper folding, symmetry."
+  },
+  {
+   "id": "geo-3d-volume",
+   "area": "GEO",
+   "name": "3D: Volume & Surface Area",
+   "desc": "Volumes and surface areas of prisms, cylinders, cones, spheres, pyramids."
+  },
+  {
+   "id": "geo-3d-cubes",
+   "area": "GEO",
+   "name": "3D: Cubes, Nets & Spatial Reasoning",
+   "desc": "Cubes built from unit cubes, painted cubes, nets, views, cross sections, space diagonals, tetrahedra/polyhedra structure."
+  },
+  {
+   "id": "geo-3d-spheres",
+   "area": "GEO",
+   "name": "3D: Spheres & Distances in Space",
+   "desc": "Spheres (tangent, stacked, inscribed), distances between points in 3D, 3D coordinates, curves on solids."
+  },
+  {
+   "id": "geo-perimeter-length",
+   "area": "GEO",
+   "name": "Perimeter & Lengths of Segments",
+   "desc": "Perimeters, lengths of paths/segments in figures, tiling and dissection lengths (not mainly triangle/circle methods)."
+  },
+  {
+   "id": "geo-grid-area",
+   "area": "GEO",
+   "name": "Areas on Grids & Cut-and-Rearrange",
+   "desc": "Area or perimeter of figures drawn on square/dot grids, counting unit squares, Pick-style counting, cutting a shape and rearranging the pieces."
+  },
+  {
+   "id": "misc-logic",
+   "area": "MISC",
+   "name": "Logic Puzzles & Truth-tellers",
+   "desc": "Liars/truth-tellers, deduction puzzles, who-did-what, statements that must be true."
+  },
+  {
+   "id": "misc-games",
+   "area": "MISC",
+   "name": "Games & Strategy",
+   "desc": "Two-player games, winning strategies, process/algorithm simulation with choices."
+  },
+  {
+   "id": "misc-calendar-clock",
+   "area": "MISC",
+   "name": "Calendars, Clocks & Time",
+   "desc": "Days of the week, dates, clock readings, time zones, elapsed time."
+  },
+  {
+   "id": "misc-units-measurement",
+   "area": "MISC",
+   "name": "Units, Measurement & Scale",
+   "desc": "Unit conversions (inches/feet, minutes/hours, cups/gallons), scale drawings and maps, measuring and estimating quantities."
+  },
+  {
+   "id": "misc-data-charts",
+   "area": "MISC",
+   "name": "Tables, Charts & Data Reading",
+   "desc": "Read information from a graph, bar chart, pie chart, or table."
+  },
+  {
+   "id": "misc-change-graphs",
+   "area": "MISC",
+   "name": "Graphs of Changing Quantities",
+   "desc": "Match a story to its graph, or read a story from a graph: distance from home over time, water level as a tank fills, speed-time graphs of a trip."
+  },
+  {
+   "id": "misc-money-everyday",
+   "area": "MISC",
+   "name": "Everyday Arithmetic & Money",
+   "desc": "Short real-life arithmetic: prices, tips, change, unit pricing, simple estimation (usually early problems)."
+  },
+  {
+   "id": "misc-process-simulation",
+   "area": "MISC",
+   "name": "Processes, Operations & Invariants",
+   "desc": "Repeated operations, simulations, invariants, tournament/sports scheduling, card shuffles, number games on a board."
+  },
+  {
+   "id": "misc-magic-squares",
+   "area": "MISC",
+   "name": "Magic Squares & Number Placement",
+   "desc": "Filling grids/figures with numbers so sums match, cryptarithms, digit placement puzzles."
+  }
+ ]
+}

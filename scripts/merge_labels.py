@@ -1,20 +1,19 @@
-"""Combine the classification passes into data/classification.json.
+"""Combine the classification passes into data/<contest>/classification.json (paths below are inside data/<contest>/).
 
-Pass A  (LLM, "what is the problem about")      data/labels/passA/*.json
-Pass B  (LLM, "what technique solves it")        data/labels/passB/*.json
-Pass C  (keyword rules, scripts/keyword_classify) data/labels/passC.json
-Adjudication of A/B disagreements (LLM judge)    data/labels/adjudicated/*.json
-Manual overrides (edit this to iterate!)         data/overrides.json
+Pass A  (LLM, "what is the problem about")      labels/passA/*.json
+Pass B  (LLM, "what technique solves it")        labels/passB/*.json
+Pass C  (keyword rules, scripts/keyword_classify) labels/passC.json
+Adjudication of A/B disagreements (LLM judge)    labels/adjudicated/*.json
+Manual overrides (edit this to iterate!)         overrides.json
 
 Final primary = override > adjudicated > A (when A == B).
-Usage:  python3 scripts/merge_labels.py            -> writes classification.json + report
-        python3 scripts/merge_labels.py --disputes -> also writes data/labels/disputes_*.txt for adjudication
+Usage:  python3 scripts/merge_labels.py [amc10|amc8]            -> writes classification.json + report
+        python3 scripts/merge_labels.py --disputes -> also writes labels/disputes_*.txt for adjudication
 """
 import glob, json, os, sys
 from collections import Counter
 
-ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..')
-P = lambda *a: os.path.join(ROOT, *a)
+from contest import D as P
 
 
 def load_dir(d):
@@ -26,13 +25,13 @@ def load_dir(d):
 
 
 def main():
-    tax = json.load(open(P('data/taxonomy.json')))
+    tax = json.load(open(P('taxonomy.json')))
     valid = {c['id'] for c in tax['categories']}
-    problems = json.load(open(P('data/problems.json')))
-    A, B = load_dir('data/labels/passA'), load_dir('data/labels/passB')
-    C = {r['id']: r for r in json.load(open(P('data/labels/passC.json')))}
-    J = load_dir('data/labels/adjudicated')
-    overrides = json.load(open(P('data/overrides.json'))) if os.path.exists(P('data/overrides.json')) else {}
+    problems = json.load(open(P('problems.json')))
+    A, B = load_dir('labels/passA'), load_dir('labels/passB')
+    C = {r['id']: r for r in json.load(open(P('labels/passC.json')))}
+    J = load_dir('labels/adjudicated')
+    overrides = json.load(open(P('overrides.json'))) if os.path.exists(P('overrides.json')) else {}
 
     result, disputes, stats = {}, [], Counter()
     for p in problems:
@@ -72,7 +71,7 @@ def main():
         for x in [primary] + sec:
             assert x is None or x in valid, (pid, x)
 
-    json.dump(result, open(P('data/classification.json'), 'w'), indent=1)
+    json.dump(result, open(P('classification.json'), 'w'), indent=1)
     print(dict(stats))
     counts = Counter(r['primary'] for r in result.values())
     print('categories used:', len([k for k in counts if k]), '/', len(valid))
@@ -92,7 +91,7 @@ def main():
         n = 4
         for i in range(n):
             chunk = ds[i::n]
-            with open(P(f'data/labels/disputes_{i + 1}.txt'), 'w') as f:
+            with open(P(f'labels/disputes_{i + 1}.txt'), 'w') as f:
                 for p in chunk:
                     r = result[p['id']]
                     notes = '; '.join(x for x in [A[p['id']].get('suggest'), B[p['id']].get('suggest')] if x)

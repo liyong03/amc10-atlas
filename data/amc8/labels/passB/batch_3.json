@@ -1,0 +1,1112 @@
+[
+ {
+  "id": "2015-21",
+  "primary": "geo-triangle-area",
+  "secondary": [
+   "geo-angles",
+   "geo-polygons"
+  ],
+  "key_idea": "Angles around B (120+90+60) leave a right angle; use legs from square areas.",
+  "confidence": "medium"
+ },
+ {
+  "id": "2015-22",
+  "primary": "nt-divisors",
+  "secondary": [
+   "nt-gcd-lcm"
+  ],
+  "key_idea": "Each arrangement is a divisor; need exactly 12 divisors and a multiple of 30.",
+  "confidence": "high"
+ },
+ {
+  "id": "2015-23",
+  "primary": "misc-logic",
+  "secondary": [
+   "misc-magic-squares"
+  ],
+  "key_idea": "Total sum fixes the five consecutive cup sums; deduce slip placements.",
+  "confidence": "medium"
+ },
+ {
+  "id": "2015-24",
+  "primary": "nt-diophantine",
+  "secondary": [
+   "alg-inequalities-optimization"
+  ],
+  "key_idea": "Write 3N + 4M = 76 and test integers meeting the inequalities.",
+  "confidence": "high"
+ },
+ {
+  "id": "2015-25",
+  "primary": "geo-quadrilaterals",
+  "secondary": [
+   "geo-pythagorean",
+   "geo-similar"
+  ],
+  "key_idea": "Tilt the square 45 degrees so its sides touch the inner corners.",
+  "confidence": "low"
+ },
+ {
+  "id": "2014-01",
+  "primary": "alg-arith-compute",
+  "secondary": [],
+  "key_idea": "Evaluate both expressions carefully, respecting parentheses for one.",
+  "confidence": "high"
+ },
+ {
+  "id": "2014-02",
+  "primary": "misc-money-everyday",
+  "secondary": [
+   "nt-diophantine"
+  ],
+  "key_idea": "Use the biggest coins for fewest, all nickels for most.",
+  "confidence": "high"
+ },
+ {
+  "id": "2014-03",
+  "primary": "alg-mean-median",
+  "secondary": [],
+  "key_idea": "Turn each average into a total by multiplying by the number of days.",
+  "confidence": "high"
+ },
+ {
+  "id": "2014-04",
+  "primary": "nt-primes-factorization",
+  "secondary": [
+   "nt-parity"
+  ],
+  "key_idea": "An odd sum of two primes forces one prime to be 2.",
+  "confidence": "high"
+ },
+ {
+  "id": "2014-05",
+  "primary": "misc-money-everyday",
+  "secondary": [
+   "alg-percent-ratio"
+  ],
+  "key_idea": "Find how many gallons the money buys, then multiply by miles per gallon.",
+  "confidence": "high"
+ },
+ {
+  "id": "2014-06",
+  "primary": "alg-arith-compute",
+  "secondary": [
+   "geo-quadrilaterals"
+  ],
+  "key_idea": "Factor out the common width and add the perfect-square lengths.",
+  "confidence": "medium"
+ },
+ {
+  "id": "2014-07",
+  "primary": "alg-systems",
+  "secondary": [
+   "alg-percent-ratio"
+  ],
+  "key_idea": "Use sum and difference of girls and boys to find each count.",
+  "confidence": "high"
+ },
+ {
+  "id": "2014-08",
+  "primary": "nt-divisibility",
+  "secondary": [],
+  "key_idea": "The total must be a multiple of 11; use the 11 divisibility rule.",
+  "confidence": "high"
+ },
+ {
+  "id": "2014-09",
+  "primary": "geo-angles",
+  "secondary": [],
+  "key_idea": "Isosceles triangle BDC plus exterior angle at D gives angle ADB.",
+  "confidence": "high"
+ },
+ {
+  "id": "2014-10",
+  "primary": "misc-calendar-clock",
+  "secondary": [],
+  "key_idea": "Count carefully to find the year of the seventh contest, then subtract.",
+  "confidence": "high"
+ },
+ {
+  "id": "2014-11",
+  "primary": "cp-paths-grids",
+  "secondary": [],
+  "key_idea": "Count all grid paths and subtract those through the blocked corner.",
+  "confidence": "high"
+ },
+ {
+  "id": "2014-12",
+  "primary": "cp-probability-basic",
+  "secondary": [
+   "cp-permutations"
+  ],
+  "key_idea": "Only one of all possible matchings is fully correct.",
+  "confidence": "high"
+ },
+ {
+  "id": "2014-13",
+  "primary": "nt-parity",
+  "secondary": [],
+  "key_idea": "Squares keep parity, so n and m must have the same parity.",
+  "confidence": "high"
+ },
+ {
+  "id": "2014-14",
+  "primary": "geo-pythagorean",
+  "secondary": [
+   "geo-triangle-area"
+  ],
+  "key_idea": "Equal areas give leg CE; then Pythagorean theorem for DE.",
+  "confidence": "high"
+ },
+ {
+  "id": "2014-15",
+  "primary": "geo-circle-theorems",
+  "secondary": [],
+  "key_idea": "Each arc is 30 degrees; inscribed angle is half its arc.",
+  "confidence": "high"
+ },
+ {
+  "id": "2014-16",
+  "primary": "cp-combinations",
+  "secondary": [
+   "misc-process-simulation"
+  ],
+  "key_idea": "Count pairs of conference teams twice, then add non-conference games.",
+  "confidence": "medium"
+ },
+ {
+  "id": "2014-17",
+  "primary": "alg-rates",
+  "secondary": [],
+  "key_idea": "Find the usual total time, subtract time used, then speed = distance/time.",
+  "confidence": "high"
+ },
+ {
+  "id": "2014-18",
+  "primary": "cp-probability-dice-coins",
+  "secondary": [
+   "cp-combinations"
+  ],
+  "key_idea": "Count arrangements of boys and girls for each outcome using combinations.",
+  "confidence": "high"
+ },
+ {
+  "id": "2014-19",
+  "primary": "geo-3d-cubes",
+  "secondary": [],
+  "key_idea": "Hide white cubes in the center and face centers to minimize exposure.",
+  "confidence": "high"
+ },
+ {
+  "id": "2014-20",
+  "primary": "geo-shaded-regions",
+  "secondary": [
+   "geo-circle-area"
+  ],
+  "key_idea": "Subtract the three quarter-circles from the rectangle area.",
+  "confidence": "high"
+ },
+ {
+  "id": "2014-21",
+  "primary": "nt-divisibility",
+  "secondary": [
+   "nt-modular"
+  ],
+  "key_idea": "Use digit sums divisible by 3 to constrain A, B, then C.",
+  "confidence": "high"
+ },
+ {
+  "id": "2014-22",
+  "primary": "nt-digits",
+  "secondary": [
+   "alg-linear-word"
+  ],
+  "key_idea": "Write the number as 10a+b and simplify the given equation.",
+  "confidence": "high"
+ },
+ {
+  "id": "2014-23",
+  "primary": "nt-primes-factorization",
+  "secondary": [
+   "misc-logic"
+  ],
+  "key_idea": "List 2-digit primes whose pair sums are at most 31.",
+  "confidence": "medium"
+ },
+ {
+  "id": "2014-24",
+  "primary": "alg-mean-median",
+  "secondary": [
+   "alg-inequalities-optimization"
+  ],
+  "key_idea": "Give the lower half just one can each to push the median up.",
+  "confidence": "high"
+ },
+ {
+  "id": "2014-25",
+  "primary": "geo-circle-area",
+  "secondary": [
+   "alg-rates"
+  ],
+  "key_idea": "Path length equals half-circumferences across the road; then time = distance/speed.",
+  "confidence": "high"
+ },
+ {
+  "id": "2013-01",
+  "primary": "nt-divisibility",
+  "secondary": [],
+  "key_idea": "Find the next multiple of 6 after 23.",
+  "confidence": "high"
+ },
+ {
+  "id": "2013-02",
+  "primary": "alg-percent-ratio",
+  "secondary": [
+   "misc-money-everyday"
+  ],
+  "key_idea": "Undo the 50% discount, then double for a full pound.",
+  "confidence": "high"
+ },
+ {
+  "id": "2013-03",
+  "primary": "alg-arith-compute",
+  "secondary": [
+   "alg-arith-seq"
+  ],
+  "key_idea": "Pair consecutive terms so each pair equals 1.",
+  "confidence": "high"
+ },
+ {
+  "id": "2013-04",
+  "primary": "misc-money-everyday",
+  "secondary": [
+   "alg-linear-word"
+  ],
+  "key_idea": "The extra payments together equal one person's share of the bill.",
+  "confidence": "high"
+ },
+ {
+  "id": "2013-05",
+  "primary": "alg-mean-median",
+  "secondary": [],
+  "key_idea": "Compute mean and median; the outlier pulls the mean up.",
+  "confidence": "high"
+ },
+ {
+  "id": "2013-06",
+  "primary": "misc-magic-squares",
+  "secondary": [
+   "alg-arith-compute"
+  ],
+  "key_idea": "Work upward by dividing products to find the missing number.",
+  "confidence": "medium"
+ },
+ {
+  "id": "2013-07",
+  "primary": "alg-percent-ratio",
+  "secondary": [
+   "alg-rates"
+  ],
+  "key_idea": "Use the cars-per-second rate and scale up to the full time.",
+  "confidence": "medium"
+ },
+ {
+  "id": "2013-08",
+  "primary": "cp-probability-dice-coins",
+  "secondary": [],
+  "key_idea": "List all 8 outcomes and count those with HH in a row.",
+  "confidence": "high"
+ },
+ {
+  "id": "2013-09",
+  "primary": "alg-geom-seq",
+  "secondary": [
+   "alg-exponents-radicals"
+  ],
+  "key_idea": "Jump n is 2 to the (n-1); compare powers of 2 with 1000.",
+  "confidence": "high"
+ },
+ {
+  "id": "2013-10",
+  "primary": "nt-gcd-lcm",
+  "secondary": [
+   "nt-primes-factorization"
+  ],
+  "key_idea": "Prime factorize both numbers to get GCD and LCM.",
+  "confidence": "high"
+ },
+ {
+  "id": "2013-11",
+  "primary": "alg-rates",
+  "secondary": [],
+  "key_idea": "Compute each day's time as distance divided by speed and compare.",
+  "confidence": "high"
+ },
+ {
+  "id": "2013-12",
+  "primary": "alg-percent-ratio",
+  "secondary": [
+   "misc-money-everyday"
+  ],
+  "key_idea": "Add up the savings and divide by the regular total.",
+  "confidence": "high"
+ },
+ {
+  "id": "2013-13",
+  "primary": "nt-digits",
+  "secondary": [
+   "nt-divisibility"
+  ],
+  "key_idea": "Swapping two digits changes the number by a multiple of 9.",
+  "confidence": "high"
+ },
+ {
+  "id": "2013-14",
+  "primary": "cp-probability-basic",
+  "secondary": [],
+  "key_idea": "Add probabilities of matching each color, multiplying independent choices.",
+  "confidence": "high"
+ },
+ {
+  "id": "2013-15",
+  "primary": "alg-exponents-radicals",
+  "secondary": [],
+  "key_idea": "Isolate each power and recognize which power of the base it is.",
+  "confidence": "high"
+ },
+ {
+  "id": "2013-16",
+  "primary": "alg-percent-ratio",
+  "secondary": [
+   "nt-gcd-lcm"
+  ],
+  "key_idea": "Scale both ratios so the 8th-grader parts match using an LCM.",
+  "confidence": "high"
+ },
+ {
+  "id": "2013-17",
+  "primary": "alg-arith-seq",
+  "secondary": [
+   "alg-linear-word"
+  ],
+  "key_idea": "The average of consecutive integers sits in the middle of the list.",
+  "confidence": "medium"
+ },
+ {
+  "id": "2013-18",
+  "primary": "geo-3d-volume",
+  "secondary": [
+   "geo-3d-cubes"
+  ],
+  "key_idea": "Subtract the hollow interior volume from the full box volume.",
+  "confidence": "high"
+ },
+ {
+  "id": "2013-19",
+  "primary": "misc-logic",
+  "secondary": [],
+  "key_idea": "Each girl's statement only makes sense relative to Hannah's known score.",
+  "confidence": "high"
+ },
+ {
+  "id": "2013-20",
+  "primary": "geo-pythagorean",
+  "secondary": [
+   "geo-circle-area"
+  ],
+  "key_idea": "Center is the long side's midpoint; radius reaches a top corner by Pythagoras.",
+  "confidence": "high"
+ },
+ {
+  "id": "2013-21",
+  "primary": "cp-paths-grids",
+  "secondary": [
+   "cp-combinations"
+  ],
+  "key_idea": "Multiply the shortest-path counts for the two street portions.",
+  "confidence": "high"
+ },
+ {
+  "id": "2013-22",
+  "primary": "cp-basic-counting",
+  "secondary": [
+   "cp-paths-grids"
+  ],
+  "key_idea": "Count horizontal and vertical toothpick lines separately.",
+  "confidence": "medium"
+ },
+ {
+  "id": "2013-23",
+  "primary": "geo-pythagorean",
+  "secondary": [
+   "geo-circle-area"
+  ],
+  "key_idea": "Get two sides from semicircle area and arc length, then Pythagoras.",
+  "confidence": "high"
+ },
+ {
+  "id": "2013-24",
+  "primary": "geo-shaded-regions",
+  "secondary": [
+   "geo-triangle-area"
+  ],
+  "key_idea": "Use midpoints to split the pentagon into simple square and triangle pieces.",
+  "confidence": "medium"
+ },
+ {
+  "id": "2013-25",
+  "primary": "geo-circle-area",
+  "secondary": [],
+  "key_idea": "The ball's center follows arcs with radius shifted by the ball's radius.",
+  "confidence": "high"
+ },
+ {
+  "id": "2012-01",
+  "primary": "alg-percent-ratio",
+  "secondary": [],
+  "key_idea": "Set up a proportion: triple the burgers needs triple the meat.",
+  "confidence": "high"
+ },
+ {
+  "id": "2012-02",
+  "primary": "misc-units-measurement",
+  "secondary": [
+   "alg-percent-ratio"
+  ],
+  "key_idea": "Find net births per day, then multiply by days in a year.",
+  "confidence": "high"
+ },
+ {
+  "id": "2012-03",
+  "primary": "misc-calendar-clock",
+  "secondary": [],
+  "key_idea": "Add the daylight length to the sunrise time.",
+  "confidence": "high"
+ },
+ {
+  "id": "2012-04",
+  "primary": "alg-fraction-word",
+  "secondary": [
+   "alg-arith-compute"
+  ],
+  "key_idea": "Peter ate one and a half slices out of twelve.",
+  "confidence": "high"
+ },
+ {
+  "id": "2012-05",
+  "primary": "geo-perimeter-length",
+  "secondary": [],
+  "key_idea": "In a right-angled figure, opposite horizontal lengths must add to the same total.",
+  "confidence": "high"
+ },
+ {
+  "id": "2012-06",
+  "primary": "geo-quadrilaterals",
+  "secondary": [
+   "geo-shaded-regions"
+  ],
+  "key_idea": "Subtract the photo area from the larger framed rectangle area.",
+  "confidence": "high"
+ },
+ {
+  "id": "2012-07",
+  "primary": "alg-mean-median",
+  "secondary": [
+   "alg-inequalities-optimization"
+  ],
+  "key_idea": "Assume a perfect 100 on the last test to minimize the third score.",
+  "confidence": "high"
+ },
+ {
+  "id": "2012-08",
+  "primary": "alg-percent-ratio",
+  "secondary": [],
+  "key_idea": "Multiply the successive discount factors together.",
+  "confidence": "high"
+ },
+ {
+  "id": "2012-09",
+  "primary": "alg-systems",
+  "secondary": [],
+  "key_idea": "Two equations from heads and legs; solve for birds.",
+  "confidence": "high"
+ },
+ {
+  "id": "2012-10",
+  "primary": "cp-permutations",
+  "secondary": [],
+  "key_idea": "Arrange digits with a repeated 2, excluding a leading zero.",
+  "confidence": "high"
+ },
+ {
+  "id": "2012-11",
+  "primary": "alg-mean-median",
+  "secondary": [],
+  "key_idea": "The mode is 6, so mean and median must also be 6.",
+  "confidence": "high"
+ },
+ {
+  "id": "2012-12",
+  "primary": "nt-units-digit",
+  "secondary": [],
+  "key_idea": "Only the units digit 3 matters; its powers cycle every 4.",
+  "confidence": "high"
+ },
+ {
+  "id": "2012-13",
+  "primary": "nt-gcd-lcm",
+  "secondary": [
+   "nt-primes-factorization"
+  ],
+  "key_idea": "The pencil price must be a common factor of 143 and 187.",
+  "confidence": "high"
+ },
+ {
+  "id": "2012-14",
+  "primary": "cp-combinations",
+  "secondary": [],
+  "key_idea": "Number of games is n choose 2; solve for n.",
+  "confidence": "high"
+ },
+ {
+  "id": "2012-15",
+  "primary": "nt-gcd-lcm",
+  "secondary": [
+   "nt-modular"
+  ],
+  "key_idea": "Take the LCM of the divisors and add the remainder.",
+  "confidence": "high"
+ },
+ {
+  "id": "2012-16",
+  "primary": "nt-digits",
+  "secondary": [
+   "misc-magic-squares"
+  ],
+  "key_idea": "Place-value: pair the largest digits in the highest places.",
+  "confidence": "medium"
+ },
+ {
+  "id": "2012-17",
+  "primary": "geo-grid-area",
+  "secondary": [
+   "nt-squares-cubes"
+  ],
+  "key_idea": "Total area equals 8 plus two square areas; test small side lengths.",
+  "confidence": "medium"
+ },
+ {
+  "id": "2012-18",
+  "primary": "nt-primes-factorization",
+  "secondary": [],
+  "key_idea": "Multiply the two smallest primes above 50 (distinct, not a square).",
+  "confidence": "high"
+ },
+ {
+  "id": "2012-19",
+  "primary": "alg-systems",
+  "secondary": [],
+  "key_idea": "Add the three 'all but' equations to get twice the total.",
+  "confidence": "high"
+ },
+ {
+  "id": "2012-20",
+  "primary": "nt-fractions-decimals",
+  "secondary": [
+   "alg-inequalities-optimization"
+  ],
+  "key_idea": "Compare fractions by cross-multiplying or comparing distance from 1.",
+  "confidence": "medium"
+ },
+ {
+  "id": "2012-21",
+  "primary": "geo-3d-volume",
+  "secondary": [
+   "geo-3d-cubes"
+  ],
+  "key_idea": "Split green paint over six faces; white is face area minus green.",
+  "confidence": "high"
+ },
+ {
+  "id": "2012-22",
+  "primary": "alg-mean-median",
+  "secondary": [
+   "cp-basic-counting"
+  ],
+  "key_idea": "Casework on where the three new numbers fall relative to the list.",
+  "confidence": "high"
+ },
+ {
+  "id": "2012-23",
+  "primary": "geo-polygons",
+  "secondary": [
+   "geo-similar"
+  ],
+  "key_idea": "Split both shapes into small equilateral triangles of the hexagon's side.",
+  "confidence": "high"
+ },
+ {
+  "id": "2012-24",
+  "primary": "geo-shaded-regions",
+  "secondary": [
+   "geo-circle-area"
+  ],
+  "key_idea": "The star equals a square minus the circle's area rearranged.",
+  "confidence": "high"
+ },
+ {
+  "id": "2012-25",
+  "primary": "geo-pythagorean",
+  "secondary": [
+   "alg-factoring-identities"
+  ],
+  "key_idea": "Use a+b and a squared plus b squared to find ab via (a+b) squared.",
+  "confidence": "medium"
+ },
+ {
+  "id": "2011-01",
+  "primary": "misc-money-everyday",
+  "secondary": [],
+  "key_idea": "Subtract the cost of apples from five dollars.",
+  "confidence": "high"
+ },
+ {
+  "id": "2011-02",
+  "primary": "geo-quadrilaterals",
+  "secondary": [],
+  "key_idea": "Compute and compare the two rectangle areas.",
+  "confidence": "high"
+ },
+ {
+  "id": "2011-03",
+  "primary": "geo-grid-area",
+  "secondary": [
+   "alg-percent-ratio"
+  ],
+  "key_idea": "The border makes a 7 by 7 square; white count stays the same.",
+  "confidence": "medium"
+ },
+ {
+  "id": "2011-04",
+  "primary": "alg-mean-median",
+  "secondary": [],
+  "key_idea": "Sort the data, then compute mean, median, and mode.",
+  "confidence": "high"
+ },
+ {
+  "id": "2011-05",
+  "primary": "misc-calendar-clock",
+  "secondary": [],
+  "key_idea": "Convert minutes to hours and minutes past midnight.",
+  "confidence": "high"
+ },
+ {
+  "id": "2011-06",
+  "primary": "cp-inclusion-exclusion",
+  "secondary": [],
+  "key_idea": "Find the overlap using car plus motorcycle owners minus total.",
+  "confidence": "high"
+ },
+ {
+  "id": "2011-07",
+  "primary": "geo-grid-area",
+  "secondary": [
+   "alg-percent-ratio"
+  ],
+  "key_idea": "Find the bolded fraction of each square, then average them.",
+  "confidence": "medium"
+ },
+ {
+  "id": "2011-08",
+  "primary": "cp-basic-counting",
+  "secondary": [],
+  "key_idea": "List the possible sums of odd plus even chips.",
+  "confidence": "high"
+ },
+ {
+  "id": "2011-09",
+  "primary": "misc-data-charts",
+  "secondary": [
+   "alg-rates"
+  ],
+  "key_idea": "Read total distance and total time from the graph.",
+  "confidence": "high"
+ },
+ {
+  "id": "2011-10",
+  "primary": "misc-money-everyday",
+  "secondary": [
+   "alg-linear-word"
+  ],
+  "key_idea": "Subtract tip and base fare, then convert the remaining money to distance.",
+  "confidence": "high"
+ },
+ {
+  "id": "2011-11",
+  "primary": "misc-data-charts",
+  "secondary": [
+   "alg-mean-median"
+  ],
+  "key_idea": "Add the daily differences from the graph and divide by days.",
+  "confidence": "high"
+ },
+ {
+  "id": "2011-12",
+  "primary": "cp-probability-basic",
+  "secondary": [
+   "cp-permutations"
+  ],
+  "key_idea": "Fix Angie's seat; Carlos has three equally likely seats.",
+  "confidence": "high"
+ },
+ {
+  "id": "2011-13",
+  "primary": "geo-quadrilaterals",
+  "secondary": [
+   "geo-shaded-regions"
+  ],
+  "key_idea": "The overlap width is 2(15) minus 25; compare overlap to rectangle area.",
+  "confidence": "high"
+ },
+ {
+  "id": "2011-14",
+  "primary": "alg-percent-ratio",
+  "secondary": [],
+  "key_idea": "Find girls at each school from the ratios, then combine.",
+  "confidence": "high"
+ },
+ {
+  "id": "2011-15",
+  "primary": "alg-exponents-radicals",
+  "secondary": [
+   "nt-digits"
+  ],
+  "key_idea": "Rewrite as a power of 10 by pairing 2s with 5s.",
+  "confidence": "high"
+ },
+ {
+  "id": "2011-16",
+  "primary": "geo-pythagorean",
+  "secondary": [
+   "geo-triangle-area"
+  ],
+  "key_idea": "Split each isosceles triangle into two right triangles to find heights.",
+  "confidence": "high"
+ },
+ {
+  "id": "2011-17",
+  "primary": "nt-primes-factorization",
+  "secondary": [],
+  "key_idea": "Prime factorize 588 to read off the exponents.",
+  "confidence": "high"
+ },
+ {
+  "id": "2011-18",
+  "primary": "cp-probability-dice-coins",
+  "secondary": [],
+  "key_idea": "Count pairs where first is at least second, using symmetry.",
+  "confidence": "high"
+ },
+ {
+  "id": "2011-19",
+  "primary": "cp-basic-counting",
+  "secondary": [
+   "cp-paths-grids"
+  ],
+  "key_idea": "Systematically count rectangles by size in the figure.",
+  "confidence": "medium"
+ },
+ {
+  "id": "2011-20",
+  "primary": "geo-pythagorean",
+  "secondary": [
+   "geo-quadrilaterals"
+  ],
+  "key_idea": "Use right triangles at the legs to find the other base.",
+  "confidence": "high"
+ },
+ {
+  "id": "2011-21",
+  "primary": "misc-logic",
+  "secondary": [
+   "nt-primes-factorization"
+  ],
+  "key_idea": "Combine 'half guessed low' and 'two off by one' to find the prime.",
+  "confidence": "high"
+ },
+ {
+  "id": "2011-22",
+  "primary": "nt-units-digit",
+  "secondary": [
+   "nt-modular"
+  ],
+  "key_idea": "The last two digits of powers of 7 repeat every 4.",
+  "confidence": "high"
+ },
+ {
+  "id": "2011-23",
+  "primary": "cp-basic-counting",
+  "secondary": [
+   "cp-permutations"
+  ],
+  "key_idea": "Casework on the units digit being 0 or 5.",
+  "confidence": "high"
+ },
+ {
+  "id": "2011-24",
+  "primary": "nt-parity",
+  "secondary": [
+   "nt-primes-factorization"
+  ],
+  "key_idea": "An odd sum forces one prime to be 2; check the other.",
+  "confidence": "high"
+ },
+ {
+  "id": "2011-25",
+  "primary": "geo-shaded-regions",
+  "secondary": [
+   "geo-circle-area"
+  ],
+  "key_idea": "Compare circle-minus-inner-square to outer-minus-inner square areas.",
+  "confidence": "high"
+ },
+ {
+  "id": "2010-01",
+  "primary": "alg-arith-compute",
+  "secondary": [],
+  "key_idea": "Add the class sizes, ignoring the distracting names.",
+  "confidence": "high"
+ },
+ {
+  "id": "2010-02",
+  "primary": "alg-custom-op",
+  "secondary": [],
+  "key_idea": "Plug the numbers into the given rule.",
+  "confidence": "high"
+ },
+ {
+  "id": "2010-03",
+  "primary": "misc-data-charts",
+  "secondary": [
+   "alg-percent-ratio"
+  ],
+  "key_idea": "Read highest and lowest prices, then compute percent increase.",
+  "confidence": "high"
+ },
+ {
+  "id": "2010-04",
+  "primary": "alg-mean-median",
+  "secondary": [],
+  "key_idea": "Sort the data, then find mean, median, and mode.",
+  "confidence": "high"
+ },
+ {
+  "id": "2010-05",
+  "primary": "misc-units-measurement",
+  "secondary": [
+   "alg-linear-word"
+  ],
+  "key_idea": "Convert everything to centimeters and compare heights.",
+  "confidence": "high"
+ },
+ {
+  "id": "2010-06",
+  "primary": "geo-transformations",
+  "secondary": [
+   "geo-polygons"
+  ],
+  "key_idea": "Count lines of symmetry for each shape.",
+  "confidence": "high"
+ },
+ {
+  "id": "2010-07",
+  "primary": "misc-money-everyday",
+  "secondary": [
+   "alg-inequalities-optimization"
+  ],
+  "key_idea": "Choose the fewest coins of each type that cover every amount.",
+  "confidence": "medium"
+ },
+ {
+  "id": "2010-08",
+  "primary": "alg-rates",
+  "secondary": [],
+  "key_idea": "Use the relative speed to cover the one-mile gap.",
+  "confidence": "high"
+ },
+ {
+  "id": "2010-09",
+  "primary": "alg-percent-ratio",
+  "secondary": [],
+  "key_idea": "Count total correct problems, then divide by total problems.",
+  "confidence": "high"
+ },
+ {
+  "id": "2010-10",
+  "primary": "geo-circle-area",
+  "secondary": [
+   "alg-percent-ratio"
+  ],
+  "key_idea": "Find pepperoni radius, compare total pepperoni area to pizza area.",
+  "confidence": "high"
+ },
+ {
+  "id": "2010-11",
+  "primary": "alg-percent-ratio",
+  "secondary": [],
+  "key_idea": "The 16-foot difference is one part of the 3:4 ratio.",
+  "confidence": "high"
+ },
+ {
+  "id": "2010-12",
+  "primary": "alg-percent-ratio",
+  "secondary": [],
+  "key_idea": "Blue balls stay fixed; make them 25% of the new total.",
+  "confidence": "high"
+ },
+ {
+  "id": "2010-13",
+  "primary": "alg-linear-word",
+  "secondary": [
+   "alg-percent-ratio"
+  ],
+  "key_idea": "Let sides be n, n+1, n+2 and set n equal to 30% of the perimeter.",
+  "confidence": "high"
+ },
+ {
+  "id": "2010-14",
+  "primary": "nt-primes-factorization",
+  "secondary": [],
+  "key_idea": "Prime factorize 2010 and add the primes.",
+  "confidence": "high"
+ },
+ {
+  "id": "2010-15",
+  "primary": "alg-percent-ratio",
+  "secondary": [],
+  "key_idea": "Green is the leftover percent; use it to find the total.",
+  "confidence": "high"
+ },
+ {
+  "id": "2010-16",
+  "primary": "geo-circle-area",
+  "secondary": [
+   "alg-exponents-radicals"
+  ],
+  "key_idea": "Set side squared equal to pi r squared and take square roots.",
+  "confidence": "high"
+ },
+ {
+  "id": "2010-17",
+  "primary": "geo-triangle-area",
+  "secondary": [
+   "geo-grid-area"
+  ],
+  "key_idea": "Half the area is below PQ; solve for the triangle height.",
+  "confidence": "high"
+ },
+ {
+  "id": "2010-18",
+  "primary": "geo-circle-area",
+  "secondary": [
+   "alg-percent-ratio"
+  ],
+  "key_idea": "The two semicircles form one full circle; compare to the rectangle.",
+  "confidence": "high"
+ },
+ {
+  "id": "2010-19",
+  "primary": "geo-circle-theorems",
+  "secondary": [
+   "geo-pythagorean",
+   "geo-circle-area"
+  ],
+  "key_idea": "Tangent is perpendicular to radius; annulus area uses R squared minus r squared.",
+  "confidence": "high"
+ },
+ {
+  "id": "2010-20",
+  "primary": "cp-inclusion-exclusion",
+  "secondary": [
+   "nt-gcd-lcm"
+  ],
+  "key_idea": "Minimum overlap is sum of fractions minus 1; total must be a multiple of 20.",
+  "confidence": "high"
+ },
+ {
+  "id": "2010-21",
+  "primary": "alg-fraction-word",
+  "secondary": [],
+  "key_idea": "Work backwards from the 62 pages, undoing each day.",
+  "confidence": "high"
+ },
+ {
+  "id": "2010-22",
+  "primary": "nt-digits",
+  "secondary": [],
+  "key_idea": "Original minus reversed equals 99 times the difference of end digits.",
+  "confidence": "high"
+ },
+ {
+  "id": "2010-23",
+  "primary": "geo-circle-area",
+  "secondary": [
+   "geo-pythagorean"
+  ],
+  "key_idea": "The semicircle diameter is a chord at a right angle at O.",
+  "confidence": "medium"
+ },
+ {
+  "id": "2010-24",
+  "primary": "alg-exponents-radicals",
+  "secondary": [],
+  "key_idea": "Rewrite the powers with a common exponent to compare bases.",
+  "confidence": "high"
+ },
+ {
+  "id": "2010-25",
+  "primary": "cp-recursion-counting",
+  "secondary": [],
+  "key_idea": "Ways to reach step n is the sum of the previous three step counts.",
+  "confidence": "high"
+ },
+ {
+  "id": "2009-01",
+  "primary": "alg-fraction-word",
+  "secondary": [],
+  "key_idea": "Work backwards: add Cassie's and Bridget's apples, then double.",
+  "confidence": "high"
+ },
+ {
+  "id": "2009-02",
+  "primary": "alg-percent-ratio",
+  "secondary": [],
+  "key_idea": "Scale the 4:7 ratio up to 28 sports cars.",
+  "confidence": "high"
+ },
+ {
+  "id": "2009-03",
+  "primary": "misc-data-charts",
+  "secondary": [
+   "alg-rates"
+  ],
+  "key_idea": "Read the speed from the graph, then use half an hour.",
+  "confidence": "high"
+ },
+ {
+  "id": "2009-04",
+  "primary": "geo-grid-area",
+  "secondary": [
+   "misc-logic"
+  ],
+  "key_idea": "Compare the pieces' total squares and shapes to each figure.",
+  "confidence": "medium"
+ },
+ {
+  "id": "2009-05",
+  "primary": "alg-recursion-patterns",
+  "secondary": [],
+  "key_idea": "Keep adding the previous three terms until the eighth.",
+  "confidence": "high"
+ }
+]

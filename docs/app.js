@@ -1,4 +1,4 @@
-/* AMC 10 Problem Atlas — hash-routed static app.
+/* AMC Problem Atlas — hash-routed static app, shared by the AMC 10 (docs/) and AMC 8 (docs/amc8/) pages.
    Routes:  #/            home (all topics)
             #/c/<cat>     one topic, newest → oldest
             #/p/<id>      single problem
@@ -12,14 +12,16 @@
   const SOLVED_LABEL = '✓<span class="lg">&nbsp;Solved</span>';
   const UNSOLVED_LABEL = '<span class="lg">Mark solved</span><span class="sm" aria-label="Mark solved">✓</span>';
   const PAGE = 30; // problems rendered per "page" (MathJax is the slow part)
+  // Both contests share one origin, so AMC 8 progress gets its own keys (AMC 10 keeps the original ones).
+  const PREFIX = { amc10: 'amc-' }[document.documentElement.dataset.contest || 'amc10'] || document.documentElement.dataset.contest + '-';
   const store = {
-    get(k, d) { try { const v = localStorage.getItem(k); return v ? JSON.parse(v) : d; } catch (e) { return d; } },
-    set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch (e) {} },
+    get(k, d) { try { const v = localStorage.getItem(PREFIX + k); return v ? JSON.parse(v) : d; } catch (e) { return d; } },
+    set(k, v) { try { localStorage.setItem(PREFIX + k, JSON.stringify(v)); } catch (e) {} },
   };
   const state = {
-    solved: new Set(store.get('amc-solved', [])),
-    starred: new Set(store.get('amc-starred', [])),
-    prefs: Object.assign({ diff: 'all', secondary: false, hideSolved: false }, store.get('amc-prefs', {})),
+    solved: new Set(store.get('solved', [])),
+    starred: new Set(store.get('starred', [])),
+    prefs: Object.assign({ diff: 'all', secondary: false, hideSolved: false }, store.get('prefs', {})),
   };
   let DB, CATS = {}, AREAS = [], BY_CAT = {}, BY_SEC = {}, BY_ID = {}, YEARS = [];
 
@@ -53,8 +55,8 @@
 
   // ---------- sidebar ----------
   function renderSidebar() {
-    const collapsed = new Set(store.get('amc-collapsed', []));
-    $('#sidebar').innerHTML =
+    const collapsed = new Set(store.get('collapsed', []));
+    $('#sidebar').innerHTML = contestSwitch() +
       `<div class="side-progress"><span id="sideProgressText"></span><span class="progress-bar"><span id="sideProgressFill"></span></span></div>` +
       `<div class="side-area"><ul><li><a href="#/" data-cat="__home"><span>All topics</span><span class="n">${DB.problems.length}</span></a></li>` +
       `<li><a href="#/review" data-cat="__review"><span>★ Review list</span><span class="n" id="starCount">${state.starred.size}</span></a></li></ul></div>` +
@@ -66,9 +68,11 @@
       }).join('');
     $('#sidebar').querySelectorAll('.side-area h3').forEach(h => h.addEventListener('click', () => {
       const box = h.parentElement; box.classList.toggle('collapsed');
-      store.set('amc-collapsed', [...document.querySelectorAll('.side-area.collapsed')].map(e => e.dataset.area));
+      store.set('collapsed', [...document.querySelectorAll('.side-area.collapsed')].map(e => e.dataset.area));
     }));
   }
+  const contestSwitch = () => `<nav class="contest-switch" aria-label="Contest">${(DB.contests || []).map(c =>
+    `<a href="${c.href}"${c.current ? ' class="on" aria-current="page"' : ''}>${esc(c.name)}</a>`).join('')}</nav>`;
   const catsOf = area => DB.taxonomy.categories.filter(c => c.area === area && BY_CAT[c.id].length);
   const doneCount = cat => BY_CAT[cat].filter(p => state.solved.has(p.id)).length;
 
@@ -106,8 +110,9 @@
     const usedCats = DB.taxonomy.categories.filter(c => BY_CAT[c.id].length).length;
     $('#main').innerHTML = `
       <section class="hero">
+        ${contestSwitch()}
         <div class="crumb">${DB.tests.length} contests · ${YEARS[0]}–${YEARS[YEARS.length - 1]}</div>
-        <h1>Every AMC&nbsp;10 problem,<br><span class="scribble">sorted by idea.</span></h1>
+        <h1>Every ${esc(DB.contest).replace(' ', '&nbsp;')} problem,<br><span class="scribble">sorted by idea.</span></h1>
         <p>Pick a topic and work through every past problem of that kind, newest contest first.
            Check your answer, open the AoPS solutions, and mark what you've solved. Progress is saved in this browser.</p>
       </section>
@@ -172,7 +177,7 @@
     $('#hideBox').addEventListener('change', e => { pr.hideSolved = e.target.checked; savePrefs(); route(); });
     paginate($('#plist'), filtered, isCat ? key : null);
   }
-  const savePrefs = () => store.set('amc-prefs', state.prefs);
+  const savePrefs = () => store.set('prefs', state.prefs);
 
   function paginate(box, list, ctxCat) {
     if (!list.length) { box.innerHTML = '<p class="empty">Nothing here yet.</p>'; return; }
@@ -229,14 +234,14 @@
     } else if (btn.classList.contains('solve')) {
       const on = !state.solved.has(id);
       on ? state.solved.add(id) : state.solved.delete(id);
-      store.set('amc-solved', [...state.solved]);
+      store.set('solved', [...state.solved]);
       btn.classList.toggle('on', on); btn.innerHTML = on ? SOLVED_LABEL : UNSOLVED_LABEL;
       art.classList.toggle('solved', on);
       renderSidebar(); updateProgress(); markActive(currentKey());
     } else if (btn.classList.contains('star')) {
       const on = !state.starred.has(id);
       on ? state.starred.add(id) : state.starred.delete(id);
-      store.set('amc-starred', [...state.starred]);
+      store.set('starred', [...state.starred]);
       btn.classList.toggle('on', on); updateProgress();
     }
   });

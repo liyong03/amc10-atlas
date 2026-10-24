@@ -1,0 +1,120 @@
+### 2026-18
+PassA: alg-arith-seq | PassB: nt-diophantine | keywords: cp-basic-counting, nt-parity, cp-permutations | confidence A/B: medium/medium
+PassB key idea: Sum of k consecutive odds is k times the middle; use factor pairs of 60.
+In how many ways can $60$ be written as the sum of two or more consecutive odd positive integers that are arranged in increasing order? $\textbf{(A) } 1\qquad\textbf{(B) } 2\qquad\textbf{(C) } 3\qquad\textbf{(D) } 4\qquad\textbf{(E) } 5$
+
+### 2025-05
+PassA: geo-perimeter-length | PassB: geo-perimeter-length | keywords: cp-paths-grids, misc-units-measurement, alg-rates | confidence A/B: low/medium
+PassB key idea: On a street grid, the shortest leg is horizontal plus vertical blocks.
+Betty drives a truck to deliver packages in a neighborhood whose street map is shown below. Betty starts at the factory (labled $F$) and drives to location $A$, then $B$, then $C$, before returning to $F$. What is the shortest distance, in blocks, she can drive to complete the route? $\textbf{(A)}\ 20 \qquad \textbf{(B)}\ 22 \qquad \textbf{(C)}\ 24 \qquad \textbf{(D)}\ 26\qquad \textbf{(E)}\ 28$ [DIAGRAM]
+
+### 2025-24
+PassA: geo-quadrilaterals | PassB: nt-diophantine | keywords: geo-perimeter-length, geo-angles, geo-quadrilaterals | confidence A/B: high/high
+PassB key idea: With 60 degree angles, long base equals short base plus a leg.
+In trapezoid $ABCD$, angles $B$ and $C$ measure $60^\circ$ and $AB = DC$. The side lengths are all positive integers, and the perimeter of $ABCD$ is $30$ units. How many non-congruent trapezoids satisfy all of these conditions? $\textbf{(A)}\ 0 \qquad \textbf{(B)}\ 1 \qquad \textbf{(C)}\ 2 \qquad \textbf{(D)}\ 3 \qquad \textbf{(E)}\ 4$ [DIAGRAM]
+
+### 2024-13
+PassA: cp-basic-counting | PassB: cp-paths-grids | keywords: cp-basic-counting, cp-recursion-counting, alg-recursion-patterns | confidence A/B: medium/high
+PassB key idea: Count up/down paths that never go below ground (list them carefully).
+Buzz Bunny is hopping up and down a set of stairs, one step at a time. In how many ways can Buzz Bunny start on the ground, make a sequence of $6$ hops, and end up back on the ground? (For example, one sequence of hops is up-up-down-down-up-down.) $\textbf{(A)}\ 4 \qquad \textbf{(B)}\ 5 \qquad \textbf{(C)}\ 6 \qquad \textbf{(D)}\ 8 \qquad \textbf{(E)}\ 12$ [DIAGRAM]
+
+### 2023-19
+PassA: geo-triangle-area | PassB: geo-similar | keywords: alg-percent-ratio, geo-triangle-area, geo-quadrilaterals | confidence A/B: high/high
+PassB key idea: Areas of similar triangles scale with the square of the side ratio.
+An equilateral triangle is placed inside a larger equilateral triangle so that the region between them can be divided into three congruent trapezoids, as shown below. The side length of the inner triangle is $\frac23$ the side length of the larger triangle. What is the ratio of the area of one trapezoid to the area of the inner triangle? $\textbf{(A) } 1 : 3 \qquad \textbf{(B) } 3 : 8 \qquad \textbf{(C) } 5 : 12 \qquad \textbf{(D) } 7 : 16 \qquad \textbf{(E) } 4 : 9$ [DIAGRAM]
+
+### 2020-03
+PassA: misc-units-measurement | PassB: misc-money-everyday | keywords: alg-mean-median, geo-quadrilaterals, cp-basic-counting | confidence A/B: medium/medium
+PassB key idea: Area times plants per square foot times strawberries per plant.
+Carrie has a rectangular garden that measures $6$ feet by $8$ feet. She plants the entire garden with strawberry plants. Carrie is able to plant $4$ strawberry plants per square foot, and she harvests an average of $10$ strawberries per plant. How many strawberries can she expect to harvest? $\textbf{(A) }560 \qquad \textbf{(B) }960 \qquad \textbf{(C) }1120 \qquad \textbf{(D) }1920 \qquad \textbf{(E) }3840$
+
+### 2020-20
+PassA: alg-mean-median | PassB: misc-logic | keywords: alg-mean-median, alg-absolute-value, cp-permutations | confidence A/B: medium/medium
+PassB key idea: Integer heights force doubling next to 11; the .2 average limits the sum.
+A scientist walking through a forest recorded as integers the heights of $5$ trees standing in a row. She observed that each tree was either 2 times as tall or half as tall as the one to its right. Unfortunately some of her data was lost when rain fell on her notebook. Her notes are shown below, with blanks indicating the missing numbers. Based on her observations, the scientist was able to reconstruct the lost data. What was the average height of the trees, in meters? \[\begingroup \setlength{\tabcolsep}{10pt} \renewcommand{\arraystretch}{1.5} \begin{tabular}{|c|c|} \hline Tree 1 & \rule{0.4cm}{0.15mm} meters \\ Tree 2 & 11 meters \\ Tree 3 & \rule{0.5cm}{0.15mm} meters \\ Tree 4 & \rule{0.5cm}{0.15mm} meters \\ Tree 5 & \rule{0.5cm}{0.15mm} meters \\ \hline Average height & \rule{0.5cm}{0.15mm}\text{ .}2 meters \\ \hline \end{tabular} \endgroup\] $\textbf{(A) }22.2 \qquad \textbf{(B) }24.2 \qquad \textbf{(C) }33.2 \qquad \textbf{(D) }35.2 \qquad \textbf{(E) }37.2$
+
+### 2019-19
+PassA: misc-process-simulation | PassB: alg-inequalities-optimization | keywords: misc-games, misc-process-simulation | confidence A/B: medium/medium
+PassB key idea: Top three lose points against each other; bound and build an example.
+In a tournament there are six teams that play each other twice. A team earns $3$ points for a win, $1$ point for a draw, and $0$ points for a loss. After all the games have been played it turns out that the top three teams earned the same number of total points. What is the greatest possible number of total points for each of the top three teams? $\textbf{(A) }22\qquad\textbf{(B) }23\qquad\textbf{(C) }24\qquad\textbf{(D) }26\qquad\textbf{(E) }30$
+
+### 2017-11
+PassA: geo-grid-area | PassB: cp-basic-counting | keywords: misc-logic, geo-quadrilaterals, cp-recursion-counting | confidence A/B: medium/medium
+PassB key idea: Odd side n gives 2n - 1 diagonal tiles, center counted once.
+A square-shaped floor is covered with congruent square tiles. If the total number of tiles that lie on the two diagonals is 37, how many tiles cover the floor? $\textbf{(A) }148\qquad\textbf{(B) }324\qquad\textbf{(C) }361\qquad\textbf{(D) }1296\qquad\textbf{(E) }1369$
+
+### 2016-08
+PassA: alg-arith-compute | PassB: alg-arith-seq | keywords: alg-arith-compute | confidence A/B: high/high
+PassB key idea: Group terms into pairs each equal to 2; count the pairs.
+Find the value of the expression: \[100-98+96-94+92-90+\cdots+8-6+4-2.\]$\textbf{(A) }20\qquad\textbf{(B) }40\qquad\textbf{(C) }50\qquad\textbf{(D) }80\qquad \textbf{(E) }100$
+
+### 2016-22
+PassA: geo-shaded-regions | PassB: geo-triangle-area | keywords: geo-shaded-regions, geo-quadrilaterals, geo-triangle-area | confidence A/B: medium/medium
+PassB key idea: Place coordinates, find where lines cross, then compute triangle areas.
+Rectangle $DEFA$ below is a $3 \times 4$ rectangle with $DC=CB=BA=1$. What is the area of the "bat wings" (shaded region)? $\textbf{(A) }2\qquad\textbf{(B) }2 \frac{1}{2}\qquad\textbf{(C) }3\qquad\textbf{(D) }3 \frac{1}{2}\qquad \textbf{(E) }4$ [DIAGRAM]
+
+### 2015-14
+PassA: nt-parity | PassB: nt-divisibility | keywords: nt-parity, misc-logic | confidence A/B: high/high
+PassB key idea: Four consecutive odd numbers always add to a multiple of 8.
+Which of the following integers cannot be written as the sum of four consecutive odd integers? $\textbf{(A)}\text{ 16}\qquad\textbf{(B)}\text{ 40}\qquad\textbf{(C)}\text{ 72}\qquad\textbf{(D)}\text{ 100}\qquad\textbf{(E)}\text{ 200}$
+
+### 2014-16
+PassA: cp-basic-counting | PassB: cp-combinations | keywords: misc-process-simulation | confidence A/B: medium/medium
+PassB key idea: Count pairs of conference teams twice, then add non-conference games.
+The "Middle School Eight" basketball conference has 8 teams. Every season, each team plays every other conference team twice (home and away), and each team also plays 4 games against non-conference opponents. What is the total number of games in a season involving the "Middle School Eight" teams? $\textbf{(A) }60\qquad\textbf{(B) }88\qquad\textbf{(C) }96\qquad\textbf{(D) }144\qquad\textbf{(E) }160$
+
+### 2012-15
+PassA: nt-modular | PassB: nt-gcd-lcm | keywords: nt-modular, misc-logic | confidence A/B: high/high
+PassB key idea: Take the LCM of the divisors and add the remainder.
+The smallest number greater than 2 that leaves a remainder of 2 when divided by 3, 4, 5, or 6 lies between what numbers? $\textbf{(A)}\hspace{.05in}40\text{ and }50\qquad\textbf{(B)}\hspace{.05in}51\text{ and }55\qquad\textbf{(C)}\hspace{.05in}56\text{ and }60\qquad\textbf{(D)}\hspace{.05in}\text{61 and 65}\qquad\textbf{(E)}\hspace{.01in}\text{66 and 99}$
+
+### 2011-13
+PassA: geo-shaded-regions | PassB: geo-quadrilaterals | keywords: geo-shaded-regions, alg-percent-ratio, geo-quadrilaterals | confidence A/B: medium/high
+PassB key idea: The overlap width is 2(15) minus 25; compare overlap to rectangle area.
+Two congruent squares, $ABCD$ and $PQRS$, have side length $15$. They overlap to form the $15$ by $25$ rectangle $AQRD$ shown. What percent of the area of rectangle $AQRD$ is shaded? $\textbf{(A)}\ 15\qquad\textbf{(B)}\ 18\qquad\textbf{(C)}\ 20\qquad\textbf{(D)}\ 24\qquad\textbf{(E)}\ 25$ [DIAGRAM]
+
+### 2011-24
+PassA: nt-primes-factorization | PassB: nt-parity | keywords: nt-primes-factorization, cp-basic-counting | confidence A/B: high/high
+PassB key idea: An odd sum forces one prime to be 2; check the other.
+In how many ways can 10001 be written as the sum of two primes? $\textbf{(A) }0\qquad\textbf{(B) }1\qquad\textbf{(C) }2\qquad\textbf{(D) }3\qquad\textbf{(E) }4$
+
+### 2009-23
+PassA: alg-systems | PassB: alg-quadratics | keywords: cp-basic-counting | confidence A/B: medium/medium
+PassB key idea: Boys squared plus girls squared equals beans given; boys exceed girls by two.
+On the last day of school, Mrs. Awesome gave jelly beans to her class. She gave each boy as many jelly beans as there were boys in the class. She gave each girl as many jelly beans as there were girls in the class. She brought $400$ jelly beans, and when she finished, she had six jelly beans left. There were two more boys than girls in her class. How many students were in her class? $\textbf{(A)}\ 26\qquad\textbf{(B)}\ 28\qquad\textbf{(C)}\ 30\qquad\textbf{(D)}\ 32\qquad\textbf{(E)}\ 34$
+
+### 2008-17
+PassA: geo-quadrilaterals | PassB: alg-inequalities-optimization | keywords: geo-triangle-inequality, geo-perimeter-length, geo-quadrilaterals | confidence A/B: high/high
+PassB key idea: Area is largest when sides are close, smallest when very unequal.
+Ms. Osborne asks each student in her class to draw a rectangle with integer side lengths and a perimeter of $50$ units. All of her students calculate the area of the rectangle they draw. What is the difference between the largest and smallest possible areas of the rectangles? $\textbf{(A)}\ 76\qquad \textbf{(B)}\ 120\qquad \textbf{(C)}\ 128\qquad \textbf{(D)}\ 132\qquad \textbf{(E)}\ 136$
+
+### 2007-20
+PassA: alg-percent-ratio | PassB: alg-linear-word | keywords: alg-percent-ratio, cp-basic-counting | confidence A/B: high/high
+PassB key idea: Write wins before and after as equations in games played.
+Before district play, the Unicorns had won $45\%$ of their basketball games. During district play, they won six more games and lost two, to finish the season having won half their games. How many games did the Unicorns play in all? $\textbf{(A)}\ 48 \qquad \textbf{(B)}\ 50 \qquad \textbf{(C)}\ 52 \qquad \textbf{(D)}\ 54 \qquad \textbf{(E)}\ 60$
+
+### 2005-01
+PassA: alg-linear-word | PassB: alg-fraction-word | keywords:  | confidence A/B: medium/medium
+PassB key idea: Work backwards to the original number, then divide by 2.
+Connie multiplies a number by 2 and gets 60 as her answer. However, she should have divided the number by 2 to get the correct answer. What is the correct answer? $\textbf{(A)}\ 7.5\qquad\textbf{(B)}\ 15\qquad\textbf{(C)}\ 30\qquad\textbf{(D)}\ 120\qquad\textbf{(E)}\ 240$
+
+### 2005-23
+PassA: geo-triangle-area | PassB: geo-circle-theorems | keywords: geo-pythagorean, geo-circle-area, geo-triangle-area | confidence A/B: medium/medium
+PassB key idea: Radius to tangent points is perpendicular; legs equal twice the radius.
+Isosceles right triangle $ABC$ encloses a semicircle of area $2\pi$. The circle has its center $O$ on hypotenuse $\overline{AB}$ and is tangent to sides $\overline{AC}$ and $\overline{BC}$. What is the area of triangle $ABC$? $\textbf{(A)}\ 6\qquad\textbf{(B)}\ 8\qquad\textbf{(C)}\ 3\pi\qquad\textbf{(D)}\ 10\qquad\textbf{(E)}\ 4\pi$ [DIAGRAM]
+
+### 2003-21
+PassA: geo-quadrilaterals | PassB: geo-pythagorean | keywords: geo-quadrilaterals, misc-money-everyday, geo-triangle-area | confidence A/B: high/medium
+PassB key idea: Drop altitudes to make right triangles, then use the trapezoid area formula.
+The area of trapezoid $ABCD$ is $164\text{ cm}^2$. The altitude is 8 cm, $AB$ is 10 cm, and $CD$ is 17 cm. What is $BC$, in centimeters? $\textbf{(A)}\ 9\qquad\textbf{(B)}\ 10\qquad\textbf{(C)}\ 12\qquad\textbf{(D)}\ 15\qquad\textbf{(E)}\ 20$ [DIAGRAM]
+
+### 2002-06
+PassA: misc-data-charts | PassB: misc-data-charts | keywords: geo-3d-volume, alg-rates | confidence A/B: medium/medium | suggested new category: Interpreting graphs of changing quantities
+PassB key idea: Net filling rate is small and positive, then level once overflowing.
+A birdbath is designed to overflow so that it will be self-cleaning. Water flows in at the rate of 20 milliliters per minute and drains at the rate of 18 milliliters per minute. One of these graphs shows the volume of water in the birdbath during the filling time and continuing into the overflow time. Which one is it? $\text{(A)}\ \text{A} \qquad \text{(B)}\ \text{B} \qquad \text{(C)}\ \text{C} \qquad \text{(D)}\ \text{D} \qquad \text{(E)}\ \text{E}$ [DIAGRAM]
+
+### 2001-24
+PassA: geo-transformations | PassB: misc-logic | keywords: geo-transformations, misc-money-everyday, cp-basic-counting | confidence A/B: medium/medium
+PassB key idea: Track leftover triangles of each color after known pairs match.
+Each half of this figure is composed of 3 red triangles, 5 blue triangles and 8 white triangles. When the upper half is folded down over the centerline, 2 pairs of red triangles coincide, as do 3 pairs of blue triangles. There are 2 red-white pairs. How many white pairs coincide? $\text{(A)}\ 4 \qquad \text{(B)}\ 5 \qquad \text{(C)}\ 6 \qquad \text{(D)}\ 7 \qquad \text{(E)}\ 9$ [DIAGRAM]
+

@@ -1,0 +1,125 @@
+### 2026-13
+PassA: geo-grid-area | PassB: geo-pythagorean | keywords: geo-shaded-regions, geo-quadrilaterals, geo-grid-area | confidence A/B: medium/medium
+PassB key idea: Find the side's horizontal and vertical legs on the shifted grid; square-sum them.
+The figure below shows a tiling of 1×1 unit squares. Each row of unit squares is shifted horizontally by half a unit relative to the row above it. A shaded square is drawn on top of the tiling. Each vertex of the shaded square is a vertex of one of the unit squares. In square units, what is the area of the shaded square? $\textbf{(A) } 10\qquad\textbf{(B) } \frac{21}{2}\qquad\textbf{(C) } \frac{32}{3}\qquad\textbf{(D) } 11\qquad\textbf{(E) } \frac{34}{3}$ [DIAGRAM]
+
+### 2025-03
+PassA: alg-percent-ratio | PassB: misc-money-everyday | keywords: cp-distributions, misc-games, cp-basic-counting | confidence A/B: medium/medium
+PassB key idea: Find the total deck size, then divide among the new number of players.
+Buffalo Shuffle-o is a card game in which all the cards are distributed evenly among all players at the start of the game. When Annika and $3$ of her friends play Buffalo Shuffle-o, each player is dealt $15$ cards. Suppose $2$ more friends join the next game. How many cards will be dealt to each player? $\textbf{(A)}\ 8 \qquad \textbf{(B)}\ 9 \qquad \textbf{(C)}\ 10 \qquad \textbf{(D)}\ 11 \qquad \textbf{(E)}\ 12$
+
+### 2025-21
+PassA: cp-graph-networks | PassB: misc-logic | keywords:  | confidence A/B: medium/medium
+PassB key idea: Highly connected pods need grades with few close neighbors, like 1 or 7.
+The Konigsberg School has assigned grades 1 through 7 to pods $A$ through $G$, one grade per pod. Some of the pods are connected by walkways, as shown in the figure below. The school noticed that each pair of connected pods has been assigned grades differing by 2 or more grade levels. (For example, grades 1 and 2 will not be in pods directly connected by a walkway.) What is the sum of the grade levels assigned to pods C, E, and F? $\textbf{(A)}~12\qquad\textbf{(B)}~13\qquad\textbf{(C)}~14\qquad\textbf{(D)}~15\qquad\textbf{(E)}~16$ [DIAGRAM]
+
+### 2024-10
+PassA: alg-linear-word | PassB: alg-arith-seq | keywords: alg-mean-median, alg-percent-ratio, alg-floor-ceiling | confidence A/B: medium/medium
+PassB key idea: Add 50 years of constant yearly increase to the starting level.
+In January 1980 the Moana Loa Observation recorded carbon dioxide $(CO_2)$ levels of 338 ppm (parts per million). Over the years the average $CO_2$ reading has increased by about 1.515 ppm each year. What is the expected $CO_2$ level in ppm in January 2030? Round your answer to the nearest integer. $\textbf{(A)}\ 399 \qquad \textbf{(B)}\ 414 \qquad \textbf{(C)}\ 420 \qquad \textbf{(D)}\ 444 \qquad \textbf{(E)}\ 459$
+
+### 2023-12
+PassA: geo-shaded-regions | PassB: geo-circle-area | keywords: geo-shaded-regions, geo-circle-area | confidence A/B: high/medium
+PassB key idea: Compare circle areas using squares of their radii.
+The figure below shows a large white circle with a number of smaller white and shaded circles in its interior. What fraction of the interior of the large white circle is shaded? $\textbf{(A)}\ \frac{1}{4} \qquad \textbf{(B)}\ \frac{11}{36} \qquad \textbf{(C)}\ \frac{1}{3} \qquad \textbf{(D)}\ \frac{19}{36} \qquad \textbf{(E)}\ \frac{5}{9}$ [DIAGRAM]
+
+### 2020-02
+PassA: misc-money-everyday | PassB: alg-mean-median | keywords: misc-money-everyday, misc-logic | confidence A/B: high/high
+PassB key idea: Find the equal share (average); give away the excess.
+Four friends do yardwork for their neighbors over the weekend, earning $\$15, \$20, \$25,$ and $\$40,$ respectively. They decide to split their earnings equally among themselves. In total, how much will the friend who earned $\$40$ give to the others? $\textbf{(A) }\$5 \qquad \textbf{(B) }\$10 \qquad \textbf{(C) }\$15 \qquad \textbf{(D) }\$20 \qquad \textbf{(E) }\$25$
+
+### 2020-18
+PassA: geo-circle-theorems | PassB: geo-pythagorean | keywords: geo-quadrilaterals, geo-circle-area, geo-circle-theorems | confidence A/B: medium/high
+PassB key idea: Draw a radius from the center to a top corner; use Pythagoras.
+Rectangle $ABCD$ is inscribed in a semicircle with diameter $\overline{FE},$ as shown in the figure. Let $DA=16,$ and let $FD=AE=9.$ What is the area of $ABCD?$ $\textbf{(A) }240 \qquad \textbf{(B) }248 \qquad \textbf{(C) }256 \qquad \textbf{(D) }264 \qquad \textbf{(E) }272$ [DIAGRAM]
+
+### 2019-05
+PassA: alg-rates | PassB: misc-data-charts | keywords: alg-rates | confidence A/B: medium/high
+PassB key idea: Flat segment means resting; steady line means constant speed.
+A tortoise challenges a hare to a race. The hare eagerly agrees and quickly runs ahead, leaving the slow-moving tortoise behind, believing that he will win, the hare stops to take a nap. Meanwhile, the tortoise walks at a slow, steady pace for the entire race. The hare wakes up and runs to the finish line, only to find the tortoise already there. Which of the following graphs matches the description of the race, showing the distance $d$ traveled by the two animals over time $t$ from start to finish? [DIAGRAM]
+
+### 2018-22
+PassA: geo-quadrilaterals | PassB: geo-similar | keywords: geo-quadrilaterals, geo-triangle-area | confidence A/B: medium/high
+PassB key idea: Triangles CFE and AFB are similar with ratio 1:2; split areas.
+Point $E$ is the midpoint of side $\overline{CD}$ in square $ABCD,$ and $\overline{BE}$ meets diagonal $\overline{AC}$ at $F.$ The area of quadrilateral $AFED$ is $45.$ What is the area of $ABCD?$ $\textbf{(A) } 100 \qquad \textbf{(B) } 108 \qquad \textbf{(C) } 120 \qquad \textbf{(D) } 135 \qquad \textbf{(E) } 144$ [DIAGRAM]
+
+### 2017-24
+PassA: nt-gcd-lcm | PassB: cp-inclusion-exclusion | keywords: misc-logic, cp-basic-counting | confidence A/B: high/high
+PassB key idea: Count call days with inclusion-exclusion using LCMs, then take complement.
+Mrs. Sanders has three grandchildren, who call her regularly. One calls her every three days, one calls her every four days, and one calls her every five days. All three called her on December 31, 2016. On how many days during the next year did she not receive a phone call from any of her grandchildren? $\textbf{(A) }78\qquad\textbf{(B) }80\qquad\textbf{(C) }144\qquad\textbf{(D) }146\qquad\textbf{(E) }152$
+
+### 2016-21
+PassA: cp-conditional-probability | PassB: cp-probability-basic | keywords: cp-probability-basic, cp-inclusion-exclusion | confidence A/B: medium/medium
+PassB key idea: Imagine drawing all chips; reds finish first if the last chip is green.
+A top hat contains 3 red chips and 2 green chips. Chips are drawn randomly, one at a time without replacement, until all 3 of the reds are drawn or until both green chips are drawn. What is the probability that the 3 reds are drawn? $\textbf{(A) }\dfrac{3}{10}\qquad\textbf{(B) }\dfrac{2}{5}\qquad\textbf{(C) }\dfrac{1}{2}\qquad\textbf{(D) }\dfrac{3}{5}\qquad \textbf{(E) }\dfrac{7}{10}$
+
+### 2015-11
+PassA: cp-probability-basic | PassB: cp-basic-counting | keywords: cp-probability-basic, cp-combinations, nt-digits | confidence A/B: high/high
+PassB key idea: Count all possible plates with the multiplication principle.
+In the small country of Mathland, all automobile license plates have four symbols. The first symbol must be a vowel ($A, E, I, O,$ or $U$), the second and third symbols must be two different letters among the $21$ non-vowels in the alphabet, and the fourth symbol must be a digit ($0$ through $9$). If the symbols are chosen at random subject to these conditions, what is the probability (In fractions) that the plate will read "$AMC8$"? $\textbf{(A) } \frac{1}{22,050} \qquad \textbf{(B) } \frac{1}{21,000}\qquad \textbf{(C) } \frac{1}{10,500}\qquad \textbf{(D) } \frac{1}{2,100} \qquad \textbf{(E) } \frac{1}{1,050}$
+
+### 2014-07
+PassA: alg-percent-ratio | PassB: alg-systems | keywords: alg-percent-ratio | confidence A/B: high/high
+PassB key idea: Use sum and difference of girls and boys to find each count.
+There are four more girls than boys in Ms. Raub's class of 28 students. What is the ratio of number of girls to the number of boys in her class? $\textbf{(A) }3 : 4\qquad\textbf{(B) }4 : 3\qquad\textbf{(C) }3 : 2\qquad\textbf{(D) }7 : 4\qquad\textbf{(E) }2 : 1$
+
+### 2013-20
+PassA: geo-circle-area | PassB: geo-pythagorean | keywords: geo-quadrilaterals, geo-circle-area, geo-circle-theorems | confidence A/B: high/high
+PassB key idea: Center is the long side's midpoint; radius reaches a top corner by Pythagoras.
+A $1\times 2$ rectangle is inscribed in a semicircle with longer side on the diameter. What is the area of the semicircle? $\textbf{(A)}\ \frac\pi2 \qquad \textbf{(B)}\ \frac{2\pi}3 \qquad \textbf{(C)}\ \pi \qquad \textbf{(D)}\ \frac{4\pi}3 \qquad \textbf{(E)}\ \frac{5\pi}3$
+
+### 2011-07
+PassA: geo-shaded-regions | PassB: geo-grid-area | keywords: alg-percent-ratio, misc-money-everyday, geo-triangle-area | confidence A/B: medium/medium
+PassB key idea: Find the bolded fraction of each square, then average them.
+Each of the following four large congruent squares is subdivided into combinations of congruent triangles or rectangles and is partially bolded. What percent of the total area is partially bolded? $\textbf{(A)}12\frac{1}{2}\qquad\textbf{(B)}20\qquad\textbf{(C)}25\qquad\textbf{(D)}33\frac{1}{3}\qquad\textbf{(E)}37\frac{1}{2}$ [DIAGRAM]
+
+### 2011-20
+PassA: geo-quadrilaterals | PassB: geo-pythagorean | keywords: geo-quadrilaterals, geo-triangle-area | confidence A/B: high/high
+PassB key idea: Use right triangles at the legs to find the other base.
+Quadrilateral $ABCD$ is a trapezoid, $AD = 15$, $AB = 50$, $BC = 20$, and the altitude is $12$. What is the area of the trapezoid? $\textbf{(A) }600\qquad\textbf{(B) }650\qquad\textbf{(C) }700\qquad\textbf{(D) }750\qquad\textbf{(E) }800$ [DIAGRAM]
+
+### 2009-11
+PassA: nt-primes-factorization | PassB: nt-gcd-lcm | keywords: misc-money-everyday, cp-basic-counting | confidence A/B: medium/high
+PassB key idea: The pencil price is a common factor of 143 and 195.
+The Amaco Middle School bookstore sells pencils costing a whole number of cents. Some seventh graders each bought a pencil, paying a total of $\$1.43$. Some of the $30$ sixth graders each bought a pencil, and they paid a total of $\$1.95$. How many more sixth graders than seventh graders bought a pencil? $\textbf{(A)}\ 1\qquad\textbf{(B)}\ 2\qquad\textbf{(C)}\ 3\qquad\textbf{(D)}\ 4\qquad\textbf{(E)}\ 5$
+
+### 2008-06
+PassA: geo-shaded-regions | PassB: geo-grid-area | keywords: alg-percent-ratio, geo-triangle-area | confidence A/B: medium/medium
+PassB key idea: Cut the figure into equal small triangles and count gray versus white.
+In the figure, what is the ratio of the area of the gray squares to the area of the white squares? $\textbf{(A)}\ 3:10 \qquad\textbf{(B)}\ 3:8 \qquad\textbf{(C)}\ 3:7 \qquad\textbf{(D)}\ 3:5 \qquad\textbf{(E)}\ 1:1$ [DIAGRAM]
+
+### 2007-18
+PassA: nt-digits | PassB: nt-units-digit | keywords: nt-units-digit, nt-digits, nt-factorials | confidence A/B: high/medium
+PassB key idea: Only the last four digits of each factor affect those digits.
+The product of the two $99$-digit numbers $303,\!030,\!303,\!...,\!030,\!303$ and $505,\!050,\!505,\!...,\!050,\!505$ has thousands digit $A$ and units digit $B$. What is the sum of $A$ and $B$? $\textbf{(A)}\ 3 \qquad \textbf{(B)}\ 5 \qquad \textbf{(C)}\ 6 \qquad \textbf{(D)}\ 8 \qquad \textbf{(E)}\ 10$
+
+### 2006-25
+PassA: nt-primes-factorization | PassB: nt-parity | keywords: alg-mean-median, nt-primes-factorization | confidence A/B: high/medium
+PassB key idea: Parity of visible numbers forces one hidden prime to be 2.
+Barry wrote 6 different numbers, one on each side of 3 cards, and laid the cards on a table, as shown. The sums of the two numbers on each of the three cards are equal. The three numbers on the hidden sides are prime numbers. What is the average of the hidden prime numbers? $\textbf{(A)}\ 13\qquad\textbf{(B)}\ 14\qquad\textbf{(C)}\ 15\qquad\textbf{(D)}\ 16\qquad\textbf{(E)}\ 17$ [DIAGRAM]
+
+### 2005-19
+PassA: geo-quadrilaterals | PassB: geo-pythagorean | keywords: geo-perimeter-length, geo-quadrilaterals | confidence A/B: high/high
+PassB key idea: Drop heights to make right triangles and find base pieces.
+What is the perimeter of trapezoid $ABCD$? $\textbf{(A)}\ 180\qquad\textbf{(B)}\ 188\qquad\textbf{(C)}\ 196\qquad\textbf{(D)}\ 200\qquad\textbf{(E)}\ 204$ [DIAGRAM]
+
+### 2003-12
+PassA: cp-probability-dice-coins | PassB: nt-divisibility | keywords: nt-divisibility, cp-probability-dice-coins, cp-probability-basic | confidence A/B: high/high
+PassB key idea: Check whether hiding any one face can remove all factors of 2 or 3.
+When a fair six-sided die is tossed on a table top, the bottom face cannot be seen. What is the probability that the product of the numbers on the five faces that can be seen is divisible by 6? $\textbf{(A)}\ \frac{1}{3}\qquad\textbf{(B)}\ \frac{1}{2}\qquad\textbf{(C)}\ \frac{2}{3}\qquad\textbf{(D)}\ \frac{5}{6}\qquad\textbf{(E)}\ 1$
+
+### 2003-25
+PassA: geo-triangle-area | PassB: geo-transformations | keywords: geo-transformations, geo-triangle-area, geo-quadrilaterals | confidence A/B: medium/high
+PassB key idea: Folding shows A's distance to BC equals O's distance to BC.
+In the figure, the area of square $WXYZ$ is $25 \text{ cm}^2$. The four smaller squares have sides 1 cm long, either parallel to or coinciding with the sides of the large square. In $\triangle ABC$, $AB = AC$, and when $\triangle ABC$ is folded over side $\overline{BC}$, point $A$ coincides with $O$, the center of square $WXYZ$. What is the area of $\triangle ABC$, in square centimeters? $\textbf{(A)}\ \frac{15}4\qquad\textbf{(B)}\ \frac{21}4\qquad\textbf{(C)}\ \frac{27}4\qquad\textbf{(D)}\ \frac{21}2\qquad\textbf{(E)}\ \frac{27}2$ [DIAGRAM]
+
+### 2001-09
+PassA: geo-grid-area | PassB: geo-quadrilaterals | keywords: geo-quadrilaterals, geo-grid-area, cp-inclusion-exclusion | confidence A/B: medium/high
+PassB key idea: Waste is rectangle minus kite; scaling by 3 multiplies area by 9.
+Problems 7, 8 and 9 are about these kites. To promote her school's annual Kite Olympics, Genevieve makes a small kite and a large kite for a bulletin board display. The kites look like the one in the diagram below. For her small kite Genevieve draws the kite on a one-inch grid. For the large kite she triples both the height and width of the entire grid. The large kite is covered with gold foil. The foil is cut from a rectangular piece that just covers the entire grid. How many square inches of waste material are cut off from the four corners? $\text{(A)}\ 63 \qquad \text{(B)}\ 72 \qquad \text{(C)}\ 180 \qquad \text{(D)}\ 189 \qquad \text{(E)}\ 264$ [DIAGRAM]
+
+### 1999-14
+PassA: geo-quadrilaterals | PassB: geo-pythagorean | keywords: geo-perimeter-length, geo-quadrilaterals | confidence A/B: high/medium
+PassB key idea: Drop heights to form right triangles and find the slanted sides.
+In trapezoid $ABCD$, the sides $AB$ and $CD$ are equal. The perimeter of $ABCD$ is $\text{(A)}\ 27 \qquad \text{(B)}\ 30 \qquad \text{(C)}\ 32 \qquad \text{(D)}\ 34 \qquad \text{(E)}\ 48$ [DIAGRAM]
+

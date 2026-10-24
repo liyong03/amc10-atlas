@@ -1,0 +1,7806 @@
+[
+ {
+  "id": "2026-01",
+  "top": [
+   "alg-arith-compute"
+  ],
+  "scores": {
+   "alg-arith-compute": 0.5
+  }
+ },
+ {
+  "id": "2026-02",
+  "top": [],
+  "scores": {}
+ },
+ {
+  "id": "2026-03",
+  "top": [
+   "geo-pythagorean",
+   "geo-polygons",
+   "geo-triangle-area"
+  ],
+  "scores": {
+   "geo-pythagorean": 4.5,
+   "geo-polygons": 3.0,
+   "geo-triangle-area": 2.5,
+   "geo-quadrilaterals": 2.0,
+   "misc-money-everyday": 2.0
+  }
+ },
+ {
+  "id": "2026-04",
+  "top": [
+   "alg-percent-ratio",
+   "misc-money-everyday"
+  ],
+  "scores": {
+   "alg-percent-ratio": 4.5,
+   "misc-money-everyday": 2.0
+  }
+ },
+ {
+  "id": "2026-05",
+  "top": [
+   "alg-rates",
+   "alg-mean-median"
+  ],
+  "scores": {
+   "alg-rates": 3.5,
+   "alg-mean-median": 3.0
+  }
+ },
+ {
+  "id": "2026-06",
+  "top": [
+   "geo-shaded-regions",
+   "geo-triangle-area"
+  ],
+  "scores": {
+   "geo-shaded-regions": 3.5,
+   "geo-triangle-area": 1.0
+  }
+ },
+ {
+  "id": "2026-07",
+  "top": [
+   "alg-fraction-word",
+   "alg-rates",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "alg-fraction-word": 2.5,
+   "alg-rates": 1.0,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2026-08",
+  "top": [
+   "misc-logic"
+  ],
+  "scores": {
+   "misc-logic": 1.0
+  }
+ },
+ {
+  "id": "2026-09",
+  "top": [
+   "alg-exponents-radicals",
+   "alg-arith-compute"
+  ],
+  "scores": {
+   "alg-exponents-radicals": 1.5,
+   "alg-arith-compute": 0.5
+  }
+ },
+ {
+  "id": "2026-10",
+  "top": [
+   "alg-rates"
+  ],
+  "scores": {
+   "alg-rates": 0.5
+  }
+ },
+ {
+  "id": "2026-11",
+  "top": [
+   "cp-permutations",
+   "geo-quadrilaterals",
+   "geo-circle-area"
+  ],
+  "scores": {
+   "cp-permutations": 2.0,
+   "geo-quadrilaterals": 2.0,
+   "geo-circle-area": 1.5,
+   "geo-perimeter-length": 1.0
+  }
+ },
+ {
+  "id": "2026-12",
+  "top": [
+   "nt-digits",
+   "geo-circle-area"
+  ],
+  "scores": {
+   "nt-digits": 4.0,
+   "geo-circle-area": 1.5
+  }
+ },
+ {
+  "id": "2026-13",
+  "top": [
+   "geo-shaded-regions",
+   "geo-quadrilaterals",
+   "geo-grid-area"
+  ],
+  "scores": {
+   "geo-shaded-regions": 3.5,
+   "geo-quadrilaterals": 2.0,
+   "geo-grid-area": 2.0,
+   "cp-recursion-counting": 1.5,
+   "geo-triangle-area": 1.0
+  }
+ },
+ {
+  "id": "2026-14",
+  "top": [],
+  "scores": {}
+ },
+ {
+  "id": "2026-15",
+  "top": [
+   "geo-3d-cubes",
+   "geo-transformations"
+  ],
+  "scores": {
+   "geo-3d-cubes": 3.5,
+   "geo-transformations": 3.0
+  }
+ },
+ {
+  "id": "2026-16",
+  "top": [
+   "nt-divisibility",
+   "nt-digits",
+   "nt-parity"
+  ],
+  "scores": {
+   "nt-divisibility": 3.0,
+   "nt-digits": 2.0,
+   "nt-parity": 2.0
+  }
+ },
+ {
+  "id": "2026-17",
+  "top": [
+   "cp-permutations",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "cp-permutations": 3.5,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2026-18",
+  "top": [
+   "cp-basic-counting",
+   "nt-parity",
+   "cp-permutations"
+  ],
+  "scores": {
+   "cp-basic-counting": 2.8,
+   "nt-parity": 2.0,
+   "cp-permutations": 2.0
+  }
+ },
+ {
+  "id": "2026-19",
+  "top": [
+   "alg-rates"
+  ],
+  "scores": {
+   "alg-rates": 1.0
+  }
+ },
+ {
+  "id": "2026-20",
+  "top": [
+   "cp-basic-counting",
+   "cp-permutations",
+   "alg-linear-word"
+  ],
+  "scores": {
+   "cp-basic-counting": 2.8,
+   "cp-permutations": 2.0,
+   "alg-linear-word": 1.5
+  }
+ },
+ {
+  "id": "2026-21",
+  "top": [
+   "cp-probability-basic",
+   "cp-combinations"
+  ],
+  "scores": {
+   "cp-probability-basic": 4.0,
+   "cp-combinations": 2.5
+  }
+ },
+ {
+  "id": "2026-22",
+  "top": [
+   "alg-mean-median",
+   "geo-triangle-centers",
+   "alg-inequalities-optimization"
+  ],
+  "scores": {
+   "alg-mean-median": 3.0,
+   "geo-triangle-centers": 3.0,
+   "alg-inequalities-optimization": 2.0,
+   "alg-arith-compute": 0.5
+  }
+ },
+ {
+  "id": "2026-23",
+  "top": [
+   "cp-permutations",
+   "misc-money-everyday",
+   "alg-linear-word"
+  ],
+  "scores": {
+   "cp-permutations": 2.0,
+   "misc-money-everyday": 2.0,
+   "alg-linear-word": 1.5,
+   "alg-floor-ceiling": 1.5,
+   "geo-circle-area": 1.5
+  }
+ },
+ {
+  "id": "2026-24",
+  "top": [
+   "nt-primes-factorization",
+   "nt-factorials",
+   "nt-divisors"
+  ],
+  "scores": {
+   "nt-primes-factorization": 6.0,
+   "nt-factorials": 4.5,
+   "nt-divisors": 2.5,
+   "alg-custom-op": 1.5,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2026-25",
+  "top": [
+   "geo-polygons",
+   "geo-transformations",
+   "geo-triangle-inequality"
+  ],
+  "scores": {
+   "geo-polygons": 3.0,
+   "geo-transformations": 3.0,
+   "geo-triangle-inequality": 2.5,
+   "geo-angles": 2.0,
+   "geo-triangle-area": 1.5
+  }
+ },
+ {
+  "id": "2025-01",
+  "top": [
+   "alg-percent-ratio",
+   "misc-money-everyday",
+   "geo-grid-area"
+  ],
+  "scores": {
+   "alg-percent-ratio": 3.0,
+   "misc-money-everyday": 2.0,
+   "geo-grid-area": 2.0,
+   "alg-recursion-patterns": 1.5,
+   "cp-paths-grids": 1.5
+  }
+ },
+ {
+  "id": "2025-02",
+  "top": [
+   "misc-data-charts"
+  ],
+  "scores": {
+   "misc-data-charts": 3.0
+  }
+ },
+ {
+  "id": "2025-03",
+  "top": [
+   "cp-distributions",
+   "misc-games",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "cp-distributions": 3.0,
+   "misc-games": 2.0,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2025-04",
+  "top": [],
+  "scores": {}
+ },
+ {
+  "id": "2025-05",
+  "top": [
+   "cp-paths-grids",
+   "misc-units-measurement",
+   "alg-rates"
+  ],
+  "scores": {
+   "cp-paths-grids": 2.5,
+   "misc-units-measurement": 2.5,
+   "alg-rates": 1.0
+  }
+ },
+ {
+  "id": "2025-06",
+  "top": [
+   "nt-divisibility",
+   "alg-fraction-word"
+  ],
+  "scores": {
+   "nt-divisibility": 2.0,
+   "alg-fraction-word": 1.5
+  }
+ },
+ {
+  "id": "2025-07",
+  "top": [
+   "alg-percent-ratio",
+   "misc-money-everyday",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "alg-percent-ratio": 3.0,
+   "misc-money-everyday": 2.0,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2025-08",
+  "top": [
+   "geo-3d-cubes",
+   "geo-3d-volume",
+   "alg-polynomials"
+  ],
+  "scores": {
+   "geo-3d-cubes": 3.5,
+   "geo-3d-volume": 3.0,
+   "alg-polynomials": 2.0,
+   "geo-quadrilaterals": 2.0,
+   "misc-money-everyday": 2.0
+  }
+ },
+ {
+  "id": "2025-09",
+  "top": [
+   "alg-mean-median",
+   "misc-calendar-clock"
+  ],
+  "scores": {
+   "alg-mean-median": 3.0,
+   "misc-calendar-clock": 2.5
+  }
+ },
+ {
+  "id": "2025-10",
+  "top": [
+   "geo-transformations",
+   "geo-angles",
+   "geo-quadrilaterals"
+  ],
+  "scores": {
+   "geo-transformations": 3.0,
+   "geo-angles": 2.0,
+   "geo-quadrilaterals": 2.0,
+   "geo-triangle-area": 1.0
+  }
+ },
+ {
+  "id": "2025-11",
+  "top": [
+   "cp-probability-dice-coins",
+   "geo-transformations",
+   "geo-quadrilaterals"
+  ],
+  "scores": {
+   "cp-probability-dice-coins": 3.0,
+   "geo-transformations": 3.0,
+   "geo-quadrilaterals": 2.0,
+   "cp-recursion-counting": 1.5,
+   "cp-inclusion-exclusion": 1.0
+  }
+ },
+ {
+  "id": "2025-12",
+  "top": [
+   "geo-quadrilaterals",
+   "misc-money-everyday",
+   "geo-circle-area"
+  ],
+  "scores": {
+   "geo-quadrilaterals": 2.0,
+   "misc-money-everyday": 2.0,
+   "geo-circle-area": 1.5,
+   "geo-triangle-area": 1.0,
+   "geo-shaded-regions": 1.0
+  }
+ },
+ {
+  "id": "2025-13",
+  "top": [
+   "nt-modular",
+   "nt-parity"
+  ],
+  "scores": {
+   "nt-modular": 3.5,
+   "nt-parity": 2.0
+  }
+ },
+ {
+  "id": "2025-14",
+  "top": [
+   "alg-mean-median",
+   "geo-triangle-centers"
+  ],
+  "scores": {
+   "alg-mean-median": 6.0,
+   "geo-triangle-centers": 3.0
+  }
+ },
+ {
+  "id": "2025-15",
+  "top": [
+   "geo-transformations",
+   "geo-grid-area",
+   "cp-paths-grids"
+  ],
+  "scores": {
+   "geo-transformations": 3.0,
+   "geo-grid-area": 2.0,
+   "cp-paths-grids": 1.5,
+   "alg-fraction-word": 1.5,
+   "alg-arith-compute": 0.5
+  }
+ },
+ {
+  "id": "2025-16",
+  "top": [
+   "cp-combinations"
+  ],
+  "scores": {
+   "cp-combinations": 2.5
+  }
+ },
+ {
+  "id": "2025-17",
+  "top": [
+   "alg-fraction-word",
+   "misc-logic",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "alg-fraction-word": 2.5,
+   "misc-logic": 1.0,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2025-18",
+  "top": [
+   "geo-shaded-regions",
+   "alg-fraction-word",
+   "geo-quadrilaterals"
+  ],
+  "scores": {
+   "geo-shaded-regions": 4.5,
+   "alg-fraction-word": 2.5,
+   "geo-quadrilaterals": 2.0,
+   "geo-circle-area": 1.5,
+   "geo-triangle-area": 1.0
+  }
+ },
+ {
+  "id": "2025-19",
+  "top": [
+   "alg-rates"
+  ],
+  "scores": {
+   "alg-rates": 4.0
+  }
+ },
+ {
+  "id": "2025-20",
+  "top": [
+   "alg-fraction-word",
+   "misc-games"
+  ],
+  "scores": {
+   "alg-fraction-word": 4.0,
+   "misc-games": 2.0
+  }
+ },
+ {
+  "id": "2025-21",
+  "top": [],
+  "scores": {}
+ },
+ {
+  "id": "2025-22",
+  "top": [
+   "cp-basic-counting",
+   "alg-recursion-patterns"
+  ],
+  "scores": {
+   "cp-basic-counting": 2.8,
+   "alg-recursion-patterns": 1.5
+  }
+ },
+ {
+  "id": "2025-23",
+  "top": [
+   "nt-units-digit",
+   "nt-squares-cubes",
+   "nt-primes-factorization"
+  ],
+  "scores": {
+   "nt-units-digit": 4.0,
+   "nt-squares-cubes": 3.5,
+   "nt-primes-factorization": 3.0,
+   "nt-digits": 2.0,
+   "geo-quadrilaterals": 2.0
+  }
+ },
+ {
+  "id": "2025-24",
+  "top": [
+   "geo-perimeter-length",
+   "geo-angles",
+   "geo-quadrilaterals"
+  ],
+  "scores": {
+   "geo-perimeter-length": 2.5,
+   "geo-angles": 2.0,
+   "geo-quadrilaterals": 2.0,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2025-25",
+  "top": [
+   "cp-paths-grids",
+   "geo-grid-area",
+   "geo-triangle-area"
+  ],
+  "scores": {
+   "cp-paths-grids": 4.0,
+   "geo-grid-area": 2.0,
+   "geo-triangle-area": 1.0,
+   "geo-shaded-regions": 1.0
+  }
+ },
+ {
+  "id": "2024-01",
+  "top": [
+   "nt-units-digit",
+   "nt-digits"
+  ],
+  "scores": {
+   "nt-units-digit": 4.0,
+   "nt-digits": 2.0
+  }
+ },
+ {
+  "id": "2024-02",
+  "top": [
+   "nt-fractions-decimals",
+   "alg-arith-compute"
+  ],
+  "scores": {
+   "nt-fractions-decimals": 1.5,
+   "alg-arith-compute": 0.5
+  }
+ },
+ {
+  "id": "2024-03",
+  "top": [
+   "cp-permutations",
+   "geo-quadrilaterals",
+   "geo-triangle-area"
+  ],
+  "scores": {
+   "cp-permutations": 2.0,
+   "geo-quadrilaterals": 2.0,
+   "geo-triangle-area": 1.0,
+   "geo-shaded-regions": 1.0,
+   "geo-3d-cubes": 1.0
+  }
+ },
+ {
+  "id": "2024-04",
+  "top": [
+   "geo-quadrilaterals"
+  ],
+  "scores": {
+   "geo-quadrilaterals": 2.0
+  }
+ },
+ {
+  "id": "2024-05",
+  "top": [
+   "cp-probability-dice-coins",
+   "nt-divisibility",
+   "misc-logic"
+  ],
+  "scores": {
+   "cp-probability-dice-coins": 3.0,
+   "nt-divisibility": 2.0,
+   "misc-logic": 1.5
+  }
+ },
+ {
+  "id": "2024-06",
+  "top": [
+   "cp-paths-grids",
+   "cp-permutations"
+  ],
+  "scores": {
+   "cp-paths-grids": 2.5,
+   "cp-permutations": 2.0
+  }
+ },
+ {
+  "id": "2024-07",
+  "top": [
+   "geo-quadrilaterals",
+   "cp-recursion-counting",
+   "geo-shaded-regions"
+  ],
+  "scores": {
+   "geo-quadrilaterals": 2.0,
+   "cp-recursion-counting": 1.5,
+   "geo-shaded-regions": 1.0
+  }
+ },
+ {
+  "id": "2024-08",
+  "top": [
+   "misc-calendar-clock",
+   "misc-money-everyday",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "misc-calendar-clock": 3.0,
+   "misc-money-everyday": 2.0,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2024-09",
+  "top": [],
+  "scores": {}
+ },
+ {
+  "id": "2024-10",
+  "top": [
+   "alg-mean-median",
+   "alg-percent-ratio",
+   "alg-floor-ceiling"
+  ],
+  "scores": {
+   "alg-mean-median": 3.0,
+   "alg-percent-ratio": 1.5,
+   "alg-floor-ceiling": 1.5
+  }
+ },
+ {
+  "id": "2024-11",
+  "top": [
+   "geo-coordinate",
+   "geo-triangle-area",
+   "alg-inequalities-optimization"
+  ],
+  "scores": {
+   "geo-coordinate": 4.5,
+   "geo-triangle-area": 2.5,
+   "alg-inequalities-optimization": 0.5,
+   "alg-arith-compute": 0.5
+  }
+ },
+ {
+  "id": "2024-12",
+  "top": [
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2024-13",
+  "top": [
+   "cp-basic-counting",
+   "cp-recursion-counting",
+   "alg-recursion-patterns"
+  ],
+  "scores": {
+   "cp-basic-counting": 2.8,
+   "cp-recursion-counting": 2.0,
+   "alg-recursion-patterns": 1.5
+  }
+ },
+ {
+  "id": "2024-14",
+  "top": [
+   "cp-paths-grids"
+  ],
+  "scores": {
+   "cp-paths-grids": 2.5
+  }
+ },
+ {
+  "id": "2024-15",
+  "top": [
+   "nt-digits",
+   "alg-arith-compute"
+  ],
+  "scores": {
+   "nt-digits": 2.0,
+   "alg-arith-compute": 0.5
+  }
+ },
+ {
+  "id": "2024-16",
+  "top": [
+   "nt-divisibility",
+   "cp-permutations",
+   "geo-grid-area"
+  ],
+  "scores": {
+   "nt-divisibility": 3.0,
+   "cp-permutations": 2.0,
+   "geo-grid-area": 2.0,
+   "cp-paths-grids": 1.5
+  }
+ },
+ {
+  "id": "2024-17",
+  "top": [
+   "cp-basic-counting",
+   "geo-quadrilaterals",
+   "misc-money-everyday"
+  ],
+  "scores": {
+   "cp-basic-counting": 2.8,
+   "geo-quadrilaterals": 2.0,
+   "misc-money-everyday": 2.0,
+   "geo-grid-area": 2.0,
+   "cp-paths-grids": 1.5
+  }
+ },
+ {
+  "id": "2024-18",
+  "top": [
+   "geo-shaded-regions",
+   "geo-graph-regions",
+   "misc-logic"
+  ],
+  "scores": {
+   "geo-shaded-regions": 4.5,
+   "geo-graph-regions": 2.5,
+   "misc-logic": 2.5,
+   "geo-angles": 2.0,
+   "misc-money-everyday": 2.0
+  }
+ },
+ {
+  "id": "2024-19",
+  "top": [
+   "alg-inequalities-optimization",
+   "alg-fraction-word",
+   "alg-arith-compute"
+  ],
+  "scores": {
+   "alg-inequalities-optimization": 2.0,
+   "alg-fraction-word": 1.5,
+   "alg-arith-compute": 0.5
+  }
+ },
+ {
+  "id": "2024-20",
+  "top": [
+   "geo-3d-cubes",
+   "geo-triangle-area",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "geo-3d-cubes": 3.5,
+   "geo-triangle-area": 1.5,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2024-21",
+  "top": [
+   "alg-percent-ratio",
+   "misc-games"
+  ],
+  "scores": {
+   "alg-percent-ratio": 2.5,
+   "misc-games": 2.0
+  }
+ },
+ {
+  "id": "2024-22",
+  "top": [
+   "alg-floor-ceiling",
+   "geo-circle-area"
+  ],
+  "scores": {
+   "alg-floor-ceiling": 1.5,
+   "geo-circle-area": 1.5
+  }
+ },
+ {
+  "id": "2024-23",
+  "top": [
+   "geo-coordinate",
+   "alg-graphs-lines",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "geo-coordinate": 2.5,
+   "alg-graphs-lines": 1.5,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2024-24",
+  "top": [
+   "geo-angles",
+   "geo-quadrilaterals",
+   "misc-money-everyday"
+  ],
+  "scores": {
+   "geo-angles": 2.0,
+   "geo-quadrilaterals": 2.0,
+   "misc-money-everyday": 2.0,
+   "geo-triangle-area": 1.0,
+   "alg-arith-compute": 0.5
+  }
+ },
+ {
+  "id": "2024-25",
+  "top": [
+   "cp-probability-basic",
+   "cp-distributions",
+   "cp-permutations"
+  ],
+  "scores": {
+   "cp-probability-basic": 4.0,
+   "cp-distributions": 3.0,
+   "cp-permutations": 2.0,
+   "geo-coordinate": 2.0,
+   "misc-money-everyday": 2.0
+  }
+ },
+ {
+  "id": "2023-01",
+  "top": [
+   "alg-arith-compute"
+  ],
+  "scores": {
+   "alg-arith-compute": 3.5
+  }
+ },
+ {
+  "id": "2023-02",
+  "top": [
+   "geo-transformations",
+   "geo-quadrilaterals",
+   "alg-linear-word"
+  ],
+  "scores": {
+   "geo-transformations": 3.0,
+   "geo-quadrilaterals": 2.0,
+   "alg-linear-word": 1.5
+  }
+ },
+ {
+  "id": "2023-03",
+  "top": [
+   "alg-rates",
+   "geo-angles"
+  ],
+  "scores": {
+   "alg-rates": 3.0,
+   "geo-angles": 2.0
+  }
+ },
+ {
+  "id": "2023-04",
+  "top": [
+   "geo-shaded-regions",
+   "nt-primes-factorization",
+   "cp-permutations"
+  ],
+  "scores": {
+   "geo-shaded-regions": 3.5,
+   "nt-primes-factorization": 3.0,
+   "cp-permutations": 2.0,
+   "geo-quadrilaterals": 2.0,
+   "misc-money-everyday": 2.0
+  }
+ },
+ {
+  "id": "2023-05",
+  "top": [
+   "alg-percent-ratio",
+   "cp-inclusion-exclusion",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "alg-percent-ratio": 2.5,
+   "cp-inclusion-exclusion": 1.5,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2023-06",
+  "top": [
+   "alg-inequalities-optimization",
+   "nt-digits",
+   "alg-arith-compute"
+  ],
+  "scores": {
+   "alg-inequalities-optimization": 2.0,
+   "nt-digits": 2.0,
+   "alg-arith-compute": 0.5
+  }
+ },
+ {
+  "id": "2023-07",
+  "top": [
+   "geo-coordinate",
+   "misc-logic",
+   "geo-quadrilaterals"
+  ],
+  "scores": {
+   "geo-coordinate": 2.5,
+   "misc-logic": 2.5,
+   "geo-quadrilaterals": 2.0,
+   "geo-similar": 1.5,
+   "cp-inclusion-exclusion": 1.0
+  }
+ },
+ {
+  "id": "2023-08",
+  "top": [
+   "misc-games",
+   "misc-process-simulation"
+  ],
+  "scores": {
+   "misc-games": 2.0,
+   "misc-process-simulation": 1.5
+  }
+ },
+ {
+  "id": "2023-09",
+  "top": [
+   "nt-bases",
+   "misc-data-charts",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "nt-bases": 3.5,
+   "misc-data-charts": 3.0,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2023-10",
+  "top": [
+   "alg-fraction-word"
+  ],
+  "scores": {
+   "alg-fraction-word": 4.0
+  }
+ },
+ {
+  "id": "2023-11",
+  "top": [
+   "alg-rates",
+   "alg-mean-median"
+  ],
+  "scores": {
+   "alg-rates": 3.0,
+   "alg-mean-median": 3.0
+  }
+ },
+ {
+  "id": "2023-12",
+  "top": [
+   "geo-shaded-regions",
+   "geo-circle-area"
+  ],
+  "scores": {
+   "geo-shaded-regions": 3.5,
+   "geo-circle-area": 1.5
+  }
+ },
+ {
+  "id": "2023-13",
+  "top": [
+   "cp-paths-grids"
+  ],
+  "scores": {
+   "cp-paths-grids": 2.5
+  }
+ },
+ {
+  "id": "2023-14",
+  "top": [
+   "misc-money-everyday",
+   "misc-logic"
+  ],
+  "scores": {
+   "misc-money-everyday": 3.0,
+   "misc-logic": 1.0
+  }
+ },
+ {
+  "id": "2023-15",
+  "top": [
+   "alg-rates",
+   "cp-paths-grids",
+   "cp-permutations"
+  ],
+  "scores": {
+   "alg-rates": 4.5,
+   "cp-paths-grids": 2.5,
+   "cp-permutations": 2.0
+  }
+ },
+ {
+  "id": "2023-16",
+  "top": [
+   "alg-visual-patterns",
+   "alg-recursion-patterns",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "alg-visual-patterns": 2.5,
+   "alg-recursion-patterns": 1.5,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2023-17",
+  "top": [
+   "geo-transformations",
+   "geo-triangle-area",
+   "geo-3d-cubes"
+  ],
+  "scores": {
+   "geo-transformations": 3.0,
+   "geo-triangle-area": 1.5,
+   "geo-3d-cubes": 1.0
+  }
+ },
+ {
+  "id": "2023-18",
+  "top": [],
+  "scores": {}
+ },
+ {
+  "id": "2023-19",
+  "top": [
+   "alg-percent-ratio",
+   "geo-triangle-area",
+   "geo-quadrilaterals"
+  ],
+  "scores": {
+   "alg-percent-ratio": 2.5,
+   "geo-triangle-area": 2.5,
+   "geo-quadrilaterals": 2.0,
+   "geo-shaded-regions": 1.0,
+   "geo-perimeter-length": 1.0
+  }
+ },
+ {
+  "id": "2023-20",
+  "top": [
+   "alg-mean-median",
+   "geo-triangle-centers"
+  ],
+  "scores": {
+   "alg-mean-median": 6.0,
+   "geo-triangle-centers": 3.0
+  }
+ },
+ {
+  "id": "2023-21",
+  "top": [
+   "cp-basic-counting",
+   "misc-magic-squares"
+  ],
+  "scores": {
+   "cp-basic-counting": 2.8,
+   "misc-magic-squares": 2.5
+  }
+ },
+ {
+  "id": "2023-22",
+  "top": [
+   "alg-recursion-patterns"
+  ],
+  "scores": {
+   "alg-recursion-patterns": 2.5
+  }
+ },
+ {
+  "id": "2023-23",
+  "top": [
+   "cp-probability-basic",
+   "geo-quadrilaterals",
+   "geo-grid-area"
+  ],
+  "scores": {
+   "cp-probability-basic": 4.0,
+   "geo-quadrilaterals": 2.0,
+   "geo-grid-area": 2.0,
+   "cp-paths-grids": 1.5,
+   "cp-recursion-counting": 1.5
+  }
+ },
+ {
+  "id": "2023-24",
+  "top": [
+   "geo-shaded-regions",
+   "geo-triangle-area",
+   "geo-similar"
+  ],
+  "scores": {
+   "geo-shaded-regions": 3.5,
+   "geo-triangle-area": 2.5,
+   "geo-similar": 1.5
+  }
+ },
+ {
+  "id": "2023-25",
+  "top": [
+   "nt-digits",
+   "cp-permutations",
+   "alg-inequalities-optimization"
+  ],
+  "scores": {
+   "nt-digits": 2.0,
+   "cp-permutations": 2.0,
+   "alg-inequalities-optimization": 0.5
+  }
+ },
+ {
+  "id": "2022-01",
+  "top": [
+   "geo-quadrilaterals",
+   "geo-grid-area",
+   "cp-paths-grids"
+  ],
+  "scores": {
+   "geo-quadrilaterals": 2.0,
+   "geo-grid-area": 2.0,
+   "cp-paths-grids": 1.5,
+   "misc-process-simulation": 1.5,
+   "geo-triangle-area": 1.0
+  }
+ },
+ {
+  "id": "2022-02",
+  "top": [
+   "alg-systems",
+   "alg-arith-compute"
+  ],
+  "scores": {
+   "alg-systems": 1.5,
+   "alg-arith-compute": 0.5
+  }
+ },
+ {
+  "id": "2022-03",
+  "top": [
+   "cp-basic-counting",
+   "cp-combinations",
+   "alg-inequalities-optimization"
+  ],
+  "scores": {
+   "cp-basic-counting": 2.8,
+   "cp-combinations": 2.5,
+   "alg-inequalities-optimization": 0.5
+  }
+ },
+ {
+  "id": "2022-04",
+  "top": [
+   "geo-transformations"
+  ],
+  "scores": {
+   "geo-transformations": 3.0
+  }
+ },
+ {
+  "id": "2022-05",
+  "top": [
+   "alg-linear-word",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "alg-linear-word": 2.0,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2022-06",
+  "top": [],
+  "scores": {}
+ },
+ {
+  "id": "2022-07",
+  "top": [
+   "alg-rates",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "alg-rates": 3.5,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2022-08",
+  "top": [
+   "alg-arith-compute"
+  ],
+  "scores": {
+   "alg-arith-compute": 0.5
+  }
+ },
+ {
+  "id": "2022-09",
+  "top": [
+   "misc-units-measurement",
+   "geo-angles",
+   "alg-rates"
+  ],
+  "scores": {
+   "misc-units-measurement": 2.5,
+   "geo-angles": 2.0,
+   "alg-rates": 0.5
+  }
+ },
+ {
+  "id": "2022-10",
+  "top": [
+   "alg-rates"
+  ],
+  "scores": {
+   "alg-rates": 3.0
+  }
+ },
+ {
+  "id": "2022-11",
+  "top": [],
+  "scores": {}
+ },
+ {
+  "id": "2022-12",
+  "top": [
+   "nt-squares-cubes",
+   "cp-probability-dice-coins",
+   "cp-probability-basic"
+  ],
+  "scores": {
+   "nt-squares-cubes": 3.5,
+   "cp-probability-dice-coins": 3.0,
+   "cp-probability-basic": 2.5,
+   "geo-quadrilaterals": 2.0
+  }
+ },
+ {
+  "id": "2022-13",
+  "top": [
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2022-14",
+  "top": [
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "cp-basic-counting": 2.8
+  }
+ },
+ {
+  "id": "2022-15",
+  "top": [
+   "alg-linear-word",
+   "misc-money-everyday"
+  ],
+  "scores": {
+   "alg-linear-word": 1.0,
+   "misc-money-everyday": 1.0
+  }
+ },
+ {
+  "id": "2022-16",
+  "top": [
+   "alg-mean-median",
+   "cp-permutations"
+  ],
+  "scores": {
+   "alg-mean-median": 3.0,
+   "cp-permutations": 1.5
+  }
+ },
+ {
+  "id": "2022-17",
+  "top": [
+   "nt-factorials",
+   "nt-units-digit",
+   "alg-rates"
+  ],
+  "scores": {
+   "nt-factorials": 4.5,
+   "nt-units-digit": 4.0,
+   "alg-rates": 3.0,
+   "nt-digits": 2.0,
+   "nt-parity": 2.0
+  }
+ },
+ {
+  "id": "2022-18",
+  "top": [
+   "geo-coordinate",
+   "geo-quadrilaterals",
+   "geo-triangle-area"
+  ],
+  "scores": {
+   "geo-coordinate": 2.5,
+   "geo-quadrilaterals": 2.0,
+   "geo-triangle-area": 1.0
+  }
+ },
+ {
+  "id": "2022-19",
+  "top": [
+   "alg-mean-median",
+   "cp-distributions",
+   "geo-triangle-centers"
+  ],
+  "scores": {
+   "alg-mean-median": 6.0,
+   "cp-distributions": 3.0,
+   "geo-triangle-centers": 3.0,
+   "cp-permutations": 2.0,
+   "misc-logic": 1.0
+  }
+ },
+ {
+  "id": "2022-20",
+  "top": [
+   "misc-magic-squares",
+   "alg-inequalities-optimization",
+   "geo-grid-area"
+  ],
+  "scores": {
+   "misc-magic-squares": 2.5,
+   "alg-inequalities-optimization": 2.0,
+   "geo-grid-area": 2.0,
+   "cp-paths-grids": 1.5,
+   "alg-arith-compute": 0.5
+  }
+ },
+ {
+  "id": "2022-21",
+  "top": [
+   "alg-percent-ratio",
+   "misc-games",
+   "misc-money-everyday"
+  ],
+  "scores": {
+   "alg-percent-ratio": 3.0,
+   "misc-games": 2.0,
+   "misc-money-everyday": 2.0,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2022-22",
+  "top": [
+   "alg-rates",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "alg-rates": 1.5,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2022-23",
+  "top": [
+   "geo-grid-area",
+   "cp-permutations",
+   "cp-paths-grids"
+  ],
+  "scores": {
+   "geo-grid-area": 2.0,
+   "cp-permutations": 1.5,
+   "cp-paths-grids": 1.5,
+   "geo-triangle-area": 1.5,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2022-24",
+  "top": [
+   "geo-3d-volume",
+   "geo-polygons",
+   "geo-transformations"
+  ],
+  "scores": {
+   "geo-3d-volume": 5.5,
+   "geo-polygons": 3.0,
+   "geo-transformations": 3.0,
+   "geo-pythagorean": 2.5,
+   "alg-systems": 0.8
+  }
+ },
+ {
+  "id": "2022-25",
+  "top": [
+   "cp-probability-basic",
+   "misc-games"
+  ],
+  "scores": {
+   "cp-probability-basic": 4.0,
+   "misc-games": 2.0
+  }
+ },
+ {
+  "id": "2020-01",
+  "top": [
+   "misc-money-everyday",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "misc-money-everyday": 1.0,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2020-02",
+  "top": [
+   "misc-money-everyday",
+   "misc-logic"
+  ],
+  "scores": {
+   "misc-money-everyday": 2.0,
+   "misc-logic": 1.0
+  }
+ },
+ {
+  "id": "2020-03",
+  "top": [
+   "alg-mean-median",
+   "geo-quadrilaterals",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "alg-mean-median": 3.0,
+   "geo-quadrilaterals": 2.0,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2020-04",
+  "top": [
+   "geo-polygons",
+   "alg-visual-patterns",
+   "alg-recursion-patterns"
+  ],
+  "scores": {
+   "geo-polygons": 3.0,
+   "alg-visual-patterns": 2.5,
+   "alg-recursion-patterns": 1.5,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2020-05",
+  "top": [
+   "alg-percent-ratio",
+   "misc-money-everyday"
+  ],
+  "scores": {
+   "alg-percent-ratio": 3.0,
+   "misc-money-everyday": 2.0
+  }
+ },
+ {
+  "id": "2020-06",
+  "top": [
+   "cp-permutations",
+   "cp-inclusion-exclusion",
+   "misc-logic"
+  ],
+  "scores": {
+   "cp-permutations": 2.0,
+   "cp-inclusion-exclusion": 1.0,
+   "misc-logic": 1.0
+  }
+ },
+ {
+  "id": "2020-07",
+  "top": [
+   "cp-basic-counting",
+   "nt-digits",
+   "cp-permutations"
+  ],
+  "scores": {
+   "cp-basic-counting": 2.8,
+   "nt-digits": 2.0,
+   "cp-permutations": 2.0
+  }
+ },
+ {
+  "id": "2020-08",
+  "top": [
+   "misc-money-everyday",
+   "alg-linear-word",
+   "alg-fraction-word"
+  ],
+  "scores": {
+   "misc-money-everyday": 2.0,
+   "alg-linear-word": 1.5,
+   "alg-fraction-word": 1.5,
+   "cp-inclusion-exclusion": 1.0
+  }
+ },
+ {
+  "id": "2020-09",
+  "top": [
+   "geo-3d-cubes",
+   "geo-grid-area",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "geo-3d-cubes": 3.5,
+   "geo-grid-area": 2.5,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2020-10",
+  "top": [
+   "cp-basic-counting",
+   "cp-permutations"
+  ],
+  "scores": {
+   "cp-basic-counting": 2.8,
+   "cp-permutations": 1.5
+  }
+ },
+ {
+  "id": "2020-11",
+  "top": [
+   "alg-rates",
+   "alg-mean-median",
+   "misc-data-charts"
+  ],
+  "scores": {
+   "alg-rates": 4.0,
+   "alg-mean-median": 3.0,
+   "misc-data-charts": 3.0
+  }
+ },
+ {
+  "id": "2020-12",
+  "top": [
+   "nt-factorials",
+   "alg-arith-compute"
+  ],
+  "scores": {
+   "nt-factorials": 4.5,
+   "alg-arith-compute": 0.5
+  }
+ },
+ {
+  "id": "2020-13",
+  "top": [
+   "alg-percent-ratio",
+   "cp-combinations",
+   "cp-probability-basic"
+  ],
+  "scores": {
+   "alg-percent-ratio": 3.0,
+   "cp-combinations": 2.5,
+   "cp-probability-basic": 1.5,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2020-14",
+  "top": [
+   "alg-mean-median",
+   "misc-data-charts"
+  ],
+  "scores": {
+   "alg-mean-median": 3.0,
+   "misc-data-charts": 3.0
+  }
+ },
+ {
+  "id": "2020-15",
+  "top": [
+   "alg-percent-ratio",
+   "misc-money-everyday"
+  ],
+  "scores": {
+   "alg-percent-ratio": 3.0,
+   "misc-money-everyday": 2.0
+  }
+ },
+ {
+  "id": "2020-16",
+  "top": [
+   "nt-digits"
+  ],
+  "scores": {
+   "nt-digits": 2.0
+  }
+ },
+ {
+  "id": "2020-17",
+  "top": [
+   "nt-divisors",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "nt-divisors": 2.5,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2020-18",
+  "top": [
+   "geo-quadrilaterals",
+   "geo-circle-area",
+   "geo-circle-theorems"
+  ],
+  "scores": {
+   "geo-quadrilaterals": 2.0,
+   "geo-circle-area": 1.5,
+   "geo-circle-theorems": 1.5,
+   "geo-triangle-area": 1.0,
+   "alg-systems": 0.8
+  }
+ },
+ {
+  "id": "2020-19",
+  "top": [
+   "nt-divisibility",
+   "cp-probability-dice-coins",
+   "nt-digits"
+  ],
+  "scores": {
+   "nt-divisibility": 3.0,
+   "cp-probability-dice-coins": 3.0,
+   "nt-digits": 2.0,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2020-20",
+  "top": [
+   "alg-mean-median",
+   "alg-absolute-value",
+   "cp-permutations"
+  ],
+  "scores": {
+   "alg-mean-median": 3.0,
+   "alg-absolute-value": 2.5,
+   "cp-permutations": 1.5
+  }
+ },
+ {
+  "id": "2020-21",
+  "top": [
+   "cp-paths-grids",
+   "geo-quadrilaterals",
+   "misc-games"
+  ],
+  "scores": {
+   "cp-paths-grids": 2.5,
+   "geo-quadrilaterals": 2.0,
+   "misc-games": 2.0,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2020-22",
+  "top": [
+   "misc-process-simulation",
+   "alg-arith-compute"
+  ],
+  "scores": {
+   "misc-process-simulation": 2.0,
+   "alg-arith-compute": 0.5
+  }
+ },
+ {
+  "id": "2020-23",
+  "top": [
+   "cp-distributions",
+   "cp-basic-counting",
+   "cp-inclusion-exclusion"
+  ],
+  "scores": {
+   "cp-distributions": 3.0,
+   "cp-basic-counting": 2.8,
+   "cp-inclusion-exclusion": 1.0
+  }
+ },
+ {
+  "id": "2020-24",
+  "top": [
+   "alg-percent-ratio",
+   "geo-quadrilaterals",
+   "cp-recursion-counting"
+  ],
+  "scores": {
+   "alg-percent-ratio": 5.5,
+   "geo-quadrilaterals": 2.0,
+   "cp-recursion-counting": 1.5,
+   "geo-triangle-area": 1.0,
+   "geo-shaded-regions": 1.0
+  }
+ },
+ {
+  "id": "2020-25",
+  "top": [
+   "geo-quadrilaterals",
+   "geo-perimeter-length"
+  ],
+  "scores": {
+   "geo-quadrilaterals": 2.0,
+   "geo-perimeter-length": 1.0
+  }
+ },
+ {
+  "id": "2019-01",
+  "top": [
+   "misc-money-everyday",
+   "cp-inclusion-exclusion",
+   "alg-fraction-word"
+  ],
+  "scores": {
+   "misc-money-everyday": 3.0,
+   "cp-inclusion-exclusion": 1.5,
+   "alg-fraction-word": 1.5,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2019-02",
+  "top": [
+   "cp-conditional-probability",
+   "geo-quadrilaterals",
+   "geo-triangle-area"
+  ],
+  "scores": {
+   "cp-conditional-probability": 2.5,
+   "geo-quadrilaterals": 2.0,
+   "geo-triangle-area": 1.0,
+   "geo-perimeter-length": 1.0
+  }
+ },
+ {
+  "id": "2019-03",
+  "top": [
+   "cp-permutations"
+  ],
+  "scores": {
+   "cp-permutations": 2.0
+  }
+ },
+ {
+  "id": "2019-04",
+  "top": [
+   "geo-perimeter-length",
+   "geo-quadrilaterals",
+   "geo-triangle-area"
+  ],
+  "scores": {
+   "geo-perimeter-length": 3.5,
+   "geo-quadrilaterals": 2.0,
+   "geo-triangle-area": 1.0
+  }
+ },
+ {
+  "id": "2019-05",
+  "top": [
+   "alg-rates"
+  ],
+  "scores": {
+   "alg-rates": 1.0
+  }
+ },
+ {
+  "id": "2019-06",
+  "top": [
+   "cp-probability-basic",
+   "geo-transformations",
+   "cp-combinations"
+  ],
+  "scores": {
+   "cp-probability-basic": 4.0,
+   "geo-transformations": 3.0,
+   "cp-combinations": 2.5,
+   "cp-conditional-probability": 2.5,
+   "geo-quadrilaterals": 2.0
+  }
+ },
+ {
+  "id": "2019-07",
+  "top": [
+   "alg-mean-median",
+   "cp-permutations"
+  ],
+  "scores": {
+   "alg-mean-median": 3.0,
+   "cp-permutations": 2.0
+  }
+ },
+ {
+  "id": "2019-08",
+  "top": [
+   "alg-percent-ratio",
+   "misc-money-everyday"
+  ],
+  "scores": {
+   "alg-percent-ratio": 3.0,
+   "misc-money-everyday": 2.0
+  }
+ },
+ {
+  "id": "2019-09",
+  "top": [
+   "geo-3d-volume",
+   "alg-percent-ratio",
+   "geo-circle-area"
+  ],
+  "scores": {
+   "geo-3d-volume": 3.0,
+   "alg-percent-ratio": 2.5,
+   "geo-circle-area": 1.5
+  }
+ },
+ {
+  "id": "2019-10",
+  "top": [
+   "alg-mean-median",
+   "geo-triangle-centers",
+   "misc-calendar-clock"
+  ],
+  "scores": {
+   "alg-mean-median": 6.0,
+   "geo-triangle-centers": 3.0,
+   "misc-calendar-clock": 3.0,
+   "misc-logic": 2.5
+  }
+ },
+ {
+  "id": "2019-11",
+  "top": [
+   "cp-inclusion-exclusion",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "cp-inclusion-exclusion": 1.5,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2019-12",
+  "top": [
+   "geo-3d-cubes"
+  ],
+  "scores": {
+   "geo-3d-cubes": 5.5
+  }
+ },
+ {
+  "id": "2019-13",
+  "top": [
+   "nt-digits"
+  ],
+  "scores": {
+   "nt-digits": 7.0
+  }
+ },
+ {
+  "id": "2019-14",
+  "top": [
+   "misc-calendar-clock",
+   "geo-3d-volume",
+   "cp-permutations"
+  ],
+  "scores": {
+   "misc-calendar-clock": 6.0,
+   "geo-3d-volume": 2.5,
+   "cp-permutations": 2.0,
+   "geo-circle-area": 1.5
+  }
+ },
+ {
+  "id": "2019-15",
+  "top": [
+   "cp-probability-basic",
+   "cp-combinations",
+   "cp-inclusion-exclusion"
+  ],
+  "scores": {
+   "cp-probability-basic": 4.0,
+   "cp-combinations": 2.5,
+   "cp-inclusion-exclusion": 1.5
+  }
+ },
+ {
+  "id": "2019-16",
+  "top": [
+   "alg-rates",
+   "alg-mean-median",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "alg-rates": 4.0,
+   "alg-mean-median": 3.0,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2019-17",
+  "top": [
+   "alg-inequalities-optimization",
+   "alg-arith-compute"
+  ],
+  "scores": {
+   "alg-inequalities-optimization": 0.5,
+   "alg-arith-compute": 0.5
+  }
+ },
+ {
+  "id": "2019-18",
+  "top": [
+   "cp-probability-dice-coins",
+   "cp-probability-basic",
+   "nt-parity"
+  ],
+  "scores": {
+   "cp-probability-dice-coins": 3.0,
+   "cp-probability-basic": 2.5,
+   "nt-parity": 2.0,
+   "geo-3d-cubes": 1.0
+  }
+ },
+ {
+  "id": "2019-19",
+  "top": [
+   "misc-games",
+   "misc-process-simulation"
+  ],
+  "scores": {
+   "misc-games": 2.0,
+   "misc-process-simulation": 1.5
+  }
+ },
+ {
+  "id": "2019-20",
+  "top": [
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2019-21",
+  "top": [
+   "geo-triangle-area",
+   "alg-systems"
+  ],
+  "scores": {
+   "geo-triangle-area": 2.5,
+   "alg-systems": 0.8
+  }
+ },
+ {
+  "id": "2019-22",
+  "top": [
+   "alg-percent-ratio",
+   "misc-money-everyday",
+   "cp-conditional-probability"
+  ],
+  "scores": {
+   "alg-percent-ratio": 3.0,
+   "misc-money-everyday": 3.0,
+   "cp-conditional-probability": 2.5
+  }
+ },
+ {
+  "id": "2019-23",
+  "top": [
+   "alg-fraction-word",
+   "misc-games",
+   "misc-process-simulation"
+  ],
+  "scores": {
+   "alg-fraction-word": 2.5,
+   "misc-games": 2.0,
+   "misc-process-simulation": 1.5
+  }
+ },
+ {
+  "id": "2019-24",
+  "top": [
+   "cp-conditional-probability",
+   "geo-triangle-area",
+   "nt-divisibility"
+  ],
+  "scores": {
+   "cp-conditional-probability": 2.5,
+   "geo-triangle-area": 2.5,
+   "nt-divisibility": 2.0
+  }
+ },
+ {
+  "id": "2019-25",
+  "top": [
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "cp-basic-counting": 2.8
+  }
+ },
+ {
+  "id": "2018-01",
+  "top": [
+   "alg-percent-ratio",
+   "misc-units-measurement"
+  ],
+  "scores": {
+   "alg-percent-ratio": 2.5,
+   "misc-units-measurement": 2.5
+  }
+ },
+ {
+  "id": "2018-02",
+  "top": [
+   "alg-inequalities-optimization",
+   "alg-arith-compute"
+  ],
+  "scores": {
+   "alg-inequalities-optimization": 0.5,
+   "alg-arith-compute": 0.5
+  }
+ },
+ {
+  "id": "2018-03",
+  "top": [
+   "nt-divisibility",
+   "nt-digits",
+   "cp-permutations"
+  ],
+  "scores": {
+   "nt-divisibility": 2.0,
+   "nt-digits": 2.0,
+   "cp-permutations": 2.0,
+   "geo-circle-area": 1.5,
+   "misc-logic": 1.0
+  }
+ },
+ {
+  "id": "2018-04",
+  "top": [
+   "geo-triangle-area"
+  ],
+  "scores": {
+   "geo-triangle-area": 1.0
+  }
+ },
+ {
+  "id": "2018-05",
+  "top": [
+   "alg-arith-compute"
+  ],
+  "scores": {
+   "alg-arith-compute": 3.5
+  }
+ },
+ {
+  "id": "2018-06",
+  "top": [
+   "cp-basic-counting",
+   "alg-rates"
+  ],
+  "scores": {
+   "cp-basic-counting": 0.8,
+   "alg-rates": 0.5
+  }
+ },
+ {
+  "id": "2018-07",
+  "top": [
+   "nt-modular",
+   "nt-divisibility",
+   "nt-digits"
+  ],
+  "scores": {
+   "nt-modular": 3.5,
+   "nt-divisibility": 3.0,
+   "nt-digits": 2.0
+  }
+ },
+ {
+  "id": "2018-08",
+  "top": [
+   "alg-mean-median",
+   "misc-data-charts",
+   "alg-floor-ceiling"
+  ],
+  "scores": {
+   "alg-mean-median": 3.0,
+   "misc-data-charts": 3.0,
+   "alg-floor-ceiling": 1.5,
+   "cp-basic-counting": 0.8,
+   "alg-rates": 0.5
+  }
+ },
+ {
+  "id": "2018-09",
+  "top": [
+   "geo-quadrilaterals",
+   "cp-recursion-counting",
+   "alg-fraction-word"
+  ],
+  "scores": {
+   "geo-quadrilaterals": 2.0,
+   "cp-recursion-counting": 1.5,
+   "alg-fraction-word": 1.5,
+   "geo-3d-cubes": 1.0,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2018-10",
+  "top": [
+   "alg-rates",
+   "alg-mean-median"
+  ],
+  "scores": {
+   "alg-rates": 3.0,
+   "alg-mean-median": 3.0
+  }
+ },
+ {
+  "id": "2018-11",
+  "top": [
+   "cp-probability-basic",
+   "cp-permutations",
+   "misc-money-everyday"
+  ],
+  "scores": {
+   "cp-probability-basic": 4.0,
+   "cp-permutations": 2.0,
+   "misc-money-everyday": 2.0
+  }
+ },
+ {
+  "id": "2018-12",
+  "top": [
+   "misc-calendar-clock",
+   "cp-inclusion-exclusion"
+  ],
+  "scores": {
+   "misc-calendar-clock": 2.5,
+   "cp-inclusion-exclusion": 1.5
+  }
+ },
+ {
+  "id": "2018-13",
+  "top": [
+   "alg-mean-median",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "alg-mean-median": 3.0,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2018-14",
+  "top": [
+   "nt-digits"
+  ],
+  "scores": {
+   "nt-digits": 4.0
+  }
+ },
+ {
+  "id": "2018-15",
+  "top": [
+   "geo-shaded-regions",
+   "geo-quadrilaterals",
+   "geo-circle-area"
+  ],
+  "scores": {
+   "geo-shaded-regions": 4.5,
+   "geo-quadrilaterals": 2.0,
+   "geo-circle-area": 1.5,
+   "geo-triangle-area": 1.0
+  }
+ },
+ {
+  "id": "2018-16",
+  "top": [
+   "cp-basic-counting",
+   "cp-permutations"
+  ],
+  "scores": {
+   "cp-basic-counting": 2.8,
+   "cp-permutations": 2.0
+  }
+ },
+ {
+  "id": "2018-17",
+  "top": [
+   "alg-rates",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "alg-rates": 4.0,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2018-18",
+  "top": [
+   "nt-divisors",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "nt-divisors": 2.5,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2018-19",
+  "top": [
+   "cp-basic-counting",
+   "geo-3d-volume"
+  ],
+  "scores": {
+   "cp-basic-counting": 2.8,
+   "geo-3d-volume": 2.5
+  }
+ },
+ {
+  "id": "2018-20",
+  "top": [
+   "geo-similar",
+   "alg-percent-ratio",
+   "geo-triangle-area"
+  ],
+  "scores": {
+   "geo-similar": 3.0,
+   "alg-percent-ratio": 2.5,
+   "geo-triangle-area": 2.5,
+   "alg-systems": 0.8
+  }
+ },
+ {
+  "id": "2018-21",
+  "top": [
+   "nt-modular",
+   "nt-digits",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "nt-modular": 3.5,
+   "nt-digits": 2.0,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2018-22",
+  "top": [
+   "geo-quadrilaterals",
+   "geo-triangle-area"
+  ],
+  "scores": {
+   "geo-quadrilaterals": 2.0,
+   "geo-triangle-area": 1.0
+  }
+ },
+ {
+  "id": "2018-23",
+  "top": [
+   "cp-probability-basic",
+   "geo-polygons",
+   "cp-combinations"
+  ],
+  "scores": {
+   "cp-probability-basic": 4.0,
+   "geo-polygons": 3.0,
+   "cp-combinations": 2.5,
+   "geo-triangle-area": 1.5,
+   "cp-inclusion-exclusion": 1.0
+  }
+ },
+ {
+  "id": "2018-24",
+  "top": [
+   "geo-3d-cubes",
+   "alg-percent-ratio",
+   "geo-triangle-area"
+  ],
+  "scores": {
+   "geo-3d-cubes": 3.5,
+   "alg-percent-ratio": 2.5,
+   "geo-triangle-area": 1.0
+  }
+ },
+ {
+  "id": "2018-25",
+  "top": [
+   "nt-squares-cubes",
+   "geo-3d-cubes",
+   "misc-logic"
+  ],
+  "scores": {
+   "nt-squares-cubes": 3.5,
+   "geo-3d-cubes": 2.5,
+   "misc-logic": 2.5,
+   "alg-exponents-radicals": 1.0,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2017-01",
+  "top": [],
+  "scores": {}
+ },
+ {
+  "id": "2017-02",
+  "top": [
+   "misc-data-charts",
+   "cp-distributions",
+   "misc-money-everyday"
+  ],
+  "scores": {
+   "misc-data-charts": 6.0,
+   "cp-distributions": 3.0,
+   "misc-money-everyday": 2.0,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2017-03",
+  "top": [
+   "alg-exponents-radicals",
+   "alg-arith-compute"
+  ],
+  "scores": {
+   "alg-exponents-radicals": 1.5,
+   "alg-arith-compute": 0.5
+  }
+ },
+ {
+  "id": "2017-04",
+  "top": [],
+  "scores": {}
+ },
+ {
+  "id": "2017-05",
+  "top": [
+   "alg-arith-compute"
+  ],
+  "scores": {
+   "alg-arith-compute": 0.5
+  }
+ },
+ {
+  "id": "2017-06",
+  "top": [
+   "alg-percent-ratio",
+   "geo-angles",
+   "geo-triangle-area"
+  ],
+  "scores": {
+   "alg-percent-ratio": 2.5,
+   "geo-angles": 2.0,
+   "geo-triangle-area": 1.5
+  }
+ },
+ {
+  "id": "2017-07",
+  "top": [
+   "nt-digits",
+   "cp-permutations"
+  ],
+  "scores": {
+   "nt-digits": 2.0,
+   "cp-permutations": 2.0
+  }
+ },
+ {
+  "id": "2017-08",
+  "top": [
+   "nt-units-digit",
+   "nt-divisibility",
+   "nt-primes-factorization"
+  ],
+  "scores": {
+   "nt-units-digit": 4.0,
+   "nt-divisibility": 3.0,
+   "nt-primes-factorization": 3.0,
+   "misc-logic": 2.5,
+   "nt-digits": 2.0
+  }
+ },
+ {
+  "id": "2017-09",
+  "top": [
+   "alg-fraction-word"
+  ],
+  "scores": {
+   "alg-fraction-word": 2.5
+  }
+ },
+ {
+  "id": "2017-10",
+  "top": [
+   "cp-probability-basic",
+   "cp-combinations"
+  ],
+  "scores": {
+   "cp-probability-basic": 4.0,
+   "cp-combinations": 2.5
+  }
+ },
+ {
+  "id": "2017-11",
+  "top": [
+   "misc-logic",
+   "geo-quadrilaterals",
+   "cp-recursion-counting"
+  ],
+  "scores": {
+   "misc-logic": 2.5,
+   "geo-quadrilaterals": 2.0,
+   "cp-recursion-counting": 1.5,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2017-12",
+  "top": [
+   "nt-modular",
+   "misc-logic"
+  ],
+  "scores": {
+   "nt-modular": 3.5,
+   "misc-logic": 2.5
+  }
+ },
+ {
+  "id": "2017-13",
+  "top": [
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2017-14",
+  "top": [
+   "alg-percent-ratio",
+   "alg-fraction-word",
+   "misc-money-everyday"
+  ],
+  "scores": {
+   "alg-percent-ratio": 3.0,
+   "alg-fraction-word": 2.5,
+   "misc-money-everyday": 2.0,
+   "cp-inclusion-exclusion": 1.5
+  }
+ },
+ {
+  "id": "2017-15",
+  "top": [
+   "cp-paths-grids",
+   "cp-permutations",
+   "misc-money-everyday"
+  ],
+  "scores": {
+   "cp-paths-grids": 2.5,
+   "cp-permutations": 2.0,
+   "misc-money-everyday": 2.0,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2017-16",
+  "top": [
+   "cp-combinations",
+   "geo-triangle-area"
+  ],
+  "scores": {
+   "cp-combinations": 2.5,
+   "geo-triangle-area": 2.5
+  }
+ },
+ {
+  "id": "2017-17",
+  "top": [
+   "alg-linear-word",
+   "alg-fraction-word",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "alg-linear-word": 1.5,
+   "alg-fraction-word": 1.5,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2017-18",
+  "top": [
+   "geo-pythagorean",
+   "geo-angles",
+   "geo-quadrilaterals"
+  ],
+  "scores": {
+   "geo-pythagorean": 2.5,
+   "geo-angles": 2.0,
+   "geo-quadrilaterals": 2.0,
+   "geo-triangle-area": 1.0,
+   "alg-systems": 0.8
+  }
+ },
+ {
+  "id": "2017-19",
+  "top": [
+   "nt-factorials"
+  ],
+  "scores": {
+   "nt-factorials": 1.5
+  }
+ },
+ {
+  "id": "2017-20",
+  "top": [
+   "cp-probability-basic",
+   "cp-combinations",
+   "nt-digits"
+  ],
+  "scores": {
+   "cp-probability-basic": 4.0,
+   "cp-combinations": 2.5,
+   "nt-digits": 2.0,
+   "nt-parity": 2.0
+  }
+ },
+ {
+  "id": "2017-21",
+  "top": [
+   "alg-absolute-value"
+  ],
+  "scores": {
+   "alg-absolute-value": 2.5
+  }
+ },
+ {
+  "id": "2017-22",
+  "top": [
+   "geo-triangle-centers",
+   "geo-pythagorean",
+   "geo-angles"
+  ],
+  "scores": {
+   "geo-triangle-centers": 3.0,
+   "geo-pythagorean": 2.5,
+   "geo-angles": 2.0,
+   "geo-triangle-area": 1.5,
+   "geo-circle-area": 1.5
+  }
+ },
+ {
+  "id": "2017-23",
+  "top": [
+   "alg-rates",
+   "misc-units-measurement",
+   "alg-percent-ratio"
+  ],
+  "scores": {
+   "alg-rates": 4.5,
+   "misc-units-measurement": 2.5,
+   "alg-percent-ratio": 1.5
+  }
+ },
+ {
+  "id": "2017-24",
+  "top": [
+   "misc-logic",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "misc-logic": 1.0,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2017-25",
+  "top": [
+   "geo-angles",
+   "geo-circle-area",
+   "geo-triangle-area"
+  ],
+  "scores": {
+   "geo-angles": 2.0,
+   "geo-circle-area": 1.5,
+   "geo-triangle-area": 1.0,
+   "geo-shaded-regions": 1.0
+  }
+ },
+ {
+  "id": "2016-01",
+  "top": [
+   "cp-basic-counting",
+   "alg-rates"
+  ],
+  "scores": {
+   "cp-basic-counting": 0.8,
+   "alg-rates": 0.5
+  }
+ },
+ {
+  "id": "2016-02",
+  "top": [
+   "geo-triangle-area",
+   "geo-quadrilaterals",
+   "alg-systems"
+  ],
+  "scores": {
+   "geo-triangle-area": 2.5,
+   "geo-quadrilaterals": 2.0,
+   "alg-systems": 0.8
+  }
+ },
+ {
+  "id": "2016-03",
+  "top": [
+   "alg-mean-median",
+   "alg-fraction-word"
+  ],
+  "scores": {
+   "alg-mean-median": 3.0,
+   "alg-fraction-word": 1.5
+  }
+ },
+ {
+  "id": "2016-04",
+  "top": [
+   "alg-rates",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "alg-rates": 1.5,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2016-05",
+  "top": [
+   "nt-modular",
+   "nt-digits"
+  ],
+  "scores": {
+   "nt-modular": 3.5,
+   "nt-digits": 2.0
+  }
+ },
+ {
+  "id": "2016-06",
+  "top": [
+   "alg-mean-median",
+   "geo-triangle-centers",
+   "misc-data-charts"
+  ],
+  "scores": {
+   "alg-mean-median": 3.0,
+   "geo-triangle-centers": 3.0,
+   "misc-data-charts": 3.0,
+   "geo-perimeter-length": 1.0
+  }
+ },
+ {
+  "id": "2016-07",
+  "top": [
+   "nt-squares-cubes",
+   "geo-quadrilaterals"
+  ],
+  "scores": {
+   "nt-squares-cubes": 3.5,
+   "geo-quadrilaterals": 2.0
+  }
+ },
+ {
+  "id": "2016-08",
+  "top": [
+   "alg-arith-compute"
+  ],
+  "scores": {
+   "alg-arith-compute": 0.5
+  }
+ },
+ {
+  "id": "2016-09",
+  "top": [
+   "nt-primes-factorization",
+   "nt-divisors"
+  ],
+  "scores": {
+   "nt-primes-factorization": 3.0,
+   "nt-divisors": 2.5
+  }
+ },
+ {
+  "id": "2016-10",
+  "top": [
+   "alg-arith-compute"
+  ],
+  "scores": {
+   "alg-arith-compute": 0.5
+  }
+ },
+ {
+  "id": "2016-11",
+  "top": [
+   "nt-digits",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "nt-digits": 2.0,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2016-12",
+  "top": [],
+  "scores": {}
+ },
+ {
+  "id": "2016-13",
+  "top": [
+   "cp-probability-basic",
+   "cp-combinations"
+  ],
+  "scores": {
+   "cp-probability-basic": 4.0,
+   "cp-combinations": 2.5
+  }
+ },
+ {
+  "id": "2016-14",
+  "top": [
+   "alg-rates",
+   "misc-money-everyday",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "alg-rates": 1.0,
+   "misc-money-everyday": 1.0,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2016-15",
+  "top": [
+   "nt-divisors"
+  ],
+  "scores": {
+   "nt-divisors": 2.5
+  }
+ },
+ {
+  "id": "2016-16",
+  "top": [
+   "alg-percent-ratio",
+   "alg-rates",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "alg-percent-ratio": 3.0,
+   "alg-rates": 1.0,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2016-17",
+  "top": [
+   "nt-digits",
+   "misc-process-simulation",
+   "alg-recursion-patterns"
+  ],
+  "scores": {
+   "nt-digits": 2.0,
+   "misc-process-simulation": 2.0,
+   "alg-recursion-patterns": 1.5,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2016-18",
+  "top": [
+   "misc-units-measurement",
+   "geo-triangle-area",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "misc-units-measurement": 2.5,
+   "geo-triangle-area": 1.0,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2016-19",
+  "top": [
+   "nt-parity"
+  ],
+  "scores": {
+   "nt-parity": 4.0
+  }
+ },
+ {
+  "id": "2016-20",
+  "top": [
+   "nt-gcd-lcm",
+   "alg-inequalities-optimization",
+   "nt-divisibility"
+  ],
+  "scores": {
+   "nt-gcd-lcm": 4.0,
+   "alg-inequalities-optimization": 2.0,
+   "nt-divisibility": 2.0,
+   "alg-arith-compute": 0.5
+  }
+ },
+ {
+  "id": "2016-21",
+  "top": [
+   "cp-probability-basic",
+   "cp-inclusion-exclusion"
+  ],
+  "scores": {
+   "cp-probability-basic": 4.0,
+   "cp-inclusion-exclusion": 1.5
+  }
+ },
+ {
+  "id": "2016-22",
+  "top": [
+   "geo-shaded-regions",
+   "geo-quadrilaterals",
+   "geo-triangle-area"
+  ],
+  "scores": {
+   "geo-shaded-regions": 4.5,
+   "geo-quadrilaterals": 2.0,
+   "geo-triangle-area": 1.0
+  }
+ },
+ {
+  "id": "2016-23",
+  "top": [
+   "geo-angles",
+   "misc-money-everyday",
+   "alg-graphs-lines"
+  ],
+  "scores": {
+   "geo-angles": 2.0,
+   "misc-money-everyday": 2.0,
+   "alg-graphs-lines": 1.5,
+   "cp-inclusion-exclusion": 1.5,
+   "geo-circle-area": 1.5
+  }
+ },
+ {
+  "id": "2016-24",
+  "top": [
+   "nt-divisibility",
+   "nt-digits"
+  ],
+  "scores": {
+   "nt-divisibility": 3.0,
+   "nt-digits": 2.0
+  }
+ },
+ {
+  "id": "2016-25",
+  "top": [
+   "nt-bases",
+   "geo-triangle-area",
+   "geo-circle-area"
+  ],
+  "scores": {
+   "nt-bases": 3.5,
+   "geo-triangle-area": 1.5,
+   "geo-circle-area": 1.5,
+   "geo-circle-theorems": 1.5
+  }
+ },
+ {
+  "id": "2015-01",
+  "top": [
+   "misc-units-measurement",
+   "geo-quadrilaterals",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "misc-units-measurement": 2.5,
+   "geo-quadrilaterals": 2.0,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2015-02",
+  "top": [
+   "geo-shaded-regions",
+   "geo-polygons",
+   "misc-money-everyday"
+  ],
+  "scores": {
+   "geo-shaded-regions": 3.5,
+   "geo-polygons": 3.0,
+   "misc-money-everyday": 2.0,
+   "geo-triangle-area": 1.0
+  }
+ },
+ {
+  "id": "2015-03",
+  "top": [
+   "alg-rates",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "alg-rates": 4.5,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2015-04",
+  "top": [
+   "cp-permutations",
+   "misc-money-everyday",
+   "misc-process-simulation"
+  ],
+  "scores": {
+   "cp-permutations": 3.5,
+   "misc-money-everyday": 2.0,
+   "misc-process-simulation": 1.5,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2015-05",
+  "top": [
+   "misc-games",
+   "misc-process-simulation"
+  ],
+  "scores": {
+   "misc-games": 2.0,
+   "misc-process-simulation": 1.5
+  }
+ },
+ {
+  "id": "2015-06",
+  "top": [
+   "geo-triangle-area",
+   "alg-systems"
+  ],
+  "scores": {
+   "geo-triangle-area": 2.5,
+   "alg-systems": 0.8
+  }
+ },
+ {
+  "id": "2015-07",
+  "top": [
+   "cp-probability-basic",
+   "nt-parity"
+  ],
+  "scores": {
+   "cp-probability-basic": 4.0,
+   "nt-parity": 2.0
+  }
+ },
+ {
+  "id": "2015-08",
+  "top": [
+   "geo-perimeter-length",
+   "geo-triangle-area",
+   "geo-triangle-inequality"
+  ],
+  "scores": {
+   "geo-perimeter-length": 2.5,
+   "geo-triangle-area": 1.5,
+   "geo-triangle-inequality": 1.5
+  }
+ },
+ {
+  "id": "2015-09",
+  "top": [
+   "misc-money-everyday",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "misc-money-everyday": 1.0,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2015-10",
+  "top": [
+   "cp-basic-counting",
+   "nt-digits"
+  ],
+  "scores": {
+   "cp-basic-counting": 2.8,
+   "nt-digits": 2.0
+  }
+ },
+ {
+  "id": "2015-11",
+  "top": [
+   "cp-probability-basic",
+   "cp-combinations",
+   "nt-digits"
+  ],
+  "scores": {
+   "cp-probability-basic": 4.0,
+   "cp-combinations": 2.5,
+   "nt-digits": 2.0
+  }
+ },
+ {
+  "id": "2015-12",
+  "top": [
+   "geo-3d-cubes",
+   "geo-similar",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "geo-3d-cubes": 3.5,
+   "geo-similar": 1.5,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2015-13",
+  "top": [
+   "alg-mean-median",
+   "cp-combinations",
+   "alg-fraction-word"
+  ],
+  "scores": {
+   "alg-mean-median": 3.0,
+   "cp-combinations": 2.5,
+   "alg-fraction-word": 1.5,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2015-14",
+  "top": [
+   "nt-parity",
+   "misc-logic"
+  ],
+  "scores": {
+   "nt-parity": 4.0,
+   "misc-logic": 1.5
+  }
+ },
+ {
+  "id": "2015-15",
+  "top": [
+   "cp-inclusion-exclusion",
+   "misc-logic",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "cp-inclusion-exclusion": 1.5,
+   "misc-logic": 1.0,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2015-16",
+  "top": [
+   "alg-fraction-word"
+  ],
+  "scores": {
+   "alg-fraction-word": 2.5
+  }
+ },
+ {
+  "id": "2015-17",
+  "top": [
+   "alg-rates"
+  ],
+  "scores": {
+   "alg-rates": 4.5
+  }
+ },
+ {
+  "id": "2015-18",
+  "top": [
+   "alg-arith-seq",
+   "alg-recursion-patterns",
+   "geo-quadrilaterals"
+  ],
+  "scores": {
+   "alg-arith-seq": 4.0,
+   "alg-recursion-patterns": 2.5,
+   "geo-quadrilaterals": 2.0,
+   "misc-money-everyday": 2.0,
+   "alg-arith-compute": 0.5
+  }
+ },
+ {
+  "id": "2015-19",
+  "top": [
+   "geo-coordinate",
+   "geo-grid-area",
+   "cp-paths-grids"
+  ],
+  "scores": {
+   "geo-coordinate": 2.5,
+   "geo-grid-area": 2.0,
+   "cp-paths-grids": 1.5,
+   "geo-triangle-area": 1.5,
+   "geo-3d-cubes": 1.0
+  }
+ },
+ {
+  "id": "2015-20",
+  "top": [
+   "misc-money-everyday",
+   "cp-inclusion-exclusion",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "misc-money-everyday": 3.0,
+   "cp-inclusion-exclusion": 1.0,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2015-21",
+  "top": [
+   "geo-polygons",
+   "geo-triangle-area"
+  ],
+  "scores": {
+   "geo-polygons": 3.0,
+   "geo-triangle-area": 2.5
+  }
+ },
+ {
+  "id": "2015-22",
+  "top": [
+   "misc-process-simulation"
+  ],
+  "scores": {
+   "misc-process-simulation": 2.0
+  }
+ },
+ {
+  "id": "2015-23",
+  "top": [],
+  "scores": {}
+ },
+ {
+  "id": "2015-24",
+  "top": [
+   "misc-games",
+   "misc-process-simulation",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "misc-games": 2.0,
+   "misc-process-simulation": 1.5,
+   "cp-basic-counting": 0.8,
+   "alg-inequalities-optimization": 0.5
+  }
+ },
+ {
+  "id": "2015-25",
+  "top": [
+   "geo-quadrilaterals",
+   "alg-fraction-word",
+   "geo-triangle-area"
+  ],
+  "scores": {
+   "geo-quadrilaterals": 2.0,
+   "alg-fraction-word": 1.5,
+   "geo-triangle-area": 1.0
+  }
+ },
+ {
+  "id": "2014-01",
+  "top": [],
+  "scores": {}
+ },
+ {
+  "id": "2014-02",
+  "top": [
+   "misc-money-everyday",
+   "alg-linear-word"
+  ],
+  "scores": {
+   "misc-money-everyday": 3.0,
+   "alg-linear-word": 1.5
+  }
+ },
+ {
+  "id": "2014-03",
+  "top": [
+   "alg-mean-median",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "alg-mean-median": 3.0,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2014-04",
+  "top": [
+   "nt-primes-factorization"
+  ],
+  "scores": {
+   "nt-primes-factorization": 3.0
+  }
+ },
+ {
+  "id": "2014-05",
+  "top": [
+   "misc-money-everyday",
+   "alg-rates",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "misc-money-everyday": 3.0,
+   "alg-rates": 1.0,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2014-06",
+  "top": [
+   "nt-bases"
+  ],
+  "scores": {
+   "nt-bases": 3.5
+  }
+ },
+ {
+  "id": "2014-07",
+  "top": [
+   "alg-percent-ratio"
+  ],
+  "scores": {
+   "alg-percent-ratio": 2.5
+  }
+ },
+ {
+  "id": "2014-08",
+  "top": [
+   "misc-money-everyday",
+   "nt-digits"
+  ],
+  "scores": {
+   "misc-money-everyday": 3.0,
+   "nt-digits": 2.0
+  }
+ },
+ {
+  "id": "2014-09",
+  "top": [
+   "geo-angles"
+  ],
+  "scores": {
+   "geo-angles": 2.0
+  }
+ },
+ {
+  "id": "2014-10",
+  "top": [
+   "alg-linear-word"
+  ],
+  "scores": {
+   "alg-linear-word": 2.0
+  }
+ },
+ {
+  "id": "2014-11",
+  "top": [
+   "cp-basic-counting",
+   "alg-rates"
+  ],
+  "scores": {
+   "cp-basic-counting": 2.8,
+   "alg-rates": 1.0
+  }
+ },
+ {
+  "id": "2014-12",
+  "top": [
+   "cp-probability-basic"
+  ],
+  "scores": {
+   "cp-probability-basic": 4.0
+  }
+ },
+ {
+  "id": "2014-13",
+  "top": [
+   "nt-parity"
+  ],
+  "scores": {
+   "nt-parity": 2.0
+  }
+ },
+ {
+  "id": "2014-14",
+  "top": [
+   "geo-triangle-area",
+   "geo-pythagorean",
+   "geo-quadrilaterals"
+  ],
+  "scores": {
+   "geo-triangle-area": 2.5,
+   "geo-pythagorean": 2.5,
+   "geo-quadrilaterals": 2.0
+  }
+ },
+ {
+  "id": "2014-15",
+  "top": [
+   "geo-angles",
+   "misc-money-everyday",
+   "geo-circle-area"
+  ],
+  "scores": {
+   "geo-angles": 2.0,
+   "misc-money-everyday": 2.0,
+   "geo-circle-area": 1.5
+  }
+ },
+ {
+  "id": "2014-16",
+  "top": [
+   "misc-process-simulation"
+  ],
+  "scores": {
+   "misc-process-simulation": 1.5
+  }
+ },
+ {
+  "id": "2014-17",
+  "top": [
+   "alg-rates",
+   "cp-permutations",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "alg-rates": 4.0,
+   "cp-permutations": 2.0,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2014-18",
+  "top": [],
+  "scores": {}
+ },
+ {
+  "id": "2014-19",
+  "top": [
+   "geo-3d-cubes",
+   "geo-3d-volume",
+   "geo-triangle-area"
+  ],
+  "scores": {
+   "geo-3d-cubes": 3.5,
+   "geo-3d-volume": 3.0,
+   "geo-triangle-area": 1.0
+  }
+ },
+ {
+  "id": "2014-20",
+  "top": [
+   "geo-quadrilaterals",
+   "misc-money-everyday",
+   "geo-circle-area"
+  ],
+  "scores": {
+   "geo-quadrilaterals": 2.0,
+   "misc-money-everyday": 2.0,
+   "geo-circle-area": 1.5,
+   "geo-triangle-area": 1.0,
+   "geo-shaded-regions": 1.0
+  }
+ },
+ {
+  "id": "2014-21",
+  "top": [
+   "nt-divisibility",
+   "nt-digits",
+   "alg-arith-compute"
+  ],
+  "scores": {
+   "nt-divisibility": 2.0,
+   "nt-digits": 2.0,
+   "alg-arith-compute": 0.5
+  }
+ },
+ {
+  "id": "2014-22",
+  "top": [
+   "nt-units-digit",
+   "nt-digits"
+  ],
+  "scores": {
+   "nt-units-digit": 4.0,
+   "nt-digits": 4.0
+  }
+ },
+ {
+  "id": "2014-23",
+  "top": [
+   "nt-primes-factorization",
+   "nt-digits",
+   "misc-units-measurement"
+  ],
+  "scores": {
+   "nt-primes-factorization": 3.0,
+   "nt-digits": 2.0,
+   "misc-units-measurement": 2.0,
+   "misc-process-simulation": 1.5
+  }
+ },
+ {
+  "id": "2014-24",
+  "top": [
+   "alg-mean-median",
+   "geo-triangle-centers",
+   "cp-inclusion-exclusion"
+  ],
+  "scores": {
+   "alg-mean-median": 3.0,
+   "geo-triangle-centers": 3.0,
+   "cp-inclusion-exclusion": 1.0,
+   "misc-money-everyday": 1.0
+  }
+ },
+ {
+  "id": "2014-25",
+  "top": [
+   "alg-rates",
+   "cp-paths-grids",
+   "geo-circle-area"
+  ],
+  "scores": {
+   "alg-rates": 4.0,
+   "cp-paths-grids": 2.5,
+   "geo-circle-area": 1.5,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2013-01",
+  "top": [
+   "cp-permutations",
+   "misc-money-everyday"
+  ],
+  "scores": {
+   "cp-permutations": 2.0,
+   "misc-money-everyday": 1.0
+  }
+ },
+ {
+  "id": "2013-02",
+  "top": [
+   "misc-money-everyday"
+  ],
+  "scores": {
+   "misc-money-everyday": 3.0
+  }
+ },
+ {
+  "id": "2013-03",
+  "top": [
+   "alg-arith-compute"
+  ],
+  "scores": {
+   "alg-arith-compute": 3.5
+  }
+ },
+ {
+  "id": "2013-04",
+  "top": [
+   "misc-money-everyday"
+  ],
+  "scores": {
+   "misc-money-everyday": 3.0
+  }
+ },
+ {
+  "id": "2013-05",
+  "top": [
+   "alg-mean-median",
+   "geo-triangle-centers",
+   "alg-linear-word"
+  ],
+  "scores": {
+   "alg-mean-median": 6.0,
+   "geo-triangle-centers": 3.0,
+   "alg-linear-word": 1.0,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2013-06",
+  "top": [],
+  "scores": {}
+ },
+ {
+  "id": "2013-07",
+  "top": [
+   "alg-rates"
+  ],
+  "scores": {
+   "alg-rates": 3.5
+  }
+ },
+ {
+  "id": "2013-08",
+  "top": [
+   "cp-probability-dice-coins",
+   "cp-probability-basic",
+   "alg-linear-word"
+  ],
+  "scores": {
+   "cp-probability-dice-coins": 3.0,
+   "cp-probability-basic": 2.5,
+   "alg-linear-word": 1.5
+  }
+ },
+ {
+  "id": "2013-09",
+  "top": [],
+  "scores": {}
+ },
+ {
+  "id": "2013-10",
+  "top": [
+   "nt-gcd-lcm",
+   "alg-percent-ratio",
+   "nt-divisibility"
+  ],
+  "scores": {
+   "nt-gcd-lcm": 8.0,
+   "alg-percent-ratio": 2.5,
+   "nt-divisibility": 2.0
+  }
+ },
+ {
+  "id": "2013-11",
+  "top": [
+   "alg-rates",
+   "misc-calendar-clock",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "alg-rates": 3.5,
+   "misc-calendar-clock": 3.0,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2013-12",
+  "top": [
+   "alg-percent-ratio",
+   "misc-money-everyday"
+  ],
+  "scores": {
+   "alg-percent-ratio": 4.5,
+   "misc-money-everyday": 3.0
+  }
+ },
+ {
+  "id": "2013-13",
+  "top": [
+   "nt-units-digit",
+   "nt-digits"
+  ],
+  "scores": {
+   "nt-units-digit": 4.0,
+   "nt-digits": 2.0
+  }
+ },
+ {
+  "id": "2013-14",
+  "top": [
+   "cp-probability-basic"
+  ],
+  "scores": {
+   "cp-probability-basic": 4.0
+  }
+ },
+ {
+  "id": "2013-15",
+  "top": [
+   "alg-systems"
+  ],
+  "scores": {
+   "alg-systems": 0.8
+  }
+ },
+ {
+  "id": "2013-16",
+  "top": [
+   "alg-percent-ratio"
+  ],
+  "scores": {
+   "alg-percent-ratio": 2.5
+  }
+ },
+ {
+  "id": "2013-17",
+  "top": [
+   "nt-parity"
+  ],
+  "scores": {
+   "nt-parity": 2.0
+  }
+ },
+ {
+  "id": "2013-18",
+  "top": [
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2013-19",
+  "top": [],
+  "scores": {}
+ },
+ {
+  "id": "2013-20",
+  "top": [
+   "geo-quadrilaterals",
+   "geo-circle-area",
+   "geo-circle-theorems"
+  ],
+  "scores": {
+   "geo-quadrilaterals": 2.0,
+   "geo-circle-area": 1.5,
+   "geo-circle-theorems": 1.5,
+   "geo-triangle-area": 1.0
+  }
+ },
+ {
+  "id": "2013-21",
+  "top": [
+   "cp-paths-grids",
+   "alg-rates",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "cp-paths-grids": 2.5,
+   "alg-rates": 1.0,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2013-22",
+  "top": [
+   "alg-visual-patterns",
+   "geo-grid-area",
+   "cp-paths-grids"
+  ],
+  "scores": {
+   "alg-visual-patterns": 3.0,
+   "geo-grid-area": 2.0,
+   "cp-paths-grids": 1.5,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2013-23",
+  "top": [
+   "geo-circle-area",
+   "geo-triangle-area",
+   "geo-pythagorean"
+  ],
+  "scores": {
+   "geo-circle-area": 3.0,
+   "geo-triangle-area": 2.5,
+   "geo-pythagorean": 2.5,
+   "geo-angles": 2.0
+  }
+ },
+ {
+  "id": "2013-24",
+  "top": [
+   "geo-shaded-regions",
+   "geo-polygons",
+   "alg-percent-ratio"
+  ],
+  "scores": {
+   "geo-shaded-regions": 3.5,
+   "geo-polygons": 3.0,
+   "alg-percent-ratio": 2.5,
+   "geo-triangle-area": 1.0
+  }
+ },
+ {
+  "id": "2013-25",
+  "top": [
+   "misc-money-everyday",
+   "geo-circle-area",
+   "alg-rates"
+  ],
+  "scores": {
+   "misc-money-everyday": 2.0,
+   "geo-circle-area": 1.5,
+   "alg-rates": 1.0,
+   "alg-systems": 0.8
+  }
+ },
+ {
+  "id": "2012-01",
+  "top": [
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2012-02",
+  "top": [
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2012-03",
+  "top": [
+   "alg-rates",
+   "misc-calendar-clock",
+   "geo-perimeter-length"
+  ],
+  "scores": {
+   "alg-rates": 3.5,
+   "misc-calendar-clock": 2.5,
+   "geo-perimeter-length": 1.0
+  }
+ },
+ {
+  "id": "2012-04",
+  "top": [
+   "cp-permutations"
+  ],
+  "scores": {
+   "cp-permutations": 2.0
+  }
+ },
+ {
+  "id": "2012-05",
+  "top": [
+   "geo-pythagorean",
+   "misc-units-measurement",
+   "geo-angles"
+  ],
+  "scores": {
+   "geo-pythagorean": 2.5,
+   "misc-units-measurement": 2.5,
+   "geo-angles": 2.0,
+   "misc-money-everyday": 2.0,
+   "geo-perimeter-length": 1.0
+  }
+ },
+ {
+  "id": "2012-06",
+  "top": [
+   "geo-quadrilaterals",
+   "geo-triangle-area"
+  ],
+  "scores": {
+   "geo-quadrilaterals": 2.0,
+   "geo-triangle-area": 1.0
+  }
+ },
+ {
+  "id": "2012-07",
+  "top": [
+   "alg-mean-median"
+  ],
+  "scores": {
+   "alg-mean-median": 3.0
+  }
+ },
+ {
+  "id": "2012-08",
+  "top": [
+   "alg-percent-ratio",
+   "misc-money-everyday"
+  ],
+  "scores": {
+   "alg-percent-ratio": 4.5,
+   "misc-money-everyday": 3.0
+  }
+ },
+ {
+  "id": "2012-09",
+  "top": [
+   "geo-pythagorean",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "geo-pythagorean": 2.0,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2012-10",
+  "top": [
+   "nt-digits",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "nt-digits": 2.0,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2012-11",
+  "top": [
+   "alg-mean-median",
+   "geo-triangle-centers",
+   "alg-arith-compute"
+  ],
+  "scores": {
+   "alg-mean-median": 8.0,
+   "geo-triangle-centers": 3.0,
+   "alg-arith-compute": 0.5
+  }
+ },
+ {
+  "id": "2012-12",
+  "top": [
+   "nt-units-digit",
+   "nt-digits",
+   "alg-exponents-radicals"
+  ],
+  "scores": {
+   "nt-units-digit": 4.0,
+   "nt-digits": 2.0,
+   "alg-exponents-radicals": 1.0
+  }
+ },
+ {
+  "id": "2012-13",
+  "top": [
+   "misc-money-everyday",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "misc-money-everyday": 3.0,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2012-14",
+  "top": [
+   "misc-process-simulation",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "misc-process-simulation": 1.5,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2012-15",
+  "top": [
+   "nt-modular",
+   "misc-logic"
+  ],
+  "scores": {
+   "nt-modular": 3.5,
+   "misc-logic": 2.5
+  }
+ },
+ {
+  "id": "2012-16",
+  "top": [
+   "nt-digits",
+   "misc-magic-squares"
+  ],
+  "scores": {
+   "nt-digits": 2.0,
+   "misc-magic-squares": 2.0
+  }
+ },
+ {
+  "id": "2012-17",
+  "top": [
+   "geo-triangle-inequality",
+   "alg-inequalities-optimization",
+   "geo-quadrilaterals"
+  ],
+  "scores": {
+   "geo-triangle-inequality": 2.5,
+   "alg-inequalities-optimization": 2.0,
+   "geo-quadrilaterals": 2.0,
+   "geo-triangle-area": 1.0,
+   "geo-perimeter-length": 1.0
+  }
+ },
+ {
+  "id": "2012-18",
+  "top": [
+   "nt-primes-factorization",
+   "cp-inclusion-exclusion",
+   "geo-quadrilaterals"
+  ],
+  "scores": {
+   "nt-primes-factorization": 3.0,
+   "cp-inclusion-exclusion": 2.5,
+   "geo-quadrilaterals": 2.0
+  }
+ },
+ {
+  "id": "2012-19",
+  "top": [
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2012-20",
+  "top": [
+   "cp-permutations"
+  ],
+  "scores": {
+   "cp-permutations": 2.0
+  }
+ },
+ {
+  "id": "2012-21",
+  "top": [
+   "geo-3d-cubes",
+   "geo-quadrilaterals",
+   "misc-money-everyday"
+  ],
+  "scores": {
+   "geo-3d-cubes": 3.5,
+   "geo-quadrilaterals": 2.0,
+   "misc-money-everyday": 2.0,
+   "geo-triangle-area": 1.0
+  }
+ },
+ {
+  "id": "2012-22",
+  "top": [
+   "alg-mean-median",
+   "geo-triangle-centers"
+  ],
+  "scores": {
+   "alg-mean-median": 3.0,
+   "geo-triangle-centers": 3.0
+  }
+ },
+ {
+  "id": "2012-23",
+  "top": [
+   "geo-polygons",
+   "geo-triangle-area"
+  ],
+  "scores": {
+   "geo-polygons": 3.0,
+   "geo-triangle-area": 2.5
+  }
+ },
+ {
+  "id": "2012-24",
+  "top": [
+   "alg-percent-ratio",
+   "geo-circle-area",
+   "geo-triangle-area"
+  ],
+  "scores": {
+   "alg-percent-ratio": 2.5,
+   "geo-circle-area": 1.5,
+   "geo-triangle-area": 1.0
+  }
+ },
+ {
+  "id": "2012-25",
+  "top": [
+   "nt-divisibility",
+   "geo-quadrilaterals",
+   "geo-circle-theorems"
+  ],
+  "scores": {
+   "nt-divisibility": 2.0,
+   "geo-quadrilaterals": 2.0,
+   "geo-circle-theorems": 1.5,
+   "geo-triangle-area": 1.0,
+   "alg-arith-compute": 0.5
+  }
+ },
+ {
+  "id": "2011-01",
+  "top": [
+   "misc-money-everyday"
+  ],
+  "scores": {
+   "misc-money-everyday": 3.0
+  }
+ },
+ {
+  "id": "2011-02",
+  "top": [
+   "misc-logic"
+  ],
+  "scores": {
+   "misc-logic": 2.5
+  }
+ },
+ {
+  "id": "2011-03",
+  "top": [
+   "alg-percent-ratio",
+   "geo-quadrilaterals",
+   "alg-recursion-patterns"
+  ],
+  "scores": {
+   "alg-percent-ratio": 2.5,
+   "geo-quadrilaterals": 2.0,
+   "alg-recursion-patterns": 1.5,
+   "cp-recursion-counting": 1.5
+  }
+ },
+ {
+  "id": "2011-04",
+  "top": [
+   "alg-mean-median",
+   "geo-triangle-centers",
+   "misc-logic"
+  ],
+  "scores": {
+   "alg-mean-median": 8.0,
+   "geo-triangle-centers": 3.0,
+   "misc-logic": 2.5
+  }
+ },
+ {
+  "id": "2011-05",
+  "top": [
+   "alg-rates"
+  ],
+  "scores": {
+   "alg-rates": 0.5
+  }
+ },
+ {
+  "id": "2011-06",
+  "top": [
+   "cp-inclusion-exclusion",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "cp-inclusion-exclusion": 1.5,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2011-07",
+  "top": [
+   "alg-percent-ratio",
+   "misc-money-everyday",
+   "geo-triangle-area"
+  ],
+  "scores": {
+   "alg-percent-ratio": 3.0,
+   "misc-money-everyday": 2.0,
+   "geo-triangle-area": 1.0
+  }
+ },
+ {
+  "id": "2011-08",
+  "top": [
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2011-09",
+  "top": [
+   "alg-rates",
+   "alg-mean-median"
+  ],
+  "scores": {
+   "alg-rates": 4.0,
+   "alg-mean-median": 3.0
+  }
+ },
+ {
+  "id": "2011-10",
+  "top": [
+   "alg-rates",
+   "misc-money-everyday",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "alg-rates": 1.0,
+   "misc-money-everyday": 1.0,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2011-11",
+  "top": [
+   "alg-mean-median",
+   "misc-data-charts",
+   "cp-inclusion-exclusion"
+  ],
+  "scores": {
+   "alg-mean-median": 3.0,
+   "misc-data-charts": 3.0,
+   "cp-inclusion-exclusion": 1.5,
+   "cp-basic-counting": 0.8,
+   "alg-rates": 0.5
+  }
+ },
+ {
+  "id": "2011-12",
+  "top": [
+   "cp-probability-basic",
+   "cp-permutations",
+   "geo-quadrilaterals"
+  ],
+  "scores": {
+   "cp-probability-basic": 4.0,
+   "cp-permutations": 2.0,
+   "geo-quadrilaterals": 2.0
+  }
+ },
+ {
+  "id": "2011-13",
+  "top": [
+   "geo-shaded-regions",
+   "alg-percent-ratio",
+   "geo-quadrilaterals"
+  ],
+  "scores": {
+   "geo-shaded-regions": 4.5,
+   "alg-percent-ratio": 3.0,
+   "geo-quadrilaterals": 2.0,
+   "misc-money-everyday": 2.0,
+   "geo-triangle-area": 1.0
+  }
+ },
+ {
+  "id": "2011-14",
+  "top": [
+   "alg-percent-ratio",
+   "cp-inclusion-exclusion"
+  ],
+  "scores": {
+   "alg-percent-ratio": 2.5,
+   "cp-inclusion-exclusion": 1.5
+  }
+ },
+ {
+  "id": "2011-15",
+  "top": [
+   "nt-digits",
+   "alg-exponents-radicals",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "nt-digits": 2.0,
+   "alg-exponents-radicals": 1.0,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2011-16",
+  "top": [
+   "geo-triangle-area"
+  ],
+  "scores": {
+   "geo-triangle-area": 2.5
+  }
+ },
+ {
+  "id": "2011-17",
+  "top": [],
+  "scores": {}
+ },
+ {
+  "id": "2011-18",
+  "top": [
+   "cp-probability-dice-coins",
+   "cp-probability-basic"
+  ],
+  "scores": {
+   "cp-probability-dice-coins": 3.0,
+   "cp-probability-basic": 2.5
+  }
+ },
+ {
+  "id": "2011-19",
+  "top": [
+   "cp-paths-grids",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "cp-paths-grids": 2.0,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2011-20",
+  "top": [
+   "geo-quadrilaterals",
+   "geo-triangle-area"
+  ],
+  "scores": {
+   "geo-quadrilaterals": 2.0,
+   "geo-triangle-area": 1.0
+  }
+ },
+ {
+  "id": "2011-21",
+  "top": [
+   "nt-primes-factorization",
+   "alg-linear-word"
+  ],
+  "scores": {
+   "nt-primes-factorization": 3.0,
+   "alg-linear-word": 2.0
+  }
+ },
+ {
+  "id": "2011-22",
+  "top": [
+   "nt-units-digit",
+   "nt-digits",
+   "alg-exponents-radicals"
+  ],
+  "scores": {
+   "nt-units-digit": 4.0,
+   "nt-digits": 2.0,
+   "alg-exponents-radicals": 1.0
+  }
+ },
+ {
+  "id": "2011-23",
+  "top": [
+   "nt-divisibility",
+   "nt-digits",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "nt-divisibility": 2.0,
+   "nt-digits": 2.0,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2011-24",
+  "top": [
+   "nt-primes-factorization",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "nt-primes-factorization": 3.0,
+   "cp-basic-counting": 2.8
+  }
+ },
+ {
+  "id": "2011-25",
+  "top": [
+   "geo-shaded-regions",
+   "geo-triangle-centers",
+   "alg-percent-ratio"
+  ],
+  "scores": {
+   "geo-shaded-regions": 3.5,
+   "geo-triangle-centers": 3.0,
+   "alg-percent-ratio": 2.5,
+   "geo-quadrilaterals": 2.0,
+   "geo-circle-area": 1.5
+  }
+ },
+ {
+  "id": "2010-01",
+  "top": [
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2010-02",
+  "top": [],
+  "scores": {}
+ },
+ {
+  "id": "2010-03",
+  "top": [
+   "alg-percent-ratio",
+   "misc-data-charts",
+   "misc-money-everyday"
+  ],
+  "scores": {
+   "alg-percent-ratio": 3.0,
+   "misc-data-charts": 3.0,
+   "misc-money-everyday": 3.0
+  }
+ },
+ {
+  "id": "2010-04",
+  "top": [
+   "alg-mean-median",
+   "geo-triangle-centers"
+  ],
+  "scores": {
+   "alg-mean-median": 8.0,
+   "geo-triangle-centers": 3.0
+  }
+ },
+ {
+  "id": "2010-05",
+  "top": [
+   "misc-money-everyday"
+  ],
+  "scores": {
+   "misc-money-everyday": 2.0
+  }
+ },
+ {
+  "id": "2010-06",
+  "top": [
+   "geo-transformations"
+  ],
+  "scores": {
+   "geo-transformations": 3.0
+  }
+ },
+ {
+  "id": "2010-07",
+  "top": [
+   "misc-money-everyday",
+   "alg-linear-word"
+  ],
+  "scores": {
+   "misc-money-everyday": 3.0,
+   "alg-linear-word": 1.5
+  }
+ },
+ {
+  "id": "2010-08",
+  "top": [
+   "alg-rates",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "alg-rates": 4.5,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2010-09",
+  "top": [
+   "alg-percent-ratio",
+   "misc-money-everyday"
+  ],
+  "scores": {
+   "alg-percent-ratio": 3.0,
+   "misc-money-everyday": 2.0
+  }
+ },
+ {
+  "id": "2010-10",
+  "top": [
+   "geo-circle-area",
+   "geo-shaded-regions"
+  ],
+  "scores": {
+   "geo-circle-area": 1.5,
+   "geo-shaded-regions": 1.0
+  }
+ },
+ {
+  "id": "2010-11",
+  "top": [
+   "alg-percent-ratio"
+  ],
+  "scores": {
+   "alg-percent-ratio": 2.5
+  }
+ },
+ {
+  "id": "2010-12",
+  "top": [
+   "alg-percent-ratio",
+   "alg-fraction-word",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "alg-percent-ratio": 3.0,
+   "alg-fraction-word": 1.5,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2010-13",
+  "top": [
+   "geo-perimeter-length",
+   "alg-percent-ratio",
+   "nt-parity"
+  ],
+  "scores": {
+   "geo-perimeter-length": 3.5,
+   "alg-percent-ratio": 3.0,
+   "nt-parity": 2.0,
+   "geo-triangle-area": 1.5
+  }
+ },
+ {
+  "id": "2010-14",
+  "top": [
+   "nt-primes-factorization",
+   "nt-divisors"
+  ],
+  "scores": {
+   "nt-primes-factorization": 3.0,
+   "nt-divisors": 2.5
+  }
+ },
+ {
+  "id": "2010-15",
+  "top": [
+   "alg-percent-ratio",
+   "alg-fraction-word",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "alg-percent-ratio": 3.0,
+   "alg-fraction-word": 2.5,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2010-16",
+  "top": [
+   "alg-percent-ratio",
+   "geo-quadrilaterals",
+   "geo-circle-area"
+  ],
+  "scores": {
+   "alg-percent-ratio": 2.5,
+   "geo-quadrilaterals": 2.0,
+   "geo-circle-area": 1.5,
+   "geo-triangle-area": 1.0,
+   "geo-perimeter-length": 1.0
+  }
+ },
+ {
+  "id": "2010-17",
+  "top": [
+   "nt-bases",
+   "geo-polygons",
+   "alg-percent-ratio"
+  ],
+  "scores": {
+   "nt-bases": 3.5,
+   "geo-polygons": 3.0,
+   "alg-percent-ratio": 2.5,
+   "geo-triangle-area": 2.5,
+   "geo-quadrilaterals": 2.0
+  }
+ },
+ {
+  "id": "2010-18",
+  "top": [
+   "alg-percent-ratio",
+   "geo-quadrilaterals",
+   "geo-circle-area"
+  ],
+  "scores": {
+   "alg-percent-ratio": 2.5,
+   "geo-quadrilaterals": 2.0,
+   "geo-circle-area": 1.5,
+   "geo-triangle-area": 1.0
+  }
+ },
+ {
+  "id": "2010-19",
+  "top": [
+   "geo-circle-theorems",
+   "misc-money-everyday",
+   "geo-circle-area"
+  ],
+  "scores": {
+   "geo-circle-theorems": 5.0,
+   "misc-money-everyday": 2.0,
+   "geo-circle-area": 1.5,
+   "geo-triangle-area": 1.0
+  }
+ },
+ {
+  "id": "2010-20",
+  "top": [
+   "cp-inclusion-exclusion"
+  ],
+  "scores": {
+   "cp-inclusion-exclusion": 1.5
+  }
+ },
+ {
+  "id": "2010-21",
+  "top": [
+   "alg-fraction-word",
+   "misc-money-everyday",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "alg-fraction-word": 1.5,
+   "misc-money-everyday": 1.0,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2010-22",
+  "top": [
+   "nt-units-digit",
+   "nt-digits"
+  ],
+  "scores": {
+   "nt-units-digit": 4.0,
+   "nt-digits": 2.0
+  }
+ },
+ {
+  "id": "2010-23",
+  "top": [
+   "alg-percent-ratio",
+   "misc-money-everyday",
+   "geo-circle-area"
+  ],
+  "scores": {
+   "alg-percent-ratio": 2.5,
+   "misc-money-everyday": 2.0,
+   "geo-circle-area": 1.5,
+   "geo-triangle-area": 1.0
+  }
+ },
+ {
+  "id": "2010-24",
+  "top": [
+   "cp-permutations",
+   "alg-exponents-radicals"
+  ],
+  "scores": {
+   "cp-permutations": 2.0,
+   "alg-exponents-radicals": 1.0
+  }
+ },
+ {
+  "id": "2010-25",
+  "top": [
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "cp-basic-counting": 2.8
+  }
+ },
+ {
+  "id": "2009-01",
+  "top": [
+   "alg-fraction-word",
+   "misc-money-everyday",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "alg-fraction-word": 2.5,
+   "misc-money-everyday": 1.0,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2009-02",
+  "top": [
+   "alg-mean-median",
+   "cp-expected-value",
+   "misc-money-everyday"
+  ],
+  "scores": {
+   "alg-mean-median": 3.0,
+   "cp-expected-value": 1.5,
+   "misc-money-everyday": 1.0,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2009-03",
+  "top": [
+   "alg-rates",
+   "misc-data-charts",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "alg-rates": 4.0,
+   "misc-data-charts": 3.0,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2009-04",
+  "top": [
+   "cp-permutations",
+   "misc-logic"
+  ],
+  "scores": {
+   "cp-permutations": 2.0,
+   "misc-logic": 1.5
+  }
+ },
+ {
+  "id": "2009-05",
+  "top": [
+   "alg-recursion-patterns"
+  ],
+  "scores": {
+   "alg-recursion-patterns": 1.5
+  }
+ },
+ {
+  "id": "2009-06",
+  "top": [
+   "alg-work",
+   "cp-basic-counting",
+   "alg-rates"
+  ],
+  "scores": {
+   "alg-work": 3.0,
+   "cp-basic-counting": 0.8,
+   "alg-rates": 0.5
+  }
+ },
+ {
+  "id": "2009-07",
+  "top": [
+   "misc-logic",
+   "geo-quadrilaterals",
+   "alg-rates"
+  ],
+  "scores": {
+   "misc-logic": 2.5,
+   "geo-quadrilaterals": 2.0,
+   "alg-rates": 1.0,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2009-08",
+  "top": [
+   "alg-percent-ratio",
+   "geo-quadrilaterals",
+   "misc-money-everyday"
+  ],
+  "scores": {
+   "alg-percent-ratio": 4.5,
+   "geo-quadrilaterals": 2.0,
+   "misc-money-everyday": 2.0,
+   "geo-triangle-area": 1.0,
+   "geo-perimeter-length": 1.0
+  }
+ },
+ {
+  "id": "2009-09",
+  "top": [
+   "geo-polygons",
+   "geo-quadrilaterals",
+   "misc-money-everyday"
+  ],
+  "scores": {
+   "geo-polygons": 3.0,
+   "geo-quadrilaterals": 2.0,
+   "misc-money-everyday": 2.0,
+   "geo-triangle-area": 1.5,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2009-10",
+  "top": [
+   "cp-probability-basic",
+   "cp-combinations",
+   "geo-quadrilaterals"
+  ],
+  "scores": {
+   "cp-probability-basic": 4.0,
+   "cp-combinations": 2.5,
+   "geo-quadrilaterals": 2.0,
+   "geo-grid-area": 2.0
+  }
+ },
+ {
+  "id": "2009-11",
+  "top": [
+   "misc-money-everyday",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "misc-money-everyday": 3.0,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2009-12",
+  "top": [
+   "nt-primes-factorization",
+   "cp-probability-dice-coins",
+   "cp-probability-basic"
+  ],
+  "scores": {
+   "nt-primes-factorization": 3.0,
+   "cp-probability-dice-coins": 3.0,
+   "cp-probability-basic": 2.5,
+   "geo-circle-area": 1.5
+  }
+ },
+ {
+  "id": "2009-13",
+  "top": [
+   "nt-divisibility",
+   "cp-probability-basic",
+   "nt-digits"
+  ],
+  "scores": {
+   "nt-divisibility": 3.0,
+   "cp-probability-basic": 2.5,
+   "nt-digits": 2.0
+  }
+ },
+ {
+  "id": "2009-14",
+  "top": [
+   "alg-rates",
+   "alg-mean-median",
+   "cp-paths-grids"
+  ],
+  "scores": {
+   "alg-rates": 3.0,
+   "alg-mean-median": 3.0,
+   "cp-paths-grids": 2.5,
+   "alg-floor-ceiling": 1.5
+  }
+ },
+ {
+  "id": "2009-15",
+  "top": [
+   "alg-percent-ratio"
+  ],
+  "scores": {
+   "alg-percent-ratio": 2.5
+  }
+ },
+ {
+  "id": "2009-16",
+  "top": [
+   "nt-digits",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "nt-digits": 2.0,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2009-17",
+  "top": [
+   "geo-3d-cubes",
+   "geo-quadrilaterals",
+   "nt-diophantine"
+  ],
+  "scores": {
+   "geo-3d-cubes": 2.5,
+   "geo-quadrilaterals": 2.0,
+   "nt-diophantine": 1.5
+  }
+ },
+ {
+  "id": "2009-18",
+  "top": [
+   "geo-quadrilaterals",
+   "cp-recursion-counting",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "geo-quadrilaterals": 2.0,
+   "cp-recursion-counting": 1.5,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2009-19",
+  "top": [
+   "geo-angles",
+   "geo-triangle-area"
+  ],
+  "scores": {
+   "geo-angles": 2.0,
+   "geo-triangle-area": 1.5
+  }
+ },
+ {
+  "id": "2009-20",
+  "top": [
+   "geo-3d-cubes",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "geo-3d-cubes": 1.0,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2009-21",
+  "top": [
+   "alg-mean-median",
+   "alg-arith-compute"
+  ],
+  "scores": {
+   "alg-mean-median": 3.0,
+   "alg-arith-compute": 0.5
+  }
+ },
+ {
+  "id": "2009-22",
+  "top": [
+   "nt-digits",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "nt-digits": 2.0,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2009-23",
+  "top": [
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2009-24",
+  "top": [
+   "nt-digits"
+  ],
+  "scores": {
+   "nt-digits": 2.0
+  }
+ },
+ {
+  "id": "2009-25",
+  "top": [
+   "geo-3d-cubes",
+   "geo-3d-volume",
+   "geo-grid-area"
+  ],
+  "scores": {
+   "geo-3d-cubes": 3.5,
+   "geo-3d-volume": 3.0,
+   "geo-grid-area": 2.5,
+   "alg-polynomials": 2.0,
+   "geo-quadrilaterals": 2.0
+  }
+ },
+ {
+  "id": "2008-01",
+  "top": [
+   "misc-money-everyday",
+   "alg-rates",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "misc-money-everyday": 2.0,
+   "alg-rates": 1.0,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2008-02",
+  "top": [
+   "nt-digits",
+   "cp-permutations"
+  ],
+  "scores": {
+   "nt-digits": 2.0,
+   "cp-permutations": 2.0
+  }
+ },
+ {
+  "id": "2008-03",
+  "top": [
+   "misc-calendar-clock"
+  ],
+  "scores": {
+   "misc-calendar-clock": 3.0
+  }
+ },
+ {
+  "id": "2008-04",
+  "top": [
+   "geo-triangle-area"
+  ],
+  "scores": {
+   "geo-triangle-area": 2.5
+  }
+ },
+ {
+  "id": "2008-05",
+  "top": [
+   "alg-rates",
+   "alg-mean-median",
+   "nt-digits"
+  ],
+  "scores": {
+   "alg-rates": 3.0,
+   "alg-mean-median": 3.0,
+   "nt-digits": 3.0
+  }
+ },
+ {
+  "id": "2008-06",
+  "top": [
+   "alg-percent-ratio",
+   "geo-triangle-area"
+  ],
+  "scores": {
+   "alg-percent-ratio": 2.5,
+   "geo-triangle-area": 1.0
+  }
+ },
+ {
+  "id": "2008-07",
+  "top": [],
+  "scores": {}
+ },
+ {
+  "id": "2008-08",
+  "top": [
+   "alg-mean-median",
+   "misc-money-everyday"
+  ],
+  "scores": {
+   "alg-mean-median": 3.0,
+   "misc-money-everyday": 2.0
+  }
+ },
+ {
+  "id": "2008-09",
+  "top": [
+   "alg-percent-ratio",
+   "misc-money-everyday",
+   "alg-fraction-word"
+  ],
+  "scores": {
+   "alg-percent-ratio": 3.0,
+   "misc-money-everyday": 2.0,
+   "alg-fraction-word": 1.5
+  }
+ },
+ {
+  "id": "2008-10",
+  "top": [
+   "alg-mean-median",
+   "alg-linear-word"
+  ],
+  "scores": {
+   "alg-mean-median": 3.0,
+   "alg-linear-word": 2.0
+  }
+ },
+ {
+  "id": "2008-11",
+  "top": [
+   "cp-inclusion-exclusion",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "cp-inclusion-exclusion": 1.5,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2008-12",
+  "top": [],
+  "scores": {}
+ },
+ {
+  "id": "2008-13",
+  "top": [
+   "misc-units-measurement",
+   "alg-linear-word"
+  ],
+  "scores": {
+   "misc-units-measurement": 2.5,
+   "alg-linear-word": 1.0
+  }
+ },
+ {
+  "id": "2008-14",
+  "top": [
+   "cp-permutations",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "cp-permutations": 2.0,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2008-15",
+  "top": [
+   "alg-mean-median",
+   "misc-games"
+  ],
+  "scores": {
+   "alg-mean-median": 3.0,
+   "misc-games": 2.0
+  }
+ },
+ {
+  "id": "2008-16",
+  "top": [
+   "geo-3d-volume",
+   "geo-3d-cubes",
+   "alg-percent-ratio"
+  ],
+  "scores": {
+   "geo-3d-volume": 6.0,
+   "geo-3d-cubes": 4.5,
+   "alg-percent-ratio": 2.5,
+   "alg-polynomials": 2.0,
+   "geo-quadrilaterals": 2.0
+  }
+ },
+ {
+  "id": "2008-17",
+  "top": [
+   "geo-triangle-inequality",
+   "geo-perimeter-length",
+   "geo-quadrilaterals"
+  ],
+  "scores": {
+   "geo-triangle-inequality": 2.5,
+   "geo-perimeter-length": 2.5,
+   "geo-quadrilaterals": 2.0,
+   "geo-triangle-area": 1.0
+  }
+ },
+ {
+  "id": "2008-18",
+  "top": [
+   "cp-paths-grids",
+   "misc-money-everyday",
+   "geo-circle-area"
+  ],
+  "scores": {
+   "cp-paths-grids": 2.5,
+   "misc-money-everyday": 2.0,
+   "geo-circle-area": 1.5,
+   "alg-rates": 1.0,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2008-19",
+  "top": [
+   "cp-probability-basic",
+   "cp-combinations",
+   "geo-quadrilaterals"
+  ],
+  "scores": {
+   "cp-probability-basic": 4.0,
+   "cp-combinations": 2.5,
+   "geo-quadrilaterals": 2.0
+  }
+ },
+ {
+  "id": "2008-20",
+  "top": [],
+  "scores": {}
+ },
+ {
+  "id": "2008-21",
+  "top": [
+   "geo-3d-volume",
+   "alg-polynomials",
+   "misc-money-everyday"
+  ],
+  "scores": {
+   "geo-3d-volume": 5.5,
+   "alg-polynomials": 2.0,
+   "misc-money-everyday": 2.0
+  }
+ },
+ {
+  "id": "2008-22",
+  "top": [
+   "nt-digits",
+   "cp-inclusion-exclusion",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "nt-digits": 2.0,
+   "cp-inclusion-exclusion": 1.5,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2008-23",
+  "top": [
+   "alg-percent-ratio",
+   "geo-triangle-area",
+   "geo-quadrilaterals"
+  ],
+  "scores": {
+   "alg-percent-ratio": 2.5,
+   "geo-triangle-area": 2.5,
+   "geo-quadrilaterals": 2.0,
+   "alg-systems": 0.8
+  }
+ },
+ {
+  "id": "2008-24",
+  "top": [
+   "cp-probability-basic",
+   "cp-probability-dice-coins",
+   "geo-quadrilaterals"
+  ],
+  "scores": {
+   "cp-probability-basic": 4.0,
+   "cp-probability-dice-coins": 3.0,
+   "geo-quadrilaterals": 2.0,
+   "cp-recursion-counting": 1.5,
+   "geo-3d-cubes": 1.0
+  }
+ },
+ {
+  "id": "2008-25",
+  "top": [
+   "alg-percent-ratio",
+   "misc-money-everyday",
+   "geo-circle-area"
+  ],
+  "scores": {
+   "alg-percent-ratio": 3.0,
+   "misc-money-everyday": 2.0,
+   "geo-circle-area": 1.5
+  }
+ },
+ {
+  "id": "2007-01",
+  "top": [
+   "alg-mean-median",
+   "misc-money-everyday",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "alg-mean-median": 3.0,
+   "misc-money-everyday": 1.0,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2007-02",
+  "top": [
+   "misc-data-charts",
+   "alg-percent-ratio",
+   "misc-logic"
+  ],
+  "scores": {
+   "misc-data-charts": 3.0,
+   "alg-percent-ratio": 2.5,
+   "misc-logic": 1.0
+  }
+ },
+ {
+  "id": "2007-03",
+  "top": [
+   "nt-primes-factorization",
+   "nt-divisors"
+  ],
+  "scores": {
+   "nt-primes-factorization": 3.0,
+   "nt-divisors": 2.5
+  }
+ },
+ {
+  "id": "2007-04",
+  "top": [
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "cp-basic-counting": 2.8
+  }
+ },
+ {
+  "id": "2007-05",
+  "top": [
+   "misc-money-everyday",
+   "cp-paths-grids",
+   "alg-rates"
+  ],
+  "scores": {
+   "misc-money-everyday": 3.0,
+   "cp-paths-grids": 2.5,
+   "alg-rates": 1.0,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2007-06",
+  "top": [
+   "alg-percent-ratio",
+   "alg-mean-median",
+   "misc-money-everyday"
+  ],
+  "scores": {
+   "alg-percent-ratio": 3.0,
+   "alg-mean-median": 3.0,
+   "misc-money-everyday": 3.0,
+   "alg-rates": 0.5
+  }
+ },
+ {
+  "id": "2007-07",
+  "top": [
+   "alg-mean-median",
+   "alg-linear-word",
+   "alg-fraction-word"
+  ],
+  "scores": {
+   "alg-mean-median": 3.0,
+   "alg-linear-word": 2.0,
+   "alg-fraction-word": 1.5
+  }
+ },
+ {
+  "id": "2007-08",
+  "top": [
+   "geo-triangle-area",
+   "geo-quadrilaterals",
+   "geo-similar"
+  ],
+  "scores": {
+   "geo-triangle-area": 2.5,
+   "geo-quadrilaterals": 2.0,
+   "geo-similar": 1.5,
+   "alg-systems": 0.8
+  }
+ },
+ {
+  "id": "2007-09",
+  "top": [
+   "nt-digits",
+   "geo-quadrilaterals",
+   "geo-grid-area"
+  ],
+  "scores": {
+   "nt-digits": 2.0,
+   "geo-quadrilaterals": 2.0,
+   "geo-grid-area": 2.0,
+   "cp-paths-grids": 1.5
+  }
+ },
+ {
+  "id": "2007-10",
+  "top": [
+   "nt-divisors"
+  ],
+  "scores": {
+   "nt-divisors": 2.5
+  }
+ },
+ {
+  "id": "2007-11",
+  "top": [
+   "geo-transformations",
+   "cp-permutations",
+   "geo-quadrilaterals"
+  ],
+  "scores": {
+   "geo-transformations": 3.0,
+   "cp-permutations": 2.0,
+   "geo-quadrilaterals": 2.0,
+   "misc-money-everyday": 2.0,
+   "cp-recursion-counting": 1.5
+  }
+ },
+ {
+  "id": "2007-12",
+  "top": [
+   "geo-polygons",
+   "alg-percent-ratio",
+   "geo-triangle-area"
+  ],
+  "scores": {
+   "geo-polygons": 3.0,
+   "alg-percent-ratio": 2.5,
+   "geo-triangle-area": 1.0
+  }
+ },
+ {
+  "id": "2007-13",
+  "top": [
+   "cp-inclusion-exclusion"
+  ],
+  "scores": {
+   "cp-inclusion-exclusion": 4.0
+  }
+ },
+ {
+  "id": "2007-14",
+  "top": [
+   "nt-bases",
+   "geo-triangle-area",
+   "geo-perimeter-length"
+  ],
+  "scores": {
+   "nt-bases": 3.5,
+   "geo-triangle-area": 2.5,
+   "geo-perimeter-length": 1.0
+  }
+ },
+ {
+  "id": "2007-15",
+  "top": [
+   "alg-inequalities-optimization"
+  ],
+  "scores": {
+   "alg-inequalities-optimization": 0.5
+  }
+ },
+ {
+  "id": "2007-16",
+  "top": [
+   "geo-circle-area",
+   "geo-triangle-area"
+  ],
+  "scores": {
+   "geo-circle-area": 1.5,
+   "geo-triangle-area": 1.0
+  }
+ },
+ {
+  "id": "2007-17",
+  "top": [
+   "alg-percent-ratio",
+   "misc-money-everyday"
+  ],
+  "scores": {
+   "alg-percent-ratio": 5.0,
+   "misc-money-everyday": 2.0
+  }
+ },
+ {
+  "id": "2007-18",
+  "top": [
+   "nt-units-digit",
+   "nt-digits",
+   "nt-factorials"
+  ],
+  "scores": {
+   "nt-units-digit": 4.0,
+   "nt-digits": 2.0,
+   "nt-factorials": 1.5
+  }
+ },
+ {
+  "id": "2007-19",
+  "top": [
+   "nt-parity",
+   "geo-quadrilaterals",
+   "cp-inclusion-exclusion"
+  ],
+  "scores": {
+   "nt-parity": 2.0,
+   "geo-quadrilaterals": 2.0,
+   "cp-inclusion-exclusion": 1.5
+  }
+ },
+ {
+  "id": "2007-20",
+  "top": [
+   "alg-percent-ratio",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "alg-percent-ratio": 3.0,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2007-21",
+  "top": [
+   "cp-probability-basic"
+  ],
+  "scores": {
+   "cp-probability-basic": 2.5
+  }
+ },
+ {
+  "id": "2007-22",
+  "top": [
+   "alg-mean-median",
+   "geo-quadrilaterals",
+   "misc-games"
+  ],
+  "scores": {
+   "alg-mean-median": 3.0,
+   "geo-quadrilaterals": 2.0,
+   "misc-games": 2.0,
+   "alg-rates": 1.0
+  }
+ },
+ {
+  "id": "2007-23",
+  "top": [
+   "geo-shaded-regions",
+   "geo-grid-area",
+   "cp-paths-grids"
+  ],
+  "scores": {
+   "geo-shaded-regions": 3.5,
+   "geo-grid-area": 2.0,
+   "cp-paths-grids": 1.5,
+   "geo-triangle-area": 1.0
+  }
+ },
+ {
+  "id": "2007-24",
+  "top": [
+   "cp-probability-basic",
+   "nt-divisibility",
+   "nt-digits"
+  ],
+  "scores": {
+   "cp-probability-basic": 2.5,
+   "nt-divisibility": 2.0,
+   "nt-digits": 2.0,
+   "misc-process-simulation": 2.0
+  }
+ },
+ {
+  "id": "2007-25",
+  "top": [
+   "cp-probability-basic",
+   "nt-parity",
+   "geo-circle-area"
+  ],
+  "scores": {
+   "cp-probability-basic": 2.5,
+   "nt-parity": 2.0,
+   "geo-circle-area": 1.5,
+   "geo-triangle-area": 1.0,
+   "geo-shaded-regions": 1.0
+  }
+ },
+ {
+  "id": "2006-01",
+  "top": [
+   "misc-money-everyday"
+  ],
+  "scores": {
+   "misc-money-everyday": 2.0
+  }
+ },
+ {
+  "id": "2006-02",
+  "top": [],
+  "scores": {}
+ },
+ {
+  "id": "2006-03",
+  "top": [
+   "cp-basic-counting",
+   "alg-rates"
+  ],
+  "scores": {
+   "cp-basic-counting": 0.8,
+   "alg-rates": 0.5
+  }
+ },
+ {
+  "id": "2006-04",
+  "top": [
+   "cp-probability-dice-coins"
+  ],
+  "scores": {
+   "cp-probability-dice-coins": 3.0
+  }
+ },
+ {
+  "id": "2006-05",
+  "top": [
+   "geo-quadrilaterals",
+   "geo-triangle-area"
+  ],
+  "scores": {
+   "geo-quadrilaterals": 2.0,
+   "geo-triangle-area": 1.0
+  }
+ },
+ {
+  "id": "2006-06",
+  "top": [
+   "geo-perimeter-length"
+  ],
+  "scores": {
+   "geo-perimeter-length": 2.5
+  }
+ },
+ {
+  "id": "2006-07",
+  "top": [
+   "geo-circle-area",
+   "cp-permutations",
+   "geo-triangle-area"
+  ],
+  "scores": {
+   "geo-circle-area": 3.0,
+   "cp-permutations": 2.0,
+   "geo-triangle-area": 1.0
+  }
+ },
+ {
+  "id": "2006-08",
+  "top": [
+   "alg-percent-ratio",
+   "misc-data-charts",
+   "alg-absolute-value"
+  ],
+  "scores": {
+   "alg-percent-ratio": 3.0,
+   "misc-data-charts": 3.0,
+   "alg-absolute-value": 2.5,
+   "misc-money-everyday": 2.0
+  }
+ },
+ {
+  "id": "2006-09",
+  "top": [],
+  "scores": {}
+ },
+ {
+  "id": "2006-10",
+  "top": [
+   "cp-permutations",
+   "geo-quadrilaterals",
+   "geo-triangle-area"
+  ],
+  "scores": {
+   "cp-permutations": 2.0,
+   "geo-quadrilaterals": 2.0,
+   "geo-triangle-area": 1.0,
+   "geo-perimeter-length": 1.0
+  }
+ },
+ {
+  "id": "2006-11",
+  "top": [
+   "nt-squares-cubes",
+   "nt-digits",
+   "geo-quadrilaterals"
+  ],
+  "scores": {
+   "nt-squares-cubes": 3.5,
+   "nt-digits": 2.0,
+   "geo-quadrilaterals": 2.0,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2006-12",
+  "top": [
+   "alg-percent-ratio",
+   "misc-money-everyday"
+  ],
+  "scores": {
+   "alg-percent-ratio": 3.0,
+   "misc-money-everyday": 2.0
+  }
+ },
+ {
+  "id": "2006-13",
+  "top": [
+   "alg-rates",
+   "cp-paths-grids",
+   "misc-calendar-clock"
+  ],
+  "scores": {
+   "alg-rates": 4.0,
+   "cp-paths-grids": 2.5,
+   "misc-calendar-clock": 2.5,
+   "cp-inclusion-exclusion": 1.5
+  }
+ },
+ {
+  "id": "2006-14",
+  "top": [
+   "cp-inclusion-exclusion",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "cp-inclusion-exclusion": 1.5,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2006-15",
+  "top": [
+   "misc-process-simulation",
+   "misc-logic"
+  ],
+  "scores": {
+   "misc-process-simulation": 1.5,
+   "misc-logic": 1.0
+  }
+ },
+ {
+  "id": "2006-16",
+  "top": [
+   "misc-process-simulation",
+   "geo-perimeter-length",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "misc-process-simulation": 1.5,
+   "geo-perimeter-length": 1.0,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2006-17",
+  "top": [
+   "cp-probability-dice-coins",
+   "geo-transformations",
+   "cp-probability-basic"
+  ],
+  "scores": {
+   "cp-probability-dice-coins": 3.0,
+   "geo-transformations": 3.0,
+   "cp-probability-basic": 2.5,
+   "nt-parity": 2.0
+  }
+ },
+ {
+  "id": "2006-18",
+  "top": [
+   "geo-3d-cubes",
+   "geo-3d-volume",
+   "geo-triangle-area"
+  ],
+  "scores": {
+   "geo-3d-cubes": 3.5,
+   "geo-3d-volume": 3.0,
+   "geo-triangle-area": 1.0
+  }
+ },
+ {
+  "id": "2006-19",
+  "top": [
+   "cp-inclusion-exclusion",
+   "geo-triangle-area",
+   "geo-perimeter-length"
+  ],
+  "scores": {
+   "cp-inclusion-exclusion": 1.5,
+   "geo-triangle-area": 1.5,
+   "geo-perimeter-length": 1.0
+  }
+ },
+ {
+  "id": "2006-20",
+  "top": [
+   "misc-games",
+   "misc-process-simulation",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "misc-games": 2.0,
+   "misc-process-simulation": 1.5,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2006-21",
+  "top": [
+   "nt-bases",
+   "geo-3d-volume",
+   "misc-money-everyday"
+  ],
+  "scores": {
+   "nt-bases": 3.5,
+   "geo-3d-volume": 3.0,
+   "misc-money-everyday": 2.0,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2006-22",
+  "top": [
+   "nt-digits",
+   "misc-money-everyday",
+   "misc-process-simulation"
+  ],
+  "scores": {
+   "nt-digits": 2.0,
+   "misc-money-everyday": 2.0,
+   "misc-process-simulation": 2.0
+  }
+ },
+ {
+  "id": "2006-23",
+  "top": [
+   "alg-linear-word",
+   "alg-fraction-word",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "alg-linear-word": 1.5,
+   "alg-fraction-word": 1.5,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2006-24",
+  "top": [
+   "nt-digits"
+  ],
+  "scores": {
+   "nt-digits": 2.0
+  }
+ },
+ {
+  "id": "2006-25",
+  "top": [
+   "alg-mean-median",
+   "nt-primes-factorization"
+  ],
+  "scores": {
+   "alg-mean-median": 3.0,
+   "nt-primes-factorization": 3.0
+  }
+ },
+ {
+  "id": "2005-01",
+  "top": [],
+  "scores": {}
+ },
+ {
+  "id": "2005-02",
+  "top": [
+   "geo-transformations",
+   "misc-money-everyday",
+   "alg-percent-ratio"
+  ],
+  "scores": {
+   "geo-transformations": 3.0,
+   "misc-money-everyday": 3.0,
+   "alg-percent-ratio": 1.5
+  }
+ },
+ {
+  "id": "2005-03",
+  "top": [
+   "geo-transformations",
+   "misc-logic",
+   "geo-quadrilaterals"
+  ],
+  "scores": {
+   "geo-transformations": 3.0,
+   "misc-logic": 2.5,
+   "geo-quadrilaterals": 2.0
+  }
+ },
+ {
+  "id": "2005-04",
+  "top": [
+   "geo-triangle-area",
+   "geo-quadrilaterals",
+   "misc-money-everyday"
+  ],
+  "scores": {
+   "geo-triangle-area": 2.5,
+   "geo-quadrilaterals": 2.0,
+   "misc-money-everyday": 2.0
+  }
+ },
+ {
+  "id": "2005-05",
+  "top": [
+   "misc-money-everyday"
+  ],
+  "scores": {
+   "misc-money-everyday": 1.0
+  }
+ },
+ {
+  "id": "2005-06",
+  "top": [
+   "nt-digits",
+   "cp-basic-counting",
+   "alg-inequalities-optimization"
+  ],
+  "scores": {
+   "nt-digits": 2.0,
+   "cp-basic-counting": 0.8,
+   "alg-inequalities-optimization": 0.5
+  }
+ },
+ {
+  "id": "2005-07",
+  "top": [
+   "misc-units-measurement",
+   "alg-rates",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "misc-units-measurement": 2.5,
+   "alg-rates": 1.0,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2005-08",
+  "top": [
+   "nt-parity"
+  ],
+  "scores": {
+   "nt-parity": 2.0
+  }
+ },
+ {
+  "id": "2005-09",
+  "top": [
+   "geo-angles",
+   "geo-quadrilaterals",
+   "cp-inclusion-exclusion"
+  ],
+  "scores": {
+   "geo-angles": 2.0,
+   "geo-quadrilaterals": 2.0,
+   "cp-inclusion-exclusion": 1.5,
+   "geo-perimeter-length": 1.0
+  }
+ },
+ {
+  "id": "2005-10",
+  "top": [
+   "alg-rates",
+   "alg-fraction-word",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "alg-rates": 1.5,
+   "alg-fraction-word": 1.5,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2005-11",
+  "top": [
+   "alg-percent-ratio",
+   "misc-money-everyday"
+  ],
+  "scores": {
+   "alg-percent-ratio": 1.5,
+   "misc-money-everyday": 1.0
+  }
+ },
+ {
+  "id": "2005-12",
+  "top": [
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2005-13",
+  "top": [
+   "geo-polygons",
+   "geo-triangle-area",
+   "alg-systems"
+  ],
+  "scores": {
+   "geo-polygons": 3.0,
+   "geo-triangle-area": 1.0,
+   "alg-systems": 0.8
+  }
+ },
+ {
+  "id": "2005-14",
+  "top": [
+   "misc-process-simulation",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "misc-process-simulation": 1.5,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2005-15",
+  "top": [
+   "geo-triangle-inequality",
+   "geo-perimeter-length",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "geo-triangle-inequality": 2.5,
+   "geo-perimeter-length": 2.5,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2005-16",
+  "top": [
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2005-17",
+  "top": [
+   "alg-rates",
+   "alg-mean-median",
+   "misc-process-simulation"
+  ],
+  "scores": {
+   "alg-rates": 4.0,
+   "alg-mean-median": 3.0,
+   "misc-process-simulation": 1.5
+  }
+ },
+ {
+  "id": "2005-18",
+  "top": [
+   "nt-divisibility",
+   "nt-digits",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "nt-divisibility": 3.0,
+   "nt-digits": 2.0,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2005-19",
+  "top": [
+   "geo-perimeter-length",
+   "geo-quadrilaterals"
+  ],
+  "scores": {
+   "geo-perimeter-length": 2.5,
+   "geo-quadrilaterals": 2.0
+  }
+ },
+ {
+  "id": "2005-20",
+  "top": [
+   "misc-games",
+   "cp-inclusion-exclusion",
+   "geo-circle-area"
+  ],
+  "scores": {
+   "misc-games": 2.0,
+   "cp-inclusion-exclusion": 1.5,
+   "geo-circle-area": 1.5,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2005-21",
+  "top": [
+   "geo-3d-cubes",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "geo-3d-cubes": 1.0,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2005-22",
+  "top": [
+   "misc-money-everyday"
+  ],
+  "scores": {
+   "misc-money-everyday": 1.0
+  }
+ },
+ {
+  "id": "2005-23",
+  "top": [
+   "geo-pythagorean",
+   "geo-circle-area",
+   "geo-triangle-area"
+  ],
+  "scores": {
+   "geo-pythagorean": 4.5,
+   "geo-circle-area": 3.0,
+   "geo-triangle-area": 2.5,
+   "geo-circle-theorems": 2.5,
+   "misc-money-everyday": 2.0
+  }
+ },
+ {
+  "id": "2005-24",
+  "top": [],
+  "scores": {}
+ },
+ {
+  "id": "2005-25",
+  "top": [
+   "geo-quadrilaterals",
+   "misc-money-everyday",
+   "geo-circle-area"
+  ],
+  "scores": {
+   "geo-quadrilaterals": 2.0,
+   "misc-money-everyday": 2.0,
+   "geo-circle-area": 1.5,
+   "geo-triangle-area": 1.0
+  }
+ },
+ {
+  "id": "2004-01",
+  "top": [
+   "misc-units-measurement",
+   "misc-money-everyday",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "misc-units-measurement": 2.5,
+   "misc-money-everyday": 2.0,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2004-02",
+  "top": [
+   "nt-digits",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "nt-digits": 2.0,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2004-03",
+  "top": [
+   "cp-permutations",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "cp-permutations": 2.0,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2004-04",
+  "top": [
+   "cp-basic-counting",
+   "cp-combinations",
+   "misc-process-simulation"
+  ],
+  "scores": {
+   "cp-basic-counting": 2.8,
+   "cp-combinations": 2.5,
+   "misc-process-simulation": 1.5
+  }
+ },
+ {
+  "id": "2004-05",
+  "top": [
+   "misc-games",
+   "misc-process-simulation",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "misc-games": 2.0,
+   "misc-process-simulation": 1.5,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2004-06",
+  "top": [
+   "alg-percent-ratio",
+   "misc-money-everyday",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "alg-percent-ratio": 3.0,
+   "misc-money-everyday": 2.0,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2004-07",
+  "top": [
+   "alg-percent-ratio",
+   "alg-linear-word",
+   "misc-logic"
+  ],
+  "scores": {
+   "alg-percent-ratio": 3.0,
+   "alg-linear-word": 2.0,
+   "misc-logic": 1.0,
+   "alg-rates": 0.5
+  }
+ },
+ {
+  "id": "2004-08",
+  "top": [
+   "nt-digits"
+  ],
+  "scores": {
+   "nt-digits": 2.0
+  }
+ },
+ {
+  "id": "2004-09",
+  "top": [
+   "alg-mean-median"
+  ],
+  "scores": {
+   "alg-mean-median": 3.0
+  }
+ },
+ {
+  "id": "2004-10",
+  "top": [
+   "misc-calendar-clock",
+   "misc-money-everyday",
+   "alg-rates"
+  ],
+  "scores": {
+   "misc-calendar-clock": 5.5,
+   "misc-money-everyday": 3.0,
+   "alg-rates": 0.5
+  }
+ },
+ {
+  "id": "2004-11",
+  "top": [
+   "alg-mean-median",
+   "geo-triangle-centers"
+  ],
+  "scores": {
+   "alg-mean-median": 6.0,
+   "geo-triangle-centers": 3.0
+  }
+ },
+ {
+  "id": "2004-12",
+  "top": [
+   "cp-basic-counting",
+   "alg-rates"
+  ],
+  "scores": {
+   "cp-basic-counting": 0.8,
+   "alg-rates": 0.5
+  }
+ },
+ {
+  "id": "2004-13",
+  "top": [
+   "misc-logic"
+  ],
+  "scores": {
+   "misc-logic": 2.5
+  }
+ },
+ {
+  "id": "2004-14",
+  "top": [
+   "geo-quadrilaterals",
+   "geo-grid-area",
+   "geo-triangle-area"
+  ],
+  "scores": {
+   "geo-quadrilaterals": 2.0,
+   "geo-grid-area": 2.0,
+   "geo-triangle-area": 1.0
+  }
+ },
+ {
+  "id": "2004-15",
+  "top": [
+   "geo-polygons",
+   "cp-recursion-counting"
+  ],
+  "scores": {
+   "geo-polygons": 3.0,
+   "cp-recursion-counting": 1.5
+  }
+ },
+ {
+  "id": "2004-16",
+  "top": [
+   "alg-percent-ratio",
+   "cp-inclusion-exclusion"
+  ],
+  "scores": {
+   "alg-percent-ratio": 2.0,
+   "cp-inclusion-exclusion": 1.5
+  }
+ },
+ {
+  "id": "2004-17",
+  "top": [
+   "cp-basic-counting",
+   "cp-inclusion-exclusion"
+  ],
+  "scores": {
+   "cp-basic-counting": 2.8,
+   "cp-inclusion-exclusion": 1.0
+  }
+ },
+ {
+  "id": "2004-18",
+  "top": [
+   "geo-shaded-regions",
+   "misc-logic"
+  ],
+  "scores": {
+   "geo-shaded-regions": 1.0,
+   "misc-logic": 1.0
+  }
+ },
+ {
+  "id": "2004-19",
+  "top": [
+   "nt-modular",
+   "misc-logic"
+  ],
+  "scores": {
+   "nt-modular": 3.5,
+   "misc-logic": 2.5
+  }
+ },
+ {
+  "id": "2004-20",
+  "top": [
+   "cp-permutations",
+   "alg-fraction-word",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "cp-permutations": 2.0,
+   "alg-fraction-word": 1.5,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2004-21",
+  "top": [
+   "cp-probability-dice-coins",
+   "cp-probability-basic",
+   "nt-parity"
+  ],
+  "scores": {
+   "cp-probability-dice-coins": 3.0,
+   "cp-probability-basic": 2.5,
+   "nt-parity": 2.0
+  }
+ },
+ {
+  "id": "2004-22",
+  "top": [
+   "cp-probability-basic",
+   "cp-combinations"
+  ],
+  "scores": {
+   "cp-probability-basic": 4.0,
+   "cp-combinations": 2.5
+  }
+ },
+ {
+  "id": "2004-23",
+  "top": [
+   "alg-rates"
+  ],
+  "scores": {
+   "alg-rates": 1.0
+  }
+ },
+ {
+  "id": "2004-24",
+  "top": [
+   "geo-quadrilaterals"
+  ],
+  "scores": {
+   "geo-quadrilaterals": 2.0
+  }
+ },
+ {
+  "id": "2004-25",
+  "top": [
+   "geo-shaded-regions",
+   "geo-pythagorean",
+   "geo-angles"
+  ],
+  "scores": {
+   "geo-shaded-regions": 4.5,
+   "geo-pythagorean": 2.5,
+   "geo-angles": 2.0,
+   "geo-circle-area": 1.5,
+   "geo-triangle-area": 1.0
+  }
+ },
+ {
+  "id": "2003-01",
+  "top": [
+   "geo-3d-cubes"
+  ],
+  "scores": {
+   "geo-3d-cubes": 3.5
+  }
+ },
+ {
+  "id": "2003-02",
+  "top": [
+   "nt-primes-factorization"
+  ],
+  "scores": {
+   "nt-primes-factorization": 3.0
+  }
+ },
+ {
+  "id": "2003-03",
+  "top": [
+   "alg-percent-ratio",
+   "misc-money-everyday",
+   "alg-linear-word"
+  ],
+  "scores": {
+   "alg-percent-ratio": 3.0,
+   "misc-money-everyday": 2.0,
+   "alg-linear-word": 1.0
+  }
+ },
+ {
+  "id": "2003-04",
+  "top": [
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2003-05",
+  "top": [],
+  "scores": {}
+ },
+ {
+  "id": "2003-06",
+  "top": [
+   "geo-triangle-area"
+  ],
+  "scores": {
+   "geo-triangle-area": 2.5
+  }
+ },
+ {
+  "id": "2003-07",
+  "top": [
+   "alg-mean-median",
+   "cp-inclusion-exclusion"
+  ],
+  "scores": {
+   "alg-mean-median": 3.0,
+   "cp-inclusion-exclusion": 1.5
+  }
+ },
+ {
+  "id": "2003-08",
+  "top": [
+   "alg-percent-ratio",
+   "misc-logic"
+  ],
+  "scores": {
+   "alg-percent-ratio": 1.5,
+   "misc-logic": 1.0
+  }
+ },
+ {
+  "id": "2003-09",
+  "top": [
+   "misc-money-everyday",
+   "alg-percent-ratio"
+  ],
+  "scores": {
+   "misc-money-everyday": 3.0,
+   "alg-percent-ratio": 1.5
+  }
+ },
+ {
+  "id": "2003-10",
+  "top": [
+   "alg-percent-ratio",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "alg-percent-ratio": 1.5,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2003-11",
+  "top": [
+   "alg-percent-ratio",
+   "misc-calendar-clock",
+   "misc-money-everyday"
+  ],
+  "scores": {
+   "alg-percent-ratio": 4.5,
+   "misc-calendar-clock": 3.0,
+   "misc-money-everyday": 3.0
+  }
+ },
+ {
+  "id": "2003-12",
+  "top": [
+   "nt-divisibility",
+   "cp-probability-dice-coins",
+   "cp-probability-basic"
+  ],
+  "scores": {
+   "nt-divisibility": 3.0,
+   "cp-probability-dice-coins": 3.0,
+   "cp-probability-basic": 2.5,
+   "misc-logic": 1.5,
+   "geo-3d-cubes": 1.0
+  }
+ },
+ {
+  "id": "2003-13",
+  "top": [
+   "geo-3d-cubes",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "geo-3d-cubes": 5.5,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2003-14",
+  "top": [
+   "nt-digits",
+   "nt-parity"
+  ],
+  "scores": {
+   "nt-digits": 2.0,
+   "nt-parity": 2.0
+  }
+ },
+ {
+  "id": "2003-15",
+  "top": [
+   "geo-3d-cubes",
+   "cp-inclusion-exclusion"
+  ],
+  "scores": {
+   "geo-3d-cubes": 5.5,
+   "cp-inclusion-exclusion": 1.0
+  }
+ },
+ {
+  "id": "2003-16",
+  "top": [
+   "cp-permutations",
+   "cp-basic-counting",
+   "alg-rates"
+  ],
+  "scores": {
+   "cp-permutations": 4.0,
+   "cp-basic-counting": 2.8,
+   "alg-rates": 1.0,
+   "misc-logic": 1.0
+  }
+ },
+ {
+  "id": "2003-17",
+  "top": [
+   "alg-absolute-value",
+   "cp-inclusion-exclusion"
+  ],
+  "scores": {
+   "alg-absolute-value": 2.5,
+   "cp-inclusion-exclusion": 1.0
+  }
+ },
+ {
+  "id": "2003-18",
+  "top": [
+   "misc-data-charts",
+   "cp-inclusion-exclusion",
+   "misc-logic"
+  ],
+  "scores": {
+   "misc-data-charts": 3.0,
+   "cp-inclusion-exclusion": 1.0,
+   "misc-logic": 1.0,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2003-19",
+  "top": [
+   "cp-basic-counting",
+   "nt-divisors"
+  ],
+  "scores": {
+   "cp-basic-counting": 2.8,
+   "nt-divisors": 2.5
+  }
+ },
+ {
+  "id": "2003-20",
+  "top": [
+   "misc-calendar-clock",
+   "geo-angles"
+  ],
+  "scores": {
+   "misc-calendar-clock": 2.5,
+   "geo-angles": 2.0
+  }
+ },
+ {
+  "id": "2003-21",
+  "top": [
+   "geo-quadrilaterals",
+   "misc-money-everyday",
+   "geo-triangle-area"
+  ],
+  "scores": {
+   "geo-quadrilaterals": 2.0,
+   "misc-money-everyday": 2.0,
+   "geo-triangle-area": 1.0
+  }
+ },
+ {
+  "id": "2003-22",
+  "top": [
+   "geo-shaded-regions",
+   "geo-circle-area",
+   "geo-triangle-area"
+  ],
+  "scores": {
+   "geo-shaded-regions": 4.5,
+   "geo-circle-area": 1.5,
+   "geo-triangle-area": 1.0
+  }
+ },
+ {
+  "id": "2003-23",
+  "top": [
+   "alg-recursion-patterns"
+  ],
+  "scores": {
+   "alg-recursion-patterns": 1.5
+  }
+ },
+ {
+  "id": "2003-24",
+  "top": [
+   "cp-paths-grids",
+   "misc-money-everyday",
+   "alg-rates"
+  ],
+  "scores": {
+   "cp-paths-grids": 2.5,
+   "misc-money-everyday": 2.0,
+   "alg-rates": 1.0
+  }
+ },
+ {
+  "id": "2003-25",
+  "top": [
+   "geo-transformations",
+   "geo-triangle-area",
+   "geo-quadrilaterals"
+  ],
+  "scores": {
+   "geo-transformations": 3.0,
+   "geo-triangle-area": 2.5,
+   "geo-quadrilaterals": 2.0,
+   "misc-money-everyday": 2.0,
+   "geo-similar": 1.5
+  }
+ },
+ {
+  "id": "2002-01",
+  "top": [
+   "alg-graphs-lines",
+   "geo-circle-area"
+  ],
+  "scores": {
+   "alg-graphs-lines": 1.5,
+   "geo-circle-area": 1.5
+  }
+ },
+ {
+  "id": "2002-02",
+  "top": [
+   "cp-permutations",
+   "misc-money-everyday",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "cp-permutations": 2.0,
+   "misc-money-everyday": 2.0,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2002-03",
+  "top": [
+   "alg-mean-median",
+   "nt-parity"
+  ],
+  "scores": {
+   "alg-mean-median": 3.0,
+   "nt-parity": 2.0
+  }
+ },
+ {
+  "id": "2002-04",
+  "top": [
+   "nt-digits"
+  ],
+  "scores": {
+   "nt-digits": 5.0
+  }
+ },
+ {
+  "id": "2002-05",
+  "top": [
+   "misc-calendar-clock"
+  ],
+  "scores": {
+   "misc-calendar-clock": 3.0
+  }
+ },
+ {
+  "id": "2002-06",
+  "top": [
+   "geo-3d-volume",
+   "alg-rates"
+  ],
+  "scores": {
+   "geo-3d-volume": 3.0,
+   "alg-rates": 0.5
+  }
+ },
+ {
+  "id": "2002-07",
+  "top": [
+   "alg-percent-ratio",
+   "misc-data-charts",
+   "geo-graph-regions"
+  ],
+  "scores": {
+   "alg-percent-ratio": 3.0,
+   "misc-data-charts": 3.0,
+   "geo-graph-regions": 2.5,
+   "misc-money-everyday": 2.0
+  }
+ },
+ {
+  "id": "2002-08",
+  "top": [
+   "misc-money-everyday",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "misc-money-everyday": 3.0,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2002-09",
+  "top": [
+   "misc-money-everyday"
+  ],
+  "scores": {
+   "misc-money-everyday": 3.0
+  }
+ },
+ {
+  "id": "2002-10",
+  "top": [
+   "alg-mean-median",
+   "misc-money-everyday"
+  ],
+  "scores": {
+   "alg-mean-median": 3.0,
+   "misc-money-everyday": 3.0
+  }
+ },
+ {
+  "id": "2002-11",
+  "top": [
+   "geo-quadrilaterals",
+   "alg-recursion-patterns",
+   "cp-recursion-counting"
+  ],
+  "scores": {
+   "geo-quadrilaterals": 2.0,
+   "alg-recursion-patterns": 1.5,
+   "cp-recursion-counting": 1.5,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2002-12",
+  "top": [
+   "cp-probability-dice-coins",
+   "cp-probability-basic",
+   "misc-games"
+  ],
+  "scores": {
+   "cp-probability-dice-coins": 3.0,
+   "cp-probability-basic": 2.5,
+   "misc-games": 2.0,
+   "geo-shaded-regions": 1.0
+  }
+ },
+ {
+  "id": "2002-13",
+  "top": [
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2002-14",
+  "top": [
+   "alg-percent-ratio"
+  ],
+  "scores": {
+   "alg-percent-ratio": 4.5
+  }
+ },
+ {
+  "id": "2002-15",
+  "top": [
+   "geo-polygons",
+   "geo-triangle-area"
+  ],
+  "scores": {
+   "geo-polygons": 3.0,
+   "geo-triangle-area": 1.0
+  }
+ },
+ {
+  "id": "2002-16",
+  "top": [
+   "geo-triangle-area",
+   "geo-pythagorean"
+  ],
+  "scores": {
+   "geo-triangle-area": 2.5,
+   "geo-pythagorean": 2.5
+  }
+ },
+ {
+  "id": "2002-17",
+  "top": [
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2002-18",
+  "top": [
+   "alg-mean-median",
+   "cp-permutations",
+   "alg-rates"
+  ],
+  "scores": {
+   "alg-mean-median": 3.0,
+   "cp-permutations": 2.0,
+   "alg-rates": 0.5
+  }
+ },
+ {
+  "id": "2002-19",
+  "top": [
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2002-20",
+  "top": [
+   "geo-shaded-regions",
+   "geo-triangle-area",
+   "geo-quadrilaterals"
+  ],
+  "scores": {
+   "geo-shaded-regions": 4.5,
+   "geo-triangle-area": 2.5,
+   "geo-quadrilaterals": 2.0
+  }
+ },
+ {
+  "id": "2002-21",
+  "top": [
+   "cp-probability-basic",
+   "alg-linear-word"
+  ],
+  "scores": {
+   "cp-probability-basic": 2.5,
+   "alg-linear-word": 1.5
+  }
+ },
+ {
+  "id": "2002-22",
+  "top": [
+   "geo-3d-volume",
+   "geo-3d-cubes",
+   "geo-quadrilaterals"
+  ],
+  "scores": {
+   "geo-3d-volume": 3.0,
+   "geo-3d-cubes": 2.5,
+   "geo-quadrilaterals": 2.0,
+   "geo-triangle-area": 1.0
+  }
+ },
+ {
+  "id": "2002-23",
+  "top": [
+   "cp-recursion-counting"
+  ],
+  "scores": {
+   "cp-recursion-counting": 1.5
+  }
+ },
+ {
+  "id": "2002-24",
+  "top": [
+   "alg-percent-ratio",
+   "misc-money-everyday"
+  ],
+  "scores": {
+   "alg-percent-ratio": 3.0,
+   "misc-money-everyday": 2.0
+  }
+ },
+ {
+  "id": "2002-25",
+  "top": [
+   "alg-fraction-word"
+  ],
+  "scores": {
+   "alg-fraction-word": 2.5
+  }
+ },
+ {
+  "id": "2001-01",
+  "top": [
+   "alg-work",
+   "cp-basic-counting",
+   "alg-rates"
+  ],
+  "scores": {
+   "alg-work": 2.0,
+   "cp-basic-counting": 0.8,
+   "alg-rates": 0.5
+  }
+ },
+ {
+  "id": "2001-02",
+  "top": [],
+  "scores": {}
+ },
+ {
+  "id": "2001-03",
+  "top": [
+   "misc-money-everyday",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "misc-money-everyday": 2.0,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2001-04",
+  "top": [
+   "nt-digits",
+   "nt-parity"
+  ],
+  "scores": {
+   "nt-digits": 2.0,
+   "nt-parity": 2.0
+  }
+ },
+ {
+  "id": "2001-05",
+  "top": [
+   "alg-rates"
+  ],
+  "scores": {
+   "alg-rates": 3.0
+  }
+ },
+ {
+  "id": "2001-06",
+  "top": [],
+  "scores": {}
+ },
+ {
+  "id": "2001-07",
+  "top": [
+   "geo-quadrilaterals",
+   "geo-grid-area",
+   "cp-inclusion-exclusion"
+  ],
+  "scores": {
+   "geo-quadrilaterals": 2.0,
+   "geo-grid-area": 2.0,
+   "cp-inclusion-exclusion": 1.5,
+   "cp-paths-grids": 1.5,
+   "geo-triangle-area": 1.0
+  }
+ },
+ {
+  "id": "2001-08",
+  "top": [
+   "geo-quadrilaterals",
+   "geo-grid-area",
+   "cp-inclusion-exclusion"
+  ],
+  "scores": {
+   "geo-quadrilaterals": 2.0,
+   "geo-grid-area": 2.0,
+   "cp-inclusion-exclusion": 1.5,
+   "cp-paths-grids": 1.5,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2001-09",
+  "top": [
+   "geo-quadrilaterals",
+   "geo-grid-area",
+   "cp-inclusion-exclusion"
+  ],
+  "scores": {
+   "geo-quadrilaterals": 2.0,
+   "geo-grid-area": 2.0,
+   "cp-inclusion-exclusion": 1.5,
+   "cp-paths-grids": 1.5,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2001-10",
+  "top": [
+   "misc-money-everyday",
+   "alg-linear-word"
+  ],
+  "scores": {
+   "misc-money-everyday": 3.0,
+   "alg-linear-word": 1.5
+  }
+ },
+ {
+  "id": "2001-11",
+  "top": [
+   "geo-coordinate",
+   "geo-quadrilaterals",
+   "geo-triangle-area"
+  ],
+  "scores": {
+   "geo-coordinate": 4.5,
+   "geo-quadrilaterals": 2.0,
+   "geo-triangle-area": 1.0
+  }
+ },
+ {
+  "id": "2001-12",
+  "top": [
+   "alg-custom-op"
+  ],
+  "scores": {
+   "alg-custom-op": 3.0
+  }
+ },
+ {
+  "id": "2001-13",
+  "top": [
+   "alg-fraction-word",
+   "geo-angles",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "alg-fraction-word": 4.0,
+   "geo-angles": 2.0,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2001-14",
+  "top": [
+   "cp-combinations",
+   "cp-permutations",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "cp-combinations": 2.5,
+   "cp-permutations": 2.0,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2001-15",
+  "top": [
+   "cp-basic-counting",
+   "alg-rates"
+  ],
+  "scores": {
+   "cp-basic-counting": 0.8,
+   "alg-rates": 0.5
+  }
+ },
+ {
+  "id": "2001-16",
+  "top": [
+   "geo-transformations",
+   "alg-percent-ratio",
+   "geo-perimeter-length"
+  ],
+  "scores": {
+   "geo-transformations": 3.0,
+   "alg-percent-ratio": 2.5,
+   "geo-perimeter-length": 2.5,
+   "geo-quadrilaterals": 2.0,
+   "cp-inclusion-exclusion": 1.5
+  }
+ },
+ {
+  "id": "2001-17",
+  "top": [
+   "alg-percent-ratio",
+   "misc-games",
+   "misc-money-everyday"
+  ],
+  "scores": {
+   "alg-percent-ratio": 3.0,
+   "misc-games": 2.0,
+   "misc-money-everyday": 2.0,
+   "misc-logic": 1.0
+  }
+ },
+ {
+  "id": "2001-18",
+  "top": [
+   "cp-probability-dice-coins",
+   "cp-probability-basic",
+   "nt-divisibility"
+  ],
+  "scores": {
+   "cp-probability-dice-coins": 3.0,
+   "cp-probability-basic": 2.5,
+   "nt-divisibility": 2.0
+  }
+ },
+ {
+  "id": "2001-19",
+  "top": [
+   "alg-rates"
+  ],
+  "scores": {
+   "alg-rates": 3.0
+  }
+ },
+ {
+  "id": "2001-20",
+  "top": [],
+  "scores": {}
+ },
+ {
+  "id": "2001-21",
+  "top": [
+   "alg-mean-median",
+   "geo-triangle-centers",
+   "alg-inequalities-optimization"
+  ],
+  "scores": {
+   "alg-mean-median": 6.0,
+   "geo-triangle-centers": 3.0,
+   "alg-inequalities-optimization": 2.0,
+   "alg-arith-compute": 0.5
+  }
+ },
+ {
+  "id": "2001-22",
+  "top": [],
+  "scores": {}
+ },
+ {
+  "id": "2001-23",
+  "top": [
+   "geo-triangle-area",
+   "geo-3d-cubes",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "geo-triangle-area": 1.5,
+   "geo-3d-cubes": 1.0,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2001-24",
+  "top": [
+   "geo-transformations",
+   "misc-money-everyday",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "geo-transformations": 3.0,
+   "misc-money-everyday": 2.0,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2001-25",
+  "top": [
+   "nt-divisibility",
+   "nt-digits"
+  ],
+  "scores": {
+   "nt-divisibility": 2.0,
+   "nt-digits": 2.0
+  }
+ },
+ {
+  "id": "2000-01",
+  "top": [
+   "alg-linear-word"
+  ],
+  "scores": {
+   "alg-linear-word": 2.0
+  }
+ },
+ {
+  "id": "2000-02",
+  "top": [],
+  "scores": {}
+ },
+ {
+  "id": "2000-03",
+  "top": [
+   "misc-logic",
+   "geo-circle-area",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "misc-logic": 2.5,
+   "geo-circle-area": 1.5,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2000-04",
+  "top": [
+   "alg-percent-ratio"
+  ],
+  "scores": {
+   "alg-percent-ratio": 3.0
+  }
+ },
+ {
+  "id": "2000-05",
+  "top": [
+   "alg-recursion-patterns"
+  ],
+  "scores": {
+   "alg-recursion-patterns": 1.0
+  }
+ },
+ {
+  "id": "2000-06",
+  "top": [
+   "geo-shaded-regions",
+   "geo-quadrilaterals",
+   "geo-triangle-area"
+  ],
+  "scores": {
+   "geo-shaded-regions": 4.5,
+   "geo-quadrilaterals": 2.0,
+   "geo-triangle-area": 1.0
+  }
+ },
+ {
+  "id": "2000-07",
+  "top": [],
+  "scores": {}
+ },
+ {
+  "id": "2000-08",
+  "top": [
+   "cp-probability-dice-coins",
+   "geo-3d-cubes"
+  ],
+  "scores": {
+   "cp-probability-dice-coins": 3.0,
+   "geo-3d-cubes": 1.0
+  }
+ },
+ {
+  "id": "2000-09",
+  "top": [
+   "nt-digits",
+   "geo-quadrilaterals"
+  ],
+  "scores": {
+   "nt-digits": 2.0,
+   "geo-quadrilaterals": 2.0
+  }
+ },
+ {
+  "id": "2000-10",
+  "top": [],
+  "scores": {}
+ },
+ {
+  "id": "2000-11",
+  "top": [
+   "nt-units-digit",
+   "nt-divisibility",
+   "nt-digits"
+  ],
+  "scores": {
+   "nt-units-digit": 4.0,
+   "nt-divisibility": 3.0,
+   "nt-digits": 2.0,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "2000-12",
+  "top": [
+   "nt-parity"
+  ],
+  "scores": {
+   "nt-parity": 2.0
+  }
+ },
+ {
+  "id": "2000-13",
+  "top": [
+   "geo-angles",
+   "geo-triangle-area",
+   "alg-systems"
+  ],
+  "scores": {
+   "geo-angles": 2.0,
+   "geo-triangle-area": 1.5,
+   "alg-systems": 0.8
+  }
+ },
+ {
+  "id": "2000-14",
+  "top": [
+   "nt-units-digit",
+   "nt-digits",
+   "alg-exponents-radicals"
+  ],
+  "scores": {
+   "nt-units-digit": 4.0,
+   "nt-digits": 2.0,
+   "alg-exponents-radicals": 1.0
+  }
+ },
+ {
+  "id": "2000-15",
+  "top": [
+   "geo-perimeter-length"
+  ],
+  "scores": {
+   "geo-perimeter-length": 2.5
+  }
+ },
+ {
+  "id": "2000-16",
+  "top": [
+   "geo-perimeter-length",
+   "cp-permutations",
+   "geo-quadrilaterals"
+  ],
+  "scores": {
+   "geo-perimeter-length": 2.5,
+   "cp-permutations": 2.0,
+   "geo-quadrilaterals": 2.0,
+   "alg-rates": 1.0,
+   "geo-triangle-area": 1.0
+  }
+ },
+ {
+  "id": "2000-17",
+  "top": [
+   "alg-custom-op"
+  ],
+  "scores": {
+   "alg-custom-op": 3.0
+  }
+ },
+ {
+  "id": "2000-18",
+  "top": [
+   "geo-perimeter-length",
+   "misc-logic",
+   "geo-quadrilaterals"
+  ],
+  "scores": {
+   "geo-perimeter-length": 2.5,
+   "misc-logic": 2.5,
+   "geo-quadrilaterals": 2.0,
+   "geo-grid-area": 2.0,
+   "geo-triangle-area": 1.0
+  }
+ },
+ {
+  "id": "2000-19",
+  "top": [
+   "geo-circle-area",
+   "geo-quadrilaterals",
+   "geo-triangle-area"
+  ],
+  "scores": {
+   "geo-circle-area": 3.0,
+   "geo-quadrilaterals": 2.0,
+   "geo-triangle-area": 1.0,
+   "geo-shaded-regions": 1.0
+  }
+ },
+ {
+  "id": "2000-20",
+  "top": [
+   "alg-linear-word",
+   "cp-inclusion-exclusion",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "alg-linear-word": 1.5,
+   "cp-inclusion-exclusion": 1.0,
+   "cp-basic-counting": 0.8,
+   "alg-arith-compute": 0.5
+  }
+ },
+ {
+  "id": "2000-21",
+  "top": [
+   "cp-probability-basic"
+  ],
+  "scores": {
+   "cp-probability-basic": 2.5
+  }
+ },
+ {
+  "id": "2000-22",
+  "top": [
+   "geo-3d-cubes",
+   "alg-percent-ratio",
+   "geo-3d-volume"
+  ],
+  "scores": {
+   "geo-3d-cubes": 3.5,
+   "alg-percent-ratio": 3.0,
+   "geo-3d-volume": 3.0,
+   "misc-money-everyday": 2.0,
+   "geo-triangle-area": 1.0
+  }
+ },
+ {
+  "id": "2000-23",
+  "top": [
+   "alg-mean-median",
+   "cp-inclusion-exclusion"
+  ],
+  "scores": {
+   "alg-mean-median": 3.0,
+   "cp-inclusion-exclusion": 1.5
+  }
+ },
+ {
+  "id": "2000-24",
+  "top": [
+   "geo-angles",
+   "alg-systems"
+  ],
+  "scores": {
+   "geo-angles": 2.0,
+   "alg-systems": 0.8
+  }
+ },
+ {
+  "id": "2000-25",
+  "top": [
+   "geo-triangle-area",
+   "geo-quadrilaterals"
+  ],
+  "scores": {
+   "geo-triangle-area": 2.5,
+   "geo-quadrilaterals": 2.0
+  }
+ },
+ {
+  "id": "1999-01",
+  "top": [
+   "misc-logic"
+  ],
+  "scores": {
+   "misc-logic": 2.5
+  }
+ },
+ {
+  "id": "1999-02",
+  "top": [
+   "misc-calendar-clock",
+   "geo-angles"
+  ],
+  "scores": {
+   "misc-calendar-clock": 2.5,
+   "geo-angles": 2.0
+  }
+ },
+ {
+  "id": "1999-03",
+  "top": [],
+  "scores": {}
+ },
+ {
+  "id": "1999-04",
+  "top": [
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "1999-05",
+  "top": [
+   "geo-quadrilaterals",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "geo-quadrilaterals": 2.0,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "1999-06",
+  "top": [
+   "cp-inclusion-exclusion",
+   "misc-logic"
+  ],
+  "scores": {
+   "cp-inclusion-exclusion": 4.0,
+   "misc-logic": 1.0
+  }
+ },
+ {
+  "id": "1999-07",
+  "top": [
+   "misc-money-everyday"
+  ],
+  "scores": {
+   "misc-money-everyday": 2.0
+  }
+ },
+ {
+  "id": "1999-08",
+  "top": [
+   "geo-3d-cubes",
+   "geo-transformations"
+  ],
+  "scores": {
+   "geo-3d-cubes": 3.5,
+   "geo-transformations": 3.0
+  }
+ },
+ {
+  "id": "1999-09",
+  "top": [
+   "geo-shaded-regions"
+  ],
+  "scores": {
+   "geo-shaded-regions": 1.0
+  }
+ },
+ {
+  "id": "1999-10",
+  "top": [
+   "cp-probability-basic",
+   "cp-combinations"
+  ],
+  "scores": {
+   "cp-probability-basic": 4.0,
+   "cp-combinations": 2.5
+  }
+ },
+ {
+  "id": "1999-11",
+  "top": [
+   "alg-inequalities-optimization"
+  ],
+  "scores": {
+   "alg-inequalities-optimization": 2.0
+  }
+ },
+ {
+  "id": "1999-12",
+  "top": [
+   "alg-percent-ratio",
+   "misc-money-everyday",
+   "misc-process-simulation"
+  ],
+  "scores": {
+   "alg-percent-ratio": 5.5,
+   "misc-money-everyday": 2.0,
+   "misc-process-simulation": 1.5
+  }
+ },
+ {
+  "id": "1999-13",
+  "top": [
+   "alg-mean-median",
+   "alg-linear-word"
+  ],
+  "scores": {
+   "alg-mean-median": 3.0,
+   "alg-linear-word": 2.0
+  }
+ },
+ {
+  "id": "1999-14",
+  "top": [
+   "geo-perimeter-length",
+   "geo-quadrilaterals"
+  ],
+  "scores": {
+   "geo-perimeter-length": 2.5,
+   "geo-quadrilaterals": 2.0
+  }
+ },
+ {
+  "id": "1999-15",
+  "top": [
+   "cp-combinations",
+   "cp-inclusion-exclusion"
+  ],
+  "scores": {
+   "cp-combinations": 2.5,
+   "cp-inclusion-exclusion": 1.5
+  }
+ },
+ {
+  "id": "1999-16",
+  "top": [
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "1999-17",
+  "top": [
+   "alg-mean-median",
+   "misc-money-everyday",
+   "alg-fraction-word"
+  ],
+  "scores": {
+   "alg-mean-median": 3.0,
+   "misc-money-everyday": 3.0,
+   "alg-fraction-word": 1.5,
+   "misc-logic": 1.0,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "1999-18",
+  "top": [
+   "alg-mean-median",
+   "misc-money-everyday",
+   "misc-logic"
+  ],
+  "scores": {
+   "alg-mean-median": 3.0,
+   "misc-money-everyday": 2.0,
+   "misc-logic": 1.0,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "1999-19",
+  "top": [
+   "alg-mean-median",
+   "misc-units-measurement",
+   "misc-money-everyday"
+  ],
+  "scores": {
+   "alg-mean-median": 3.0,
+   "misc-units-measurement": 2.5,
+   "misc-money-everyday": 2.0,
+   "alg-fraction-word": 1.5,
+   "misc-logic": 1.0
+  }
+ },
+ {
+  "id": "1999-20",
+  "top": [
+   "geo-3d-cubes",
+   "misc-units-measurement",
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "geo-3d-cubes": 2.5,
+   "misc-units-measurement": 2.5,
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "1999-21",
+  "top": [
+   "geo-angles"
+  ],
+  "scores": {
+   "geo-angles": 2.0
+  }
+ },
+ {
+  "id": "1999-22",
+  "top": [
+   "cp-basic-counting"
+  ],
+  "scores": {
+   "cp-basic-counting": 0.8
+  }
+ },
+ {
+  "id": "1999-23",
+  "top": [
+   "geo-quadrilaterals",
+   "alg-exponents-radicals",
+   "geo-triangle-area"
+  ],
+  "scores": {
+   "geo-quadrilaterals": 2.0,
+   "alg-exponents-radicals": 1.5,
+   "geo-triangle-area": 1.0
+  }
+ },
+ {
+  "id": "1999-24",
+  "top": [
+   "nt-modular",
+   "alg-exponents-radicals"
+  ],
+  "scores": {
+   "nt-modular": 3.5,
+   "alg-exponents-radicals": 1.0
+  }
+ },
+ {
+  "id": "1999-25",
+  "top": [
+   "geo-shaded-regions",
+   "geo-triangle-area",
+   "geo-pythagorean"
+  ],
+  "scores": {
+   "geo-shaded-regions": 3.5,
+   "geo-triangle-area": 2.5,
+   "geo-pythagorean": 2.5,
+   "misc-process-simulation": 2.0
+  }
+ }
+]

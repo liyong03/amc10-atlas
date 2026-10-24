@@ -1,0 +1,423 @@
+### 2026-01
+What is the value of the following expression? $1 + 2 - 3 + 4 + 5 - 6 + 7 + 8 - 9 + 10 + 11 - 12$ $\textbf{(A)}\ 18 \qquad \textbf{(B)}\ 21 \qquad \textbf{(C)}\ 24 \qquad \textbf{(D)}\ 27 \qquad \textbf{(E)}\ 30$
+
+### 2026-02
+In the array shown below, $3$s are surrounded by $2$s, which are then surrounded by a border of $1$s. What is the sum of the numbers in the array? \[\begin{array}{ccccccc} 1 & 1 & 1 & 1 & 1 & 1 & 1 \\ 1 & 2 & 2 & 2 & 2 & 2 & 1 \\ 1 & 2 & 3 & 3 & 3 & 2 & 1 \\ 1 & 2 & 2 & 2 & 2 & 2 & 1 \\ 1 & 1 & 1 & 1 & 1 & 1 & 1 \end{array}\] $\textbf{(A)}\ 49 \qquad \textbf{(B)}\ 51 \qquad \textbf{(C)}\ 53 \qquad \textbf{(D)}\ 55 \qquad \textbf{(E)}\ 57$
+
+### 2026-03
+Haruki has a piece of wire that is $24$ centimeters long. He wants to bend it to form each of the following shapes, one at a time. A regular hexagon with side length $5$ cm. A square of area $36$ cm². A right triangle whose legs are $6$ and $8$ cm long. Which of the shapes can Haruki make? $\textbf{(A) }\text{Triangle only} \qquad \textbf{(B) }\text{Hexagon and square only} \\ \textbf{(C) }\text{Hexagon and triangle only} \qquad \textbf{(D) }\text{Square and triangle only} \\ \textbf{(E) }\text{Hexagon, triangle, and square}$
+
+### 2026-04
+Brynn's savings decreased by $20$% in July, then increased by $50$% in August. Brynn's savings are now what percent of the original amount? $\textbf{(A) }80 \qquad \textbf{(B) }90 \qquad \textbf{(C) }100 \qquad \textbf{(D) }110 \qquad \textbf{(E) }120$
+
+### 2026-05
+Casey went on a road trip that covered $100$ miles, stopping for a lunch break along the way. The trip took $3$ hours in total and her average speed while driving was $40$ miles per hour (mph). In minutes, how long was the lunch break? $\textbf{(A) }15 \qquad \textbf{(B) }30 \qquad \textbf{(C) }40 \qquad \textbf{(D) }45 \qquad \textbf{(E) }60$
+
+### 2026-06
+Peter lives near a rectangular field that is filled with blackberry bushes. The field is $10$ meters long and $8$ meters wide, and Peter can reach any blackberries that are within $1$ meter of an edge of the field. The portion of the field he can reach is shaded in the figure below. What fraction of the area of the field can Peter reach? $\textbf{(A) } \frac{1}{6}\qquad\textbf{(B) } \frac{1}{4}\qquad\textbf{(C) } \frac{1}{3}\qquad\textbf{(D) } \frac{3}{8}\qquad\textbf{(E) } \frac{2}{5}\qquad$ [DIAGRAM]
+[DIAGRAM IMAGE: /Users/liyong03/Documents/AMC10/data/amc8/raw/images/2026_amc_8_q6.png]
+
+### 2026-07
+Mika would like to estimate how far she can ride a new model of electric bike on a fully charged battery. She completed two trips totaling $40$ miles. The first trip used $\frac{1}{2}$ of the total battery power, while the second trip used $\frac{3}{10}$ of the total battery power. How many miles can this electric bike go on a fully charged battery? $\textbf{(A) } 45\qquad\textbf{(B) } 48\qquad\textbf{(C) } 50\qquad\textbf{(D) } 52\qquad\textbf{(E) } 55\qquad$
+
+### 2026-08
+A poll asked a number of people if they liked solving mathematics problems. Exactly $74$% answered “yes.” What is the fewest possible number of people who could have been asked the question? $\textbf{(A)}\ 10 \qquad \textbf{(B)}\ 20 \qquad \textbf{(C)}\ 25 \qquad \textbf{(D)}\ 50 \qquad \textbf{(E)}\ 100$
+
+### 2026-09
+What is the value of this expression? \[\frac{\sqrt{16\sqrt{81}}}{\sqrt{81\sqrt{16}}}\] $\textbf{(A) } \frac{4}{9}\qquad\textbf{(B) } \frac{2}{3}\qquad\textbf{(C) } 1\qquad\textbf{(D) } \frac{3}{2}\qquad\textbf{(E) } \frac{9}{4}$
+
+### 2026-10
+Five runners completed the grueling Xmarathon: Luke, Melina, Nico, Olympia, and Pedro. Nico finished $11$ minutes behind Pedro. Olympia finished $2$ minutes ahead of Melina, but $3$ minutes behind Pedro. Olympia finished $6$ minutes ahead of Luke. Which runner finished fourth? $\textbf{(A) }\text{Luke} \qquad \textbf{(B) }\text{Melina} \qquad \textbf{(C) }\text{Nico} \qquad \textbf{(D) }\text{Olympia}\qquad \textbf{(E) }\text{Pedro}$
+
+### 2026-11
+Squares of side length $1$, $1$, $2$, $3$, and $5$ are arranged to form the rectangle shown below. A curve is drawn by inscribing a quarter circle in each square and joining the quarter circles in order, from shortest to longest. What is the length of the curve? $\textbf{(A) } 4\pi\qquad\textbf{(B) } 6\pi\qquad\textbf{(C) } \frac{13}{2}\pi\qquad\textbf{(D) } 8\pi\qquad\textbf{(E) } 13\pi$ [DIAGRAM]
+[DIAGRAM IMAGE: /Users/liyong03/Documents/AMC10/data/amc8/raw/images/2026_amc_8_q11.png]
+
+### 2026-12
+In the figure below, each circle will be filled with a digit from $1$ to $6$. Each digit must appear exactly once. The sum of the digits in neighboring circles is shown in the box between them. What digit must be placed in the top circle? $\textbf{(A) } 2\qquad\textbf{(B) } 3\qquad\textbf{(C) } 4\qquad\textbf{(D) } 5\qquad\textbf{(E) } \text{it is impossible to fill the circles}$ [DIAGRAM]
+[DIAGRAM IMAGE: /Users/liyong03/Documents/AMC10/data/amc8/raw/images/2026_amc_8_q12.png]
+
+### 2026-13
+The figure below shows a tiling of 1×1 unit squares. Each row of unit squares is shifted horizontally by half a unit relative to the row above it. A shaded square is drawn on top of the tiling. Each vertex of the shaded square is a vertex of one of the unit squares. In square units, what is the area of the shaded square? $\textbf{(A) } 10\qquad\textbf{(B) } \frac{21}{2}\qquad\textbf{(C) } \frac{32}{3}\qquad\textbf{(D) } 11\qquad\textbf{(E) } \frac{34}{3}$ [DIAGRAM]
+[DIAGRAM IMAGE: /Users/liyong03/Documents/AMC10/data/amc8/raw/images/2026_amc_8_q13.png]
+
+### 2026-14
+Jami picked three equally spaced integer numbers on the number line. The sum of the first and the second numbers is $40$, while the sum of the second and third numbers is $60$. What is the sum of all three numbers? $\textbf{(A)}\ 70 \qquad \textbf{(B)}\ 75 \qquad \textbf{(C)}\ 80 \qquad \textbf{(D)}\ 85 \qquad \textbf{(E)}\ 90$
+
+### 2026-15
+Elijah has a large collection of identical wooden cubes which are white on $4$ faces and gray on $2$ faces that share an edge. He glues some cubes together face-to-face. The figure below shows $2$ cubes being glued together, leaving $3$ gray faces visible. What is the fewest number of cubes that he could glue together to ensure that no gray faces are visible, no matter how he rotates the figure? $\textbf{(A)}\ 4 \qquad\textbf{(B)}\ 6 \qquad\textbf{(C)}\ 8 \qquad\textbf{(D)}\ 9 \qquad\textbf{(E)}\ 27$ [DIAGRAM]
+[DIAGRAM IMAGE: /Users/liyong03/Documents/AMC10/data/amc8/raw/images/650px-2026_amc_8_q15.png]
+
+### 2026-16
+Consider all positive four-digit integers consisting of only even digits. What fraction of these integers are divisible by 4? $\textbf{(A) } \frac{1}{4} \qquad \textbf{(B) } \frac{2}{5} \qquad \textbf{(C) } \frac{1}{2} \qquad \textbf{(D) } \frac{3}{5} \qquad \textbf{(E) } \frac{3}{4}$
+
+### 2026-17
+Four students are seated in a row. They chat with the people sitting next to them, then rearrange themselves so that they are no longer seated next to any of the same people. How many rearrangements are possible? $\textbf{(A)}\ 2 \qquad\textbf{(B)}\ 4 \qquad\textbf{(C)}\ 9 \qquad\textbf{(D)}\ 12 \qquad\textbf{(E)}\ 24$ [DIAGRAM]
+[DIAGRAM IMAGE: /Users/liyong03/Documents/AMC10/data/amc8/raw/images/650px-2026_amc_8_q17.png]
+
+### 2026-18
+In how many ways can $60$ be written as the sum of two or more consecutive odd positive integers that are arranged in increasing order? $\textbf{(A) } 1\qquad\textbf{(B) } 2\qquad\textbf{(C) } 3\qquad\textbf{(D) } 4\qquad\textbf{(E) } 5$
+
+### 2026-19
+Miguel is walking with his dog, Luna. When they reach the entrance to a park, Miguel throws a ball straight ahead and continues to walk at a steady pace. Luna sprints toward the ball, which stops by a tree. As soon as the dog reaches the ball, she brings it back to Miguel. Luna runs $5$ times faster than Miguel walks. What fraction of the distance between the entrance and the tree does Miguel cover by the time Luna brings him the ball? $\textbf{(A) } \frac{1}{6}\qquad\textbf{(B) } \frac{1}{5}\qquad\textbf{(C) } \frac{1}{4}\qquad\textbf{(D) } \frac{1}{3}\qquad\textbf{(E) } \frac{2}{5}$ [DIAGRAM]
+[DIAGRAM IMAGE: /Users/liyong03/Documents/AMC10/data/amc8/raw/images/650px-Amc_8_2026_q19.png]
+
+### 2026-20
+The land of Catania uses gold coins and silver coins. Gold coins are $1$ mm thick and silver coins are $3$ mm thick. In how many ways can Taylor make a stack of coins that is $8$ mm tall using any arrangement of gold and silver coins, assuming order matters? $\textbf{(A) } 3\qquad\textbf{(B) } 7\qquad\textbf{(C) } 10\qquad\textbf{(D) } 13\qquad\textbf{(E) } 16$
+
+### 2026-21
+Charlotte the spider is walking along a web shaped like a $5$-pointed star, shown in the figure below. The web has $5$ outer points and $5$ inner points. Each time Charlotte reaches a point, she randomly chooses a neighboring point and moves to that point. Charlotte starts at one of the outer points and makes $3$ moves (re-visiting points is allowed). What is the probability she is now at one of the outer points of the star? $\textbf{(A) } \frac{1}{5}\qquad\textbf{(B) } \frac{1}{4}\qquad\textbf{(C) } \frac{2}{5}\qquad\textbf{(D) } \frac{1}{2}\qquad\textbf{(E) } \frac{3}{5}$ [DIAGRAM]
+[DIAGRAM IMAGE: /Users/liyong03/Documents/AMC10/data/amc8/raw/images/450px-2026_amc_8_q21.png]
+
+### 2026-22
+The integers from $1$ to $25$ are arbitrarily separated into five groups of $5$ numbers each. The median of each group is identified. Let $M$ equal the median of the five medians. What is the least possible value of $M$? $\textbf{(A) } 9\qquad\textbf{(B) } 10\qquad\textbf{(C) } 12\qquad\textbf{(D) } 13\qquad\textbf{(E) } 14$
+
+### 2026-23
+Lakshmi has $5$ round coins of diameter $4$ centimeters. She arranges the coins in $2$ rows on a table top, as shown below, and wraps an elastic band tightly around them. In centimeters, what will be the length of the band? $\textbf{(A)}\ 2\pi + 20 \qquad \textbf{(B)}\ \frac{5}{2}\pi + 20 \qquad \textbf{(C)}\ 4\pi + 20 \qquad \textbf{(D)}\ \frac{9}{2}\pi + 20 \qquad \textbf{(E)}\ 5\pi + 20$ [DIAGRAM]
+[DIAGRAM IMAGE: /Users/liyong03/Documents/AMC10/data/amc8/raw/images/2026_amc_8_q23.png]
+
+### 2026-24
+The factorial notation $n!$ is defined as the product of the first $n$ positive integers. (For example, $3! = 1 \cdot 2 \cdot 3 = 6$.) Define the superfactorial of a positive number, denoted by $n^{!}$, to be the product of the factorials of the first $n$ integers. (For example, $3^{!} = 1! \cdot 2! \cdot 3! = 12$.) How many factors of $7$ appear in the prime factorization of $51^{!}$, the superfactorial of $51$? $\textbf{(A)}\ 147 \qquad \textbf{(B)}\ 150 \qquad \textbf{(C)}\ 156 \qquad \textbf{(D)}\ 168 \qquad \textbf{(E)}\ 171$
+
+### 2026-25
+In an equiangular hexagon, all interior angles measure $120^\circ$. An example of such a hexagon with side lengths $2$, $3$, $1$, $3$, $2$, and $2$ is shown below, inscribed in equilateral triangle $ABC$. Consider all equiangular hexagons with positive integer side lengths that can be inscribed in $\triangle ABC$, with all six vertices on the sides of the triangle. What is the total number of such hexagons? Hexagons that differ only by a rotation or a reflection are considered the same. $\textbf{(A) } 4\qquad\textbf{(B) } 5\qquad\textbf{(C) } 6\qquad\textbf{(D) } 7\qquad\textbf{(E) } 8$ [DIAGRAM]
+
+### 2025-01
+The eight-pointed star, shown in the figure below, is a popular quilting pattern. What percent of the entire $4\times4$ grid is covered by the star? $\textbf{(A)}\ 40 \qquad \textbf{(B)}\ 50 \qquad \textbf{(C)}\ 60 \qquad \textbf{(D)}\ 75 \qquad \textbf{(E)}\ 80$ [DIAGRAM]
+
+### 2025-02
+The table below shows the Ancient Egyptian hieroglyphs that were used to represent different numbers. For example, the number $32$ was represented by the hieroglyphs $\cap \cap \cap ||$. What number is represented by the following combination of hieroglyphs? $\textbf{(A)}\ 1,423 \qquad \textbf{(B)}\ 10,423 \qquad \textbf{(C)}\ 14,023 \qquad \textbf{(D)}\ 14,203 \qquad \textbf{(E)}\ 14,230$ [DIAGRAM]
+[DIAGRAM IMAGE: /Users/liyong03/Documents/AMC10/data/amc8/raw/images/Mathh.PNG]
+[DIAGRAM IMAGE: /Users/liyong03/Documents/AMC10/data/amc8/raw/images/Amc8_2025_prob_2_pic.PNG]
+
+### 2025-03
+Buffalo Shuffle-o is a card game in which all the cards are distributed evenly among all players at the start of the game. When Annika and $3$ of her friends play Buffalo Shuffle-o, each player is dealt $15$ cards. Suppose $2$ more friends join the next game. How many cards will be dealt to each player? $\textbf{(A)}\ 8 \qquad \textbf{(B)}\ 9 \qquad \textbf{(C)}\ 10 \qquad \textbf{(D)}\ 11 \qquad \textbf{(E)}\ 12$
+
+### 2025-04
+Lucius is counting backward by $7$s. His first three numbers are $100$, $93$, and $86$. What is his $10$th number? $\textbf{(A)}\ 30 \qquad \textbf{(B)}\ 37 \qquad \textbf{(C)}\ 42 \qquad \textbf{(D)}\ 44 \qquad \textbf{(E)}\ 47$
+
+### 2025-05
+Betty drives a truck to deliver packages in a neighborhood whose street map is shown below. Betty starts at the factory (labled $F$) and drives to location $A$, then $B$, then $C$, before returning to $F$. What is the shortest distance, in blocks, she can drive to complete the route? $\textbf{(A)}\ 20 \qquad \textbf{(B)}\ 22 \qquad \textbf{(C)}\ 24 \qquad \textbf{(D)}\ 26\qquad \textbf{(E)}\ 28$ [DIAGRAM]
+
+### 2025-06
+Sekou writes down the numbers $15, 16, 17, 18, 19.$ After he erases one of his numbers, the sum of the remaining four numbers is a multiple of $4.$ Which number did he erase? $\textbf{(A)}\ 15\qquad \textbf{(B)}\ 16\qquad \textbf{(C)}\ 17\qquad \textbf{(D)}\ 18\qquad \textbf{(E)}\ 19$
+
+### 2025-07
+On the most recent exam on Prof. Xochi's class, $5$ students earned a score of at least $95\%$ $13$ students earned a score of at least $90\%$ $27$ students earned a score of at least $85\%$ $50$ students earned a score of at least $80\%$ How many students earned a score of at least $80\%$ and less than $90\%$? $\textbf{(A)}\ 8\qquad \textbf{(B)}\ 14\qquad \textbf{(C)}\ 22\qquad \textbf{(D)}\ 37\qquad \textbf{(E)}\ 45$
+
+### 2025-08
+Isaiah cuts open a cardboard cube along some of its edges to form the flat shape shown on the right, which has an area of $18$ square centimeters. What is the volume of the cube in cubic centimeters? $\textbf{(A)}~3\sqrt{3}\qquad\textbf{(B)}~6\qquad\textbf{(C)}~9\qquad\textbf{(D)}~6\sqrt{3}\qquad\textbf{(E)}~9\sqrt{3}$ [DIAGRAM]
+[DIAGRAM IMAGE: /Users/liyong03/Documents/AMC10/data/amc8/raw/images/Amc8_2025_prob8.PNG]
+
+### 2025-09
+Ningli looks at the $6$ pairs of numbers directly across from each other on a clock. She takes the average of each pair of numbers. What is the average of the resulting $6$ numbers? $\textbf{(A)}\ 5\qquad \textbf{(B)}\ 6.5\qquad \textbf{(C)}\ 8\qquad \textbf{(D)}\ 9.5 \qquad \textbf{(E)}\ 12$ [DIAGRAM]
+
+### 2025-10
+In the figure below, $ABCD$ is a rectangle with sides of length $AB = 5$ inches and $AD$ = $3$ inches. Rectangle $ABCD$ is rotated $90^\circ$ clockwise around the midpoint of side $DC$ to give a second rectangle. What is the total area, in square inches, covered by the two overlapping rectangles? $\textbf{(A)}\ 21 \qquad \textbf{(B)}\ 22.25 \qquad \textbf{(C)}\ 23 \qquad \textbf{(D)}\ 23.75 \qquad \textbf{(E)}\ 25$ [DIAGRAM]
+
+### 2025-11
+A $\textit{tetromino}$ consists of four squares connected along their edges. There are five possible tetromino shapes, $I$, $O$, $L$, $T$, and $S$, shown below, which can be rotated or flipped over. Three tetrominoes are used to completely cover a $3\times4$ rectangle. At least one of the tiles is an $S$ tile. What are the other two tiles? $\textbf{(A)}I$ and $L\qquad \textbf{(B)} I$ and $T\qquad \textbf{(C)} L$ and $L\qquad \textbf{(D)}L$ and $S\qquad \textbf{(E)}O$ and $T$ [DIAGRAM]
+
+### 2025-12
+The region shown below consists of 24 squares, each with side length 1 centimeter. What is the area, in square centimeters, of the largest circle that can fit inside the region, possibly touching the boundaries? $\textbf{(A)}\ 3\pi\qquad \textbf{(B)}\ 4\pi\qquad \textbf{(C)}\ 5\pi\qquad \textbf{(D)}\ 6\pi\qquad \textbf{(E)}\ 8\pi$ [DIAGRAM]
+
+### 2025-13
+Each of the even numbers $2, 4, 6, \ldots, 50$ is divided by $7$. The remainders are recorded. Which histogram displays the number of times each remainder occurs? [DIAGRAM]
+
+### 2025-14
+A number $N$ is inserted into the list $2, 6, 7, 7, 28$. The mean is now twice as great as the median. What is $N$? $\textbf{(A)}\ 7\qquad \textbf{(B)}\ 14\qquad \textbf{(C)}\ 20\qquad \textbf{(D)}\ 28\qquad \textbf{(E)}\ 34$
+
+### 2025-15
+Kei draws a $6$-by-$6$ grid. He colors $13$ of the unit squares silver and the remaining squares gold. Kei then folds the grid in half vertically, forming pairs of overlapping unit squares. Let $m$ and $M$ equal the least and greatest possible number of gold-on-gold pairs, respectively. What is the value of $m+M$? $\textbf{(A)}\ 12\qquad \textbf{(B)}\ 14\qquad \textbf{(C)}\ 16\qquad \textbf{(D)}\ 18 \qquad \textbf{(E)}\ 20$ [DIAGRAM]
+
+### 2025-16
+Five distinct integers from $1$ to $10$ are chosen, and five distinct integers from $11$ to $20$ are chosen. No two numbers differ by exactly $10$. What is the sum of the ten chosen numbers? $\textbf{(A)}\ 95\qquad \textbf{(B)}\ 100\qquad \textbf{(C)}\ 105\qquad \textbf{(D)}\ 110\qquad \textbf{(E)}\ 115$
+
+### 2025-17
+In the land of Markovia, there are three cities: $A$, $B$, and $C$. There are $100$ people who live in $A$, $120$ who live in $B$, and $160$ who live in $C$. Everyone works in one of the three cities, and a person may work in the same city where they live. In the figure below, an arrow pointing from one city to another is labeled with the fraction of people living in the first city who work in the second city. (For example, $\frac{1}{4}$ of the people who live in $A$ work in $B$.) How many people work in $A$? $\textbf{(A)}\ 55\qquad \textbf{(B)}\ 60\qquad \textbf{(C)}\ 85\qquad \textbf{(D)}\ 115\qquad \textbf{(E)}\ 160$ [DIAGRAM]
+
+### 2025-18
+The region between a circle of radius 1 and an inscribed square is shaded. Another circle has radius $R$. A quarter of the region between this second circle and its inscribed square is shaded. If the two shaded regions have the same area, what is the value of $R$? $\textbf{(A)}\ \sqrt2\qquad \textbf{(B)}\ 2\qquad \textbf{(C)}\ 2\sqrt2\qquad \textbf{(D)}\ 4\qquad \textbf{(E)}\ 4\sqrt2$ [DIAGRAM]
+
+### 2025-19
+Two towns, $A$ and $B$, are connected by a straight road, $15$ miles long. Traveling from town $A$ to town $B$, the speed limit changes every $5$ miles: from $25$ to $40$ to $20$ miles per hour (mph). Two cars, one at town $A$ and one at town $B$, start moving toward each other at the same time. They drive at exactly the speed limit in each portion of the road. How far from town $A$, in miles, will the two cars meet? $\textbf{(A)}\ 7.75\qquad \textbf{(B)}\ 8\qquad \textbf{(C)}\ 8.25\qquad \textbf{(D)}\ 8.5\qquad \textbf{(E)}\ 8.75$ [DIAGRAM]
+
+### 2025-20
+Sarika, Dev, and Rajiv are sharing a large block of cheese. They take turns cutting off half of what remains and eating it: first Sarika eats half of the cheese, then Dev eats half of the remaining half, then Rajiv eats half of what remains, then back to Sarika, and so on. They stop when the cheese is too small to see. About what fraction of the original block of cheese does Sarika eat in total? $\textbf{(A)}\ \frac{4}{7}\qquad \textbf{(B)}\ \frac{3}{5}\qquad \textbf{(C)}\ \frac{2}{3}\qquad \textbf{(D)}\ \frac{3}{4}\qquad \textbf{(E)}\ \frac{7}{8}$
+
+### 2025-21
+The Konigsberg School has assigned grades 1 through 7 to pods $A$ through $G$, one grade per pod. Some of the pods are connected by walkways, as shown in the figure below. The school noticed that each pair of connected pods has been assigned grades differing by 2 or more grade levels. (For example, grades 1 and 2 will not be in pods directly connected by a walkway.) What is the sum of the grade levels assigned to pods C, E, and F? $\textbf{(A)}~12\qquad\textbf{(B)}~13\qquad\textbf{(C)}~14\qquad\textbf{(D)}~15\qquad\textbf{(E)}~16$ [DIAGRAM]
+
+### 2025-22
+A classroom has a row of 35 coat hooks. Paulina likes coats to be equally spaced, so that there is the same number of empty hooks before the first coat, after the last coat, and between every coat and the next one. Suppose there is at least 1 coat and at least 1 empty hook. How many different numbers of coats can satisfy Paulina's pattern? $\textbf{(A)}\ 2\qquad \textbf{(B)}\ 4\qquad \textbf{(C)}\ 5\qquad \textbf{(D)}\ 7\qquad \textbf{(E)}\ 9$ [DIAGRAM]
+[DIAGRAM IMAGE: /Users/liyong03/Documents/AMC10/data/amc8/raw/images/2025AMC8Prob22.png]
+
+### 2025-23
+How many four-digit numbers have all three of the following properties? (I) The tens and ones digit are both 9. (II) The number is 1 less than a perfect square. (III) The number is the product of exactly two prime numbers. $\textbf{(A)}\ 0 \qquad \textbf{(B)}\ 1 \qquad \textbf{(C)}\ 2 \qquad \textbf{(D)}\ 3 \qquad \textbf{(E)}\ 4$
+
+### 2025-24
+In trapezoid $ABCD$, angles $B$ and $C$ measure $60^\circ$ and $AB = DC$. The side lengths are all positive integers, and the perimeter of $ABCD$ is $30$ units. How many non-congruent trapezoids satisfy all of these conditions? $\textbf{(A)}\ 0 \qquad \textbf{(B)}\ 1 \qquad \textbf{(C)}\ 2 \qquad \textbf{(D)}\ 3 \qquad \textbf{(E)}\ 4$ [DIAGRAM]
+
+### 2025-25
+Makayla finds all the possible ways to draw a path in a $5 \times 5$ diamond-shaped grid. Each path starts at the bottom of the grid and ends at the top, always moving one unit northeast or northwest. She computes the area of the region between each path and the right side of the grid. Two examples are shown in the figures below. What is the sum of the areas determined by all possible paths? $\textbf{(A)}\ 2520 \qquad \textbf{(B)}\ 3150 \qquad \textbf{(C)}\ 3840 \qquad \textbf{(D)}\ 4730 \qquad \textbf{(E)}\ 5050$ [DIAGRAM]
+
+### 2024-01
+What is the ones digit of \[222{,}222-22{,}222-2{,}222-222-22-2=?\] $\textbf{(A) } 0\qquad\textbf{(B) } 2\qquad\textbf{(C) } 4\qquad\textbf{(D) } 6\qquad\textbf{(E) } 8$
+
+### 2024-02
+What is the value of this expression in decimal form? \[\frac{44}{11} + \frac{110}{44} + \frac{44}{1100}\] $\textbf{(A) } 6.4\qquad\textbf{(B) } 6.504\qquad\textbf{(C) } 6.54\qquad\textbf{(D) } 6.9\qquad\textbf{(E) } 6.94$
+
+### 2024-03
+Four squares of side length $4, 7, 9,$ and $10$ are arranged in increasing size order so that their left edges and bottom edges align. The squares alternate in color white-gray-white-gray, respectively, as shown in the figure. What is the area of the visible gray region in square units? $\textbf{(A)}\ 42 \qquad \textbf{(B)}\ 45\qquad \textbf{(C)}\ 49\qquad \textbf{(D)}\ 50\qquad \textbf{(E)}\ 52$ [DIAGRAM]
+
+### 2024-04
+When Yunji added all the integers from $1$ to $9$, she mistakenly left out a number. Her incorrect sum turned out to be a square number. What number did Yunji leave out? $\textbf{(A) } 5\qquad\textbf{(B) } 6\qquad\textbf{(C) } 7\qquad\textbf{(D) } 8\qquad\textbf{(E) } 9$
+
+### 2024-05
+Aaliyah rolls 2 standard 6-sided dice. She notices that the product of the two numbers rolled is a multiple of $6$. Which of the following integers cannot be the sum of the two numbers rolled? $\textbf{(A) } 5\qquad\textbf{(B) } 6\qquad\textbf{(C) } 7\qquad\textbf{(D) } 8\qquad\textbf{(E) } 9$
+
+### 2024-06
+Sergei skated around an ice rink, gliding along different paths. The gray lines in the figures below show four of the paths labeled $P$, $Q$, $R$, and $S$. What is the sorted order of the four paths from shortest to longest? $\textbf{(A)}\ P,Q,R,S \qquad \textbf{(B)}\ P,R,S,Q \qquad \textbf{(C)}\ Q,S,P,R \qquad \textbf{(D)}\ R,P,S,Q \qquad \textbf{(E)}\ R,S,P,Q$ [DIAGRAM]
+[DIAGRAM IMAGE: /Users/liyong03/Documents/AMC10/data/amc8/raw/images/500px-2024_AMC_8-Problem_6.png]
+
+### 2024-07
+A $3\times 7$ rectangle is covered without overlap by 3 shapes of tiles: $2\times 2$, $1\times 4$, and $1\times 1$, shown below. What is the minimum possible number of $1\times 1$ tiles used? $\textbf{(A) } 1\qquad\textbf{(B) } 2\qquad\textbf{(C) } 3\qquad\textbf{(D) } 4\qquad\textbf{(E) } 5$ [DIAGRAM]
+[DIAGRAM IMAGE: /Users/liyong03/Documents/AMC10/data/amc8/raw/images/2024-AMC8-q7.png]
+
+### 2024-08
+On Monday, Taye has $\$2$. Every day, he either gains $\$3$ or doubles the amount of money he had on the previous day. How many different dollar amounts could Taye have on Thursday, $3$ days later? $\textbf{(A) } 3\qquad\textbf{(B) } 4\qquad\textbf{(C) } 5\qquad\textbf{(D) } 6\qquad\textbf{(E) } 7$
+
+### 2024-09
+All the marbles in Maria's collection are red, green, or blue. Maria has half as many red marbles as green marbles and twice as many blue marbles as green marbles. Which of the following could be the total number of marbles in Maria's collection? $\textbf{(A) } 24\qquad\textbf{(B) } 25\qquad\textbf{(C) } 26\qquad\textbf{(D) } 27\qquad\textbf{(E) } 28$
+
+### 2024-10
+In January 1980 the Moana Loa Observation recorded carbon dioxide $(CO_2)$ levels of 338 ppm (parts per million). Over the years the average $CO_2$ reading has increased by about 1.515 ppm each year. What is the expected $CO_2$ level in ppm in January 2030? Round your answer to the nearest integer. $\textbf{(A)}\ 399 \qquad \textbf{(B)}\ 414 \qquad \textbf{(C)}\ 420 \qquad \textbf{(D)}\ 444 \qquad \textbf{(E)}\ 459$
+
+### 2024-11
+The coordinates of $\triangle ABC$ are $A(5,7)$, $B(11,7)$, and $C(3,y)$, with $y>7$. The area of $\triangle ABC$ is 12. What is the value of $y$? $\textbf{(A) }8\qquad\textbf{(B) }9\qquad\textbf{(C) }10\qquad\textbf{(D) }11\qquad \textbf{(E) }12$ [DIAGRAM]
+
+### 2024-12
+Rohan keeps a total of $90$ guppies in $4$ fish tanks. There is $1$ more guppy in the $2$nd tank than the $1$st tank. There are $2$ more guppies in the 3rd tank than the $2$nd tank. There are $3$ more guppies in the 4th tank than the $3$rd tank. How many guppies are in the $4$th tank? $\textbf{(A)}\ 20 \qquad \textbf{(B)}\ 21 \qquad \textbf{(C)}\ 23 \qquad \textbf{(D)}\ 24 \qquad \textbf{(E)}\ 26$
+
+### 2024-13
+Buzz Bunny is hopping up and down a set of stairs, one step at a time. In how many ways can Buzz Bunny start on the ground, make a sequence of $6$ hops, and end up back on the ground? (For example, one sequence of hops is up-up-down-down-up-down.) $\textbf{(A)}\ 4 \qquad \textbf{(B)}\ 5 \qquad \textbf{(C)}\ 6 \qquad \textbf{(D)}\ 8 \qquad \textbf{(E)}\ 12$ [DIAGRAM]
+
+### 2024-14
+What is the distance of the shortest route from A to Z? $\textbf{(A)}\ 28 \qquad \textbf{(B)}\ 29 \qquad \textbf{(C)}\ 30 \qquad \textbf{(D)}\ 31 \qquad \textbf{(E)}\ 32$ [DIAGRAM]
+
+### 2024-15
+Let the letters $F,L,Y,B,U,G$ represent distinct digits. Suppose $\underline{F}~\underline{L}~\underline{Y}~\underline{F}~\underline{L}~\underline{Y}$ is the GREATEST number that satisfies the equation \[8\cdot\underline{F}~\underline{L}~\underline{Y}~\underline{F}~\underline{L}~\underline{Y}=\underline{B}~\underline{U}~\underline{G}~\underline{B}~\underline{U}~\underline{G}.\] What is the value of $\underline{F}~\underline{L}~\underline{Y}+\underline{B}~\underline{U}~\underline{G}$? $\textbf{(A)}\ 1089 \qquad \textbf{(B)}\ 1098 \qquad \textbf{(C)}\ 1107 \qquad \textbf{(D)}\ 1116 \qquad \textbf{(E)}\ 1125$
+
+### 2024-16
+Minh enters the numbers $1$ through $81$ into the cells of a $9 \times 9$ grid in some order. She calculates the product of the numbers in each row and column. What is the least number of rows and columns that could have a product divisible by $3$? $\textbf{(A) } 8\qquad\textbf{(B) } 9\qquad\textbf{(C) } 10\qquad\textbf{(D) } 11\qquad\textbf{(E) } 12$
+
+### 2024-17
+A chess king is said to attack all squares one step away from it (basically any square right next to it in any direction), horizontally, vertically, or diagonally. For instance, a king on the center square of a 3 x 3 grid attacks all 8 other squares, as shown below. Suppose a white king and a black king are placed on different squares of 3 x 3 grid so that they do not attack each other. In how many ways can this be done? $\textbf{(A)}\ 20 \qquad \textbf{(B)}\ 24 \qquad \textbf{(C)}\ 27 \qquad \textbf{(D)}\ 28 \qquad \textbf{(E)}\ 32$ [DIAGRAM]
+
+### 2024-18
+Three concentric circles centered at $O$ have radii of $1$, $2$, and $3$. Points $B$ and $C$ lie on the largest circle. The region between the two smaller circles is shaded, as is the portion of the region between the two larger circles bounded by central angles $BOC$, as shown in the figure below. Suppose the shaded and unshaded regions are equal in area. What is the measure of $\angle{BOC}$ in degrees? $\textbf{(A) } 108\qquad\textbf{(B) } 120\qquad\textbf{(C) } 135\qquad\textbf{(D) } 144\qquad\textbf{(E) } 150$ [DIAGRAM]
+
+### 2024-19
+Jordan owns 15 pairs of sneakers. Three fifths of the pairs are red and the rest are white. Two thirds of the pairs are high-top and the rest are low-top. The red high-top sneakers make up a fraction of the collection. What is the least possible value of this fraction? $\textbf{(A) } 0\qquad\textbf{(B) } \dfrac{1}{5} \qquad\textbf{(C) } \dfrac{4}{15} \qquad\textbf{(D) } \dfrac{1}{3} \qquad\textbf{(E) } \dfrac{2}{5}$ [DIAGRAM]
+[DIAGRAM IMAGE: /Users/liyong03/Documents/AMC10/data/amc8/raw/images/500px-2024-amc-8-q19.png]
+
+### 2024-20
+Any three vertices of the cube $PQRSTUVW,$ shown in the figure below, can be connected to form a triangle. $($For example, vertices $P, Q,$ and $R$ can be connected to form $\triangle{PQR}.)$ How many of these triangles are equilateral and contain $P$ as a vertex? $\textbf{(A) }0\qquad\textbf{(B) }1\qquad\textbf{(C) }2\qquad\textbf{(D) }3\qquad\textbf{(E) }6$ [DIAGRAM]
+
+### 2024-21
+A group of frogs (called an army) is living in a tree. A frog turns green when in the shade and turns yellow when in the sun. Initially, the ratio of green to yellow frogs was $3 : 1$. Then $3$ green frogs moved to the sunny side and $5$ yellow frogs moved to the shady side. Now the ratio is $4 : 1$. What is the difference between the number of green frogs and the number of yellow frogs now? $\textbf{(A) } 10\qquad\textbf{(B) } 12\qquad\textbf{(C) } 16\qquad\textbf{(D) } 20\qquad\textbf{(E) } 24$
+
+### 2024-22
+A roll of tape is $4$ inches in diameter and is wrapped around a ring that is $2$ inches in diameter. A cross section of the tape is shown in the figure below. The tape is $0.015$ inches thick. If the tape is completely unrolled, approximately how long would it be? Round your answer to the nearest $100$ inches. $\textbf{(A) } 300\qquad\textbf{(B) } 600\qquad\textbf{(C) } 1200\qquad\textbf{(D) } 1500\qquad\textbf{(E) } 1800$ [DIAGRAM]
+
+### 2024-23
+Rodrigo has a very large sheet of graph paper. First he draws a line segment connecting point $(0,4)$ to point $(2,0)$ and colors the $4$ cells whose interiors intersect the segment, as shown below. Next Rodrigo draws a line segment connecting point $(2000,3000)$ to point $(5000,8000)$. How many cells will he color this time? $\textbf{(A) }6000\qquad\textbf{(B) }6500\qquad\textbf{(C) }7000\qquad\textbf{(D) }7500\qquad\textbf{(E) }8000$ [DIAGRAM]
+
+### 2024-24
+Jean has made a piece of stained glass art in the shape of two mountains, as shown in the figure below. One mountain peak is $8$ feet high while the other peak is $12$ feet high. Each peak forms a $90^\circ$ angle, and the straight sides form a $45^\circ$ angle with the ground. The artwork has an area of $183$ square feet. The sides of the mountain meet at an intersection point near the center of the artwork, $h$ feet above the ground. What is the value of $h?$ $\textbf{(A)}\ 4 \qquad \textbf{(B)}\ 5 \qquad \textbf{(C)}\ 4\sqrt{2} \qquad \textbf{(D)}\ 6 \qquad \textbf{(E)}\ 5\sqrt{2}$ [DIAGRAM]
+
+### 2024-25
+An airplane has $4$ rows of seats with $3$ seats in each row. Eight passengers have boarded the plane and are distributed randomly among the seats. A married couple is next to board. What is the probability there will be $2$ adjacent seats in the same row for the couple? $\textbf{(A)}\ \dfrac{8}{15} \qquad \textbf{(B)}\ \dfrac{32}{55} \qquad \textbf{(C)}\ \dfrac{20}{33} \qquad \textbf{(D)}\ \dfrac{34}{55} \qquad \textbf{(E)}\ \dfrac{8}{11}$ [DIAGRAM]
+
+### 2023-01
+What is the value of $(8 \times 4 + 2) - (8 + 4 \times 2)$? $\textbf{(A)}\ 0 \qquad \textbf{(B)}\ 6 \qquad \textbf{(C)}\ 10 \qquad \textbf{(D)}\ 18 \qquad \textbf{(E)}\ 24$
+
+### 2023-02
+A square piece of paper is folded twice into four equal quarters, as shown below, then cut along the dashed line. When unfolded, the paper will match which of the following figures? [DIAGRAM]
+
+### 2023-03
+Wind chill is a measure of how cold people feel when exposed to wind outside. A good estimate for wind chill can be found using this calculation \[(\text{wind chill}) = (\text{air temperature}) - 0.7 \times (\text{wind speed}),\] where temperature is measured in degrees Fahrenheit $(^{\circ}\text{F})$ and the wind speed is measured in miles per hour (mph). Suppose the air temperature is $36^{\circ}\text{F}$ and the wind speed is $18$ mph. Which of the following is closest to the approximate wind chill? $\textbf{(A)}\ 18 \qquad \textbf{(B)}\ 23 \qquad \textbf{(C)}\ 28 \qquad \textbf{(D)}\ 32 \qquad \textbf{(E)}\ 35$
+
+### 2023-04
+The numbers from $1$ to $49$ are arranged in a spiral pattern on a square grid, beginning at the center. The first few numbers have been entered into the grid below. Consider the four numbers that will appear in the shaded squares, on the same diagonal as the number $7.$ How many of these four numbers are prime? $\textbf{(A)}\ 0 \qquad \textbf{(B)}\ 1 \qquad \textbf{(C)}\ 2 \qquad \textbf{(D)}\ 3 \qquad \textbf{(E)}\ 4$ [DIAGRAM]
+
+### 2023-05
+A lake contains $250$ trout, along with a variety of other fish. When a marine biologist catches and releases a sample of $180$ fish from the lake, $30$ are identified as trout. Assume that the ratio of trout to the total number of fish is the same in both the sample and the lake. How many fish are there in the lake? $\textbf{(A)}\ 1250 \qquad \textbf{(B)}\ 1500 \qquad \textbf{(C)}\ 1750 \qquad \textbf{(D)}\ 1800 \qquad \textbf{(E)}\ 2000$
+
+### 2023-06
+The digits $2, 0, 2,$ and $3$ are placed in the expression below, one digit per box. What is the maximum possible value of the expression? $\textbf{(A)}\ 0 \qquad \textbf{(B)}\ 8 \qquad \textbf{(C)}\ 9 \qquad \textbf{(D)}\ 16 \qquad \textbf{(E)}\ 18$ [DIAGRAM]
+
+### 2023-07
+A rectangle, with sides parallel to the $x$-axis and $y$-axis, has opposite vertices located at $(15, 3)$ and $(16, 5)$. A line is drawn through points $A(0, 0)$ and $B(3, 1)$. Another line is drawn through points $C(0, 10)$ and $D(2, 9)$. How many points on the rectangle lie on at least one of the two lines? $\textbf{(A)}\ 0 \qquad \textbf{(B)}\ 1 \qquad \textbf{(C)}\ 2 \qquad \textbf{(D)}\ 3 \qquad \textbf{(E)}\ 4$ [DIAGRAM]
+
+### 2023-08
+Lola, Lolo, Tiya, and Tiyo participated in a ping pong tournament. Each player competed against each of the other three players exactly twice. Shown below are the win-loss records for the players. The numbers $1$ and $0$ represent a win or loss, respectively. For example, Lola won five matches and lost the fourth match. What was Tiyo’s win-loss record? \[\begin{tabular}{c | c} Player & Result \\ \hline Lola & \texttt{111011}\\ Lolo & \texttt{101010}\\ Tiya & \texttt{010100}\\ Tiyo & \texttt{??????} \end{tabular}\] $\textbf{(A)}\ \texttt{000101} \qquad \textbf{(B)}\ \texttt{001001} \qquad \textbf{(C)}\ \texttt{010000} \qquad \textbf{(D)}\ \texttt{010101} \qquad \textbf{(E)}\ \texttt{011000}$
+
+### 2023-09
+Malaika is skiing on a mountain. The graph below shows her elevation, in meters, above the base of the mountain as she skis along a trail. In total, how many seconds does she spend at an elevation between $4$ and $7$ meters? $\textbf{(A)}\ 6 \qquad \textbf{(B)}\ 8 \qquad \textbf{(C)}\ 10 \qquad \textbf{(D)}\ 12 \qquad \textbf{(E)}\ 14$ [DIAGRAM]
+
+### 2023-10
+Harold made a plum pie to take on a picnic. He was able to eat only $\frac{1}{4}$ of the pie, and he left the rest for his friends. A moose came by and ate $\frac{1}{3}$ of what Harold left behind. After that, a porcupine ate $\frac{1}{3}$ of what the moose left behind. How much of the original pie still remained after the porcupine left? $\textbf{(A)}\ \frac{1}{12} \qquad \textbf{(B)}\ \frac{1}{6} \qquad \textbf{(C)}\ \frac{1}{4} \qquad \textbf{(D)}\ \frac{1}{3} \qquad \textbf{(E)}\ \frac{5}{12}$
+
+### 2023-11
+NASA’s Perseverance Rover was launched on July $30,$ $2020.$ After traveling $292{,}526{,}838$ miles, it landed on Mars in Jezero Crater about $6.5$ months later. Which of the following is closest to the Rover’s average interplanetary speed in miles per hour? $\textbf{(A)}\ 6{,}000 \qquad \textbf{(B)}\ 12{,}000 \qquad \textbf{(C)}\ 60{,}000 \qquad \textbf{(D)}\ 120{,}000 \qquad \textbf{(E)}\ 600{,}000$
+
+### 2023-12
+The figure below shows a large white circle with a number of smaller white and shaded circles in its interior. What fraction of the interior of the large white circle is shaded? $\textbf{(A)}\ \frac{1}{4} \qquad \textbf{(B)}\ \frac{11}{36} \qquad \textbf{(C)}\ \frac{1}{3} \qquad \textbf{(D)}\ \frac{19}{36} \qquad \textbf{(E)}\ \frac{5}{9}$ [DIAGRAM]
+
+### 2023-13
+Along the route of a bicycle race, $7$ water stations are evenly spaced between the start and finish lines, as shown in the figure below. There are also $2$ repair stations evenly spaced between the start and finish lines. The $3$rd water station is located $2$ miles after the $1$st repair station. How long is the race in miles? $\textbf{(A)}\ 8 \qquad \textbf{(B)}\ 16 \qquad \textbf{(C)}\ 24 \qquad \textbf{(D)}\ 48 \qquad \textbf{(E)}\ 96$ [DIAGRAM]
+
+### 2023-14
+Nicolas is planning to send a package to his friend Anton, who is a stamp collector. To pay for the postage, Nicolas would like to cover the package with a large number of stamps. Suppose he has a collection of $5$-cent, $10$-cent, and $25$-cent stamps, with exactly $20$ of each type. What is the greatest number of stamps Nicolas can use to make exactly $\$7.10$ in postage? (Note: The amount $\$7.10$ corresponds to $7$ dollars and $10$ cents. One dollar is worth $100$ cents.) $\textbf{(A)}\ 45 \qquad \textbf{(B)}\ 46 \qquad \textbf{(C)}\ 51 \qquad \textbf{(D)}\ 54\qquad \textbf{(E)}\ 55$
+
+### 2023-15
+Viswam walks half a mile to get to school each day. His route consists of $10$ city blocks of equal length and he takes $1$ minute to walk each block. Today, after walking $5$ blocks, Viswam discovers he has to make a detour, walking $3$ blocks of equal length instead of $1$ block to reach the next corner. From the time he starts his detour, at what speed, in mph, must he walk, in order to get to school at his usual time? $\textbf{(A)}\ 4 \qquad \textbf{(B)}\ 4.2 \qquad \textbf{(C)}\ 4.5 \qquad \textbf{(D)}\ 4.8 \qquad \textbf{(E)}\ 5$ [DIAGRAM]
+
+### 2023-16
+The letters $\text{P}, \text{Q},$ and $\text{R}$ are entered into a $20\times20$ table according to the pattern shown below. How many $\text{P}$s, $\text{Q}$s, and $\text{R}$s will appear in the completed table? $\textbf{(A)}~132\text{ Ps, }134\text{ Qs, }134\text{ Rs}$ $\textbf{(B)}~133\text{ Ps, }133\text{ Qs, }134\text{ Rs}$ $\textbf{(C)}~133\text{ Ps, }134\text{ Qs, }133\text{ Rs}$ $\textbf{(D)}~134\text{ Ps, }132\text{ Qs, }134\text{ Rs}$ $\textbf{(E)}~134\text{ Ps, }133\text{ Qs, }133\text{ Rs}$ [DIAGRAM]
+
+### 2023-17
+A regular octahedron has eight equilateral triangle faces with four faces meeting at each vertex. Jun will make the regular octahedron shown on the right by folding the piece of paper shown on the left. Which numbered face will end up to the right of $Q$? $\textbf{(A)}\ 1 \qquad \textbf{(B)}\ 2 \qquad \textbf{(C)}\ 3 \qquad \textbf{(D)}\ 4 \qquad \textbf{(E)}\ 5$ [DIAGRAM]
+
+### 2023-18
+Greta Grasshopper sits on a long line of lily pads in a pond. From any lily pad, Greta can jump $5$ pads to the right or $3$ pads to the left. What is the fewest number of jumps Greta must make to reach the lily pad located $2023$ pads to the right of her starting point? $\textbf{(A)}\ 405 \qquad \textbf{(B)}\ 407 \qquad \textbf{(C)}\ 409 \qquad \textbf{(D)}\ 411 \qquad \textbf{(E)}\ 413$
+
+### 2023-19
+An equilateral triangle is placed inside a larger equilateral triangle so that the region between them can be divided into three congruent trapezoids, as shown below. The side length of the inner triangle is $\frac23$ the side length of the larger triangle. What is the ratio of the area of one trapezoid to the area of the inner triangle? $\textbf{(A) } 1 : 3 \qquad \textbf{(B) } 3 : 8 \qquad \textbf{(C) } 5 : 12 \qquad \textbf{(D) } 7 : 16 \qquad \textbf{(E) } 4 : 9$ [DIAGRAM]
+
+### 2023-20
+Two integers are inserted into the list $3,3,8,11,28$ to double its range. The mode and median remain unchanged. What is the maximum possible sum of the two additional numbers? $\textbf{(A)}\ 56 \qquad \textbf{(B)}\ 57 \qquad \textbf{(C)}\ 58 \qquad \textbf{(D)}\ 60 \qquad \textbf{(E)}\ 61$
+
+### 2023-21
+Alina writes the numbers $1, 2, \dots , 9$ on separate cards, one number per card. She wishes to divide the cards into $3$ groups of $3$ cards so that the sum of the numbers in each group will be the same. In how many ways can this be done? $\textbf{(A)}\ 0 \qquad \textbf{(B)}\ 1 \qquad \textbf{(C)}\ 2 \qquad \textbf{(D)}\ 3 \qquad \textbf{(E)}\ 4$
+
+### 2023-22
+In a sequence of positive integers, each term after the second is the product of the previous two terms. The sixth term is $4000$. What is the first term? $\textbf{(A)}\ 1 \qquad \textbf{(B)}\ 2 \qquad \textbf{(C)}\ 4 \qquad \textbf{(D)}\ 5 \qquad \textbf{(E)}\ 10$
+
+### 2023-23
+Each square in a $3 \times 3$ grid is randomly filled with one of the $4$ gray and white tiles shown below on the right. What is the probability that the tiling will contain a large gray diamond in one of the smaller $2 \times 2$ grids? Below is an example of such tiling. $\textbf{(A) } \frac{1}{1024} \qquad \textbf{(B) } \frac{1}{256} \qquad \textbf{(C) } \frac{1}{64} \qquad \textbf{(D) } \frac{1}{16} \qquad \textbf{(E) } \frac{1}{4}$ [DIAGRAM]
+
+### 2023-24
+Isosceles triangle $ABC$ has equal side lengths $AB$ and $BC$. In the figures below, segments are drawn parallel to $\overline{AC}$ so that the shaded portions of $\triangle ABC$ have the same area. The heights of the two unshaded portions are 11 and 5 units, respectively. What is the height $h$ of $\triangle ABC$? $\textbf{(A)}\ 14.6 \qquad \textbf{(B)}\ 14.8 \qquad \textbf{(C)}\ 15 \qquad \textbf{(D)}\ 15.2 \qquad \textbf{(E)}\ 15.4$ [DIAGRAM]
+
+### 2023-25
+Fifteen integers $a_1, a_2, a_3, \dots, a_{15}$ are arranged in order on a number line. The integers are equally spaced and have the property that \[1 \le a_1 \le 10, \thickspace 13 \le a_2 \le 20, \thickspace \text{ and } \thickspace 241 \le a_{15}\le 250.\] What is the sum of digits of $a_{14}?$ $\textbf{(A)}\ 8 \qquad \textbf{(B)}\ 9 \qquad \textbf{(C)}\ 10 \qquad \textbf{(D)}\ 11 \qquad \textbf{(E)}\ 12$
+
+### 2022-01
+The Math Team designed a logo shaped like a multiplication symbol, shown below on a grid of 1-inch squares. What is the area of the logo in square inches? $\textbf{(A) } 10 \qquad \textbf{(B) } 12 \qquad \textbf{(C) } 13 \qquad \textbf{(D) } 14 \qquad \textbf{(E) } 15$ [DIAGRAM]
+
+### 2022-02
+Consider these two operations: \begin{align*} a \, \blacklozenge \, b &= a^2 - b^2\\ a \, \bigstar \, b &= (a - b)^2 \end{align*} What is the value of $(5 \, \blacklozenge \, 3) \, \bigstar \, 6?$ $\textbf{(A) } {-}20 \qquad \textbf{(B) } 4 \qquad \textbf{(C) } 16 \qquad \textbf{(D) } 100 \qquad \textbf{(E) } 220$
+
+### 2022-03
+When three positive integers $a$, $b$, and $c$ are multiplied together, their product is $100$. Suppose $a < b < c$. In how many ways can the numbers be chosen? $\textbf{(A) } 0 \qquad \textbf{(B) } 1\qquad\textbf{(C) } 2\qquad\textbf{(D) } 3\qquad\textbf{(E) } 4$
+
+### 2022-04
+The letter M in the figure below is first reflected over the line $q$ and then reflected over the line $p$. What is the resulting image? [DIAGRAM]
+
+### 2022-05
+Anna and Bella are celebrating their birthdays together. Five years ago, when Bella turned $6$ years old, she received a newborn kitten as a birthday present. Today the sum of the ages of the two children and the kitten is $30$ years. How many years older than Bella is Anna? $\textbf{(A) } 1 \qquad \textbf{(B) } 2 \qquad \textbf{(C) } 3 \qquad \textbf{(D) } 4 \qquad \textbf{(E) } ~5$
+
+### 2022-06
+Three positive integers are equally spaced on a number line. The middle number is $15,$ and the largest number is $4$ times the smallest number. What is the smallest of these three numbers? $\textbf{(A) } 4 \qquad \textbf{(B) } 5 \qquad \textbf{(C) } 6 \qquad \textbf{(D) } 7 \qquad \textbf{(E) } 8$
+
+### 2022-07
+When the World Wide Web first became popular in the $1990$s, download speeds reached a maximum of about $56$ kilobits per second. Approximately how many minutes would the download of a $4.2$-megabyte song have taken at that speed? (Note that there are $8000$ kilobits in a megabyte.) $\textbf{(A) } 0.6 \qquad \textbf{(B) } 10 \qquad \textbf{(C) } 1800 \qquad \textbf{(D) } 7200 \qquad \textbf{(E) } 36000$
+
+### 2022-08
+What is the value of \[\frac{1}{3}\cdot\frac{2}{4}\cdot\frac{3}{5}\cdots\frac{18}{20}\cdot\frac{19}{21}\cdot\frac{20}{22}?\] $\textbf{(A) } \frac{1}{462} \qquad \textbf{(B) } \frac{1}{231} \qquad \textbf{(C) } \frac{1}{132} \qquad \textbf{(D) } \frac{2}{213} \qquad \textbf{(E) } \frac{1}{22}$
+
+### 2022-09
+A cup of boiling water ($212^{\circ}\text{F}$) is placed to cool in a room whose temperature remains constant at $68^{\circ}\text{F}$. Suppose the difference between the water temperature and the room temperature is halved every $5$ minutes. What is the water temperature, in degrees Fahrenheit, after $15$ minutes? $\textbf{(A)} ~77\qquad\textbf{(B)} ~86\qquad\textbf{(C)} ~92\qquad\textbf{(D)} ~98\qquad\textbf{(E)} ~104$
+
+### 2022-10
+One sunny day, Ling decided to take a hike in the mountains. She left her house at $8 \, \textsc{am}$, drove at a constant speed of $45$ miles per hour, and arrived at the hiking trail at $10 \, \textsc{am}$. After hiking for $3$ hours, Ling drove home at a constant speed of $60$ miles per hour. Which of the following graphs best illustrates the distance between Ling’s car and her house over the course of her trip? [DIAGRAM]
+
+### 2022-11
+Henry the donkey has a very long piece of pasta. He takes a number of bites of pasta, each time eating $3$ inches of pasta from the middle of one piece. In the end, he has $10$ pieces of pasta whose total length is $17$ inches. How long, in inches, was the piece of pasta he started with? $\textbf{(A)} ~34\qquad\textbf{(B)} ~38\qquad\textbf{(C)} ~41\qquad\textbf{(D)} ~44\qquad\textbf{(E)} ~47$
+
+### 2022-12
+The arrows on the two spinners shown below are spun. Let the number $N$ equal $10$ times the number on Spinner $\text{A}$, added to the number on Spinner $\text{B}$. What is the probability that $N$ is a perfect square number? $\textbf{(A)} ~\dfrac{1}{16}\qquad\textbf{(B)} ~\dfrac{1}{8}\qquad\textbf{(C)} ~\dfrac{1}{4}\qquad\textbf{(D)} ~\dfrac{3}{8}\qquad\textbf{(E)} ~\dfrac{1}{2}$ [DIAGRAM]
+
+### 2022-13
+How many positive integers can fill the blank in the sentence below? “One positive integer is _____ more than twice another, and the sum of the two numbers is $28$.” $\textbf{(A) } 6 \qquad \textbf{(B) } 7 \qquad \textbf{(C) } 8 \qquad \textbf{(D) } 9 \qquad \textbf{(E) } 10$
+
+### 2022-14
+In how many ways can the letters in $\textbf{BEEKEEPER}$ be rearranged so that two or more $\textbf{E}$s do not appear together? $\textbf{(A) } 1 \qquad \textbf{(B) } 4 \qquad \textbf{(C) } 12 \qquad \textbf{(D) } 24 \qquad \textbf{(E) } 120$
+
+### 2022-15
+Laszlo went online to shop for black pepper and found thirty different black pepper options varying in weight and price, shown in the scatter plot below. In ounces, what is the weight of the pepper that offers the lowest price per ounce? $\textbf{(A) }1\qquad\textbf{(B) }2\qquad\textbf{(C) }3\qquad\textbf{(D) }4\qquad\textbf{(E) }5$ [DIAGRAM]
+
+### 2022-16
+Four numbers are written in a row. The average of the first two is $21,$ the average of the middle two is $26,$ and the average of the last two is $30.$ What is the average of the first and last of the numbers? $\textbf{(A) } 24 \qquad \textbf{(B) } 25 \qquad \textbf{(C) } 26 \qquad \textbf{(D) } 27 \qquad \textbf{(E) } 28$
+
+### 2022-17
+If $n$ is an even positive integer, the $\emph{double factorial}$ notation $n!!$ represents the product of all the even integers from $2$ to $n$. For example, $8!! = 2 \cdot 4 \cdot 6 \cdot 8$. What is the units digit of the following sum? \[2!! + 4!! + 6!! + \cdots + 2018!! + 2020!! + 2022!!\] $\textbf{(A)} ~0\qquad\textbf{(B)} ~2\qquad\textbf{(C)} ~4\qquad\textbf{(D)} ~6\qquad\textbf{(E)} ~8$
+
+### 2022-18
+The midpoints of the four sides of a rectangle are $(-3,0), (2,0), (5,4),$ and $(0,4).$ What is the area of the rectangle? $\textbf{(A) } 20 \qquad \textbf{(B) } 25 \qquad \textbf{(C) } 40 \qquad \textbf{(D) } 50 \qquad \textbf{(E) } 80$
+
+### 2022-19
+Mr. Ramos gave a test to his class of $20$ students. The dot plot below shows the distribution of test scores. Later Mr. Ramos discovered that there was a scoring error on one of the questions. He regraded the tests, awarding some of the students $5$ extra points, which increased the median test score to $85$. What is the minimum number of students who received extra points? (Note that the median test score equals the average of the $2$ scores in the middle if the $20$ test scores are arranged in increasing order.) $\textbf{(A)} ~2\qquad\textbf{(B)} ~3\qquad\textbf{(C)} ~4\qquad\textbf{(D)} ~5\qquad\textbf{(E)} ~6\qquad$ [DIAGRAM]
+
+### 2022-20
+The grid below is to be filled with integers in such a way that the sum of the numbers in each row and the sum of the numbers in each column are the same. Four numbers are missing. The number $x$ in the lower left corner is larger than the other three missing numbers. What is the smallest possible value of $x$? $\textbf{(A) } {-}1 \qquad \textbf{(B) } 5 \qquad \textbf{(C) } 6 \qquad \textbf{(D) } 8 \qquad \textbf{(E) } 9$ [DIAGRAM]
+
+### 2022-21
+Steph scored $15$ baskets out of $20$ attempts in the first half of a game, and $10$ baskets out of $10$ attempts in the second half. Candace took $12$ attempts in the first half and $18$ attempts in the second. In each half, Steph scored a higher percentage of baskets than Candace. Surprisingly they ended with the same overall percentage of baskets scored. How many more baskets did Candace score in the second half than in the first? $\textbf{(A) } 7\qquad\textbf{(B) } 8\qquad\textbf{(C) } 9\qquad\textbf{(D) } 10\qquad\textbf{(E) } 11$ [DIAGRAM]
+
+### 2022-22
+A bus takes $2$ minutes to drive from one stop to the next, and waits $1$ minute at each stop to let passengers board. Zia takes $5$ minutes to walk from one bus stop to the next. As Zia reaches a bus stop, if the bus is at the previous stop or has already left the previous stop, then she will wait for the bus. Otherwise she will start walking toward the next stop. Suppose the bus and Zia start at the same time toward the library, with the bus $3$ stops behind. After how many minutes will Zia board the bus? $\textbf{(A) } 17 \qquad \textbf{(B) } 19 \qquad \textbf{(C) } 20 \qquad \textbf{(D) } 21 \qquad \textbf{(E) } 23$ [DIAGRAM]
+[DIAGRAM IMAGE: /Users/liyong03/Documents/AMC10/data/amc8/raw/images/750px-2022_AMC_8_Problem_22_Diagram.png]
+
+### 2022-23
+A $\triangle$ or $\bigcirc$ is placed in each of the nine squares in a $3$-by-$3$ grid. Shown below is a sample configuration with three $\triangle$s in a line. How many configurations will have three $\triangle$s in a line and three $\bigcirc$s in a line? $\textbf{(A) } 39 \qquad \textbf{(B) } 42 \qquad \textbf{(C) } 78 \qquad \textbf{(D) } 84 \qquad \textbf{(E) } 96$ [DIAGRAM]
+
+### 2022-24
+The figure below shows a polygon $ABCDEFGH$, consisting of rectangles and right triangles. When cut out and folded on the dotted lines, the polygon forms a triangular prism. Suppose that $AH = EF = 8$ and $GH = 14$. What is the volume of the prism? $\textbf{(A)} ~112\qquad\textbf{(B)} ~128\qquad\textbf{(C)} ~192\qquad\textbf{(D)} ~240\qquad\textbf{(E)} ~288$ [DIAGRAM]
+
+### 2022-25
+A cricket randomly hops between $4$ leaves, on each turn hopping to one of the other $3$ leaves with equal probability. After $4$ hops, what is the probability that the cricket has returned to the leaf where it started? $\textbf{(A) }\frac{2}{9}\qquad\textbf{(B) }\frac{19}{80}\qquad\textbf{(C) }\frac{20}{81}\qquad\textbf{(D) }\frac{1}{4}\qquad\textbf{(E) }\frac{7}{27}$ [DIAGRAM]
+[DIAGRAM IMAGE: /Users/liyong03/Documents/AMC10/data/amc8/raw/images/600px-2022_AMC_8_Problem_25_Picture.jpg]
+
+### 2020-01
+Luka is making lemonade to sell at a school fundraiser. His recipe requires $4$ times as much water as sugar and twice as much sugar as lemon juice. He uses $3$ cups of lemon juice. How many cups of water does he need? $\textbf{(A) } 6\qquad\textbf{(B) } 8\qquad\textbf{(C) } 12\qquad\textbf{(D) } 18\qquad\textbf{(E) } 24\qquad$
+
+### 2020-02
+Four friends do yardwork for their neighbors over the weekend, earning $\$15, \$20, \$25,$ and $\$40,$ respectively. They decide to split their earnings equally among themselves. In total, how much will the friend who earned $\$40$ give to the others? $\textbf{(A) }\$5 \qquad \textbf{(B) }\$10 \qquad \textbf{(C) }\$15 \qquad \textbf{(D) }\$20 \qquad \textbf{(E) }\$25$
+
+### 2020-03
+Carrie has a rectangular garden that measures $6$ feet by $8$ feet. She plants the entire garden with strawberry plants. Carrie is able to plant $4$ strawberry plants per square foot, and she harvests an average of $10$ strawberries per plant. How many strawberries can she expect to harvest? $\textbf{(A) }560 \qquad \textbf{(B) }960 \qquad \textbf{(C) }1120 \qquad \textbf{(D) }1920 \qquad \textbf{(E) }3840$
+
+### 2020-04
+Three hexagons of increasing size are shown below. Suppose the dot pattern continues so that each successive hexagon contains one more band of dots. How many dots are in the next hexagonal? $\textbf{(A) }35 \qquad \textbf{(B) }37 \qquad \textbf{(C) }39 \qquad \textbf{(D) }43 \qquad \textbf{(E) }49$ [DIAGRAM]
+
+### 2020-05
+Three fourths of a pitcher is filled with pineapple juice. The pitcher is emptied by pouring an equal amount of juice into each of $5$ cups. What percent of the total capacity of the pitcher did each cup receive? $\textbf{(A) }5 \qquad \textbf{(B) }10 \qquad \textbf{(C) }15 \qquad \textbf{(D) }20 \qquad \textbf{(E) }25$
+
+### 2020-06
+Aaron, Darren, Karen, Maren, and Sharon rode on a small train that has five cars that seat one person each. Maren sat in the last car. Aaron sat directly behind Sharon. Darren sat in one of the cars in front of Aaron. At least one person sat between Karen and Darren. Who sat in the middle car? $\textbf{(A) }\text{Aaron} \qquad \textbf{(B) }\text{Darren} \qquad \textbf{(C) }\text{Karen} \qquad \textbf{(D) }\text{Maren}\qquad \textbf{(E) }\text{Sharon}$
+
+### 2020-07
+How many integers between $2020$ and $2400$ have four distinct digits arranged in increasing order? (For example, $2347$ is one integer.) $\textbf{(A) }\text{9} \qquad \textbf{(B) }\text{10} \qquad \textbf{(C) }\text{15} \qquad \textbf{(D) }\text{21}\qquad \textbf{(E) }\text{28}$
+
+### 2020-08
+Ricardo has $2020$ coins, some of which are pennies ($1$-cent coins) and the rest of which are nickels ($5$-cent coins). He has at least one penny and at least one nickel. What is the difference in cents between the greatest possible and least possible amounts of money that Ricardo can have? $\textbf{(A) }\text{8062} \qquad \textbf{(B) }\text{8068} \qquad \textbf{(C) }\text{8072} \qquad \textbf{(D) }\text{8076}\qquad \textbf{(E) }\text{8082}$
+
+### 2020-09
+Akash's birthday cake is in the form of a $4 \times 4 \times 4$ inch cube. The cake has icing on the top and the four side faces, and no icing on the bottom. Suppose the cake is cut into $64$ smaller cubes, each measuring $1 \times 1 \times 1$ inch, as shown below. How many small pieces will have icing on exactly two sides? $\textbf{(A) }\text{12} \qquad \textbf{(B) }\text{16} \qquad \textbf{(C) }\text{18} \qquad \textbf{(D) }\text{20}\qquad \textbf{(E) }\text{24}$ [DIAGRAM]
+
+### 2020-10
+Zara has a collection of $4$ marbles: an Aggie, a Bumblebee, a Steelie, and a Tiger. She wants to display them in a row on a shelf, but does not want to put the Steelie and the Tiger next to one another. In how many ways can she do this? $\textbf{(A) }6 \qquad \textbf{(B) }8 \qquad \textbf{(C) }12 \qquad \textbf{(D) }18 \qquad \textbf{(E) }24$
+
