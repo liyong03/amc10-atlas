@@ -36,6 +36,18 @@ def balanced(s):
 
 TEXT_CMD = re.compile(r'\\(text|textrm|textbf|textit|mbox)\s*\{([^{}]*)\}')
 SPACING = re.compile(r'^(?:\s|~|\\[ ,:;!]|\\q?quad\b|\\noindent\b)*$')
+LEAD_SPACING = re.compile(r'^(?:\s|~|\\[ ,:;!]|\\q?quad\b)+')
+TRAIL_SPACING = re.compile(r'(?:\s|~|(?<!\\)\\[ ,:;!]|\\q?quad\b)+$')
+
+
+def math_piece(chunk):
+    """'\\mathrm{(B)}\\ ' -> '$\\mathrm{(B)}$ ': TeX spacing at the ends becomes one plain space
+    (plain spaces, which math ignores, are just dropped). A plain strip() would leave
+    '\\mathrm{(B)}\\', whose backslash escapes the closing $."""
+    lead, trail = LEAD_SPACING.search(chunk), TRAIL_SPACING.search(chunk)
+    core = chunk[lead.end() if lead else 0:trail.start() if trail else len(chunk)]
+    space = lambda m: ' ' if m and m.group(0).strip() else ''
+    return space(lead) + f'${core}$' + space(trail)
 
 
 def demath(inner):
@@ -51,7 +63,7 @@ def demath(inner):
         if chunk.strip():
             if not balanced(chunk):
                 return None
-            out.append(' ' if SPACING.match(chunk) else f'${chunk.strip()}$')
+            out.append(' ' if SPACING.match(chunk) else math_piece(chunk))
         elif chunk:
             out.append(' ')
         if t:
